@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_COLOSSUS">
+			<Text>太阳神巨像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FORBIDDEN_PALACE">
+			<Text>紫禁城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GLOBE_THEATER">
+			<Text>环球剧场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_LIBRARY">
+			<Text>大图书馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_LIGHTHOUSE">
+			<Text>大灯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_WALL">
+			<Text>长城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HAGIA_SOPHIA">
+			<Text>圣索菲亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HANGING_GARDEN">
+			<Text>空中花园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KREMLIN">
+			<Text>克里姆林宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LOUVRE">
+			<Text>卢浮宫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ORACLE">
+			<Text>神谕所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PORCELAIN_TOWER">
+			<Text>大报恩寺塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PYRAMID">
+			<Text>大金字塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UFFIZI">
+			<Text>乌菲兹美术馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BROADWAY">
+			<Text>百老汇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RED_FORT">
+			<Text>红堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PRORA_RESORT">
+			<Text>普洛拉度假村</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOROBUDUR">
+			<Text>婆罗浮屠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PARTHENON">
+			<Text>帕特农神庙</Text>
+		</Row>
+		<!-- NATIONAL WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_EAST_INDIA">
+			<Text>东印度公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER">
+			<Text>国家旅游中心</Text>
+		</Row>
+		<!-- BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_HOTEL">
+			<Text>旅馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY">
+			<Text>客栈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRPORT">
+			<Text>机场</Text>
+		</Row>
+		<!-- Replacement building for theatre -->
+		<Row Tag="TXT_KEY_BUILDING_THEATRE">
+			<Text>动物园</Text>
+		</Row>
+		<!-- CULTURE GUILD BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD">
+			<Text>文学家公会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD">
+			<Text>美术家公会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD">
+			<Text>音乐家公会</Text>
+		</Row>
+		<!-- UNIQUE BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_IKANDA_DESC">
+			<Text>特训军营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_DESC">
+			<Text>公爵马厩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC">
+			<Text>王室图书馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CANDI_DESC">
+			<Text>龛邸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HANSE_DESC">
+			<Text>同业公会</Text>
+		</Row>
+		<!-- LEAGUE PROJECT BUILDINGS-->
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION">
+			<Text>国际空间站</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_1">
+			<Text>向你致意，陌生人！我是蓝牙哈拉德，丹麦的统治者。你喜欢我的长船吗？它为我消灭了数以千计的敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_2">
+			<Text>嗨，小邦统治者，你见到的是伟大的蓝牙哈拉德。嗯……今天我应该给你讲述哪一段勇士传奇呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_FIRSTGREETING_3">
+			<Text>哦，很好，一个新的挑战者！蓝牙哈拉德欢迎你来访。也许哪一天我们会有机会比试一番！</Text>
+		</Row>
+		<!--Reacts to his bluff being called -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_1">
+			<Text>干得好，朋友。现在我更加地期待我们未来的对决了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_2">
+			<Text>看来你真是铁打的！我希望能尽快试试你的硬度够不够高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_WARBLUFF_3">
+			<Text>呃，看来我的顾问关于你的情报是正确的。也许我应该给他们加薪。</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_1">
+			<Text>哦，我听到你们那边有什么声音？等等……我相信那是女人们的哭声！哈，我又胜利了！</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_WINWAR_2">
+			<Text>一个好日子，一场精彩的大战，你同意吧！将来我们可以再打一场。</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_1">
+			<Text>凭着雷神索尔的大锤起誓，现在你已证明你是我的强大对手。我祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_LOSEWAR_2">
+			<Text>你带我的伤痕是一个荣誉的记号。也许有一天我会报答你的。</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_1">
+			<Text>诸神的黄昏降临了，这是我战败的唯一原因。好好享受你在世上的剩余时光吧。我在天堂等着你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_2">
+			<Text>怎么会这样？一定是邪神洛基在帮助你，因为凡人是不可能打败我的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEFEATED_3">
+			<Text>你已经证明自己是一位真正的勇士！为此我决定授予你维京首领的荣誉称号。</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_1">
+			<Text>向你致敬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_2">
+			<Text>向你致意。</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_1">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我有点感兴趣，但你必须让我更感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就快成功了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_NEUTRAL">
+			<Text>抱歉，我对此没有兴趣。</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_NEUTRAL">
+			<Text>我让我很愉快，小邦统治者。我想看看你将如何处理这份慷慨的赠礼。</Text>
+		</Row> 
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_NEUTRAL">
+			<Text>哈，你真是个有趣的小家伙。我还不知道我们刚来了新的宫廷小丑。</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_NEUTRAL">
+			<Text>我的顾问告诉我，这笔交易对你来说很不错。</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我暂时感到劫掠活动有点累人。直接把我想要的东西拿出来吧。</Text>
+		</Row>  
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_2">
+			<Text>不行。</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_2">
+			<Text>说下去。</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_3">
+			<Text>再次欢迎你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_4">
+			<Text>啊，你又来了。</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_3">
+			<Text>一路顺风，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_HAPPY">
+			<Text>同意了！</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_1">
+			<Text>虽然我很喜欢你，但我对这个提议不太满意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你只能做到这个程度吗？我的老妈的生意头脑都比你强。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_HAPPY_3">
+			<Text>嗯，就快可以了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_HAPPY">
+			<Text>哈，也许……不行。</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_HAPPY">
+			<Text>你的气质不错，很适合你的地位。</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_HAPPY">
+			<Text>哈，你倒很坚决。但还是不行。</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_HAPPY">
+			<Text>来吧，朋友。你需要表达一下对我的敬意。</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_HAPPY">
+			<Text>最终提议！即便是愚蠢的乞丐也会接受的。</Text>
+		</Row> 
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_3">
+			<Text>当然，朋友。</Text>
+		</Row> 
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_3">
+			<Text>哈，不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_4">
+			<Text>恐怕今天不行。</Text>
+		</Row> 
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_3">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_4">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_5">
+			<Text>哦，又是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_5">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_GOODBYE_6">
+			<Text>走吧。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_YES_ANGRY">
+			<Text>好吧，同意。</Text>
+		</Row> 
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_1">
+			<Text>即便这是我亲兄弟的提议，我也会毫不留情地嘲笑他。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_3">
+			<Text>哈，你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NEEDMORE_ANGRY_4">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADE_NO_ANGRY">
+			<Text>不行，我能感觉到这是邪神洛基的阴谋。</Text>
+		</Row>  
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_YES_ANGRY">
+			<Text>我赞赏你的战斗精神，但我认为你不应该欺人太甚。</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRIBUTE_NO_ANGRY">
+			<Text>该死的家伙，你让我无路可退了。</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DEMANDTRIBUTE_ANGRY">
+			<Text>我很喜欢你新近得到的东西。它们很适合用来装饰我的宫殿。</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_TRADEREQUEST_ANGRY">
+			<Text>虽然经商不太适合勇武的男子汉，但在顾问的建议下我愿意尝试一下。</Text>
+		</Row> 
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_AGREE_SHORT_4">
+			<Text>哦，很好。</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_5">
+			<Text>不行，你是个笨蛋！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_6">
+			<Text>这是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DISAGREE_SHORT_7">
+			<Text>诸神在上，不行。</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_HARALD_LETSHEARIT_5">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_1">
+			<Text>我已经厌倦了无聊的斗嘴。让我们象真正的男子汉那样在战场上一决高下吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_2">
+			<Text>我认为是时候进行一场荣耀的战斗了，你荣幸地成为我的对手！你是好样的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_DECLAREWAR_3">
+			<Text>我的手下闲得无聊，我的国库也空了。我想他们应该找人练练手，你说呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_1">
+			<Text>啊，你开始变得强硬了，还不是不可救药！让我们瞧瞧你的本领吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_2">
+			<Text>小老鼠以为自己是凶猛狮子。即便是狮子也会倒在我的剑下。来试试看吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARALD_ATTACKED_3">
+			<Text>你具有维京人的勇气！可惜我必须杀死你。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

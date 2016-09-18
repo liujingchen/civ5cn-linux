@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_zh_CN>
+	<!--General phrases -->
+	<!--Greeting (first time meeting) -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_1">
+  		<Text>啊，来自远方的客人！欢迎来到波利尼西亚群岛！我——卡美哈梅哈大王——邀请你与我同享美食与篝火。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
+	  <Text>欢迎，陌生人！我是波利尼西亚国王卡美哈梅哈。来吧，我们要举行一场盛大的草裙舞表演来庆祝这次会面。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
+	  <Text>向你致敬并祝福，朋友。我是波利尼西亚的大王卡美哈梅哈。让我们共享我们的资源，和谐相处！</Text>
+	</Row>
+	<!--Reacts to his bluff being called -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_1">
+	  <Text>以后再说吧，也许。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_2">
+	  <Text>你自己小心一点，朋友。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WARBLUFF_3">
+	  <Text>你应该听从卡胡纳斯神的教导。</Text>
+	</Row>
+	<!--Gloats after winning a war -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_1">
+	  <Text>“库乌”大神站在这场冲突中支持我方。他已经表达了他的意志——让我们结束争执，不要再触怒他了。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_WINWAR_2">
+	  <Text>你想与“波利尼西亚的慧星”作对？以后采取这种愚蠢行动之前应该先听从卡胡纳斯神的教导。</Text>
+	</Row>
+	<!--Submissive after losing a war -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_1">
+	  <Text>也许星象有误……我需要就此征询卡胡纳斯神的教导了。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LOSEWAR_2">
+	  <Text>佩利女神为你而舞蹈了。你赢得了她的垂青，朋友，但不要指望这会是永久性的。</Text>
+	</Row>
+	<!--Defeated and removed from game -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_1">
+	  <Text>星象曾经预言我将是“酋长杀手”。这个结局是我没有预料到的，但预言必然实现。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_2">
+	  <Text>我的人民将向你献上胜利的花环。也许将来我们会了解神灵为什么抛弃了我们。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEFEATED_3">
+	  <Text>“硬壳蟹”战败了，彗星的光芒暗淡了。海神卡纳洛阿将把我吞没。</Text>
+	</Row>
+	<!--Neutral -->
+	<!--Greetings (subsequent meetings) -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_1">
+	  <Text>祝你愉快。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_2">
+	  <Text>向你致意。</Text>
+	</Row>
+	<!--Goodbye -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_1">
+	  <Text>我们再会吧。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_2">
+	  <Text>再见。</Text>
+	</Row>
+	<!--Trade offer from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_NEUTRAL">
+	  <Text>当然可以！</Text>
+	</Row>
+	<!--Trade offer from player - sweeten the deal -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_1">
+	  <Text>我了解你的善意，但你应该做得更好。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_2">
+	  <Text>这还不够好。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_NEUTRAL_3">
+	  <Text>就快可以了……</Text>
+	</Row>
+	<!--Trade offer from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_NEUTRAL">
+	  <Text>我不感兴趣。</Text>
+	</Row>
+	<!--Demand for tribute from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_NEUTRAL">
+	  <Text>我希望你能更善良一点，分享财富总是好事情。</Text>
+	</Row> 
+	<!--Demand for tribute from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_NEUTRAL">
+		<Text>恐怕我没有东西可以给你。你只能空手而返了。</Text>
+	</Row>
+	<!--Requests a trade -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_NEUTRAL">
+	  <Text>也许你也会觉得这个交易不错？</Text>
+	</Row>
+	<!--Demands tribute -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_NEUTRAL">
+	  <Text>朋友，我们需要你的帮助！</Text>
+	</Row>  
+	<!--Agrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_1">
+	  <Text>好吧。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_2">
+	  <Text>很好。</Text>
+	</Row>
+	<!--Disagrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_1">
+	  <Text>不，不可能。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_2">
+	  <Text>我拒绝。</Text>
+	</Row>
+	<!--Let's hear it -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_1">
+	  <Text>我正在听着。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_2">
+	  <Text>说吧。</Text>
+	</Row>
+	<!--Happy -->
+	<!--Greetings (subsequent meetings) -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_3">
+	  <Text>欢迎，朋友。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_4">
+	  <Text>很高兴见到你。</Text>
+	</Row>
+	<!--Goodbye -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_3">
+	  <Text>再见，我的朋友。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_4">
+	  <Text>再见。</Text>
+	</Row>
+	<!--Trade offer from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_HAPPY">
+	  <Text>当然啦！这些给你！</Text>
+	</Row>
+	<!--Trade offer from player - sweeten the deal -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_1">
+	  <Text>我当你是兄弟，但亲兄弟也要明算账。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_2">
+	  <Text>你只能做到这种程度吗？</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_HAPPY_3">
+	  <Text>你就快成功了……</Text>
+	</Row>
+	<!--Trade offer from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_HAPPY">
+	  <Text>十分感谢，但是不行。</Text>
+	</Row>
+	<!--Demand for tribute from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_HAPPY">
+	  <Text>当然，不能分享财富还算什么朋友？</Text>
+	</Row>
+	<!--Demand for tribute from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_HAPPY">
+	  <Text>我看今天的事全是开玩笑！</Text>
+	</Row>
+	<!--Demands tribute -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_HAPPY">
+	  <Text>我的朋友，你还没有支付看草裙舞的费用呢。</Text>
+	</Row>
+	<!--Requests a trade -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_HAPPY">
+	  <Text>来吧，让我们的人民共享美味！</Text>
+	</Row> 
+	<!--Agrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_3">
+	  <Text>当然。</Text>
+	</Row> 
+	<!--Disagrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_3">
+	  <Text>当然不行。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_4">
+	  <Text>这不可接受。</Text>
+	</Row> 
+	<!--Let's hear it -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_3">
+	  <Text>请继续。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_4">
+	  <Text>我正在听。</Text>
+	</Row>
+	<!--Angry -->
+	<!--Greetings (subsequent meetings) -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_5">
+	  <Text>嗯？</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GREETING_6">
+	  <Text>你想要什么？</Text>
+	</Row>
+	<!--Goodbye -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_5">
+	  <Text>就这些了。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_GOODBYE_6">
+	  <Text>请走吧。</Text>
+	</Row>
+	<!--Trade offer from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_YES_ANGRY">
+	  <Text>同意。</Text>
+	</Row> 
+	<!--Trade offer from player - sweeten the deal -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_1">
+	  <Text>我不知识你为什么要欺骗我。请提高你的报价吧。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_2">
+	  <Text>很不幸，这笔交易不够好。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_3">
+	  <Text>你应该能做得更好。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NEEDMORE_ANGRY_4">
+	  <Text>就快成功了……</Text>
+	</Row>
+	<!--Trade offer from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADE_NO_ANGRY">
+	  <Text>你以为能欺骗我头脑中的卡胡纳斯神吗？这不行。</Text>
+	</Row>  
+	<!--Demand for tribute from player - yes -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_YES_ANGRY">
+	  <Text>星象表明我应该接受，虽然我不明白原因。</Text>
+	</Row>
+	<!--Demand for tribute from player - no -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRIBUTE_NO_ANGRY">
+	  <Text>如果我同意这个要求，卡胡纳斯神一定会要了我的命。</Text>
+	</Row>
+	<!--Demands tribute -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DEMANDTRIBUTE_ANGRY">
+	  <Text>请为即将举行的宴会提供一点捐助吧。</Text>
+	</Row>
+	<!--Requests a trade -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_TRADEREQUEST_ANGRY">
+	  <Text>我们过去有些分歧，但也许我们可以着手弥补。</Text>
+	</Row> 
+	<!--Agrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_AGREE_SHORT_4">
+	  <Text>哦，很好。</Text>
+	</Row>
+	<!--Disagrees -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_5">
+	  <Text>当然不行。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_6">
+	  <Text>这是不可接受的。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DISAGREE_SHORT_7">
+	  <Text>你不是在当真吧！</Text>
+	</Row>
+	<!--Let's hear it -->
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_LETSHEARIT_5">
+	  <Text>你说什么？</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_1">
+	  <Text>古老的火焰划过天际，预示着这一天的来临，虽然那时我并不知道。准备接受毁灭吧，朋友。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_2">
+	  <Text>我已经举起了“那哈大石”，然而你却仍然反对我。神的预言已经表明我要统一大地，你挡着我的路了。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_DECLAREWAR_3">
+	  <Text>“断桨法令”已经暂时取消。作为万民之父，我会为你的毁灭而哭泣的。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_1">
+	  <Text>你竟敢无视神圣的“断桨法令”？这场冲突令我感到十分悲哀，但我必须保护我的人民。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_2">
+	  <Text>现在我明白当初与你分享财富和好运是多么愚蠢了。我不会让你有机再次背叛我了。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA_ATTACKED_3">
+	  <Text>你利用我的好意，恩将仇报！现在我看清你的真面目了。</Text>
+	</Row>
+  </Language_zh_CN>
+</GameData>

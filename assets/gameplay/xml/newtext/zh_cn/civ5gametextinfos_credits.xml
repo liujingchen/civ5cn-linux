@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Text Keys are being used to iterate through the credits. Each text key
+         has 4 number values which refer to the style of that text
+                1st Number: Major Title
+                2nd Number: Minor Title
+                3rd Number: Heading
+                4th Number: Normal Entry
+         The style of the entry will be determined by the right most number that is not 0 -->
+		<Row Tag="TXT_KEY_CREDITS_1_0_0_0"> <!-- Major Title -->
+			<Text>开发公司</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_0_0_0"> <!-- Major Title -->
+			<Text>Firaxis Games</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_0_0"> <!-- Minor Title -->
+			<Text>设计团队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_1_0"> <!-- Heading-->
+			<Text>初代文明游戏创造者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_1_1"> <!-- Normal Entry -->
+			<Text>Sid Meier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_2_0">
+			<Text>主设计师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_2_1">
+			<Text>Jon Shafer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_0">
+			<Text>副设计师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_1">
+			<Text>Ed Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_2">
+			<Text>Scott Lewis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_0_0">
+			<Text>制作团队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_1_0">
+			<Text>主制作人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_1_1">
+			<Text>Dennis Shirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_2_0">
+			<Text>副制作人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_2_1">
+			<Text>Lisa Miller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_0">
+			<Text>参与制作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_1">
+			<Text>Clint McCaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_2">
+			<Text>Michelle Menard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_0">
+			<Text>文字主编</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_1">
+			<Text>Michelle Menard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_2">
+			<Text>Paul Murphy</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_0">
+			<Text>约尔根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_1">
+			<Text>梅蒂</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_2">
+			<Text>亨利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_3">
+			<Text>尼尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_4">
+			<Text>赫勒</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_5">
+			<Text>弗雷德里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_6">
+			<Text>伊达</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_7">
+			<Text>特亚</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_8">
+			<Text>菲嘉</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENMARK_9">
+			<Text>摩顿</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

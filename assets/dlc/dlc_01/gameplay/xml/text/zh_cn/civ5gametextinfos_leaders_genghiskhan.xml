@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_GENGHIS_KHAN">
+			<Text>铁木真</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

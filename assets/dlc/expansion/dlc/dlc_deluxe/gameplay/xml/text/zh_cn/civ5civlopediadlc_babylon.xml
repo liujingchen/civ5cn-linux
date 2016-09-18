@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with Programmer's Notepad 2 by Michelle Menard (Firaxis Games) -->
+<!-- Babylon DLC Civilopedia Entries -->
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TITLE">
+			<Text>巴比伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_2">
+			<Text>地形与气候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_3">
+			<Text>古巴比伦帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_4">
+			<Text>文字记录和数学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_5">
+			<Text>混乱时期与屠杀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_6">
+			<Text>新巴比伦帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_7">
+			<Text>尼布甲尼撒二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_8">
+			<Text>巴比伦的灭亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_HEADING_9">
+			<Text>结论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_STATBOX">
+			<Text>[NEWLINE]        领袖：尼布甲尼撒二世[NEWLINE]        特色单位：巴比伦弓手[NEWLINE]        特色建筑：巴比伦城墙[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_1">
+			<Text>巴比伦与其说是一个新文明，不如说是（位于现今伊拉克南部地区的）“新月沃土”之上以乌尔城为中心的原苏美尔文明的复兴。巴比伦是由许多城邦联合组成的，并以它们的首都巴比伦城的名字命名整个国家。（帝国建立之前，巴比伦城至少在公元前24世纪就已存在了。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_2">
+			<Text>巴比伦位于“新月沃土”——即沿底格里斯河与幼发拉底河谷的肥沃土地，向西延伸到地中海直至现今的以色列。新月沃土不但拥有两条古老河流带来的灌溉条件，还是三块大陆——非洲、亚洲和欧洲——之间的交通要冲，生长着来自三地的各种昆虫、植物和野兽。使得这一地区具有世界其他地方无可比拟的生物多样性。也意味着居住在这里的人们能够尝试种植和驯养各种植物和动物，这就可以解释为什么这一地区的人类文明发展得如此快速。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_3">
+			<Text>公元前1728年，在汉谟拉比的统治下，巴比伦城和整个巴比伦地区开始从最初的混乱无序状态发展成为当地文化、贸易和宗教的中心。作为古代七大奇观之一——空中花园的所在地，巴比伦成了古代世界的明珠。汉谟拉比是统一的巴比伦第一个为今人所知的统治者，同时也是它最伟大的立法者。“汉谟拉比法典”逐条列示了各种犯罪行为及其应受的惩罚。国民的行为是否有罪不再由法官和贵族个人随意决定。巴比伦人的法典是如此完备，以致于其中规定的法律和政府体制在巴比伦帝国存在的整整1200年间都罕有变动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_4">
+			<Text>与其所继承的苏美尔帝国很相似，巴比伦也是一个狂热的资料记录者的国度。这种状况从汉谟拉比开始，一直持续到帝国在居鲁士和强大的波斯帝国手中解体为止。每一笔财务帐目、每一次法庭判决、每一份合同，几乎每一个可以被写下来的事情——都被记在了泥板上。由于有着和日常生活中差不多每个方面都相对应的法律，极大量的资料被记录了下来，而且其中很多已经在现代被发现、被挖掘了出来。研究人员甚至还找到了一些和现代的放大镜很相似的光学仪器，那些资料记录者可以用它们写出更细小的楔形文字，这样就可以在一块泥板上记下更多的信息了。[NEWLINE][NEWLINE]尽管政权多次变动，巴比伦人的教育水平却异常地达到了很高的程度。一些科技上的成就，比如六十进制计数法的创造，一直到今天仍然被使用着。一小时有六十分钟，一分钟有六十秒。事实上，现代的通行计时法就是巴比伦计时法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_5">
+			<Text>公元前1750年汉谟拉比去世后，帝国的力量与影响开始衰退。赫梯人的入侵削弱了城市的防御，随后巴比伦被来自今伊朗高原的加喜特人所征服（公元前1600年左右）。加喜特人统治了巴比伦500年，并将城市改名为卡兰杜尼亚什。[NEWLINE][NEWLINE]公元前1234年，亚述国王图库尔提-尼努尔塔一世短暂征服了这座城市，但加喜特人最终恢复了独立，随即依拉密特人又在公元前1158年将其攻陷。此后巴比伦人重新控制了自己的城市（也许因为依拉密特人已经拿走了所有他们需要的东西）。公元前1124年巴比伦国王尼布甲尼撒一世攻陷了依拉密特人的城市苏撒以报复其过去对巴比伦的入侵。但到公元前1000时，巴比伦再次受到复兴的亚述人压迫。巴比伦在或多或少的程度上由亚述人控制直到公元前627年。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_6">
+			<Text>公元前627年，巴比伦人发动了一场起义成功脱离了亚述的统治。起义的领导者是那波帕拉萨，他统治巴比伦大约二十年，并将王位传给他著名的儿子。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_7">
+			<Text>那波帕拉萨的儿子尼布甲尼撒二世在公元前605至公元前561年间统治巴比伦。起初他作为一名军事领袖崭露头角，跟随他的父亲在亚述作战，后来又独立率军进攻埃及，在卡切米什摧毁了埃及军队，为巴比伦夺取了整个叙利亚。[NEWLINE][NEWLINE]尼布甲尼撒花大力气建设巴比伦。在他统治下巴比伦文明得到了复兴。尼布甲尼撒启动了一系列城市工程项目，重建了古老的神庙和建筑，扩展了城防设施等等。他还建造了巴比伦空中花园。他雇佣外国工人从事大部分的体力劳动，这使得城市人口迅速增长。尼布甲尼撒于公元前561年去世。有关他的详细信息可以参看他的文明百科词条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_8">
+			<Text>尼布甲尼撒之后的统治者都比较平庸，不到三十年时间内巴比伦的国力和声望迅速下降。据说公元前539年波斯国王居鲁士二世入侵时，巴比伦城未经抵抗就陷落了。此后巴比伦在波斯统治下直到公元前331年被亚历山大大帝所占领，亚历山大去世后又归属于塞琉西王朝。从此之后，巴比伦几乎完全毁灭了，只剩下一片废墟，等待着考古学家去破解她的秘密。公元2003年美国入侵并占领伊拉克后，又有许多巴比伦的文物遭到破坏和损毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_TEXT_9">
+			<Text>巴比伦曾在全世界的法律制度发展进程中起了十分重要的作用。“汉谟拉比法典”的创立，还有在他之后无论是同族的还是异族的继任者们的热忱，维护了那些法律的推行，并为整个历史作出了示范，告诉人们，一个有着良好组织的政府体制能使一个国家变得多么的成功和富裕。[NEWLINE][NEWLINE]巴比伦后来的历史提醒我们，没有什么东西能够永存，最伟大的帝国总有一天也会成为下一个帝国的战车车轮或坦克履带之下的尘土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_FACTOID_HEADING">
+			<Text>巴比伦逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_FACTOID_TEXT">
+			<Text>在罗德岛的太阳神巨像建成之前，巴比伦的伊斯塔尔门曾经被列为古代世界七大奇观之一。伊斯塔尔门是巴比伦内城的第八座城门，既是一个交通要径，也是供奉巴比伦人的性爱与生育女神伊斯塔尔的祭坛。[NEWLINE][NEWLINE]著名的巴比伦城墙也一度被列为古代世界七大奇观之一。据古希腊历史学家希罗多德记载，巴比伦城墙高300英尺，厚80英尺，长56英里，但现代考古学家认为这个记载并不可靠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_HEADING">
+			<Text>巴比伦城墙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_TEXT">
+			<Text>巴比伦城墙曾列名于安提帕特的“古代世界七大奇观”清单，这道城墙围绕着巴比伦城，防御来自各个方向的敌人攻击，甚至横跨了穿城而过的幼发拉底河。巴比伦城的外墙长10英里，厚25英尺，据说高达320英尺。在其内还有数道较小的城墙，外墙陷落时能够建立新的防线。城墙沿线约有250座高塔，可以作为瞭望台并供训练有素的巴比伦弓手驻守。城墙在当时的围城技术条件下是无法攻破的，在河中装有巨大的金属门以防备水下渗透者，另外八座巨大的城门提供陆路交通（其中最著名的一座是伊斯塔尔门）。这道城墙有效保护城市将近一百年。[NEWLINE][NEWLINE]无人能有办法突破这样的城防——直到公元前539年，居鲁士大帝实施了一个计策：将幼发拉底河水从上游改道以降低水位，直到人可以趟水过河。他的军队乘着夜色从河上的金属门之下越过防线占领了城市。虽然城墙仍然坚不可摧，但是一个人却运用智慧征服了她。[NEWLINE][NEWLINE]古老的巴比伦城墙至今有部分仍然矗立，证明着她的坚固。1983年，萨达姆· 侯塞因启动了古城重建项目，包括城墙和伊斯塔尔门。后来该项目被中止，但伊拉克人希望有朝一日恢复重建，再现巴比伦城昔日的辉煌。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_HEADING">
+			<Text>巴比伦弓手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_TEXT">
+			<Text>我们今天能够相当精确地描绘巴比伦弓手的形象，这要感谢一幅漂亮的亚述镶嵌画，表现他们的军队正在投入战斗。巴比伦弓手穿着彩色的长袍，携带四英尺长的弓，身后背着一个箭袋。弓手还带着长矛或短剑，无疑是为了当敌军抵近时保护自己。[NEWLINE][NEWLINE]另外一些士兵拿着一人高的盾牌配合弓手作战，构成一座移动的堡垒。弓手部队是巴比伦军队的主力，相比骑兵更容易训练和补充。弓手还负责驻守著名的巴比伦城墙沿线的众多高塔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TITLES_1">
+			<Text>尼布甲尼撒二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_2">
+			<Text>早期经历</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_3">
+			<Text>掌握政权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_4">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_5">
+			<Text>内政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_6">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_LIVED">
+			<Text>约前634-前562</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_NAME">
+			<Text>尼布甲尼撒二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_SUBTITLE">
+			<Text>巴比伦领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_1">
+			<Text>尼布甲尼撒二世是巴比伦国王，统治期大约43年（前605-前562）。他最著名的事迹是其一系列军事征服和对巴比伦城的重建。尼布甲尼撒二世还因圣经记载他征服犹太王国并迫使以色列人迁往巴比伦而闻名世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_2">
+			<Text>尼布甲尼撒是巴比伦迦勒底王朝的创立者那波帕拉萨的长子。起初他在父亲麾下参与了多场军事行动，公元前606年他指挥军队在在卡切米什摧毁了埃及军队，为巴比伦夺取了整个叙利亚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_3">
+			<Text>当公元前605年他父亲去世后，尼布甲尼撒回到巴比伦取得王位。不久他又继续军事行动，征服了包括犹太王国在内的一系列小国。公元前600年他继续发动扩张，但被埃及军队击败。犹太和其他一些被征服的小国乘机发动叛乱。[NEWLINE][NEWLINE]尼布甲尼撒花费两年时间重建他的军队，公元前598年他卷土重来，公元前597年他占领了耶路撒冷，废黜犹太国王约雅斤，将他和其他显贵带往巴比伦囚禁（应该是为了防止犹太人再次叛乱）。他在统治后期继续军事行动，成功消灭了地中海东岸、小亚细亚和中东地区的许多强权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_4">
+			<Text>尼布甲尼撒不仅是一位军事领袖，他在外交领域也十分活跃，同邻近王国交换了许多使节。他曾经派遣一位使节调停小亚细亚地区的米底和吕底亚之间的冲突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_5">
+			<Text>在戎马生涯之外，尼布甲尼撒的大部分精力都用于重建巴比伦城，强化其防御体系。他重建造了许多神庙，铺设了道路，开凿了运河，并沿城墙修建了一道护城河。他还建造了巴比伦的空中花园，传说那是他是为了取悦思念家乡米底的青山的王后而建造的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_6">
+			<Text>虽然尼布甲尼撒征服犹太王国并囚禁了以色列人，但是圣经中还是对他有所称赞。据说他保护了受迫害的犹太先知和市民，先知耶利米显然相信尼布甲尼撒是受神指派来惩罚作恶者的。[NEWLINE][NEWLINE]尼布甲尼撒于公元前562年在巴比伦去世，他赢得了人们长久的纪念。他作为一名成功的军事领袖大大拓展了帝国的疆土，并加强和改造了首都的设施，对待他的臣民也很不错。他被称为“尼布甲尼撒大帝”是当之无愧的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_HEADING">
+			<Text>尼布甲尼撒二世逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_TEXT">
+			<Text>“尼布甲尼撒”这个名字在阿卡德语中的原意可以翻译为“纳布神啊，保佑我的长子吧”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_HELP">
+			<Text>游戏中最早的远程单位之一，巴比伦特色单位，替代弓手。该单位相比弓手能够更好地防御近战攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_INFO">
+			<Text>巴比伦弓手是远古时代远程步兵单位，能够远距离杀伤敌军。该巴比伦特色单位相比弓手能够更好地防御近战攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_BOWMAN_STRATEGY">
+	<Text>巴比伦弓手是巴比伦特色单位，替代弓手。该单位相比弓手攻防战斗力更强，能够支援一线作战。巴比伦弓手更高的战斗力能够避免其被轻易压制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_INFO">
+			<Text>巴比伦城墙提升城市远程攻击的杀伤力及城市的防御力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_STRATEGY">
+			<Text>巴比伦城墙是巴比伦特色建筑，替代城墙。与普通城墙相比，巴比伦城墙不但能够显著增强城市防御力，还能使城市在进行远程攻击时的杀伤力更大。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

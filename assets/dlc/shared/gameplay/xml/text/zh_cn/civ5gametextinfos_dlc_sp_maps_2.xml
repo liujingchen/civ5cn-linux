@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_TITLE">
+		<Text>纷乱大陆</Text>
+	</Row>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_2_DESC">
+		<Text>纷乱大陆地图包</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA">
+		<Text>非洲</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DUEL">
+		<Text>非洲：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_SMALL">
+		<Text>非洲：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_STANDARD">
+		<Text>非洲：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_LARGE">
+		<Text>非洲：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AFRICA_DESC">
+		<Text>随机生成的非洲地图，但保留部分关键地貌。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED">
+		<Text>解冻的南极</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ANTARCTICA_THAWED_DESC">
+		<Text>随机生成的南极洲幻想版，只保留部分冰封地带。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH">
+		<Text>地球</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_TINY">
+		<Text>地球：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DUEL">
+		<Text>地球：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_SMALL">
+		<Text>地球：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_STANDARD">
+		<Text>地球：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_LARGE">
+		<Text>地球：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_HUGE">
+		<Text>地球：极大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EARTH_DESC">
+		<Text>半随机的全球地图，保留真实的陆地轮廓，随机生成地形地貌。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA">
+		<Text>东亚</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_DESC">
+		<Text>半随机的东亚地图，保留真实的陆地轮廓与喜马拉雅山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL">
+		<Text>东亚：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_SMALL_DESC">
+		<Text>半随机的较小尺寸东亚地图，保留真实的陆地轮廓与喜马拉雅山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE">
+		<Text>东亚：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_EAST_ASIA_LARGE_DESC">
+		<Text>半随机的较大尺寸东亚地图，保留真实的陆地轮廓与喜马拉雅山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE">
+		<Text>西欧</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_DESC">
+		<Text>半随机的西欧地图，保留真实的陆地轮廓与主要山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL">
+		<Text>西欧：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_SMALL_DESC">
+		<Text>半随机的较小尺寸西欧地图，保留真实的陆地轮廓与主要山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD">
+		<Text>西欧：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_WESTERN_EUROPE_STANDARD_DESC">
+		<Text>半随机的标准尺寸西欧地图，保留真实的陆地轮廓与主要山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA">
+		<Text>大洋洲</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_OCEANIA_DESC">
+		<Text>类似于群岛地图，但带有更多大陆风格，破碎的大陆和小群岛分布于大片海域之中。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS">
+		<Text>小块大陆加强版</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SMALL_CONT_PLUS_DESC">
+		<Text>更新的小块大陆地图，添加了分散的岛链，大陆地形更为合理。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA">
+		<Text>北美洲</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DUEL">
+		<Text>北美洲：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_TINY">
+		<Text>北美洲：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_SMALL">
+		<Text>北美洲：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_STANDARD">
+		<Text>北美洲：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_LARGE">
+		<Text>北美洲：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_HUGE">
+		<Text>北美洲：极大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_NORTH_AMERICA_DESC">
+		<Text>南至哥伦比亚北抵阿拉斯加的半随机北美地图，保留真实的陆地轮廓与北方冻土区，随机生成其他地形地貌。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA">
+		<Text>南美洲</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_TINY">
+		<Text>南美洲：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_STANDARD">
+		<Text>南美洲：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SOUTH_AMERICA_DESC">
+		<Text>半随机的南美地图，保留真实的陆地轮廓，随机生成其他地形地貌，山脉走向也不确定。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST">
+		<Text>中东</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DUEL">
+		<Text>中东：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_TINY">
+		<Text>中东：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_SMALL">
+		<Text>中东：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_STANDARD">
+		<Text>中东：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_LARGE">
+		<Text>中东：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_MIDDLE_EAST_DESC">
+		<Text>涵盖黑海和阿拉伯海的半随机中东地图，保留真实的陆地轮廓，随机生成其他地形地貌。</Text>
+	</Row>
+  </Language_zh_CN>
+</GameData>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_FRENCH_MUSKETEER">
+			<Text>皇家火枪手</Text>
+		</Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_TREASURE_HEADING">
+      <Text>财宝</Text>
+    </Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_INCAN_SLINGER">
+			<Text>掷石手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_TERCIO">
+			<Text>大方阵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_SPANISH_CONQUISTADOR">
+			<Text>征服者</Text>
+		</Row>
+		<!-- Admirals-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLAUVELT">
+			<Text>亚伯拉罕·布劳维特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_BLOCK">
+			<Text>阿德里安·布洛克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_PORTUGUESE_EXPLORER">
+			<Text>佩德罗·卡布拉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CABRILLO">
+			<Text>胡安·卡布里欧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_COELHO">
+			<Text>贡萨洛·科尔贺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_CORTE_REAL">
+			<Text>米格尔·科蒂雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_DE_WEERT">
+			<Text>塞巴尔·德·威特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LAVRADOR">
+			<Text>若奥·拉弗拉多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_LE_MARIE">
+			<Text>雅各布·勒梅尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_MARTINS">
+			<Text>阿尔瓦多·马丁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_FIRST_DUTCH_EXPLORER">
+			<Text>奥利维尔·范努尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_ADMIRAL_VAN_RYEN">
+			<Text>杨·范莱恩</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS">
+			<Text>科曼切骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MYSTIC_WARRIOR">
+			<Text>神秘战士</Text>
+		</Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_MAYAN_ATLATLIST">
+      <Text>掷矛兵</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNIT_PRIVATEER">
+      <Text>私掠舰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_LEON">
+      <Text>德·雷昂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_NARVAEZ">
+      <Text>纳尔瓦埃斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_VACA">
+      <Text>德·巴卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_MAGELLAN">
+      <Text>麦哲伦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_DE_SOTO">
+      <Text>德·索托</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ULLOA">
+      <Text>乌略亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_VESPUCCI">
+      <Text>韦斯普奇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CARTIER">
+      <Text>卡蒂亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_ROBERVAL">
+      <Text>罗贝瓦勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHAMPLAIN">
+      <Text>尚普兰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_RUT">
+      <Text>卢特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_CHANCELLOR">
+      <Text>钱瑟勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_WILLOUGHBY">
+      <Text>威乐比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_GRENVILLE">
+      <Text>格伦维尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CARAVEL_HUDSON">
+      <Text>哈德逊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORTES">
+      <Text>科尔特斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORDOVA">
+      <Text>科尔多瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_PIZARRO">
+      <Text>皮萨罗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_ORELLANA">
+      <Text>奥雷亚纳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_CORONADO">
+      <Text>科罗纳多</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MONTEJO">
+      <Text>蒙特霍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_BALBOA">
+      <Text>巴尔博亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_VILLEGAGNON">
+      <Text>维盖尼翁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_LAUDONNIERRE">
+      <Text>劳德尼尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_RIBAULT">
+      <Text>里博</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_DEVEREUX">
+      <Text>德弗罗</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_NORREYS">
+      <Text>诺瑞斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_MOUNTJOY">
+      <Text>蒙乔伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_SMITH">
+      <Text>史密斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CONQUISTADOR_WINTHROP">
+      <Text>温斯洛普</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_MENENDEZ">
+      <Text>梅南德斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_SANTA_CRUZ">
+      <Text>圣克鲁兹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FLEURY">
+      <Text>弗勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_CLERC">
+      <Text>勒克莱尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_LE_TESTU">
+      <Text>勒提斯图</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DE_SORES">
+      <Text>迪索斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_DRAKE">
+      <Text>德雷克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_RALEIGH">
+      <Text>罗利</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_HAWKINS">
+      <Text>霍金斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_CAVENDISH">
+      <Text>卡文迪许</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_FROBISHER">
+      <Text>弗罗比舍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PRIVATEER_GILBERT">
+      <Text>吉尔伯特</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

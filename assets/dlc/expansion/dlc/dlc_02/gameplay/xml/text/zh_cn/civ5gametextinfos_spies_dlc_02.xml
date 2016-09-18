@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_0">
+			<Text>阿玛鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_1">
+			<Text>阿皮楚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_2">
+			<Text>帕利亚皮丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_3">
+			<Text>普马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_4">
+			<Text>昆提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_5">
+			<Text>苏云图</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_6">
+			<Text>乌图伦楚</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_7">
+			<Text>乌图兰楚</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_8">
+			<Text>普鲁图</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INCA_9">
+			<Text>欧兹科洛</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_0">
+			<Text>罗德里格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_1">
+			<Text>埃斯美拉达</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_2">
+			<Text>雷昂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_3">
+			<Text>玛蒂尔达</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_4">
+			<Text>拉莫娜</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_5">
+			<Text>“X先生”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_6">
+			<Text>托波利诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_7">
+			<Text>“腹蛇”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_8">
+			<Text>加西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SPAIN_9">
+			<Text>“灰狼”</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

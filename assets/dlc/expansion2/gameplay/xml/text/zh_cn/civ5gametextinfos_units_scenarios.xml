@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- American Civl War -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION">
+			<Text>联邦步兵师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS">
+			<Text>联邦步兵军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY">
+			<Text>联邦骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY">
+			<Text>联邦马枪骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON">
+			<Text>联邦大炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON">
+			<Text>联邦线膛大炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE">
+			<Text>巡航舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR">
+			<Text>莫尼特铁甲舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION">
+			<Text>联盟步兵师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS">
+			<Text>联盟步兵军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY">
+			<Text>联盟骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY">
+			<Text>联盟马枪骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON">
+			<Text>联盟大炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON">
+			<Text>联盟线膛大炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER">
+			<Text>封锁突破船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD">
+			<Text>铁甲舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN">
+			<Text>多管机枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_WORKER">
+			<Text>军事工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_STRATEGY">
+			<Text>南北战争时期的普通近战单位。研发军事科学后可花费兵源和金钱将步兵师升级为步兵军，以提升单位火力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_STRATEGY">
+			<Text>南北战争时期的最强近战单位，必须由步兵师升级而成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_STRATEGY">
+			<Text>南北战争时期的普通骑乘单位。研发连发来复枪后可以将骑兵升级为马枪骑兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_STRATEGY">
+			<Text>南北战争时期的最强骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_STRATEGY">
+			<Text>南北战争时期的普通炮兵单位。能在近距离有效杀伤敌方单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_STRATEGY">
+			<Text>南北战争时期的先进炮兵单位，射程达3格。擅长压制敌方炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_STRATEGY">
+			<Text>南北战争时期的普通近战单位。研发军事科学后可花费兵源和金钱将步兵师升级为步兵军，以提升单位火力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_STRATEGY">
+			<Text>南北战争时期的最强近战单位，必须由步兵师升级而成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_STRATEGY">
+			<Text>南北战争时期的普通骑乘单位。研发连发线膛枪后可以将骑兵升级为马枪骑兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_STRATEGY">
+			<Text>南北战争时期的最强骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_STRATEGY">
+			<Text>南北战争时期的普通炮兵单位。能在近距离有效杀伤敌方单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_STRATEGY">
+			<Text>南北战争时期的先进炮兵单位，射程达3格。擅长压制敌方炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_STRATEGY">
+			<Text>普通海军单位，南北战争时期已属过时。仅联邦军可建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_STRATEGY">
+			<Text>仅联盟军可建造。抵达地图东界时可获得金钱奖励（单位将自动解散）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_STRATEGY">
+			<Text>仅联盟军可建造。速度慢但火力强，能够轻易击败联邦军的巡航舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_STRATEGY">
+			<Text>南北战争后期出现的远程单位。擅长压制近战攻击，并能杀伤邻近单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_STRATEGY">
+			<Text>仅联邦军可建造。能够轻易击败联盟军的封锁突破船，并能有效对抗联盟军的铁甲舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_DIVISION_HELP">
+			<Text>南北战争早期的一线近战单位，此后南北双方都开始采用更大的编制（步兵军）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_INFANTRY_CORPS_HELP">
+			<Text>南北战争时期主要的一线近战单位，是南北双方军队开始采用的更大编制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CAVALRY_HELP">
+			<Text>南北战争时期主要的骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CARBINE_CAVALRY_HELP">
+			<Text>强大的骑乘单位，相比普通骑兵战斗力加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_CANNON_HELP">
+			<Text>南北战争时期的普通炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_UNION_RIFLED_CANNON_HELP">
+			<Text>射程更远的先进炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_DIVISION_HELP">
+			<Text>南北战争早期的一线近战单位，此后南北双方都开始采用更大的编制（步兵军）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_INFANTRY_CORPS_HELP">
+			<Text>南北战争时期主要的一线近战单位，是南北双方军队开始采用的更大编制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CAVALRY_HELP">
+			<Text>南北战争时期主要的骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CARBINE_CAVALRY_HELP">
+			<Text>强大的骑乘单位，相比普通骑兵战斗力加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_CANNON_HELP">
+			<Text>南北战争时期的普通炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CONFED_RIFLED_CANNON_HELP">
+			<Text>射程更远的先进炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_FRIGATE_HELP">
+			<Text>联邦军的普通海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_HELP">
+			<Text>联盟军特有的海军单位，能够用于获取金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_HELP">
+			<Text>联盟军特有的海军单位，擅长对付联邦军的巡航舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_GATLING_GUN_HELP">
+			<Text>南北战争后期出现的新式武器，擅长杀伤敌方有生力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_HELP">
+			<Text>联邦军特有的海军单位，能有效对抗联盟军的铁甲舰。</Text>
+		</Row>
+		<!-- PROMOTIONS -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN">
+			<Text>未经战火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_CONFEDERATE_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-20%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]单位完成首次战斗后将获得一位随机产生的联盟军将领的指挥（即一项晋升）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GREEN_UNION_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-20%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]单位完成首次战斗后将获得一位随机产生的联邦军将领的指挥（即一项晋升）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON">
+			<Text>理查德·赫伦·安德森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_HILL">
+			<Text>安布罗斯·鲍威尔·希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON">
+			<Text>布什罗德·约翰逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE">
+			<Text>约翰·布雷肯里奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL">
+			<Text>丹尼尔·哈维·希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_E_JOHNSON">
+			<Text>爱德华·约翰逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EARLY">
+			<Text>具伯·尔利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EWELL">
+			<Text>理查·尤尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FIELD">
+			<Text>查尔斯·菲尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GORDON">
+			<Text>约翰·戈登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HETH">
+			<Text>亨利·赫思</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE">
+			<Text>罗伯特·霍克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES">
+			<Text>西奥菲卢斯·霍尔姆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOOD">
+			<Text>约翰·贝尔·胡德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUGER">
+			<Text>本杰明·哈格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_JACKSON">
+			<Text>托马斯·杰克逊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_LONGSTREET">
+			<Text>詹姆斯·隆史崔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAGRUDER">
+			<Text>约翰·马格鲁德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAHONE">
+			<Text>威廉·马霍恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MCLAWS">
+			<Text>拉法叶·麦克罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PICKETT">
+			<Text>乔治·皮克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_RODES">
+			<Text>罗伯特·罗德斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WHITING">
+			<Text>崔斯·威汀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WINDER">
+			<Text>查尔斯·温德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WRIGHT">
+			<Text>安布罗斯·赖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_ANDERSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在森林中移动力加倍。[ENDCOLOR][NEWLINE][NEWLINE]他首次领军即赢得“斯巴萨维利亚之争”，先于联邦军抢占了关键路口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_HILL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在草原中移动力加倍。[ENDCOLOR][NEWLINE][NEWLINE]“轻装师希尔”因其在一日之内自哈珀渡口急行军17英里抵达萨普斯堡援救联盟军而成名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_B_JOHNSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御城市时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在弹坑战役中他指挥的南卡罗莱纳战士表现出色，俘敌130名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BRECKINRIDGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御开阔地形时+15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]1860年总统大选时曾作为林肯的竞争对手。他指挥的师击退了联邦军对冷港的强攻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_D_HILL_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]失去陆军统帅加成。[ENDCOLOR][NEWLINE][NEWLINE]他是一位出色的将领，可惜时常与其上司发生冲突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_E_JOHNSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御森林地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他指挥的师在莽原战役中多次击退联邦军的进攻，为此李将军曾考虑将其提升为军长。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EARLY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在敌方领土上每回合+10生命力。[ENDCOLOR][NEWLINE][NEWLINE]他在战争后期率军突袭防御空虚的华盛顿，差点获得成功。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_EWELL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在中立领土上每回合+10生命力。[ENDCOLOR][NEWLINE][NEWLINE]他曾率领联盟军进入宾夕法尼亚州，在葛底斯堡战役期间差点占领哈里斯堡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FIELD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击开阔地形时+15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在深底战役中率军发动猛烈反击，确保了里士满的安全。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GORDON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击森林地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在莽原战役中成功进行了一次侧翼攻击，一度改变了战役的形势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HETH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+1视野。[ENDCOLOR][NEWLINE][NEWLINE]他因率领侦察部队进入葛底斯堡搜寻丢弃的靴子并引发这场决定性的伟大战役而扬名于世。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOKE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击城市时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在攻击北卡罗莱纳州普利茅斯城的战役中俘获了三千名敌军，这是联盟军在南北战争中的最后一场胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOLMES_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1移动力。[ENDCOLOR][NEWLINE][NEWLINE]南北战争时他已年近六十并饱受记忆力减退的困扰，主要负责指挥海滨守卫部队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOOD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]每回合+1攻击次数。[ENDCOLOR][NEWLINE][NEWLINE]他也许是联盟军中最好斗的将领，但这种专注于进攻的风格最终导致战争后期田纳西军团的毁灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUGER_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]防御城市时-30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在半岛战役中提前撤离了诺福克城，导致联盟军队被迫凿沉弗吉尼亚号铁甲舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_JACKSON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]夹击加成+50%。[ENDCOLOR][NEWLINE][NEWLINE]他在第一次公牛河战役中赢得了“石墙”的绰号，并在第二次公牛河战役和钱斯勒斯维尔战役中率军发起决定性的侧翼攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_LONGSTREET_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击复杂地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他的最大功绩是在莽原战役期间指挥联盟军在密林地带发动的反击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAGRUDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御沼泽地形时+100%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在防御弗吉尼亚半岛沼泽地带时成功地使联邦军误以为他麾下的兵力十分庞大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MAHONE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在首都区域+30%战斗力，离开首都时加成减少。[ENDCOLOR][NEWLINE][NEWLINE]他是弹坑战役中的英雄，他使联邦军挖掘地道穿越彼得斯堡防御圈的尝试遭到了惨败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MCLAWS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御丘陵地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在弗雷德里克斯堡战役中激励部队奋勇战斗坚守玛莉高地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PICKETT_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]攻击开阔地形时-15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在葛底斯堡战役中指挥了所谓的“皮克特冲锋”，导致联盟军最终战败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_RODES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]夹击加成+30%。[ENDCOLOR][NEWLINE][NEWLINE]他在钱斯勒斯维尔战役中指挥了第一波侧翼进攻，协助杰克逊将军成就了一段传奇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WHITING_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]对炮兵+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]南北战争中他率领的人马最先俘获联邦军的炮队（第一次公牛河战役期间俘获里基特的炮队）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WINDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+1移动力。[ENDCOLOR][NEWLINE][NEWLINE]他是杰克逊将军麾下精锐“步行骑兵”的指挥官，这支部队以超长距离的快速行军而著称。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WRIGHT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]能以海运状态进入水域。[ENDCOLOR][NEWLINE][NEWLINE]他曾率军增援北卡罗莱那州罗亚诺克岛以抵御联邦军的进攻，这是联盟军少有的登陆作战行动之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL">
+			<Text>弗朗兹·西格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS">
+			<Text>纳撒尼尔·班克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS">
+			<Text>约翰·雷诺兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER">
+			<Text>埃德温·萨姆纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN">
+			<Text>塞缪尔·海因特泽尔曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PORTER">
+			<Text>菲兹·约翰·波特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FRANKLIN">
+			<Text>威廉·富兰克林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_COUCH">
+			<Text>达利乌斯·考奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MANSFIELD">
+			<Text>约瑟夫·曼斯菲尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_WILLIAMS">
+			<Text>奥弗斯·威廉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SEDGWICK">
+			<Text>约翰·塞德维克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY">
+			<Text>阿布纳·道布尔迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK">
+			<Text>温菲尔德·汉考克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES">
+			<Text>丹尼尔·西克尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD">
+			<Text>奥利佛·霍华德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM">
+			<Text>亨利·斯洛库姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN">
+			<Text>高维纽尔·瓦伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH">
+			<Text>威廉·史密斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUMPHREYS">
+			<Text>安德鲁·汉弗莱斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_H_WRIGHT">
+			<Text>霍雷肖·赖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GIBBON">
+			<Text>约翰·吉本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PATTERSON">
+			<Text>罗伯特·帕特森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN">
+			<Text>约书亚·张伯伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER">
+			<Text>罗伯特·波特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_UPTON">
+			<Text>艾默利·阿普顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SIGEL_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]失去陆军统帅加成。[ENDCOLOR][NEWLINE][NEWLINE]因受到德国移民新兵欢迎而获得第十一军指挥权。但总被置于次要战区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BANKS_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1视野。[ENDCOLOR][NEWLINE][NEWLINE]他在1862年谢南多厄河谷战役期间完全被“石墙”杰克逊的高超策略压倒而战败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_REYNOLDS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御复杂地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在第二次公牛河战役期间激励部队奋勇战斗坚守亨利·豪斯丘陵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SUMNER_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]防御开阔地形时-15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在安提塔姆和弗雷德里克斯堡战役中他指挥的军团均遭受了惨重的损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HEINTZELMAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在首都区域时+30%战斗力，离开首都时加成减少。[ENDCOLOR][NEWLINE][NEWLINE]由于在野战中表现平庸，他被转派至华盛顿负责首都的防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PORTER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御沼泽地形时+50%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在加尼斯米尔战役中以一个军的兵力防守联邦军右翼，击退了占据数量优势的敌军进攻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_FRANKLIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]消除登陆或跨河攻击时的战斗力惩罚。[ENDCOLOR][NEWLINE][NEWLINE]他负责指挥经过专门两栖作战训练的联邦军部队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_COUCH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御城市时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在葛底斯堡战役期间率领缺乏训练的民兵成功守住了哈里斯堡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MANSFIELD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击森林地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在安提塔姆战役中率军对西森林的敌军发动大胆进攻并在战斗中阵亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_A_WILLIAMS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+2视野。[ENDCOLOR][NEWLINE][NEWLINE]他的部队在包裹三支雪茄的纸片上发现了著名的“191号特别命令”（李将军进攻马里兰州的详细计划）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SEDGWICK_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]对抗步兵时-15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他在宣称联盟军“在这个距离上连一只大象都打不中”后被一名神枪手射杀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_DOUBLEDAY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御开阔地形时+15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]虽然他的声名主要来自发明了棒球，但他也是一名强有力的指挥官，在葛底斯堡战役中表现出众。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HANCOCK_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御开阔地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]葛底斯堡战役期间在联队指挥官约翰·雷诺兹阵亡后，他接手组织联邦军沿墓地山脊建立防线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SICKLES_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]防御开阔地形时-15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]葛底斯堡战役期间他指挥一个军团挺进桃园，导致自己的部队面临遭受三面夹击的危险境地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HOWARD_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]防御复杂地形时-15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在1863年钱斯勒斯维尔战役和葛底斯堡战役中他的军团均被击溃。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SLOCUM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击城市时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]虽然因进军迟缓而获得了“来得慢”的绰号，他最终还是完成了谢尔曼进攻亚特亚大的命令，占领了这座重镇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_WARREN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御复杂地形时+15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在葛底斯堡战役中他指挥联邦军建立了从墓地山脊一直延伸到小圆顶山的防线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_SMITH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]海运状态时的防御战斗力加倍。[ENDCOLOR][NEWLINE][NEWLINE]查塔努加战役期间，他在布朗渡口成功组织了两栖作战行动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_HUMPHREYS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击丘陵地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在弗雷德里克斯堡战役期间联邦军对玛莉高地的强攻中，他的部队赢得了最大的进展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_H_WRIGHT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]劫掠时不消耗移动力。[ENDCOLOR][NEWLINE][NEWLINE]在谢里登将军的谢南多厄河谷战役期间，他负责指挥联邦第六军，将这块肥沃的土地化为废墟。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_GIBBON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]在草原中移动力加倍。[ENDCOLOR][NEWLINE][NEWLINE]他率领自己的军团在21小时内行军30英里，协助谢里登将军把李将军包围在弗吉尼亚的阿波马托克斯，最终结束了战争。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_PATTERSON_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]-1移动力。[ENDCOLOR][NEWLINE][NEWLINE]由于未能将乔·约翰斯顿的部队阻止于温切斯特，他在第一次公牛河战役之后被就地解职。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_CHAMBERLAIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]防御丘陵地形时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他作为缅因州第20步兵团的指挥官在葛底斯堡战役的第二天英勇坚守小圆顶山。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_POTTER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]对抗驻扎单位时+30%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]他指挥的师包括主要由前煤矿工人组成的宾夕法尼亚州第48步兵团，擅长在敌军阵地下挖掘地道进行爆破。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_UPTON_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]攻击开阔地形时+15%[ICON_STRENGTH]战斗力。[ENDCOLOR][NEWLINE][NEWLINE]在斯波特瑟尔韦尼亚郡府战役中，他采用创新的长列纵队进攻战术突破了敌军防线。</Text>
+		</Row>
+		<!-- Scramble for Africa -->
+		<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY">
+			<Text>德尔维希骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE">
+			<Text>公共部队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS">
+			<Text>勃兰登堡级战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS">
+			<Text>卡约杜伊利奥级战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS">
+			<Text>外籍志愿军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER">
+			<Text>探险家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIFLED_CANNON">
+			<Text>线膛大炮</Text>
+		</Row>
+		<!--Explorer Names-->
+		<Row Tag="TXT_KEY_EXPLORER_ANDERSON">
+			<Text>本杰明·安德森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_BAKER">
+			<Text>塞缪尔·贝克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_BARTH">
+			<Text>海因里希·巴尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_BRAZZA">
+			<Text>皮埃尔·萨沃尼昂·德·布拉柴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_BURNHAM">
+			<Text>弗雷德里克·班汉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_BURTON">
+			<Text>理查德·弗朗西斯·伯顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_CAILLIE">
+			<Text>热内·卡耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_CAPELO">
+			<Text>埃尔梅内吉多·卡佩罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_CHAILLU">
+			<Text>保罗·德·沙伊鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_CLAPPERTON">
+			<Text>体·克莱普顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_DENHAM">
+			<Text>迪克森·德纳姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_DUVEYRIER">
+			<Text>亨利·杜韦里埃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_ELTON">
+			<Text>詹姆斯·艾尔顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_GESSI">
+			<Text>罗莫洛·盖西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_HOLUB">
+			<Text>埃米尔·霍卢布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_IVENS">
+			<Text>罗伯特·伊文斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_KINGSLEY">
+			<Text>玛丽·金斯利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_KIRK">
+			<Text>约翰·柯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_KRAPF">
+			<Text>约翰·克拉普夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_LANDER">
+			<Text>理查德·兰德尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_LENZ">
+			<Text>奥斯卡·林茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_LERMAN">
+			<Text>德拉古廷·列尔曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_LIVINGSTON">
+			<Text>戴维·利文斯通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_LUGARD">
+			<Text>弗雷德里克·卢嘉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_MEYER">
+			<Text>汉斯·麦耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_MOHUN">
+			<Text>理查德·莫汉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_NACHTIGAL">
+			<Text>古斯塔夫·纳赫蒂加尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_PETERS">
+			<Text>卡尔·彼得斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_POTAGOS">
+			<Text>帕那约托斯·波塔戈斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_REBMANN">
+			<Text>约翰尼斯·雷布曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_ROHLFS">
+			<Text>弗雷德里希·罗尔夫斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SCHWEINFURTH">
+			<Text>格奥尔格·施维因富特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SELJAN">
+			<Text>米尔科·瑟尔建</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SELOUS">
+			<Text>弗雷德里克·塞罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SERPA_PINTO">
+			<Text>亚历山大·德·萨尔帕·平托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SILVA_PORTO">
+			<Text>安东尼奥·达·席尔瓦·波尔图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_SPEKE">
+			<Text>约翰·汉宁·斯皮克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_STAIRS">
+			<Text>威廉·斯台尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_STANLEY">
+			<Text>亨利·莫顿·史丹利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_TINNE">
+			<Text>亚历山德琳·廷尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORER_VOGEL">
+			<Text>埃杜瓦德·沃格尔</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

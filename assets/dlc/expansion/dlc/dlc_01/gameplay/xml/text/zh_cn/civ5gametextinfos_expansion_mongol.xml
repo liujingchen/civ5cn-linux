@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>该单位及相邻单位每回合[COLOR_POSITIVE_TEXT]额外恢复15生命力[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
+			<Text>汗是蒙古的特色单位，替代陆军统帅。提供陆军统帅的战斗加成，并拥有与怯薛相同的额外移动力（共5点），每回合能使相邻单位额外恢复15生命力。汗能够令蒙古骑兵始终保持最佳状态。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

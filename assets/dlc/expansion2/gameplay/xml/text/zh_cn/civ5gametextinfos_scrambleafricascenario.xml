@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_TITLE">
+			<Text>争夺非洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DESC">
+			<Text>到1881年，欧洲列强已经探索并占有了全世界大部分的土地，只有被称为“黑色大陆”的非洲是一个例外。谁会在对这最后一块未知大陆控制权的争夺中拔得头筹呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_TURNS_REMAINING">
+			<Text>剩余回合数：{1_TurnsRemaining}</Text>
+		</Row>
+		<!-- Dawn of Man-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_DAWN_TEXT">
+			<Text>剧情描述[NEWLINE]欧洲列强已经探索并占有了其他大陆的大部分土地，但尚未完全控制被称为“黑色大陆”的非洲。在对冒险的迷恋、对财富的欲望和对知识的渴求共同驱使下，探险家和拓荒者们从北面和西面大批涌入非洲。他们发现了失落的王国、珍奇的野兽，也遭遇了对殖民梦想构成严峻挑战的土著政权。你要带领欧洲人攫取非洲的巨大财富吗？还是试图帮助原住民驱逐贪婪的外来强盗？[NEWLINE][NEWLINE]胜利条件[NEWLINE]在100回合内获得最高积分（胜利点）即可赢得胜利。每发现一处自然奇观+4[ICON_HAPPINESS_1]快乐。欧洲列强（比利时、英国、法国、德国、意大利和葡萄牙）可通过率先发现自然奇观或文物获得胜利点。北非国家（埃及、摩洛哥和奥斯曼）可通过积累[ICON_GOLD]金钱获得胜利点；下撒哈拉国家（埃塞俄比亚、布尔和祖鲁）则可通过积累[ICON_CULTURE]文化获得胜利点。控制苏伊士运河以及连接两座城市的最长铁路线也可以获得胜利点。陆地区块的价值加倍。[NEWLINE][NEWLINE]特殊规则[NEWLINE]每局游戏会随机生成非洲内陆的地形。只有欧洲列强可以海运单位、修建铁路和发掘文物，并且欧洲列强之间不能宣战。同样的，北非文明之间也不能相互开战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BRIEFING_BUTTON">
+			<Text>简介</Text>
+		</Row>
+		<!-- Victory-->
+		<!-- Civilopedia-->
+		<!-- Civilizations-->
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS_SHORT">
+			<Text>河上汽船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPERFAST_RIVERS">
+			<Text>单位在河流及临河的复杂地形区块上的移动力与开阔地形上等同。种植园+2[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BELGIUM_TEXT_1">
+			<Text>比利时直到1830年才获得独立，因此在欧洲列强殖民非洲的狂潮中处于相对落后的地位。虽然比利时在非洲还占有卢旺达和布隆迪等小领地，但最主要的一块殖民地则是比属刚果，包括刚果河流域的广阔地区。与大多数殖民地不同，比属刚果不是由政府直接管理，而是比利时国王利奥波德二世的私人财产。自1879年8月至1884年6月，探险家亨利·史丹利受利奥波德国王的委派沿刚果河航行，并同许多部落酋长签订条约，令他们将各自土地的所有权转让给比利时国王。随后利奥波德以个人名义在此建立了多处军事据点和橡胶种植园。1884年，德国首相奥托·冯·俾斯麦主持召开了柏林会议，正式承认利奥波德对刚果的所有权。然而利奥波德蛮横的殖民手段最终导致了国际社会的强烈抗议。1908年，虽然年迈的利奥波德许诺改革其管理刚果的方式，但比利时议会还是决定将原属国王的“刚果自由邦”改由政府接管，成为正式殖民地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS_SHORT">
+			<Text>钢铁巨人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDIAN_FAST_WORKERS">
+			<Text>区域设施修建速度加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS_SHORT">
+			<Text>第三共和</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CULTURE_BONUS">
+			<Text>新建城市获得额外领地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY_SHORT">
+			<Text>炮舰政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GUNBOAT_DIPLOMACY">
+			<Text>每回合对可索要贡品的城邦额外增加9[ICON_INFLUENCE]影响力。闯入城邦的单位不会引发城邦的不满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS_SHORT">
+			<Text>我们的海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_GENETICS">
+			<Text>海运的单位+1[ICON_MOVES]移动力，登陆时仅消耗1移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ITALY_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ITALY_TEXT_1">
+			<Text>在统一的现代民族国家于1861年成立之后，意大利也加入了欧洲列强的瓜分狂潮，开始在非洲的扩张。此时法国、英国、西班牙、葡萄牙与荷兰对非洲的殖民已持续了一百年。为了在尚未遭到瓜分的非洲土地中分一杯羹，意大利趁着第一次世界大战爆发的机会吞并了厄立特里亚、索马里和赞比亚。然而，它在1895-1896年第一次试图征服埃塞俄比亚的战争中遭到了惨败，埃塞俄比亚直到1936年才被意大利占领。1915年，作为西方协约国阵营的一员加入了第一次世界大战，条件是让英国和法国同意其在战胜后接收德国在欧洲和东非的大片领土。但是在战后的凡尔赛和约中，意大利只在欧洲获得了少量领土而在非洲一无所获，导致其在此后二十年间一直对英法两国耿耿于怀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST_SHORT">
+			<Text>贸易传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CITY_CONNECTION_BOOST">
+			<Text>来自客栈和港口的商路[ICON_GOLD]金钱奖励加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BOERS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BOERS_TEXT_1">
+			<Text>“布尔”（Boer）在南非荷兰语中意为“农夫”，指定居于好望角的荷兰移民及其后裔。最初的布尔移民主要是1652-1795年间来此定居的荷兰加尔文教派信众，当时的南非处于荷兰东印度公司控制之下。为了逃避英国的殖民统治，开普殖民地的布尔人逐步向北迁移并建立了数个布尔共和国。其中的两个共和国——德兰士瓦和奥兰治自由邦为维护自身的独立与英国人进行了两场战争。在英国于1902年战胜和吞并这两个布尔共和国后，布尔人大批流亡，这些荷兰人后裔又移居到阿根廷、肯尼亚、墨西哥和美国西南部地区。1914年第一次世界大战爆发后，留在南非的布尔人发动起义并遭到残酷镇压，领导者被以叛国罪监禁或处死。布尔文化从此消失在历史长河之中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU_SHORT">
+			<Text>遮天蔽日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OLD_ZULU">
+			<Text>单位在对抗更先进敌军时+25%战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BOER_SHORT">
+			<Text>长途迁徙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BOER">
+			<Text>每处农场+1[ICON_CULTURE]文化，+1[ICON_FOOD]食物。</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_1">
+			<Text>我是比利时国王利奥波德……我没时间说客套话，你来有什么事？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_2">
+			<Text>欢迎来到刚果。我们伟大的国家时间宝贵，我希望你不要浪费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_FIRSTGREETING_3">
+			<Text>什么风把你吹到刚果来了，我的朋友？我是利奥波德，我们有什么事情可供商讨么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_WINWAR_1">
+			<Text>依靠精明的领导，刚果的力量压倒了所有敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_WINWAR_2">
+			<Text>依靠精明的领导，刚果的力量压倒了所有敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_SUBTITLE">
+			<Text>比利时与刚果国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_LIVED">
+			<Text>1835-1909</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO_TEXT_1">
+			<Text>利奥波德二世（1865-1909年在位）欧洲国王中唯一拥有个人殖民地，他通过与许多部落酋长订立条约，使他们将各自的领土出让到他名下，从而占有了广阔的刚果河流域a。最终他残酷无情的统治导致国际舆论迫使比利时政府接管了刚果殖民地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_FIRSTGREETING_3">
+			<Text>向你致意！我是英国女王维多利亚。你找我有什么事？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_FIRSTGREETING_4">
+			<Text>欢迎来到英国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_SUBTITLE">
+			<Text>英国女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_LIVED">
+			<Text>1819-1901</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH_TEXT_1">
+			<Text>漫长的维多利亚女王统治时期（1837-1901）伴随着大英帝国非洲殖民地的扩张和巩固，其中既有灾难性的失败，也有决定性的胜利。英国的非洲殖民政策的主要关注于建立从开罗一直延伸至开普敦的相互联结的殖民地和仆从国，第一次世界大战结束后英国占领了德属东非，这一目标最终得以达成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>欢迎，我是法国的儒勒·格雷维，最热爱斑马的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>欢迎你，陌生人！我是法国总统儒勒·格雷维！我对朋友忠诚，对敌人残酷。你想做我的朋友还是敌人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>啊，我们终于见面了。我是法国总统儒勒·格雷维。来吧，让我们好好谈谈我们这两个伟大国家该如何瓜分非洲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>向你致意。我是法国的儒勒·格雷维。我没时间说客套话，你来做什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_SUBTITLE">
+			<Text>法国总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_LIVED">
+			<Text>1807-1891</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON_TEXT_1">
+			<Text>儒勒·格雷维是法兰西第三共国和总统（1879-1887年在任），他作为一位狂热的民族主义者主导了法国在非洲的扩张，其中的第一步就是在1881年对突尼斯的占领。在他因家庭丑闻而被迫辞职之前，格雷维为法国确立了“文明使命”政策，此项政策认为欧洲人的使命就是为“蒙昧的”非洲原住民带来文明之光。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_SUBTITLE">
+			<Text>德意志帝国首相</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_LIVED">
+			<Text>1815-1898</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK_TEXT_1">
+			<Text>虽然德国首相俾斯麦（1871-1890年在任）认为德国在非洲的利益处于次要地位，但他仍然对瓜分非洲的狂潮十分关注，并于1884年亲自主持柏林会议，正式宣示对多处殖民地的主权。除了处理几处边界纠纷，俾斯麦组织的柏林会议还确认刚果是利奥波德二世的私人财产，14个签约国可在刚果开展自由贸易，尼日尔河和刚果河航线对各国开放，在伊斯兰教地区废除奴隶制，并且统一了宣示殖民地主权的国际程序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_DECLAREWAR_1">
+			<Text>可恶，你必须为对强大意大利的侮辱付出代价。去死吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_DECLAREWAR_3">
+			<Text>为了意大利的荣耀，我发誓你的日子已经屈指可数了。准备打仗吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_1">
+			<Text>向你致意，我是意大利之父朱塞佩·加里波第。如果你是意大利的朋友，那么欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_2">
+			<Text>欢迎。意大利对盟友真诚，对敌人严酷。你是盟友还是敌人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_FIRSTGREETING_3">
+			<Text>欢迎！意大利因你的到来备感荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>你象教会一样小气。你能做得更好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_WINWAR_1">
+			<Text>意大利将恢复罗马帝国的荣耀！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_SUBTITLE">
+			<Text>意大利将领兼政治家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_LIVED">
+			<Text>1807-1882</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS_TEXT_1">
+			<Text>加里波第（1807～1882）是意大利政治家，将领和狂热的民族主义者，被视为意大利的国父之一。作为一个民族主义者，他毫不讳言渴望重现当年罗马帝国把地中海当作“我们的海”的盛况。在晚年，他利用自己的名望支持意大利各种不同的势力卷入在非洲的争夺，尽管1881年意大利首次占有突尼斯的企图便被法国和英国挫败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_SUBTITLE">
+			<Text>葡萄牙摄政王后</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_LIVED">
+			<Text>1847-1911</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I_TEXT_1">
+			<Text>萨伏依的玛丽亚（1862～1889年）是葡萄牙国王路易斯一世的王后，以她奢华生活和慈善事业闻名。她被称为“慈善的天使”，“穷人的母亲”，她赞助了许多在葡萄牙非洲殖民地的社会福利事业和项目，尤其是在莫桑比克和安哥拉设立了免费的学校个医疗机构。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_1">
+			<Text>向你致意。我是伊斯梅尔帕夏，埃及和苏丹的统治者。你敢于面对我真是有巨大的勇气。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_2">
+			<Text>欢迎你。我是埃及和苏丹的伊斯梅尔帕夏，真主已经预言了你的到来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_FIRSTGREETING_3">
+			<Text>向你致意。我是伊斯梅尔帕夏，连接红海和地中海的苏伊士运河的控制者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_SUBTITLE">
+			<Text>埃及和苏丹的赫迪夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_LIVED">
+			<Text>1830-1895</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES_TEXT_1">
+			<Text>伊斯梅尔帕夏被称为“高贵的伊斯梅尔”，1867年，奥斯曼宫廷承认了伊斯梅尔帕夏埃及和苏丹赫迪夫的头衔，条件是他向奥斯曼进贡更多的贡品。在任期间他进行了改革和城市化，1875到1884年与埃塞俄比亚一场耗资巨大的战争使他不得不出售新修的苏伊士运河的股份。1895年，英国政府对埃及财政情况的调查使这位事实上的君主被迫退位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1">
+			<Text>向你致以来自摩洛哥的敬意……我是哈桑一世。有什么能为你效劳？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2">
+			<Text>我是摩洛哥苏丹艾哈迈德·哈桑一世，我以人民的名义欢迎你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_SUBTITLE">
+			<Text>摩洛哥苏丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_LIVED">
+			<Text>1873-1894</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR_TEXT_1">
+			<Text>作为阿拉维王朝最成功的一任苏丹，穆莱·哈桑一世（1873～1894年在位）建立的强大的军队，进行了行政改革，使摩洛哥在北非其他地方都被欧洲人占据时能保持强大。在他统治期间，尽管法国和西班牙都建立了飞地并且索要优惠待遇，哈桑在欧洲列强之间长袖善舞，保证了摩洛哥的独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_1">
+			<Text>以我的锯子和木材起誓，很高兴见到你！我是阿卜杜勒-哈米德，强大的奥斯曼帝国的领袖！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_2">
+			<Text>奥斯曼帝国向你致意，陌生人！阿卜杜勒-哈米德二世！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_FIRSTGREETING_3">
+			<Text>向你致意，陌生人！我是奥斯曼领袖阿卜杜勒-哈米德二世！让我们用盛大的宴会来庆祝我们的相遇吧!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_SUBTITLE">
+			<Text>奥斯曼帝国苏丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_LIVED">
+			<Text>1842-1918</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN_TEXT_1">
+			<Text>阿卜杜勒-哈米德二世（1876-1909年在位），信士的长官，奥斯曼帝国第34任苏丹，也是最后一个能够有效控制帝国在非洲领土的苏丹。随着1878年奥斯曼对俄战争的失败，柏林会议强迫阿卜杜勒-哈米德吧塞浦路斯租借给英国，1882年，还允许英国占领在埃及和苏丹的争议领土以“恢复秩序”，知道英国与1922年退出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DECLAREWAR_2">
+			<Text>布尔人在呐喊。你荒唐的进犯让我们别无选择：战场上见真章吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_DEFEATED_3">
+			<Text>我们的失败只是暂时的。等着布尔人卷土重来吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_1">
+			<Text>布尔共和国的人民欢迎你。我相信你也是为了帮助我们走向自由而来？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_2">
+			<Text>我代表布尔共和国的公民欢迎你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_FIRSTGREETING_3">
+			<Text>欢迎来到布尔共和国！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我不认为这个交易会让布尔感兴趣，你想提高出价吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
+			<Text>你的提议我们乐于接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
+			<Text>向你致意。我们能有什么让你感兴趣的交易吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_OPEN_BORDERS_EXCHANGE_1">
+			<Text>开放边境有助于巩固我们的友谊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
+			<Text>我不能贱卖我们的产物，即使我们是朋友。我不是一个暴君，所以我要对人民负责。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_WINWAR_1">
+			<Text>我想你已经明白布尔人不是好惹的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_SUBTITLE">
+			<Text>南非共和国总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_LIVED">
+			<Text>1825-1904</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON_TEXT_1">
+			<Text>保罗·克鲁格被亲切地称为“保罗伯父”，是布尔人所建立的南非共和国（1883-1900）的总统（塞爱维小提示：后世通常称之为“德兰士瓦共和国”以与现代南非共和国相区分），他在带领布尔人反抗英国侵略的战斗中赢得了巨大的声誉。克鲁格是一位出色的指挥官，也是一名优秀的谈判家，正是在他的努力下，第一次布尔战争于1881年结束。在他第四次出任总统期间爆发了第二次布尔战争，英国军队兵临城下，克鲁格被迫流亡，再也没有回到非洲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_1">
+			<Text>非常欢迎你来到我们美丽的国度。我是孟尼利克二世，士巴女王和埃塞俄比亚皇帝的后裔，你谦卑的仆人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_FIRSTGREETING_3">
+			<Text>欢迎你，朋友，来到我这片安宁丰饶的土地。我是万王之王，你可以称呼我孟尼利克二世。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_SUBTITLE">
+			<Text>埃塞俄比亚皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_LIVED">
+			<Text>1844-1913</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE_TEXT_1">
+			<Text>1889年三月，约翰尼斯四世在与德尔维希军队的战斗中丧生，孟尼利克（被称为现代埃塞俄比亚之父）宣布继承皇位。不久以后，由于对一份条约的解释产生的争端，意大利与1895年入侵埃塞俄比亚，孟尼利克给予了强烈的回击，在安巴阿拉吉、默克莱、阿杜瓦等战役中重创了意大利人。意大利人被迫签订了条约承认埃塞俄比亚的独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_NAME">
+			<Text>{TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_FIRSTGREETING_1">
+			<Text>我是塞奇瓦约，祖鲁王国的统治者！你到此有何贵干？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_SUBTITLE">
+			<Text>祖鲁国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_LIVED">
+			<Text>1826-1884</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA_TEXT_1">
+			<Text>塞奇瓦约(1856-1879在位)是祖鲁酋长姆潘德之子，他拒绝了英国人对祖鲁袭击边境地区所要求的赔偿，导致了祖鲁战争。尽管他在开战之初在伊桑德卢瓦纳战役中击败了英国人，但是最终英军包围并攻占了乌伦迪，并俘虏了塞奇瓦约。他被流放到伦敦，直到1883年才回到非洲，抑郁死去。</Text>
+		</Row>
+		<!-- Scenario-specific Diplomacy Modifiers-->
+		<!-- Technologies-->
+		<!-- Improvements -->
+		<!-- Natural Wonders -->
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ARCHAEOLOGICAL_DIG_AFRICA_TEXT">
+			<Text>发掘现场只能由考古学家在历史遗址处修建。对图坦卡门陵墓的发掘就是一个发掘现场的优秀范例。在修建发掘现场的过程中，你的考古学家会发现有何种被掩埋的文物。当文物被运回欧洲后获得额外的胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_AFRICA_HELP">
+			<Text>把历史遗址转变为发掘现场，把发掘的文物运回欧洲以获得胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC_AFRICA">
+			<Text>运回欧洲以获得胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT">
+			<Text>经过几次尝试后，不管希腊人还是罗马人都无法沿着尼罗河穿过苏德沼泽。尽管在16世纪有旅经埃塞尔比亚的欧洲人记录了尼罗河的源头，但都是道听途说。在19世纪中期，欧洲民众开始着迷与探究尼罗河的源头位于非洲中心的某个地方。1858年，探险家理查德·斯皮克宣称维多利亚湖是尼罗河源头；尽管理查德·伯顿和其他一些人对此表示异议，亨利·史丹利爵士通过环湖航行确认了斯皮克的说法，并认为里彭瀑布是尼罗河源。</Text>
+		</Row>
+		<!-- Buildings in the seperate Buildings file-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_STELE_STRATEGY">
+			<Text>纪念石柱是代替纪念碑的特色建筑，可增加城市的[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM_STRATEGY">
+			<Text>国家博物馆是布尔的特色建筑，可增加城市的[ICON_CULTURE]文化产出（尤其是收藏有杰作时）。它建成时自带一项杰作。当一个欧洲文明占领一座有国家博物馆的城市时获得杰作，积累胜利点。代替博物馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAATSMUSEUM_TEXT">
+			<Text>1892年，第一座国家博物馆建于比勒陀利亚，宣称是为了“提高与保持公众的文化意识”，专注于这片区域的历史、民族、考古和自然科学。当布尔战争爆发后，国家博物馆对爱国主义的宣传就更加热烈，他们鼓励布尔士兵捐赠得自战场的纪念品。当布尔战争失败以后，国家博物馆就不再受到公共资金的支持，转而由德瓦士兰和奥兰治自由邦的私有机构资助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_STRATEGY">
+			<Text>土耳其浴室是奥斯曼的特色建筑。同证券交易所一样，土耳其浴室可以增加城市的财富。然而，土耳其浴室还能增加城市积累的[ICON_GOLD]金钱。城市拥有市场级其他玩家建立的商路可获得额外2[ICON_GOLD]金钱，商路拥有者可从中获得1[ICON_GOLD]金钱。城市必须拥有银行才可建造土耳其浴室。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_HELP">
+			<Text>城市必须拥有银行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_TEXT">
+			<Text>土耳其浴室从古代罗马浴场改进而来，维多利亚时代土耳其浴室作为一个放松和保健的地方在中东和欧洲风靡一时。</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="TXT_KEY_UNIT_HELP_FORCE_PUBLIQUE">
+			<Text>一种擅长在复杂地形和对受伤单位作战的步兵单位。只有比利时能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FORCE_PUBLIQUE_STRATEGY">
+			<Text>比利时特色单位，替代来复枪兵。获得复杂地形晋升，在困难地形有战斗优势。该单位还拥有一项晋升，对受伤单位作战时增加战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FORCE_PUBLIQUE_TEXT">
+			<Text>公共部队在1908到1960年间，作为宪兵和军事力量服役于比利时刚果殖民地，刚果独立后成为其军队的核心。由多民族混合的非洲人组成，主要来自刚果、桑给巴尔和其它比利时殖民地，公共部队由白人指挥，指挥官来自比利时军队的退役老兵或欧洲雇佣军。曾以小股分遣队分散在活动区域，致力于打击入侵者、阿拉伯奴隶贩子和反叛部落，也参与了两次世界大战中西非战役。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY2">
+			<Text>法国外籍军团是法国的特色单位，替代来复枪兵。在境外作战时获得很强的战斗奖励，使其成为征服敌方领土的卓越单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION2">
+			<Text>只有法国能够建造。与其所替代的来复枪兵不同，该单位在境外获得战斗加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BRANDENBURG_CLASS">
+			<Text>这种铁甲舰是本剧情里最强大的战舰。只有德国能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BRANDENBURG_CLASS_STRATEGY">
+			<Text>德国特色单位，替代铁甲舰。它拥有较高的战斗力，使得它具有很强的影响城邦的能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_BRANDENBURG_CLASS_TEXT">
+			<Text>德国勃兰登堡级战舰在1893年首次建造，是介于大型海岸铁甲舰和远洋战舰的中间类型。装备厚重的装甲和6门11英寸火炮，最终共建造4艘。在被出售或报废之前，该级战舰曾活动在义和团运动时期遥远的中国，以及第一次世界大战期间的地中海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAIO_DUILIO_CLASS">
+			<Text>一种擅长攻击城市的铁甲舰。只有意大利能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAIO_DUILIO_CLASS_STRATEGY">
+			<Text>意大利特色单位，替代铁甲舰。拥有海掠晋升，增加对城市的攻击力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_CAIO_DUILIO_CLASS_TEXT">
+			<Text>卡约杜伊利奥级战舰由意大利皇家海军在19世纪70年代建造，原计划建造3艘，最终建成两艘。这种远洋铁甲舰非常具有时代革命性，配备100吨线膛装弹机和50毫米装甲板，英国曾为此放弃了新型战舰的建造计划，转而针对意大利战舰设计新战舰。虽然卡约杜伊利亚和恩里科丹多洛战舰并未看到发挥作用，并分别在1909年和1920年报废，但他们曾被部署到非洲地中海沿岸，以保障或促进意大利的利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DERVISH_CAVALRY">
+			<Text>能够更快积累陆军统帅伟人点的近代骑兵，擅长在开阔地形战斗。只有埃及能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DERVISH_CAVALRY_STRATEGY">
+			<Text>替代近代骑兵的埃及特色单位。拥有能够更快产生陆军统帅和开阔地形战斗加成的晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_DERVISH_CAVALRY_TEXT">
+			<Text>被称为“疯狂的毛拉”，宗教领袖穆罕默德·阿卜杜拉·哈桑在索马里建立了一个德尔维希邦，针对英国、意大利和埃塞俄比亚人进行了20年反帝国主义的战争。他的军队中，约有10000可怕的德尔维希骑兵，主要用于阻断敌人补给线和撤退的路线。他们佩戴多样的护甲和装备，由部落头领统领，德尔维希骑兵的狂热是他们的特点，他们愿意承担损失以震慑其他单位，这使其成为可怕的对手。直到1920年，毛拉才最终被击败，他多数出色的指挥官都来自德尔维希骑兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_VOLUNTEERS">
+			<Text>特殊的来复枪兵，善于防守，消灭敌人后恢复部分生命力。只有布尔共和国能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOREIGN_VOLUNTEERS_STRATEGY">
+			<Text>布尔共和国替代来复枪兵的特色单位。攻击力弱于来复枪兵,但有更强的防守能力。消灭敌人也会恢复部分生命力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FOREIGN_VOLUNTEERS_TEXT">
+			<Text>第二次布尔战争期间（1899-1902），在大英帝国之外有很多对布尔共和国的同情者，大批外籍志愿军前来为他们而战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_EXPLORER">
+			<Text>特殊的考古学家，移动速度不受复杂地形影响，具有较弱的攻击力和防御力。只有欧洲国家能够组建。不需要大学。[COLOR_NEGATIVE_TEXT]与该剧情的其他单位一样，它没有探索指令。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER_STRATEGY">
+			<Text>欧洲特色单位，替代考古学家。不同于考古学家，他具有攻击和防守能力。能够像走平地一样通过复杂地形。不需要大学。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EXPLORER_TEXT">
+			<Text>尽管非洲海岸已经被探索了三个世纪，但是直到19世纪初期欧洲列强才开始付诸行动探索这块大陆的腹地。从沿海贸易站、传教区和殖民地定居点开始，西方的探险家率小探险队进入内陆，寻找传说中的奇迹、“消失”的原生文明和和科学知识。有些人，像大卫·利文斯通，是懂医疗的传教士；有些人，像皮埃尔·德·布拉柴，则是为了探险；还有其他人，例如麦格雷戈·莱尔德，是寻求新获利机会的商人。无论他们的动机是什么，欧洲探险家的身影深深铭刻在非洲历史中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RIFLED_CANNON_TEXT">
+			<Text>占位符</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIFLED_CANNON_STRATEGY">
+			<Text>一种介于加农炮和火炮之间的压制武器。具有3格射程，需要进行攻击准备，比加农炮更强大。与其他单位相比视野较差，需要其他单位保护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RIFLED_CANNON">
+			<Text>介于加农炮和火炮之间的压制单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_STRATEGY">
+			<Text>陵墓是埃及的特色建筑，增加城市的[ICON_HAPPINESS_1]快乐和[ICON_CULTURE]文化输出（放置杰作才有文化输出）。不需要维护费。欧洲文明占领之后同时得到获取神器的胜利积分。替代竞技场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_BUILDING_BURIAL_TOMB_HELP">
+			<Text>不需要花费[ICON_GOLD]金钱维护。[NEWLINE][NEWLINE]城市被欧洲征服者占领，存放在陵墓的杰作会增加该文明的胜利积分。</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_VS_CITIES">
+			<Text>攻击城市加成(30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_CITIES_HELP">
+			<Text>攻击城市战斗力加成30%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_FORTIFIED">
+			<Text>攻击驻扎单位加成(30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VS_FORTIFIED_HELP">
+			<Text>攻击驻扎单位战斗力加成30%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_SCENARIO">
+			<Text>传递移动力给陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_SCENARIO_HELP">
+			<Text>如果回合开始时具有该晋升的单位和陆军统帅堆叠在一起，陆军统帅具有与该单位相同的移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_HEAL_OUTSIDE_FRIENDLY">
+			<Text>境内恢复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_HEAL_OUTSIDE_FRIENDLY_HELP">
+			<Text>只有在己方境内才能恢复生命力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STINGEY_D">
+			<Text>强力防守</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STINGEY_D_HELP">
+			<Text>防御战斗力加成50%</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_CANNOT_UNLOCK">
+			<Text>[COLOR_NEGATIVE_TEXT]你不能在争夺非洲剧情中采用其他政策分支。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_CAP">
+			<Text>欧洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]欧洲[ENDCOLOR][NEWLINE][NEWLINE]战斗单位只有处于境内才能恢复生命力。陆军单位（除侦察兵外）[COLOR_NEGATIVE_TEXT]-1视野[ENDCOLOR]。不能建造文学家、美术家家或音乐家公会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_CAP">
+			<Text>北非</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_LIBERTY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]北非[ENDCOLOR][NEWLINE][NEWLINE]杀死单位后获得[ICON_GOLD]金钱。不能建造文学家、美术家或音乐家公会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_CAP">
+			<Text>下撒哈拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_HONOR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]下撒哈拉[ENDCOLOR][NEWLINE][NEWLINE]杀死非蛮族单位获得[ICON_CULTURE]文化。允许城市建造文学家、美术家和音乐家公会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1">
+			<Text>高级压制战术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]高级压制战术[ENDCOLOR][NEWLINE]战斗单位增加30%对城市的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E2">
+			<Text>高效占领规则</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]高效占领规则[ENDCOLOR][NEWLINE]战斗单位对驻扎单位增加30%的战斗力。占领的城市免费获得一座法庭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E3">
+			<Text>势力范围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]势力范围[ENDCOLOR][NEWLINE]购买地块减少50%金钱需求，购买单位减少33%金钱需求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E4">
+			<Text>殖民主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]殖民主义[ENDCOLOR][NEWLINE]工人区域设施建造速度增加25%。[ICON_CAPITAL]首都附近获得三个免费移民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E5">
+			<Text>工会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]工会[ENDCOLOR][NEWLINE]道路和铁路维护费减少50%。每种奢侈品资源+2[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6">
+			<Text>资本主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_E6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]资本主义[ENDCOLOR][NEWLINE]所有陆地和海洋商路+1[ICON_GOLD]金钱，每座[ICON_CONNECTED]连接到[ICON_CAPITAL]首都的城市+2[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1">
+			<Text>撒哈拉军队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N1_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]撒哈拉军队[ENDCOLOR][NEWLINE]在荒漠作战增加50%战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2">
+			<Text>柏柏尔传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]柏柏尔传统[ENDCOLOR][NEWLINE]建造骑乘单位增加25%[ICON_PRODUCTION]产能累积。骑乘单位获得一个晋升，可以使陆军统帅具有该单位同样的移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N3">
+			<Text>改良器皿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N3_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]改良器皿[ENDCOLOR][NEWLINE]每个市场+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N4">
+			<Text>征召</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]征召[ENDCOLOR][NEWLINE]单位维护费减少33%[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N5">
+			<Text>商队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]商队[ENDCOLOR][NEWLINE]每条陆上商路+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6">
+			<Text>商业中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_N6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]商业中心[ENDCOLOR][NEWLINE][ICON_CAPITAL]首都+10[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S2">
+			<Text>民族主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S2_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]民族主义[ENDCOLOR][NEWLINE]单位在境内战斗力+15%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S4">
+			<Text>美术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S4_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]美术[ENDCOLOR][NEWLINE]每回合增加相当于50%多余[ICON_HAPPINESS_1]快乐的[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S5">
+			<Text>天才</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S5_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]天才[ENDCOLOR][NEWLINE]一个可选免费伟人出现在[ICON_CAPITAL]首都附近。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S6">
+			<Text>文化中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_S6_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]文化中心[ENDCOLOR][NEWLINE]每个杰作获得+5[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_EUROPEAN_TITLE">
+			<Text>{1_PlayerName:textkey}，{2_CivName:textkey}最受尊敬的领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_N_AFRICAN_TITLE">
+			<Text>{1_PlayerName:textkey}，{2_CivName:textkey}至高无上的君主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SUB_SAHARAN_TITLE">
+			<Text>{1_PlayerName:textkey}，{2_CivName:textkey}勇敢无畏的首领</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_EUROPEAN">
+			<Text>欧洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_N_AFRICAN">
+			<Text>北非</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_POLICY_BRANCH_SUB_SAHARAN">
+			<Text>下撒哈拉</Text>
+		</Row>
+		<!-- Civ States-->
+		<Row Tag="TXT_KEY_CIV5_SOKOTO_TEXT">
+			<Text>索科托矗立于两条尼日利亚境内的大河交汇的悬崖之上，是索科托哈里发的要塞首都，国势在1820年代进入全盛时期。此前这里是几个前殖民地时期的苏丹国的中心，尽管这些国家并不见于史册。1827年，探险家休·克莱普顿成为首个发现这里的城镇的欧洲人。随着1903年索科托被英国占领，它大部分领土都并入了英国在尼日利亚的殖民地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUNKEYA_TEXT">
+			<Text>18世纪头个十年的后期，姆西里这位东非商人的儿子建立了本凯亚和一个商业帝国。他的巴耶科部落统治了刚果盆地东部的广大地域，用象牙、黄铜、铁矿、盐和奴隶向沿海的阿拉伯人交易军火来维持他们的领地。当比利时国王利奥波德二世意识到英国也垂涎于这片地区，他派遣了三只远征队先下手为强，其中从桑给巴尔出发的第三只队伍在1891年迫使巴耶科的势力退出了本凯亚；姆西里也在不久后被害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SEGOU_TEXT">
+			<Text>塞古城邦于11世纪由索宁克人所建立，在比顿·库利巴里治下的1712到1755进入全盛时期。这里最初是个贸易中心，与德杰恩、廷巴克图和马西纳有紧密的贸易联系。在马麦里·库利巴里治下，塞古加入了德杰恩和马西纳组建了班巴拉王国。1860年前后，乌玛尔·塔尔征服了这里并将伊斯兰教定为国教。1890年后，法国人入侵并占据了原班巴拉王国之地，将尼日尔殖民地的首府设在了这里。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BORNU_TEXT">
+			<Text>从1380到1893年间，这里被苏丹人占据着，博尔努帝国统治者这块现今尼日利亚的领土。作为一个赛发瓦王朝的继任者，卡内姆-博尔努国王，出色的政治家伊德利斯·阿卢马（1571-1603），领导帝国进入了全盛时期。行政改革和阿卢马留下的强大军队使博尔努王国延续到18世纪的头个十年，直到富拉尼的入侵使王国进入了无政府状态。随着伊斯兰苏丹被驱逐，博尔努成为了英国尼日利亚殖民地的主要组成部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_OUGADOUGOU_TEXT">
+			<Text>上沃尔特的宁西部落征战不休的状态一直延续到1441年，直到传奇般的勇士乌尔比带领他的部落建立了摩西帝国并以瓦加杜古（Ouagadougou）为首都。瓦加杜古作为一个贸易中心吸引了许多从非洲东西海岸往来的商人和商队。1896年，法国为了统合其在西非的殖民地，派遣保罗·武勒和朱利安·夏诺瓦率军攻打宁西。独立后瓦加杜古成为了布基纳法索首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUBA_TEXT">
+			<Text>约在公元5世纪，卢巴作为一个民族出现在今刚果境内的乌朋巴洼地。从1580年后开始，卢巴在几任出色的酋长的带领下迅速扩张，控制了临近部落，确保了己方的铜矿、渔业资源和棕榈油产出。随着欧洲势力的进入，卢巴开始逐渐衰落，被迫在1885年并入比利时刚果。1895年，卢巴人的起义被比利时人镇压。</Text>
+		</Row>
+		<!--National Wonders-->
+		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_HELP">
+			<Text>其他玩家连接到拥有苏伊士运河的城市的商路可为城市拥有者额外产出4[ICON_GOLD]金钱，商路拥有者获得2[ICON_GOLD]金钱。苏伊士运河只允许修建一条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUEZ_CANAL_TEXT">
+			<Text>苏伊士运河经过十年修建，终于在1869年竣工，它连接了地中海与红海，方便了欧亚间的航运。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL_STRATEGY">
+			<Text>苏伊士运河增加城市获得的[ICON_GOLD]金钱，其他玩家连接到拥有苏伊士运河的城市的商路可为城市拥有者额外产出4[ICON_GOLD]金钱，商路拥有者获得2[ICON_GOLD]金钱。苏伊士运河只允许修建一条。</Text>
+		</Row>
+		<!--In-Game Messages-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALLY_GAINED">
+			<Text>{1_CityStateName}城邦提供的军事单位已加入你的军队！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALLY_LOST">
+			<Text>来自{1_CityStateName}城邦的单位现在将返回城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOLOMONS_MINES_FOUND">
+			<Text>你发现了所罗门的宝藏！因为这项探索成就你获得了{1_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOURCE_NILE_FOUND">
+			<Text>你发现了尼罗河源！因为这项探索成就你获得{1_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LAKE_VICTORIA_FOUND">
+			<Text>你发现了维多利亚湖！因为这项探索成就你获得{1_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_KILIMANJARO_FOUND">
+			<Text>你发现了乞力马扎罗山！因为这项探索成就你获得{1_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOLOMONS_MINES_FOUND_OTHER">
+			<Text>来自{1_CivName}的探险家发现了所罗门的宝藏。该文明获得了{2_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_SOURCE_NILE_FOUND_OTHER">
+			<Text>来自{1_CivName}的探险家发现了尼罗河源。该文明获得了{2_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LAKE_VICTORIA_FOUND_OTHER">
+			<Text>来自{1_CivName}的探险家发现了维多利亚湖。该文明获得了{2_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_KILIMANJARO_FOUND_OTHER">
+			<Text>来自{1_CivName}的探险家发现了乞力马扎罗山。该文明获得了{2_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_ALL_RAILLINES_LOST">
+			<Text>{1_CivName}修建的铁路线被捣毁了。此文明失去了{2_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_NEW_LONGEST_RR_PLAYER">
+			<Text>从{1_CityName}到{2_CityName}（{3_Length}个地块）的铁路线是目前非洲最长的。{5_CivName}因为拥有最长的铁路线而获得了{4_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LONGER_RR">
+			<Text>{1_CivName}延长了他们最长的铁路线。最长的铁路线现在从{2_CityName}延伸至{3_CityName}（{4_Length}个地块）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIG_COMPLETE">
+			<Text>你的探险家发现了一件非洲文物。获得{1_Num}胜利点。[NEWLINE][NEWLINE]（文物已被运回欧洲）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED">
+			<Text>占领{2_CityName}时发现了{1_Num}件杰作。这些文物已被运回欧洲并使你获得{3_Num}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_GREAT_WORKS_CAPTURED_OTHER">
+			<Text>{3_PlayerName}占领{2_CityName}时发现了{1_Num}件杰作。这些文物已被运回欧洲并使该文明获得{4_Num}胜利点。</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_WONDERS">
+			<Text>苏伊士运河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} 来自苏伊士运河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO1">
+			<Text>最长铁路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO1">
+			<Text>{1_Num} 由于连接城市的最长铁路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO2">
+			<Text>探索/文物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO2">
+			<Text>{1_Num} 由于发现自然奇观/文物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO3">
+			<Text>北非黄金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO3">
+			<Text>{1_Num} 由于累计获得的[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_VP_SCENARIO4">
+			<Text>下撒哈拉文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_DIPLO_MY_SCORE_SCENARIO4">
+			<Text>{1_Num} 由于累计获得的[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIFIC_DIPLO_STRING_1">
+			<Text>你的领土属于我。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

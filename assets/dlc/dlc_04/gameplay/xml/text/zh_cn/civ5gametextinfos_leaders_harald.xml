@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_HARALD">
+			<Text>蓝牙哈拉德</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

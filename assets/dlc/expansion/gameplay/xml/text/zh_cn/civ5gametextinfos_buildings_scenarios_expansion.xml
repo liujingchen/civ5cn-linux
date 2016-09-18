@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME -->
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL">
+			<Text>蜜酒厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV">
+			<Text>祭祀场</Text>
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<!-- Unique Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND">
+			<Text>大会场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY">
+			<Text>暗晶体工厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO">
+			<Text>电磁阵列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY">
+			<Text>扭曲质工厂</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AERODROME">
+			<Text>空港</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<!-- Normal Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE">
+			<Text>差分引擎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION">
+			<Text>中心大厦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE">
+			<Text>职业学院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE">
+			<Text>专利局</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY">
+			<Text>暗晶体提炼所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM">
+			<Text>慈善商场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL">
+			<Text>特斯拉线圈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR">
+			<Text>扭曲质合成所</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR">
+			<Text>飞艇站</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY">
+			<Text>自动工厂</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST">
+			<Text>地下据点</Text>
+		</Row>
+		<!-- National Wonders -->
+		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE">
+			<Text>分析引擎</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE">
+			<Text>比特莫尔大厦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL">
+			<Text>发明家大厅</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL">
+			<Text>卡内基艺术厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY">
+			<Text>地下定居点</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE">
+			<Text>永动机引擎</Text>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BUILDING_UNITED_NATIONS">
+			<Text>圣彼得大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH">
+			<Text>原木大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHATEAU">
+			<Text>宫堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MADRASAH">
+			<Text>伊斯兰学校</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

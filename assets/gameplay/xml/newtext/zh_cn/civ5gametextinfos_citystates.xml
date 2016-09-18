@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Michelle Menard-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITYSTATE_WARSAW">
+			<Text>华沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WARSAW_ADJ">
+			<Text>华沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EDINBURGH">
+			<Text>爱丁堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ">
+			<Text>爱丁堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBLIN">
+			<Text>都柏林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ">
+			<Text>都柏林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA">
+			<Text>日内瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENEVA_ADJ">
+			<Text>日内瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VENICE">
+			<Text>威尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VENICE_ADJ">
+			<Text>威尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA">
+			<Text>热那亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJ">
+			<Text>热那亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE">
+			<Text>佛罗伦萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_FLORENCE_ADJ">
+			<Text>佛罗伦萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA">
+			<Text>拉古萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RAGUSA_ADJ">
+			<Text>拉古萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN">
+			<Text>悉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ">
+			<Text>悉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OSLO">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OSLO_ADJ">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM">
+			<Text>斯德哥尔摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ">
+			<Text>斯德哥尔摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HELSINKI">
+			<Text>赫尔辛基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ">
+			<Text>赫尔辛基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST">
+			<Text>布加勒斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJ">
+			<Text>布加勒斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST">
+			<Text>布达佩斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_ADJ">
+			<Text>布达佩斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE">
+			<Text>贝尔格莱德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJ">
+			<Text>贝尔格莱德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VIENNA">
+			<Text>维也纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ">
+			<Text>维也纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS">
+			<Text>布鲁塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJ">
+			<Text>布鲁塞尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO">
+			<Text>摩纳哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONACO_ADJ">
+			<Text>摩纳哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SEOUL">
+			<Text>加德满都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ">
+			<Text>加德满都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI">
+			<Text>河内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
+			<Text>河内</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA">
+			<Text>逻些</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJ">
+			<Text>逻些</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY">
+			<Text>阿拉木图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJ">
+			<Text>阿拉木图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR">
+			<Text>吉隆坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJ">
+			<Text>吉隆坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE">
+			<Text>新加坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJ">
+			<Text>新加坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO">
+			<Text>里约热内卢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO_ADJ">
+			<Text>里约热内卢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN">
+			<Text>开普敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_ADJ">
+			<Text>开普敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON">
+			<Text>西顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJ">
+			<Text>西顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE">
+			<Text>推罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJ">
+			<Text>推罗</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

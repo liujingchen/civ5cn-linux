@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand leo-->
+<GameData>
+  <Language_zh_CN>
+    <Row Tag="TXT_KEY_TRAIT_TERROR_SHORT">
+      <Text>杀戮铁骑</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_TERROR">
+      <Text>对城邦单位作战或攻击城邦时+30%[ICON_STRENGTH]战斗力。所有骑乘单位+1[ICON_MOVES]移动力。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TITLE">
+      <Text>蒙古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_MONGOLIA_TEXT">
+      <Text>向您致意，伟大的铁木真，强盛的蒙古帝国永远的成吉思汗！您的铁拳毁灭了无数坚城，您的咆啸令众多顽敌绝望。大汗啊，您统一了北方大草原上纷争不断的各个部族，创建起一支前无古人的强大骑射军团！您以巧妙的外交手腕分化敌人，使他们在蒙古铁骑面前孤立无援。在很短的时间内您麾下的战士征服了几乎整个东亚地区。您的帝国不断扩张，东达朝鲜半岛，西至欧洲平原。这确实是古往今来最广阔的帝国，令罗马人和希腊人的征服业绩相形见绌。[NEWLINE][NEWLINE]铁木真，您的人民呼唤您再次领导他们踏上征服之路！来自北方大草原的隆隆铁骑会再次令世界颤抖吗？您能够创建一个经受得住时间考验的帝国吗？</Text>
+    </Row>
+  </Language_zh_CN>
+</GameData>

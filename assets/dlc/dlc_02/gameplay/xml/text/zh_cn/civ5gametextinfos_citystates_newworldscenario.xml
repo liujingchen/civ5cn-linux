@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
+			<Text>因纽特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
+			<Text>因纽特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
+			<Text>塞米诺尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
+			<Text>塞米诺尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
+			<Text>拉科塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
+			<Text>拉科塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
+			<Text>加勒比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
+			<Text>加勒比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
+			<Text>切诺基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
+			<Text>切诺基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
+			<Text>阿耳岗昆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
+			<Text>阿耳岗昆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON">
+			<Text>休伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HURON_ADJ">
+			<Text>休伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
+			<Text>穆斯科基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
+			<Text>穆斯科基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
+			<Text>瓦巴纳基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
+			<Text>瓦巴纳基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
+			<Text>马普切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
+			<Text>马普切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
+			<Text>阿拉瓦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
+			<Text>阿拉瓦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
+			<Text>雅诺玛米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
+			<Text>雅诺玛米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
+			<Text>穆伊斯卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
+			<Text>穆伊斯卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
+			<Text>霍皮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
+			<Text>霍皮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
+			<Text>阿纳萨齐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
+			<Text>阿纳萨齐</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

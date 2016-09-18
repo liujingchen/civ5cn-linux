@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<!--Linked to the Civ5Diplomacy_Responses.xml file (assets\Gameplay\XML\Diplomacy). Entries that have the same key except for the number on the end may be picked randomly by the in-game diplo system (rules for this also defined in the Responses.xml file). *****NOTE**** If you want to add more response possibilities to this file you must keep the same TXT_KEY naming convention as what's here already, or else you'll have to change the Responses.xml file!!!-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>我想你应该清楚我已经对你的一个“小宠物”宣战了。{@1_MinorCivName}的土地对我来说很不错。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>噢，好像我攻击了你的朋友{@1_MinorCivName}。你准备做些什么呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>我注意到我的部下对你保护下的{@1_MinorCivName}发动了攻击。虽然与你的帝国交恶不是我所期望，但我相信这是我们不得不采取的举动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>我被告知城邦{@1_MinorCivName}遭受了我们的攻击。但我向你保证，这并非故意，希望我们之间的友好关系不要被破坏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_1">
+			<Text>互派大使如何？这可以加深我们之间的外交关系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_1">
+			<Text>我们想在你的首都建立大使馆，你觉得如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>你对{@1_MinorCivName}的欺凌让我们无法忍受。我强烈要求你克制自己，不要试图再度从我保护的城邦里勒索财物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_2">
+			<Text>我已经听说了你对{@1_MinorCivName}的恶行。你知道他们是出于我保护之下的吗？下次别再干傻事了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>我们最近向{@1_MinorCivName}要求了一些贡品，他们交出了。虽然你说过你会保护他们，但其实你我都知道你是做不到的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
+			<Text>你的小朋友{@1_MinorCivName}实在太容易屈服了。他们交出了我们所想要的贡品——而我知道，你对此无能为力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_1">
+			<Text>我才注意到我勒索的{@1_MinorCivName}原来是你保护下的城邦。我希望你不要将他们的利益放在我之上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_2">
+			<Text>我被告知城邦{@1_MinorCivName}遭到了我的军队勒索。但我向你保证，这并非故意，希望我们之间的友好关系不要被破坏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
+			<Text>对你致以最温暖的问候，明智的领袖！看到你选择了自由的道路，我由衷的高兴：这意味着在反抗压迫的道路上我们又多了一位同行者！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_1">
+			<Text>你好，同志！看到你选择了秩序的道路，我由衷的高兴。在下次五年计划开展之时，相信我们会找到机会互相帮助！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
+			<Text>伟大的帝国，欢迎！看到你选择了独裁的道路，我由衷的高兴。我们之间的联盟会保证这世界上只有真正的强者才能得到最高的荣誉！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>你肮脏的间谍究竟是怎样窃取我们的那些基础科技的？这可能是我们最后一次在和平状态下对话了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>如果你郑重宣誓不会再派遣间谍窃取我的科技，这次的事我可以不计较。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>很高兴看到你同意不再做此肮脏事情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>你的轻浮并不让我感到意外。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_YES_1">
+			<Text>如你所愿，我的间谍们将离开你的国境。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_NO_1">
+			<Text>我们的间谍是为了确保我们文明的安全而存在的。他们将去他们该去的地方，而不是听从你的指挥。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>感谢你带来了{@1_CivAdjective}文明的密谋。我们将针对这些信息进行必要的警戒。你慷慨的帮助必将被我们牢记。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>我们的间谍发现{1_PlayerName}正在密谋对付你。希望当你的间谍得到类似消息时也会告知我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>我们的间谍发现{1_PlayerName}的军队正在向你的{2_CityName}进军。希望当你的间谍得到类似消息时也会告知我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>我们的间谍发现{1_PlayerName}在试图向你发起一次突袭。希望当你的间谍得到类似消息时也会告知我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>我们的间谍发现{1_PlayerName}的海军正在向你的{2_CityName}进军。希望当你的间谍得到类似消息时也会告知我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>我们的间谍发现{1_PlayerName}在试图用海军向你发起一次突袭。希望当你的间谍得到类似消息时也会告知我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
+			<Text>我们刚消灭了一个正试图窃取我方科技的间谍。据我所知，干掉他比读一本书学点知识还要简单多了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
+			<Text>我很遗憾不久前我方间谍的举动。请让一切敌对行为就此止息吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>你好，你来这儿的目的是为了刚才那个死去的小间谍吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_1">
+			<Text>我的一座城市刚被窃取了一些科技信息。你能保证你与此事无关吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
+			<Text>我有充分的证据证明你在我国内布置了间谍。在某一方受到伤害前，你应该停止这种行动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_STOP_CONVERSIONS_1">
+			<Text>我注意到你在试图转化我们人民的宗教信仰，你必须停止这样做！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>我很清楚，有些不适当的行为是不可原谅的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>很感谢你的决定，让这件小事就此过去吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>很高兴你同意终止在我境内的传教活动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>你的宗教狂热令我深感不安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>如你所愿，我的传教士将停止向你的人民传播至善真理。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>即使你抗议，你的人民依然会被我们的传教士开导——虽然你希望他们生活在愚昧无知中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>我们正热切期待你的无条件投降呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>现在向我们彻底投降是你们唯一合理的选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>我们可以现在签订和约——免得你被彻底消灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>非常欢迎你对{1_LeagueName}的提案，我们的利益是一致的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_LIKE_HUMAN_PROPOSAL_2">
+			<Text>你在{1_LeagueName}的提案十分符合我的利益，我真诚的向你表达敬意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>你在{1_LeagueName}的提案是对我方利益的无耻攻击，希望这个举动不要激起更大的冲突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_DISLIKE_HUMAN_PROPOSAL_2">
+			<Text>我认为你在{1_LeagueName}的提案只会导致麻烦。对此我相信有更简单的解决方案——在政治之外的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>由于你方代表的帮助，我们在{1_LeagueName}上的提案已获通过。我们十分期待你继续帮助我们，我们也会投桃报李的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>多谢你的帮助，我们在{1_LeagueName}上的提案已经通过。相信我们的合作可以解决更多更大的问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>你方代表在{1_LeagueName}上的不合作态度导致我方提案未获通过，我不会对此置之不理的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>由于你方代表的阻挠，我们在{1_LeagueName}上的提案失败了。你不要指望日后我们的代表会支持你的任何提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>十分感谢你方支持我国成为世界议会的东道主。我期待下届{1_LeagueName}能发挥更大作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>走着瞧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_BULLIED_MINOR_BAD_1">
+			<Text>我依然坚持认为我的决定是对国家和人民有利的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>很好，我会注意这个情况的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey}向世界宣称他们正在保护{1_MinorCivName:textkey}。攻击或是勒索这个城邦将导致关系下降甚至战争。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_1">
+			<Text>我们不愿向你提供等量的交易物品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_2">
+			<Text>我们能拿出的任何交易方案都不能匹配你所提供的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGINGX_1">
+			<Text>我们发现你正试图在我国境内寻找文物。你必须停止这类行为。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>抱歉，我们的计划比与你做口舌之争这类琐事要重要得多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>如你所愿，我们将停止在你国境内寻找文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>我是否要让事态升级呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>谢谢你听从了我们的要求。文物是属于我们的土地、我们的人民的，而不是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_DONT_STOP_DIGGING">
+			<Text>我们会在任何我们想挖掘的地方挖掘。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_STOP_DIGGING">
+			<Text>我们并无意窃取你们的文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>我们的人民似乎已经被资本主义宣传的自由和平等给腐化了，他们居然认为他们有权力在街上游行示威！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>你的密谋已经使我们陷入了革命的惊恐之中。罢工还不能结束吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>你对力量的崇拜已在我们人民中引起了强烈反响，你是在强迫我们模仿你的极权政治吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>你的市民们大声要求着自由，推到这面压迫之墙，加入自由进步的联盟吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>被压迫着的工人们已经团结起来。不管你愿不愿意，历史已经站在我们这一边，你的统治终将被埋葬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>你那些不安分的贱民需要一个强有力的统治者。加入我们一起谱写历史、还是坐在那里束手无策？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_FREEDOM_1">
+			<Text>欢迎之至！我们向自由阵营的新成员致敬！“不要问我们每个人能做什么，而要问我们在一起能做什么。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_ORDER_1">
+			<Text>“八年的教育，我们就能将一个孩子锻造成永远的社会主义者。”相信你们的工人阶级曾经听说过这句话吧？欢迎他们加入革命的大家庭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SWITCHED_TO_AUTOCRACY_1">
+			<Text>你不会后悔选择独裁的。“所有皆为国，国之外皆空，国以上无物”。只有最强的领袖才能带领着最强的民族开创地球的新时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_INFLUENTIAL_ON_AI_1">
+			<Text>我国的人民都热衷于你们的牛仔裤和流行音乐，我担心全世界都要屈服于你们的文化影响了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_INFLUENTIAL_ON_HUMAN_1">
+			<Text>我很高兴见到我国纪念品热销、以及贵国来游玩的人数创造新的记录。我们文明的艺术杰作们实在是太有魅力了！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

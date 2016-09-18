@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_BUILDING_NILOMETER">
+			<Text>尼罗河水位计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZIGGURAT">
+			<Text>神塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LIONS_GATE">
+			<Text>狮门</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

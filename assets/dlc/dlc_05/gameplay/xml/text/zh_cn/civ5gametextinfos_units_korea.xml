@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<!-- freesand leo -->
+<GameData>
+  <Language_zh_CN>
+      <Row Tag="TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING">
+          <Text>龟船</Text>
+      </Row>
+      <Row Tag="TXT_KEY_CIV5_KOREA_HWACHA_HEADING">
+          <Text>火厢车</Text>
+      </Row>
+  </Language_zh_CN>
+</GameData>

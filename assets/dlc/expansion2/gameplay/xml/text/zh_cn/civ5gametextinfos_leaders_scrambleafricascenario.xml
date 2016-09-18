@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_PEDRO">
+			<Text>利奥波德二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_ELIZABETH">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_NAPOLEON">
+			<Text>儒勒·格雷维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AUGUSTUS">
+			<Text>朱塞佩·加里波第</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_BISMARCK">
+			<Text>俾斯麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_MARIA_I">
+			<Text>玛丽亚·皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_RAMESSES">
+			<Text>伊斯梅尔帕夏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_AHMAD_ALMANSUR">
+			<Text>哈桑一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SULEIMAN">
+			<Text>阿卜杜勒-哈米德二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_WASHINGTON">
+			<Text>保罗·克鲁格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SELASSIE">
+			<Text>孟尼利克二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_LEADER_SHAKA">
+			<Text>塞奇瓦约</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

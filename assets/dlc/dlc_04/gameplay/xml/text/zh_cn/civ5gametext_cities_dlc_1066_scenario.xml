@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Cities -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_BIRSAY">
+			<Text>比尔塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THURSO">
+			<Text>索尔萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORNOWAY">
+			<Text>斯托诺维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FISKAVAIG">
+			<Text>菲斯卡维格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IONA">
+			<Text>爱奥那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAYEUX">
+			<Text>巴约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_VALERY">
+			<Text>圣瓦雷利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WAREHAM">
+			<Text>瓦尔汉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHICHESTER">
+			<Text>奇切斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTHAMPTON">
+			<Text>北安普顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THETFORD">
+			<Text>谢特福德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAMFORD">
+			<Text>斯坦福</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAFFORD">
+			<Text>斯塔福德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHESTER">
+			<Text>切斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LINCOLN">
+			<Text>林肯</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

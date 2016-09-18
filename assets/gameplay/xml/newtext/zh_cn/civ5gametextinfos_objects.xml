@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Objects -->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_DOMAIN_AIR">
+			<Text>空军单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_IMMOBILE">
+			<Text>固定单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_LAND">
+			<Text>陆军单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_SEA">
+			<Text>海军单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_0">
+			<Text>远古时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_1">
+			<Text>古典时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6">
+			<Text>未来时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_4">
+			<Text>工业时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_2">
+			<Text>中古时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_5">
+			<Text>电气时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_3">
+			<Text>启蒙时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FALLOUT">
+			<Text>辐射</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FLOOD_PLAINS">
+			<Text>冲积平原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_FOREST">
+			<Text>森林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ICE">
+			<Text>冰区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_JUNGLE">
+			<Text>丛林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MARSH">
+			<Text>沼泽</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_OASIS">
+			<Text>绿洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_EPIC">
+			<Text>史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_MARATHON">
+			<Text>马拉松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_STANDARD">
+			<Text>标准</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAMESPEED_QUICK">
+			<Text>快速</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOLD">
+			<Text>金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_DEITY">
+			<Text>天神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_IMMORTAL">
+			<Text>圣人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_EMPEROR">
+			<Text>皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_KING">
+			<Text>国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_PRINCE">
+			<Text>亲王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_WARLORD">
+			<Text>军阀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_CHIEFTAIN">
+			<Text>酋长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_SETTLER">
+			<Text>平民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_AI_DEFAULT">
+			<Text>电脑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CAMP">
+			<Text>猎场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CITY_RUINS">
+			<Text>城市废墟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FARM">
+			<Text>农场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FISHING_BOATS">
+			<Text>渔船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FORT">
+			<Text>堡垒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GOODY_HUT">
+			<Text>远古遗迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ENCAMPMENT">
+			<Text>蛮族营地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LUMBERMILL">
+			<Text>锯木场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MINE">
+			<Text>矿井</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM">
+			<Text>海上平台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PASTURE">
+			<Text>牧场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANTATION">
+			<Text>种植园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_QUARRY">
+			<Text>采石场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TRADING_POST">
+			<Text>贸易站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_WELL">
+			<Text>油井</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LANDMARK">
+			<Text>风景地标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ACADEMY">
+			<Text>学园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE">
+			<Text>海关</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MANUFACTORY">
+			<Text>制造中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CITADEL">
+			<Text>军事要塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INVISIBLE_SUBMARINE">
+			<Text>潜艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_RESEARCH">
+			<Text>科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WEALTH">
+			<Text>财富</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM">
+			<Text>阿波罗计划</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT">
+			<Text>曼哈顿工程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_CASING">
+			<Text>飞船外壳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_COCKPIT">
+			<Text>飞船驾驶舱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_DOCKING_BAY">
+			<Text>飞船对接舱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_ENGINE">
+			<Text>飞船发动机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_LIFE_SUPPORT">
+			<Text>飞船生活舱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_STASIS_CHAMBER">
+			<Text>飞船休眠舱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_THRUSTERS">
+			<Text>飞船推进器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SS_BOOSTER">
+			<Text>飞船助推器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT1">
+			<Text>格斗一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT2">
+			<Text>格斗二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT3">
+			<Text>格斗三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALUMINUM">
+			<Text>铝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BANANAS">
+			<Text>香蕉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COAL">
+			<Text>煤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CATTLE">
+			<Text>牛群</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SHEEP">
+			<Text>绵羊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DEER">
+			<Text>野鹿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DYES">
+			<Text>染料</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FISH">
+			<Text>鱼群</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GEMS">
+			<Text>宝石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_GOLD">
+			<Text>黄金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HORSES">
+			<Text>马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_IRON">
+			<Text>铁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_IVORY">
+			<Text>象牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MARBLE">
+			<Text>大理石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OIL">
+			<Text>石油</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILK">
+			<Text>丝绸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SPICES">
+			<Text>香料</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STONE">
+			<Text>花岗石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SUGAR">
+			<Text>蔗糖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_URANIUM">
+			<Text>铀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHALES">
+			<Text>鲸鱼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WHEAT">
+			<Text>小麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WINE">
+			<Text>红酒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COTTON">
+			<Text>棉花</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FURS">
+			<Text>毛皮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_INCENSE">
+			<Text>薰香</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEARLS">
+			<Text>珍珠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SILVER">
+			<Text>白银</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ROUTE_RAILROAD">
+			<Text>铁路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ROUTE_ROAD">
+			<Text>道路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST">
+			<Text>艺术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_SLOTS">
+			<Text>艺术家席位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_TITLE">
+			<Text>大艺术家点数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_CITIZEN">
+			<Text>未分配市民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER">
+			<Text>工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER_SLOTS">
+			<Text>工程师席位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ENGINEER_TITLE">
+			<Text>大工程师点数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_ARTIST">
+			<Text>大艺术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_ENGINEER">
+			<Text>大工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_MERCHANT">
+			<Text>大商业家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_PRIEST">
+			<Text>大预言家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_GREAT_SCIENTIST">
+			<Text>大科学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT">
+			<Text>商业家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT_SLOTS">
+			<Text>商业家席位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MERCHANT_TITLE">
+			<Text>大商业家点数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST">
+			<Text>科学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_SLOTS">
+			<Text>科学家席位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_SCIENTIST_TITLE">
+			<Text>大科学家点数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_DESERT">
+			<Text>荒漠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_GRASS">
+			<Text>草原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_HILL">
+			<Text>丘陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN">
+			<Text>山脉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_OCEAN">
+			<Text>大洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS">
+			<Text>平原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW">
+			<Text>雪原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_TUNDRA">
+			<Text>冻土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_CULTURE">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_RESEARCH">
+			<Text>科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_FAST">
+			<Text>较快</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_MEDIUM">
+			<Text>中等</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURNTIMER_SLOW">
+			<Text>较慢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_DOMINATION">
+			<Text>支配(准征服)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CULTURAL">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_DIPLOMATIC">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_SPACE_RACE">
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_TIME">
+			<Text>时间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_DEBUG">
+			<Text>调试</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_DUEL">
+			<Text>擂台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_TINY">
+			<Text>极小</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_SMALL">
+			<Text>较小</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_STANDARD">
+			<Text>标准</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_LARGE">
+			<Text>较大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_HUGE">
+			<Text>极大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FOOD">
+			<Text>食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_PRODUCTION">
+			<Text>产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_GOLD">
+			<Text>金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_SCIENCE">
+			<Text>科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_CULTURED_ADJECTIVE">
+			<Text>文化型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_ADJECTIVE">
+			<Text>军事型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_MARITIME_ADJECTIVE">
+			<Text>航海型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_FRIENDLY">
+			<Text>友好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_NEUTRAL">
+			<Text>中立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE">
+			<Text>仇外</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL">
+			<Text>善变</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_EVEREST">
+			<Text>珠穆朗玛峰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CRATER">
+			<Text>巴林杰陨石坑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_LAKE_TITICACA">
+			<Text>的的喀喀湖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_FUJI">
+			<Text>富士山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MESA">
+			<Text>大平顶山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_REEF">
+			<Text>大堡礁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_VOLCANO">
+			<Text>喀拉喀托火山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_GIBRALTAR">
+			<Text>直布罗陀巨岩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_GEYSER">
+			<Text>老忠实泉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ATOLL">
+			<Text>环礁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_NATURAL_WONDER">
+			<Text>自然奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE">
+			<Text>悉尼歌剧院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STADIUM_DESC">
+			<Text>体育场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LONGHOUSE_DESC">
+			<Text>长屋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_DESC">
+			<Text>水上园圃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BAZAAR_DESC">
+			<Text>巴扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_DESC">
+			<Text>总督府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAPER_MAKER_DESC">
+			<Text>造纸坊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONUMENT_DESC">
+			<Text>纪念碑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC">
+			<Text>土塔清真寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_DESC">
+			<Text>神庙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WAT_DESC">
+			<Text>经院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_DESC">
+			<Text>陵墓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_DESC">
+			<Text>修道院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PROD_TEXT">
+			<Text>产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GOLD_TEXT">
+			<Text>金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RESEARCH_TEXT">
+			<Text>科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CULTURE_TEXT">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GREAT_PEOPLE_TEXT">
+			<Text>伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_WONDERS_TEXT">
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_SPECIAL_TEXT">
+			<Text>专家建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_REGULARBUILDING_TEXT">
+			<Text>建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITIZENS_TEXT">
+			<Text>市民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIAN_UNIT">
+			<Text>非战斗单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MILITARY_UNIT">
+			<Text>军事单位</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

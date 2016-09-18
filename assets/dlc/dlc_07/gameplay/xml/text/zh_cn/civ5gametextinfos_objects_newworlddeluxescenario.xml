@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<!-- Builds -->
+		<Row Tag="TXT_KEY_BUILD_TIPI_HELP">
+			<Text>建造提皮帐篷能增加此地块的[ICON_FOOD]食物和[ICON_PEACE]信仰产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI_REC">
+			<Text>能增加此地块的[ICON_FOOD]食物和[ICON_PEACE]信仰产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI">
+			<Text>建造[LINK=IMPROVEMENT_TIPI]提皮帐篷[\LINK]</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_IMPROVEMENT_TERRACE_FARM">
+			<Text>梯田</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI">
+			<Text>提皮帐篷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_HELP">
+			<Text>提皮帐篷只能建造于平坦的地块（有额外地貌也没关系），不能与其他提皮帐篷相邻，必须建造在肖肖尼的领土上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TIPI_TEXT">
+			<Text>提皮帐篷是用鞣制皮革及多根木杆搭建而成、易于携带的圆锥形帐篷。是习惯于四处迁徙的北美平原印地安人传统文化的重要组成部分。“提皮”一词源自拉科塔语，意为“居住”。提皮帐篷除了具备遮风蔽雨的功能，其表面往往还绘有华丽的图案，能够用以区分不同的部族。[NEWLINE][NEWLINE]提皮帐篷只能建造于平坦的地块（有额外地貌也没关系），而且彼此不能相邻。</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="TXT_KEY_FEATURE_BELIZE_REEF">
+			<Text>伯利兹堡礁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_BELIZE_REEF_TEXT">
+			<Text>伯利兹堡礁是中美洲珊瑚礁体系的重要组成部分，长达190英里，其中生长着100多种的珊瑚虫以及500多种鱼类。它是世界上第三大的自然堡礁，于公元1996年被列入世界遗产名录。然而由于面临海水污染以及无限制的旅游、渔业与海运活动等威胁，近十年来可观察到的活珊瑚已锐减了48%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CHIMBORAZO">
+			<Text>钦博拉索山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_CHIMBORAZO_TEXT">
+			<Text>钦博拉索山高度为20,500英尺，是西科迪勒拉山脉（属于安第斯山系）中的一座复式火山（最近一次爆发时间为公元550年）。在发现喜马拉雅山诸峰之前，欧洲人曾普遍认为它是世界的最高峰。1880年，一支由厄瓜多尔当地向导带领的英国与意大利联合登山队首次登上了钦博拉索山。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_TLALOC">
+			<Text>特拉洛克山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_MT_TLALOC_TEXT">
+			<Text>墨西哥中部的特拉洛克山高度为13,600 英尺，是阿兹特克人所崇敬的圣山，其顶峰设有一处供奉雨神的神坛。考古学研究发现这座神坛与其周边神庙的位置有关联，可能标示着重要祭典的日期，而这些日期与当地玉米的种植周期也存在明显的关联。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_TSOODZIL">
+			<Text>绿松石山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURES_TSOODZIL_TEXT">
+			<Text>对新墨西哥一带的纳瓦霍人来说，“绿松石山”（Tsoodzil）是标示四大方位的四座圣山之一（绿松石山标示的是南方），同时也是其领土的南疆。如今，这座高4100英尺的休眠复式火山以美国总统扎卡里·泰勒命名。而纳瓦霍人视这座山岳为黑神、绿松石之子及绿松石之女的居所。</Text>
+		</Row>
+		<!--Resources-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
+			<Text>野牛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
+			<Text>过去驰骋于大平原地区，数量繁多的北美野牛（bison），曾是许多原住民部族赖以为生的肉、筋、皮、骨等资源的主要来源。19世纪晚期美国人的大规模猎捕活动导致野牛近乎灭绝，但最近数十年以来，由于联邦及各州野生动物保育计划的实施，野牛数量已有所回升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
+			<Text>可可</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
+			<Text>可可豆采自原生于南美洲的可可树，在哥伦布时代之前的中美洲已是一种重要的商品，在文化族群的生活中都具有显要地位。西班牙人将其引进欧洲后，到了18世纪中叶，可可也成为欧洲人所追捧饮料、食材，甚至还被作为药材使用。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

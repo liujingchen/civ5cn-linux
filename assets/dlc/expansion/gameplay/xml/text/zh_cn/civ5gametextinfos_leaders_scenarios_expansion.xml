@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_AUGUSTUS">
+			<Text>霍诺留</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_DARIUS">
+			<Text>巴赫拉姆五世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ASKIA">
+			<Text>盖萨里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_NAPOLEON">
+			<Text>克洛吉奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BISMARCK">
+			<Text>亚拉里克一世</Text>
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK">
+			<Text>居鲁士·罗瑟拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE">
+			<Text>伊尼亚斯·克尔瑙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH">
+			<Text>屋大维·卡特勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>路德·格里格斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON">
+			<Text>克林顿·奥德戴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BARBARIAN">
+			<Text>勒戴特</Text>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA">
+			<Text>萨拉丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN">
+			<Text>阿古柏·曼苏尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON">
+			<Text>弗朗索瓦一世</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

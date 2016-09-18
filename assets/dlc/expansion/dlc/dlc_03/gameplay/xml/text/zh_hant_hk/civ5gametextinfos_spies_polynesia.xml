@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_0">
+      <Text>提基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_1">
+      <Text>霍圖·瑪圖阿</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_2">
+      <Text>朗苟馬坦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_3">
+      <Text>庫佩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_4">
+      <Text>哈洛堤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_5">
+      <Text>德杰</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_6">
+      <Text>巴巴米克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_7">
+      <Text>劉古錄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_8">
+      <Text>南加南加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_9">
+      <Text>吐魯瓦</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_DESC">
+			<Text>西罗马帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_SHORT_DESC">
+			<Text>西罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_ADJECTIVE">
+			<Text>西罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_DESC">
+			<Text>东罗马帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_SHORT_DESC">
+			<Text>东罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_ADJECTIVE">
+			<Text>东罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_DESC">
+			<Text>萨珊帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_SHORT_DESC">
+			<Text>萨珊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_ADJECTIVE">
+			<Text>萨珊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_DESC">
+			<Text>法兰克王国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>法兰克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>法兰克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_DESC">
+			<Text>哥特王国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>哥特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>哥特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>汪达尔王国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>汪达尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>汪达尔</Text>
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_DESC">
+			<Text>伊鲁契帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>伊鲁契</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>伊鲁契</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_DESC">
+			<Text>欧尔林帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_SHORT_DESC">
+			<Text>欧尔林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_ADJECTIVE">
+			<Text>欧尔林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>普里亚斯帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_SHORT_DESC">
+			<Text>普里亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_ADJECTIVE">
+			<Text>普里亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_DESC">
+			<Text>维德里亚帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_SHORT_DESC">
+			<Text>维德里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_ADJECTIVE">
+			<Text>维德里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_DESC">
+			<Text>达尔梅斯帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>达尔梅斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>达尔梅斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_ADJECTIVE">
+			<Text>卢德派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_DESC">
+			<Text>卢德派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_BARBARIAN_SHORT_DESC">
+			<Text>卢德派</Text>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_DESC">
+			<Text>阿尤布王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_SHORT_DESC">
+			<Text>阿尤布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_ADJECTIVE">
+			<Text>阿尤布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_SHORT_DESC">
+			<Text>穆瓦希德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_DESC">
+			<Text>穆瓦希德王朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_ADJECTIVE">
+			<Text>穆瓦希德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+			<Text>土耳其</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_DESC">
+			<Text>土耳其帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+			<Text>土耳其</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

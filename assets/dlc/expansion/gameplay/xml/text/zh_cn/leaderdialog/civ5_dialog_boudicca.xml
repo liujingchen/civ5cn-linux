@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_1">
+			<Text>请注意，你现在站在凯尔特人的土地上。我是凯尔特人的女王布狄卡，别低估我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_2">
+			<Text>有趣的见面，勇士！我是布狄卡，凯尔特人的领袖。也许我们在这动乱的世界里能成为盟国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_FIRSTGREETING_3">
+			<Text>嘿，番邦头子！我布狄卡，普拉苏塔古斯钦点的凯尔特女王。人民的意志和国王之魂常驻我心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_1">
+			<Text>噢，我认为你比平常人更具智慧，我将胜利拱手奉上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_2">
+			<Text>小心轻蔑的动作，以免你会忘记是谁做的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_WARBLUFF_3">
+			<Text>你最好祈祷别再惹怒我，我的猎犬们已经有一段时间没有狩猎了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_WINWAR_1">
+			<Text>难道你不知道我是胜利之神指定的吗？安德拉斯特之愿今日实现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LOSEWAR_1">
+			<Text>一切证明你是你的家族中是最卓越的人。我不会再次低估你的了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_1">
+			<Text>你也许占有我们的土地和财富，但是我们的民族是最具骄傲的。我们的传统的会一直延续下去并且不会湮灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_2">
+			<Text>卑鄙可耻的统治者，你单单赢得名义上的战争。你的城市被埋葬，你的军队也被击败了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEFEATED_3">
+			<Text>在战场上遭遇我的民族的这个地方，我想给你一些小惊喜。总有一天，我会很骄傲地称呼你为階下囚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_1">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_NEUTRAL">
+			<Text>.就这么定了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你会发现我不像那些简单的女人。你必须加大你谈判的筹码。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得再好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>也许就差不多了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_NEUTRAL">
+			<Text>我们不感兴趣。请！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL">
+			<Text>看在这些财宝的份上，好吧。但是如此轻率的行径是不会被轻易忘记的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL">
+			<Text>你当我是什么，傻子？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_NEUTRAL">
+			<Text>我相信我们都能从共享这些资源中获益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我们将会忽略你可疑的行为作为公平的补偿。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_2">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_1">
+			<Text>让我们一起听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_4">
+			<Text>噢，很高兴再次见到你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_3">
+			<Text>下次再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_4">
+			<Text>一路平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_HAPPY">
+			<Text>就这么定了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>在这愉快的时候，我很难同意，我想你也许应该做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>来吧，你应该改善你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>我觉得差不多，这儿……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_HAPPY">
+			<Text>谢谢！但是我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_HAPPY">
+			<Text>我们已经准备好援助处于危难的盟国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_HAPPY">
+			<Text>别利用我们的关系，而且也别忘记你在跟谁打交道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_HAPPY">
+			<Text>我们处于危难之中，迫切需要你的援助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_HAPPY">
+			<Text>让我们集合我们的力量并且共享回报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_3">
+			<Text>恐怕不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_4">
+			<Text>我们拒绝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_3">
+			<Text>继续说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_4">
+			<Text>我在听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_5">
+			<Text>噢，是你呀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GREETING_6">
+			<Text>你想要什么呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_GOODBYE_6">
+			<Text>退下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_YES_ANGRY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>疯狂的尼禄也不会同意这样的提议的。改善你的提议，否则就滚蛋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你应该做得更好一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY">
+			<Text>你是不是把我当傻子了？滚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY">
+			<Text>如此无礼是不会被轻易忘记的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_ANGRY">
+			<Text>你愚蠢的话语只能落入聋子的耳朵。滚，不要再浪费我的时间了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_ANGRY">
+			<Text>我的借你的贷款到期了，我想我应该把你的金子变成我的了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_ANGRY">
+			<Text>虽然我多么渴望你的毁灭，但是我相信还是能抛开我们的少量时候的分歧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_AGREE_SHORT_4">
+			<Text>嘿，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_5">
+			<Text>绝对办不到</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_6">
+			<Text>这绝对不能被接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DISAGREE_SHORT_7">
+			<Text>绝不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_LETSHEARIT_5">
+			<Text>继续，趁我改变主意之前，</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_1">
+			<Text>我们气势如虹的战车已经集结完毕，我的子民们要饱尝你鲜血的味道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_2">
+			<Text>时光之轮再次滚动，但是这次我们的目标不是最慢的奔跑者。我已经公平得给你警告。跑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_DECLAREWAR_3">
+			<Text>你的卑鄙行为再不能污染这片大陆了！拿起武器，同胞们！奔赴战场吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_1">
+			<Text>叛徒！凯尔特人是不会对如此荒唐的凌辱和诽谤袖手旁观的。我要取下你的人头！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_2">
+			<Text>你敢！你是不是忘记了伦迪乌姆之战的所付出的代价呢？你的街道将充斥着我军队的呐喊！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA_ATTACKED_3">
+			<Text>这是怎样的一种背叛？凭借安德拉斯特的力量，你防守的人民的哀号将是我子耳中甜蜜的摇篮曲。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

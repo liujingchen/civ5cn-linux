@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<!-- Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
+			<Text>圣多明各</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
+			<Text>诺布雷德迪欧斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
+			<Text>圣胡安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
+			<Text>哈瓦那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
+			<Text>巴拿马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
+			<Text>维拉克鲁兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
+			<Text>阿卡普尔科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
+			<Text>卡塔格纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
+			<Text>布宜诺斯艾利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
+			<Text>卡尔劳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
+			<Text>阿桑松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
+			<Text>瓦尔帕莱索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
+			<Text>安提瓜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
+			<Text>罗安诺科岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
+			<Text>詹姆斯敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
+			<Text>圣乔治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
+			<Text>圣约翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
+			<Text>普利茅斯镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
+			<Text>萨雷姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
+			<Text>温莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
+			<Text>威塞斯菲尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
+			<Text>圣马利亚镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
+			<Text>塞布鲁克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
+			<Text>普罗维登斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
+			<Text>皇家查理堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
+			<Text>蒙特利尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
+			<Text>法属南极</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
+			<Text>卡罗琳堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
+			<Text>塔多萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
+			<Text>皇家港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
+			<Text>圣克里斯多夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
+			<Text>三河镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
+			<Text>多米尼加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
+			<Text>圣皮埃尔堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
+			<Text>卡宴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
+			<Text>格林纳达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTO_SEGURO">
+			<Text>塞古鲁港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_VICENTE">
+			<Text>圣维森特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALVADOR_DA_BAHIA">
+			<Text>巴伊亚-萨尔瓦多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAO_CRISTOVAO">
+			<Text>圣克里斯托旺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IGARASSU">
+			<Text>伊加拉苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLINDA">
+			<Text>奥林达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BEVERWIJCK">
+			<Text>贝弗韦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEW_AMSTERDAM">
+			<Text>新阿姆斯特丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAVONIA">
+			<Text>帕沃尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURACAO">
+			<Text>库拉索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BONAIRE">
+			<Text>波内赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARUBA">
+			<Text>阿鲁巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_EUSTATIUS">
+			<Text>圣尤斯特歇斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_GOEDE_HOOP">
+			<Text>好望堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINT_MAARTEN">
+			<Text>圣马丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SABA">
+			<Text>萨巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WILTWIJCK">
+			<Text>威特韦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARAMARIBO">
+			<Text>帕拉马里博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_KYK_OVER_AL">
+			<Text>俯瞰堡</Text>
+		</Row>
+		<!-- MAYA -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHICHENITZA">
+			<Text>奇琴伊察城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UXMAL">
+			<Text>乌斯马尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TULUM">
+			<Text>图卢姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COPAN">
+			<Text>科潘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COBA">
+			<Text>科巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELMIRADOR">
+			<Text>埃尔米拉多尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CALAKMUL">
+			<Text>卡拉克穆尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EDZNA">
+			<Text>埃兹纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAMANAI">
+			<Text>拉马奈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IZAPA">
+			<Text>伊萨帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UAXACTUN">
+			<Text>瓦哈克通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COMALCALCO">
+			<Text>科马尔卡尔科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PIEDRANEGRAS">
+			<Text>彼德拉斯内格拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CANCUEN">
+			<Text>坎库恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_YAXHA">
+			<Text>雅萨哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUIRIGUA">
+			<Text>基里瓜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_QUMARKAJ">
+			<Text>库玛卡哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NAKBE">
+			<Text>纳克贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CERROS">
+			<Text>塞罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_XUNANTUNICH">
+			<Text>苏南图尼奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAKALIKABAJ">
+			<Text>阿巴赫-塔卡利克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CIVAL">
+			<Text>西瓦尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANBARTOLO">
+			<Text>圣巴托洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALTARDESACRIFICIOS">
+			<Text>祭坛城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEIBAL">
+			<Text>塞巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CARACOL">
+			<Text>卡拉科尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NARANJO">
+			<Text>纳兰霍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DOSPILAS">
+			<Text>多斯皮拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAYAPAN">
+			<Text>玛雅潘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IXINCHE">
+			<Text>伊西姆切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZACULEU">
+			<Text>扎库勒乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KABAH">
+			<Text>卡巴</Text>
+		</Row>
+		<!-- NETHERLANDS -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMSTERDAM">
+			<Text>阿姆斯特丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ROTTERDAM">
+			<Text>鹿特丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UTRECHT">
+			<Text>乌得勒支</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRONINGEN">
+			<Text>格罗宁根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BREDA">
+			<Text>布雷达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIJMEGEN">
+			<Text>奈梅亨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_THEHAGUE">
+			<Text>海牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HAARLEM">
+			<Text>哈勒姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ARNHEM">
+			<Text>阿纳姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZUTPHEN">
+			<Text>聚特芬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MAASTRICHT">
+			<Text>马斯特里赫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TILBURG">
+			<Text>蒂尔堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_EINDHOVEN">
+			<Text>艾恩德霍芬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DORDRECHT">
+			<Text>多德雷赫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEIDEN">
+			<Text>莱顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SHERTOGENBOSCH">
+			<Text>斯海尔托亨博思</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERE">
+			<Text>阿尔梅勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALKMAAR">
+			<Text>阿尔克马尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BRIELLE">
+			<Text>布里勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VLISSINGEN">
+			<Text>弗利辛恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_APELDOOM">
+			<Text>阿珀尔多伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ENSCHEDE">
+			<Text>恩斯赫德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AMERSFOORT">
+			<Text>阿默斯福特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZWOLLE">
+			<Text>兹沃勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VENLO">
+			<Text>芬洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_UDEN">
+			<Text>于登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRAVE">
+			<Text>赫拉弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_DELFT">
+			<Text>代尔夫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GOUDA">
+			<Text>豪达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NIEUWSTADT">
+			<Text>尼乌斯塔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_WEESP">
+			<Text>韦斯普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_COEVORDEN">
+			<Text>库福尔登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KERKRADE">
+			<Text>凯尔克拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CUSCO">
+			<Text>库斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TIWANAKU">
+			<Text>蒂亚瓦纳科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MACHU">
+			<Text>马丘比丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OLLANTAYTAMBO">
+			<Text>奥扬泰坦博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORIHUAYACHINA">
+			<Text>科利怀拉奇纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUAMANGA">
+			<Text>瓦曼加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCAS">
+			<Text>比尔卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VILCABAMBA">
+			<Text>比尔卡班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITCOS">
+			<Text>维特科斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ANDAHUAYLAS">
+			<Text>安达韦拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ICA">
+			<Text>伊卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_AREQUIPA">
+			<Text>阿雷基帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_NASCA">
+			<Text>纳斯卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ATICO">
+			<Text>阿蒂科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JULI">
+			<Text>胡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUITO">
+			<Text>丘奎托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUQUIAPO">
+			<Text>丘基亚普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUANUCOPAMPA">
+			<Text>瓦努科潘帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCCOCHA">
+			<Text>塔博科查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUARAS">
+			<Text>瓦拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_RIOBAMBA">
+			<Text>里奥班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CAXAMALCA">
+			<Text>卡哈马卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAUSA">
+			<Text>绍萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TAMBOCOLORADO">
+			<Text>坦博科罗拉多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUACA">
+			<Text>瓦卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TUMBES">
+			<Text>通贝斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHAN_CHAN">
+			<Text>昌昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SIPAN">
+			<Text>西潘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PACHACAMAC">
+			<Text>帕查卡马克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LLACTAPATA">
+			<Text>雅克塔帕特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PISAC">
+			<Text>皮萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_KUELAP">
+			<Text>库埃拉普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAJATEN">
+			<Text>帕亚腾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CHUCUITO">
+			<Text>丘依托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MADRID">
+			<Text>马德里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BARCELONA">
+			<Text>巴塞罗那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SEVILLE">
+			<Text>塞维利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CORDOBA">
+			<Text>科尔多瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TOLEDO">
+			<Text>托莱多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTIAGO">
+			<Text>圣地亚哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SALAMANCA">
+			<Text>萨拉曼卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALENCIA">
+			<Text>巴伦西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZARAGOZA">
+			<Text>萨拉戈萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PAMPLONA">
+			<Text>潘普洛那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SANTANDER">
+			<Text>桑坦德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VALLADOLID">
+			<Text>巴利亚多利德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_PALMA">
+			<Text>帕尔马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LEON">
+			<Text>莱昂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BILBAO">
+			<Text>毕尔巴鄂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LA_CORUNA">
+			<Text>拉科鲁尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VITORIA">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ASTURIAS">
+			<Text>阿斯图里亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MURCIA">
+			<Text>穆尔西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_JAEN">
+			<Text>哈恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LOGRONO">
+			<Text>洛格罗尼奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TERUEL">
+			<Text>特鲁埃尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALMERIA">
+			<Text>阿尔梅里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ZAMORA">
+			<Text>萨莫拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MIDA">
+			<Text>米达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LUGO">
+			<Text>卢戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALICANTE">
+			<Text>阿利坎特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_CADIZ">
+			<Text>加的斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ELCHE">
+			<Text>埃尔切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_ALCORCON">
+			<Text>阿尔科孔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BURGOS">
+			<Text>布尔戈斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_VIGO">
+			<Text>维戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_BADAJOZ">
+			<Text>巴达霍斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_OVIEDO">
+			<Text>奥维耶多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_SAN_SEBASTIAN">
+			<Text>圣塞瓦斯蒂安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_GRANADA">
+			<Text>格拉纳达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_MERIDA">
+			<Text>梅里达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_HUELVA">
+			<Text>韦尔瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_IBIZA">
+			<Text>伊维萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_LAS_PALMAS">
+			<Text>拉斯帕尔马斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITY_NAME_TENERIFE">
+			<Text>特内里费</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

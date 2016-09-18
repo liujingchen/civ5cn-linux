@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TECH_ARCHITECTURE">
+			<Text>建筑设计学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARCHITECTURE_TITLE">
+			<Text>建筑设计学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GUILDS">
+			<Text>行会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GUILDS_TITLE">
+			<Text>行会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS">
+			<Text>协同作战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMBINED_ARMS_TITLE">
+			<Text>协同作战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DRAMA">
+			<Text>戏剧与诗歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DRAMA_TITLE">
+			<Text>戏剧与诗歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS">
+			<Text>水力发电</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROELECTRICS_TITLE">
+			<Text>水力发电</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION">
+			<Text>工业化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INDUSTRIALIZATION_TITLE">
+			<Text>工业化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS">
+			<Text>机动战术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MOBILE_TACTICS_TITLE">
+			<Text>机动战术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TELECOM">
+			<Text>远程通信</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TELECOM_TITLE">
+			<Text>远程通信</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

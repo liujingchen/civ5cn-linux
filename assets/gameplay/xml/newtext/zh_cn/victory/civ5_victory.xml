@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
+			<Text>征服胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
+			<Text>你通过武力征服赢得了胜利，在战场上击败了所有的敌人！你赶跑了他们的军队并占领了他们的城市！人们将长久铭记你辉煌的功勋！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
+			<Text>准征服胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
+			<Text>整个世界在战火中颤抖。许多曾经强大的文明已经覆灭，但是你坚持到了最后的胜利！人们将长久铭记你辉煌的功勋！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TITLE">
+			<Text>科技胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TEXT">
+			<Text>你通过大力发展科技赢得了胜利！你征服了神秘的自然，引领你的人民开始了前往未来新世界的航程！人们将长久铭记你辉煌的功勋，直到夜空中的星辰不再闪烁！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TITLE">
+			<Text>外交胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
+			<Text>你通过精湛的外交艺术赢得了胜利！你用谋略和智慧结交强大的朋友——并使你的敌人分崩离析！你将作为给苦难的世界带来和平的领袖而永远被人们铭记！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
+			<Text>文化胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
+			<Text>你通过强大的文化影响力赢得了胜利。宏伟的纪念碑和艺术杰作证明着你的文明无与伦比的辉煌！无数心灵得到美的浇灌的人们将长久赞颂你的功勋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
+			<Text>失败</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
+			<Text>你遭到了失败。你的文明已经被众多的敌人压倒。但你的人民并未绝望，因为他们知道总有一天你会回来——并引领他们走向胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXTENDED_GAME_YES">
+			<Text>等等！再来…一个…回合…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXTENDED_GAME_DEMO">
+			<Text>购买完全版</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_TEXT">
+			<Text>你强盛而伟大的文明颀颀向荣，你的时间却已经耗尽。但你的人民并未绝望，因为他们知道总有一天你会回来——并引领他们走向胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_BULLET_TEXT">
+			<Text>[ICON_BULLET]完整文明5，完整游戏体验。[NEWLINE][NEWLINE][ICON_BULLET]引领18个文明从人类的黎明直到太空时代。[NEWLINE][NEWLINE][ICON_BULLET]下载独享内容和模组，与全世界的玩家竞争。[NEWLINE][NEWLINE][ICON_BULLET]你将为哪一个文明而奋斗呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GO_BEYOND_EARTH">
+			<Text>进入文明星际</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

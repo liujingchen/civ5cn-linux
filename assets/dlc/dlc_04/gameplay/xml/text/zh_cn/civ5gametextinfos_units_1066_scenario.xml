@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT">
+			<Text>诺曼骑士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL">
+			<Text>侍卫</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

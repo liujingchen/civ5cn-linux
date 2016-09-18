@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- freesand leo -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTO_DOMINGO">
+			<Text>圣多明各</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NOMBRE_DE_DIOS">
+			<Text>诺布雷德迪欧斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_JUAN">
+			<Text>圣胡安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVANA">
+			<Text>哈瓦那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANAMA">
+			<Text>巴拿马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VERACRUZ">
+			<Text>维拉克鲁兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ACAPULCO">
+			<Text>阿卡普尔科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTAGENA">
+			<Text>卡塔格纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUENOS_AIRES">
+			<Text>布宜诺斯艾利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALLAO">
+			<Text>卡尔劳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASUNCION">
+			<Text>阿桑松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALPARAISO">
+			<Text>瓦尔帕莱索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTIGUA">
+			<Text>安提瓜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROANOKE_ISLAND">
+			<Text>罗安诺科岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAMESTOWN">
+			<Text>詹姆斯敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_GEORGE">
+			<Text>圣乔治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_JOHNS">
+			<Text>圣约翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PLYMOUTH_COLONY">
+			<Text>普利茅斯镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALEM">
+			<Text>萨雷姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINDSOR">
+			<Text>温莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WETHERSFIELD">
+			<Text>威塞斯菲尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ST_MARYS_CITY">
+			<Text>圣马利亚镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAYBROOK">
+			<Text>塞布鲁克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROVIDENCE">
+			<Text>普罗维登斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLESBOURG_ROYALE">
+			<Text>皇家查理堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MONTREAL">
+			<Text>蒙特利尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FRANCE_ANTARCTIQUE">
+			<Text>法属南极</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_CAROLINE">
+			<Text>卡罗琳堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TADOUSSAC">
+			<Text>塔多萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORT_ROYAL">
+			<Text>皇家港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QUEBEC">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAINT_CRISTOPHE">
+			<Text>圣克里斯多夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROIS_RIVIERES">
+			<Text>三河镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOMINICA">
+			<Text>多米尼加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FORT_SAINT_PIERRE">
+			<Text>圣皮埃尔堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAYENNE">
+			<Text>卡宴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_GRENADE">
+			<Text>格林纳达</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

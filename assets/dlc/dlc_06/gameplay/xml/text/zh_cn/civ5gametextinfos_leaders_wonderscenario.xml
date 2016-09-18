@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_HARUN">
+			<Text>吉尔伽美什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_SULEIMAN">
+			<Text>穆瓦塔立斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_GILGAMESH_NAME">
+			<Text>吉尔伽美什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_LEADER_MUWATALLIS_NAME">
+			<Text>穆瓦塔立斯</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

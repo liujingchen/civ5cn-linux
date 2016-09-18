@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Old city-state names to be used in new major civs -->
+		<!--
+		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ"/>
+		-->
+		<!-- New city-state names -->
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO">
+			<Text>塔那那利佛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTANANARIVO_ADJ">
+			<Text>塔那那利佛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA">
+			<Text>波哥大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJ">
+			<Text>波哥大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA">
+			<Text>布拉迪斯拉发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BRATISLAVA_ADJ">
+			<Text>布拉迪斯拉发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES">
+			<Text>布宜诺斯艾利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJ">
+			<Text>布宜诺斯艾利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS">
+			<Text>比布鲁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BYBLOS_ADJ">
+			<Text>比布鲁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE">
+			<Text>伊费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_IFE_ADJ">
+			<Text>伊费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL">
+			<Text>喀布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KABUL_ADJ">
+			<Text>喀布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV">
+			<Text>基辅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KIEV_ADJ">
+			<Text>基辅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL">
+			<Text>克孜勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KYZYL_ADJ">
+			<Text>克孜勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA">
+			<Text>马六甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALACCA_ADJ">
+			<Text>马六甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO">
+			<Text>姆班扎刚果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJ">
+			<Text>姆班扎刚果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE">
+			<Text>墨尔本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MELBOURNE_ADJ">
+			<Text>墨尔本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU">
+			<Text>摩加迪沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOGADISHU_ADJ">
+			<Text>摩加迪沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS">
+			<Text>霍尔木兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ORMUS_ADJ">
+			<Text>霍尔木兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY">
+			<Text>巴拿马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJ">
+			<Text>巴拿马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA">
+			<Text>里加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_RIGA_ADJ">
+			<Text>里加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND">
+			<Text>撒马尔罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SAMARKAND_ADJ">
+			<Text>撒马尔罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA">
+			<Text>索非亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOFIA_ADJ">
+			<Text>索非亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR">
+			<Text>乌尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_UR_ADJ">
+			<Text>乌尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER">
+			<Text>温哥华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VANCOUVER_ADJ">
+			<Text>温哥华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS">
+			<Text>维尔纽斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VILNIUS_ADJ">
+			<Text>维尔纽斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON">
+			<Text>惠灵顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WELLINGTON_ADJ">
+			<Text>惠灵顿</Text>
+		</Row>
+		<!-- Old city-state names used in DLC civs -->
+		<!--
+		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_OSLO"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_OSLO_ADJ"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL"/>
+		<Delete Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ"/>
+		-->
+		<!-- Replacement names for old city-state names used in DLC civs -->
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY">
+			<Text>悉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJ">
+			<Text>悉尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_QUEBEC_CITY_ADJ">
+			<Text>魁北克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU">
+			<Text>加德满都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_KATHMANDU_ADJ">
+			<Text>加德满都</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

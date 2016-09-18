@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI">
+			<Text>斐济</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_FIJI_ADJ">
+			<Text>斐济</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU">
+			<Text>瓦努阿图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_VANUATU_ADJ">
+			<Text>瓦努阿图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI">
+			<Text>基里巴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_KIRIBATI_ADJ">
+			<Text>基里巴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU">
+			<Text>瑙鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NAURU_ADJ">
+			<Text>瑙鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO">
+			<Text>内恩多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_NENDO_ADJ">
+			<Text>内恩多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL">
+			<Text>瓜达尔卡纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_GUADALCANAL_ADJ">
+			<Text>瓜达尔卡纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI">
+			<Text>波纳佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_POHNPEI_ADJ">
+			<Text>波纳佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO">
+			<Text>马朱罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CITYSTATE_MAJURO_ADJ">
+			<Text>马朱罗</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

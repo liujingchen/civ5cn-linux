@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_5">
+			<Text>哦，太好了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_6">
+			<Text>我想我必须同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_AGREE_SHORT_7">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_1">
+			<Text>可怜的蠢货！现在我们要消灭你了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_2">
+			<Text>你这个一钱不值的蛮子！你将为你的好战付出代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_ATTACKED_3">
+			<Text>你这个傲慢的蠢货！你必将被毁灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_1">
+			<Text>我痛心疾首地宣布，我准备将你那伟大的文明从这个星球上抹去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_2">
+			<Text>虽然令人伤感，但是我确信这个世界无法同时容纳两个伟大的文明。你必须被消灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DECLAREWAR_3">
+			<Text>为了保证生存空间，我必须迅速征服你们民族的大部分——甚至可能是全部领土。非常抱歉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_1">
+			<Text>你比我想象的要聪明得多。我祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_2">
+			<Text>你表现出了非凡的谋略和勇武，简直象是个日本人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_3">
+			<Text>干得好，我的对手。你打败我了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEFEATED_4">
+			<Text>我被打败了。祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_ANGRY">
+			<Text>除了要你提供少量资助，我想不出别的方法来巩固我们之间永恒的友谊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_HAPPY">
+			<Text>谦逊友好的日本人民能否请求他们伟大的盟友提供一点帮助吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>如果你能把你巨大的财富让我们分享一部分，我们将感到无比荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_1">
+			<Text>对不起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_2">
+			<Text>我必须谦卑地表示拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_3">
+			<Text>带着深深的歉意，我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_4">
+			<Text>以后再说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_DISAGREE_SHORT_5">
+			<Text>请你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_1">
+			<Text>能见到象您这样伟大的领袖令我们倍感高兴和荣耀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_2">
+			<Text>卑贱的士兵向强大的勇士致敬，希望我们能缔结一份公平的盟约。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_FIRSTGREETING_3">
+			<Text>事实上，上天对我们十分眷顾，引领着我们来到您的面前。您有什么吩咐？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_3">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_4">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GOODBYE_7">
+			<Text>我们的会谈结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_5">
+			<Text>哦，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_6">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_GREETING_7">
+			<Text>您有什么吩咐？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_2">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_3">
+			<Text>请说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_4">
+			<Text>我正在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_5">
+			<Text>是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_6">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_7">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LETSHEARIT_8">
+			<Text>还有呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_LOSEWAR_1">
+			<Text>你确实是我所见过的最勇敢的对手。很荣幸能与你交手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_QUOTE_1">
+			<Text>今川家有四万大军朝这边来了？我不信。他“只有”两万五千人。没错，对我们来说还是太多了。所以，佐渡，你要我投降。如果我们真投降会怎样？你觉得以这样的方式失去性命很满足吗？如果我们像胜家希望的那样坚守会怎样？如果我们躲在城里闭门不出，能等到今川家的人收兵回营吗？我们可能会多活五到十天，然后还是无法抵御他们的再次进攻。我们的境况已经坏到不能再坏了，你知道吗？我们的命运会很有趣，当然也会很痛苦。但这就是我的看法：这是决定一生的机会，绝对不容错过。你们是不是真的想花一辈子的时间来祈祷长命百岁？我们出生时就注定要死去！愿意跟着我的，明天早上一起出战。不愿意的，就待在这里等着看我打赢吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>带着极大的愧疚，我们万分抱歉地拒绝你非常慷慨的提议。我们谦卑地请求您提高出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你该做的更好点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>非常接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我们很抱歉地拒绝你们好心的提议。你能再提高报价吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你所能提出的最好条件吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_HAPPY_4">
+			<Text>已经非常接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>根据目前的情况，我们很抱歉地拒绝你的提议。我们要求你提高报价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那真的还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>非常接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_ANGRY">
+			<Text>唉，我们伟大的朋友和同盟，这次我们不能同意你公平又慷慨的提议。请不要为此对我们施加雷霆之怒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY">
+			<Text>很不幸，这次我们不能同意你那好心又慷慨的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_NO_NEUTRAL">
+			<Text>我们怀着万分歉意拒绝你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_ANGRY">
+			<Text>您的善意和公平令我们拜服。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY">
+			<Text>我们万分荣幸地接受您的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADE_YES_NEUTRAL">
+			<Text>我们十分荣幸地接受您公平的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_ANGRY">
+			<Text>我们谦卑地请求您能同意我们提出的贸易协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，你愿意接受以下协议吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRADEREQUEST_NEUTRAL">
+			<Text>你能同意下列条款吗？我们将会感到非常荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_ANGRY">
+			<Text>不能接受您那公平合理的要求，令我感到非常痛苦——万分痛苦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_HAPPY">
+			<Text>我们满怀歉意地拒绝你的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_NO_NEUTRAL">
+			<Text>这一次我们必须满怀歉意地拒绝你的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_ANGRY">
+			<Text>我们会尽最大的可能来满足您最微小的愿望！是您使我们毫无意义的生命拥有意义！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_HAPPY">
+			<Text>乐意之至！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_TRIBUTE_YES_NEUTRAL">
+			<Text>能够满足您公平合理的要求，我们感到万分荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_1">
+			<Text>我谦卑地感谢您的决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_2">
+			<Text>好吧：我们也许根本不需要这些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_3">
+			<Text>你是对的：我们配不上如此的慷慨！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_4">
+			<Text>无论如何还是要谢谢你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WARBLUFF_5">
+			<Text>非常好。我相信你有自己的理由。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_WINWAR_1">
+			<Text>日本的军队总是能打胜仗！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

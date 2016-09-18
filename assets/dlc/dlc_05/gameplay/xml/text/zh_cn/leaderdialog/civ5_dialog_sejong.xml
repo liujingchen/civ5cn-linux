@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_1">
+			<Text>欢迎来到朝鲜，朋友。我为我的人民做了许多有益的事——你能做到这么好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_2">
+			<Text>向你致意——我是朝鲜的统治者李裪，人称世宗大王。你来向我寻求智慧和启迪吗？有许多人是为此而来的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_FIRSTGREETING_3">
+			<Text>欢迎来到美丽的朝鲜宫廷，尊敬的访客。我是这个强大民族的伟大领袖李祹，人称世宗大王。</Text>
+		</Row>
+		<!--Reacts to his bluff being called -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_1">
+			<Text>我真没料到你会做出如此恶劣的行径。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_2">
+			<Text>看来你忠厚的表象下还隐藏着许多不为人知的邪恶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_WARBLUFF_3">
+			<Text>真是白白浪费我的时间。</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_1">
+			<Text>更强的科技、策略和智慧又一次带来了胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_WINWAR_2">
+			<Text>你无法战胜我国的集贤殿所汇聚的众多智囊。</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_1">
+			<Text>这只是由于一次小小的失策。今后绝不会再发生了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LOSEWAR_2">
+			<Text>你怎么做到的？你运用了何种高明的策略？</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_1">
+			<Text>今后我的人民要去何处寻求指引呢？我们即将进入黑暗时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_2">
+			<Text>我专注于发展科技，以致于没有及早察觉到我国所面临的真正威胁。让我在黑暗中退隐吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEFEATED_3">
+			<Text>不，还有如此多的工作在等着我完成……还有如此多知识等待我去发现。你的贪婪行为使世界失去了一个如此智慧的头脑。</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_1">
+			<Text>很高兴见到你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_2">
+			<Text>向你致意。</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_1">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>虽然你为引起我的兴趣已经做了很多，但你还需要先完善你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就快可以了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_NEUTRAL">
+			<Text>我不感兴趣。</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_NEUTRAL">
+			<Text>你不应该这样贪婪，那不会有好结果的。我希望将来你能变得更加高尚。</Text>
+		</Row> 
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_NEUTRAL">
+			<Text>你太不知好歹了。</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_NEUTRAL">
+			<Text>还有什么能比共同分享物质财富更能增进彼此的友谊呢？</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_NEUTRAL">
+			<Text>一份与你的地位相称的礼物能使你赢得我国宫廷的亲徕。</Text>
+		</Row>  
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_2">
+			<Text>不行。</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_1">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_3">
+			<Text>向你致意，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_4">
+			<Text>欢迎。</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_3">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_HAPPY">
+			<Text>乐意之至。</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我很想接受你的提议，但我知道集贤殿的学者们不会赞同我的决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你只能做到这种程度吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_HAPPY">
+			<Text>谢谢你，但是不行。</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_HAPPY">
+			<Text>你尽管提要求！智慧的人会与朋友分享自己的财富，这样才能共创繁荣。</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_HAPPY">
+			<Text>抱歉令你失望了，我的遗憾之情真是无法用言语表达。</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，我们来好好谈谈如何达成互利互惠。</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_HAPPY">
+			<Text>我的顾问们建议在有需要时可以寻求你的慷慨协助。</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_3">
+			<Text>当然可以。</Text>
+		</Row> 
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_4">
+			<Text>我们拒绝。</Text>
+		</Row> 
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_3">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_4">
+			<Text>我正在听。</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_5">
+			<Text>怎么了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_5">
+			<Text>就这些了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_GOODBYE_6">
+			<Text>请走吧。</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_YES_ANGRY">
+			<Text>同意。</Text>
+		</Row> 
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_1">
+			<Text>也许你的谈判技巧很高明，但这个提议实在不靠谱。请立刻加以改善。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NEEDMORE_ANGRY_4">
+			<Text>就快可以了……</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADE_NO_ANGRY">
+			<Text>即使是不学无术的小混混也会明白这个提议完全是欺诈。滚吧！</Text>
+		</Row>  
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_YES_ANGRY">
+			<Text>虽然这让我感到很难堪，但我必须以国家利益为重。</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRIBUTE_NO_ANGRY">
+			<Text>你得了严重的妄想症吧，居然以为这一招能管用？</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_TRADEREQUEST_ANGRY">
+			<Text>虽然我十分厌恶你的嘴脸，但为了人民的利益我还是愿意同你打交道。</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DEMANDTRIBUTE_ANGRY">
+			<Text>你必须为你的许多罪恶付出代价，就从现在开始吧。</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_AGREE_SHORT_4">
+			<Text>哦，很好。</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_5">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_6">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DISAGREE_SHORT_7">
+			<Text>你开玩笑吧！</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_SEJONG_LETSHEARIT_5">
+			<Text>还有呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_1">
+			<Text>我的集贤殿智囊们已经厌倦了你的表演。我们将以武力解放你的国民，引导他们走向光明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_2">
+			<Text>时间不等人，我的时间越来越紧迫。而你挡了我的道，我没工夫再进行外交努力了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_DECLAREWAR_3">
+			<Text>我还有许多实验要进行，许多研究要完成，而你就象一堵高墙挡在我面前。我必须把你清除掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_1">
+			<Text>这是何等的背信弃义啊？难道没有荣誉感吗，没有耻辱心吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_2">
+			<Text>你这可悲的人。很快你就将感受到我们强大科技实力的雷霆万钧之势了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SEJONG_ATTACKED_3">
+			<Text>很好，很好！我正想找个借口来试验我的最新军事装备呢，你正好给我提供了机会。</Text>
+		</Row>
+  </Language_zh_CN>
+</GameData>

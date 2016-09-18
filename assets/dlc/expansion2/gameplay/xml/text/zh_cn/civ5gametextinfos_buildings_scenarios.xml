@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+    <!-- American Civil War -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS">
+			<Text>兵营</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE">
+			<Text>军事基地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL">
+			<Text>兵工厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS">
+			<Text>炼铁厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD">
+			<Text>造船厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE">
+			<Text>马厩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS">
+			<Text>首都防御圈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_STRATEGY">
+			<Text>每座兵营可提供1[ICON_RES_MANPOWER]兵源。不可建造。占领敌城可增加你的[ICON_RES_MANPOWER]兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_STRATEGY">
+			<Text>每座军事基地可提供2[ICON_RES_MANPOWER]兵源。不可建造。占领敌城可增加你的[ICON_RES_MANPOWER]兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_STRATEGY">
+			<Text>允许城市组建步兵单位。不可建造。占领敌城可增加你的军事产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_STRATEGY">
+			<Text>允许城市组建炮兵单位。不可建造。占领敌城可增加你的军事产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_STRATEGY">
+			<Text>允许城市组建海军单位。不可建造。占领敌城可增加你的军事产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_STRATEGY">
+			<Text>允许城市组建骑兵单位。不可建造。占领敌城可增加你的军事产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_BARRACKS_HELP">
+			<Text>提供1[ICON_RES_MANPOWER]兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARMY_BASE_HELP">
+			<Text>提供2[ICON_RES_MANPOWER]兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_ARSENAL_HELP">
+			<Text>允许城市组建步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_IRON_WORKS_HELP">
+			<Text>允许城市组建炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_NAVY_YARD_HELP">
+			<Text>允许城市组建海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_STABLE_HELP">
+			<Text>允许城市组建骑兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILDING_WALLS_STRATEGY">
+			<Text>首都防御圈由大量呈环状分布的要塞构成，可使城市+10防御力，+100生命力，从而更难被敌军攻克。</Text>
+		</Row>
+    <!-- Scramble for Africa -->
+    <Row Tag="TXT_KEY_SCRAMBLE_AFRICA_FEATURE_FOUNTAIN_YOUTH">
+      <Text>尼罗河源</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STAATSMUSEUM">
+      <Text>国家博物馆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_TURKISH_BATH_DESC">
+      <Text>土耳其浴室</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SUEZ_CANAL">
+      <Text>苏伊士运河</Text>
+    </Row>
+  </Language_zh_CN>
+</GameData>

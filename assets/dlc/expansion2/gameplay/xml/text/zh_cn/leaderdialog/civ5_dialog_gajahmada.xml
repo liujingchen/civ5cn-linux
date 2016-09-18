@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_1">
+			<Text>在你面前的是伟大的印度尼西亚国王，加查·玛达。什么风把你吹来了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_2">
+			<Text>欢迎来到印度尼西亚，我是加查·玛达。愿你心怀高尚的目的来此。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_FIRSTGREETING_3">
+			<Text>向你问好，我是加查·玛达。欢迎来到我伟大的国家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_1">
+			<Text>这些话空洞无力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_2">
+			<Text>你是在玩火。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WARBLUFF_3">
+			<Text>太让人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_1">
+			<Text>我的敌人们都热衷于避开与我的冲突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_WINWAR_2">
+			<Text>我的敌人们都热衷于避开与我的冲突。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LOSEWAR_1">
+			<Text>你完成了不可能的壮举，将我打败定是你征途上的丰碑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LOSEWAR_2">
+			<Text>你完成了不可能的壮举，将我打败定是你征途上的丰碑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_1">
+			<Text>你设法打败了我…仅仅这次而已。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_2">
+			<Text>你的胜利令我深受触动，尽管这让我付出了代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEFEATED_3">
+			<Text>也许我会被打败，但我的灵魂绝不屈服！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_2">
+			<Text>向你致敬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_1">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_2">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_NEUTRAL">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>这不足以满足我的人民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好一些么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>就差一点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_NEUTRAL">
+			<Text>那对我没用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_NEUTRAL">
+			<Text>切莫将我的慷慨视为软弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_NEUTRAL">
+			<Text>印度尼西亚暂时无法帮助你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_NEUTRAL">
+			<Text>也许我们能做一笔交易？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>只要你现在帮助我们，以后我们将对你施以援手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_1">
+			<Text>不错。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_2">
+			<Text>不，当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_1">
+			<Text>让我听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_3">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_HAPPY">
+			<Text>这将为我们两个国家带来繁荣兴盛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>很明显，你还可以再慷慨一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这就是你的极限了么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>就差一点点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_HAPPY">
+			<Text>我抱歉我做不到……即使对我的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_HAPPY">
+			<Text>这会为我们的国家带来繁荣兴盛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_HAPPY">
+			<Text>我向你致歉，但这绝无可能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，有兴趣做交易么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_HAPPY">
+			<Text>我能否说服你帮助陷入困境的朋友？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_AGREE_SHORT_5">
+			<Text>棒极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_3">
+			<Text>当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_4">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_3">
+			<Text>我听着。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_YES_ANGRY">
+			<Text>我毫无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>真是可笑的方案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>明显不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>这简直就是侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADE_NO_ANGRY">
+			<Text>绝不！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_YES_ANGRY">
+			<Text>我会屈服，但耻辱永不忘怀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRIBUTE_NO_ANGRY">
+			<Text>你竟敢向我勒索这些！真是可笑之极！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_TRADEREQUEST_ANGRY">
+			<Text>和你交易令我恶心，但我别无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DEMANDTRIBUTE_ANGRY">
+			<Text>把我要的东西给我，否则后果自负！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_5">
+			<Text>对不起？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_6">
+			<Text>无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DISAGREE_SHORT_7">
+			<Text>你在开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_LETSHEARIT_5">
+			<Text>请接着说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_1">
+			<Text>你是我的大军通往光荣的绊脚石。准备战斗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_2">
+			<Text>我没时间搭理你微弱的反抗。开战！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_DECLAREWAR_3">
+			<Text>现在起，我们只有一条路了——战争！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_1">
+			<Text>你肯定十分勇敢……或者十分愚蠢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_2">
+			<Text>你竟敢攻击伟大的加查·玛达？！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA_ATTACKED_3">
+			<Text>你的傲慢终将把你拖入毁灭的深渊！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_KAMEHAMEHA">
+			<Text>卡美哈梅哈</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

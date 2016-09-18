@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Game Text Objects -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE">
+			<Text>末日审判书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE">
+			<Text>郡法庭</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

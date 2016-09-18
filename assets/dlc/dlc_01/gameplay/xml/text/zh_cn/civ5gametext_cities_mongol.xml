@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Cities -->
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_KARAKORUM">
+			<Text>哈拉和林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BESHBALIK">
+			<Text>别失八里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURFAN">
+			<Text>高昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HSIA">
+			<Text>中兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLDSARAI">
+			<Text>老萨莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEWSARAI">
+			<Text>新萨莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMARQAND">
+			<Text>撒马尔罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TABRIZ">
+			<Text>大不里士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIFLIS">
+			<Text>第比利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OTRAR">
+			<Text>讹答剌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANCHU">
+			<Text>山中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAZAN">
+			<Text>喀山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALMARIKH">
+			<Text>阿力麻里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULAANBAATAR">
+			<Text>乌兰巴托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOVD">
+			<Text>科布多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DARHAN">
+			<Text>达尔汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DALANDZADGAD">
+			<Text>达兰扎德嘎德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANDALGOVI">
+			<Text>曼达勒戈壁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOYBALSAN">
+			<Text>乔巴山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERDENET">
+			<Text>额尔登特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSETSERLEG">
+			<Text>车车尔勒格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARUUNURT">
+			<Text>西乌尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EREEN">
+			<Text>额仁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BATSHIREET">
+			<Text>巴特希雷特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOYR">
+			<Text>乔伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULAANGOM">
+			<Text>乌兰固木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOSONTSENGEL">
+			<Text>陶松臣格勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATLAY">
+			<Text>阿尔泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULIASTAY">
+			<Text>乌里雅苏台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAYANHONGOR">
+			<Text>巴彦洪戈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAYRAG">
+			<Text>哈尔艾拉格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NALAYH">
+			<Text>纳来哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TES">
+			<Text>特斯</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

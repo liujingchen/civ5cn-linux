@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3">
+			<Text>没问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4">
+			<Text>我们同意了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5">
+			<Text>啊，非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6">
+			<Text>我想我必须同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7">
+			<Text>好极了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1">
+			<Text>蠢货！我要把你们开膛破肚！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2">
+			<Text>无知的蛮子，看看我来如何教训你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3">
+			<Text>无知之徒！在你剩下的短暂生命里，你只会拥有无尽的悔恨！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1">
+			<Text>你已经失去了用处，见阎王去吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2">
+			<Text>你已经没有利用价值了，见阎王去吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3">
+			<Text>你们再也不能冒犯我了，见阎王去吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1">
+			<Text>你打败了我，我在此为你祝贺；如果形势倒转，我也会做同样的行为。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2">
+			<Text>这次我承认了我的失败，但下次我还会卷土重来的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3">
+			<Text>我们已经证明了你是一个狡猾称职的对手，我为你的胜利祝贺！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你那弱小的文明还想存在下去的话，就进贡如下物品吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY">
+			<Text>我的朋友，你认为这个要求能接受吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我建议你献出这些东西。如果需要我自己动手来拿的话，你恐怕会付出更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1">
+			<Text>不行！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2">
+			<Text>肯定不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3">
+			<Text>这可不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5">
+			<Text>这不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6">
+			<Text>别开玩笑了，好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7">
+			<Text>对不起，你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1">
+			<Text>你好，我是女皇帝武则天。中国追求和平以谋求自身发展。人不犯我，我不犯人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2">
+			<Text>你好，我是女皇帝武则天。中国追求和平以谋求自身发展。人不犯我，我不犯人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3">
+			<Text>你好，我是女皇帝武则天。中国追求和平以谋求自身发展。人不犯我，我不犯人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2">
+			<Text>走好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4">
+			<Text>再见了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5">
+			<Text>走好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6">
+			<Text>结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7">
+			<Text>事情谈完了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1">
+			<Text>欢迎！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3">
+			<Text>哦，是你呀？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5">
+			<Text>是你呀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6">
+			<Text>今天怎么样？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1">
+			<Text>继续说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3">
+			<Text>我听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5">
+			<Text>你刚才说了什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6">
+			<Text>还有呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7">
+			<Text>继续说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1">
+			<Text>中国欢迎与邻国友好共处，我希望这样的遗憾下次不会发生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你以为我们都是些山野村夫？这个提案不可接受！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_2">
+			<Text>还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你需要更慷慨一些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我很遗憾的告诉你：目前的提议我们不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能给予的极限？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_3">
+			<Text>就差一点点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我们不能接受，你需要增加一些条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能稍微提高一点条件吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这个提案还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>快了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY">
+			<Text>你的无知简直赶得上你的狂妄了。这种条约我们绝不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY">
+			<Text>不好意思，恐怕这次我们不能接受你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL">
+			<Text>这不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY">
+			<Text>可以。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY">
+			<Text>当然，你的提议很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL">
+			<Text>这看起来很公平，我们同意了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY">
+			<Text>这是我的条件：同意，或者离开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，你认为这个要求能接受吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL">
+			<Text>我认为合理的交易应该是实现双赢，你看这个条件如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY">
+			<Text>蠢材！你想勒索中华帝国？滚开，否则你必死无疑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY">
+			<Text>不好意思，这次我们没法满足你的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL">
+			<Text>我很好奇：是因为疯狂还是愚蠢才导致你提出这个要求的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY">
+			<Text>很好。但我们会给予你回应的，建议你以后连睡觉时也千万不要闭上眼睛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY">
+			<Text>没问题，中国乐于帮助她的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL">
+			<Text>这也不错。至少比战争要好得多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1">
+			<Text>你知道吗？你这是在刀尖上跳舞！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2">
+			<Text>很好，下次我可不会这么客气了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3">
+			<Text>真令人遗憾。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4">
+			<Text>十分可惜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5">
+			<Text>真的吗？希望你以后不要为你的短视后悔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6">
+			<Text>你这个傻瓜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1">
+			<Text>你应该感谢我让你这个弱小的文明活了下来。下次可别再挑战我的耐心了！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

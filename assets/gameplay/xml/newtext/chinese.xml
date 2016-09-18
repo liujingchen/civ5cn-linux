@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+    <Languages>
+        <Row>
+            <ID>9</ID>
+            <Type>zh_CN</Type>
+            <Name>中文(Chinese)</Name>
+            <TableName>Language_zh_CN</TableName>
+            <PluralRule>1</PluralRule>
+            </Row>
+    </Languages>
+</GameData>

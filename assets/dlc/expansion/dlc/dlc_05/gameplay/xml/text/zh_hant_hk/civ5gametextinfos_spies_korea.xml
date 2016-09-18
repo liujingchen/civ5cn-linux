@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_0">
+      <Text>金</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_1">
+      <Text>朴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_2">
+      <Text>漢</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_3">
+      <Text>納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_4">
+      <Text>港</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_5">
+      <Text>宇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_6">
+      <Text>煥</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_7">
+      <Text>南</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_8">
+      <Text>達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_KOREA_9">
+      <Text>恩</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

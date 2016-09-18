@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- CONFED -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NORFOLK">
+			<Text>诺福克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WILLIAMSBURG">
+			<Text>威廉斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_RICHMOND">
+			<Text>里士满</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_PETERSBURG">
+			<Text>彼得斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NOTTOWAY">
+			<Text>诺托韦郡府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_TAPPAHANNOCK">
+			<Text>塔帕汉诺克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ASHLAND">
+			<Text>阿什兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GORDONSVILLE">
+			<Text>戈登斯维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_APPOMATTOX">
+			<Text>阿波马托克斯郡府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LYNCHBURG">
+			<Text>林奇堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_STAUNTON">
+			<Text>斯汤顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHARLOTTESVILLE">
+			<Text>夏洛茨维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISONBURG">
+			<Text>哈里森堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_NEW_MARKET">
+			<Text>纽马基特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CULPEPER">
+			<Text>库尔佩珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WARRENTON">
+			<Text>沃伦顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MANASSAS">
+			<Text>马纳萨斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FAIRFAX">
+			<Text>费尔法克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FRONT_ROYAL">
+			<Text>弗兰特罗亚尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MOOREFIELD">
+			<Text>穆尔菲尔德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ROMNEY">
+			<Text>罗姆尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WINCHESTER">
+			<Text>温切斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_MARTINSBURG">
+			<Text>马丁斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LEESBURG">
+			<Text>李斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICKSBURG">
+			<Text>弗雷德里克斯堡</Text>
+		</Row>
+		<!-- UNION -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FORT_MONROE">
+			<Text>门罗堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_BALTIMORE">
+			<Text>巴尔的摩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ANNAPOLIS">
+			<Text>安纳波利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LAUREL">
+			<Text>劳雷尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WASHINGTON">
+			<Text>华盛顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_ALEXANDRIA">
+			<Text>亚历山德里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAVRE_DE_GRACE">
+			<Text>哈佛代格雷斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_LANCASTER">
+			<Text>兰开斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_YORK">
+			<Text>约克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARRISBURG">
+			<Text>哈里斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CARLISLE">
+			<Text>卡莱尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANOVER">
+			<Text>汉诺威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_WESTMINSTER">
+			<Text>威斯敏斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_GETTYSBURG">
+			<Text>葛底斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CHAMBERSBURG">
+			<Text>钱伯斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HAGERSTOWN">
+			<Text>黑格斯敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HANCOCK">
+			<Text>汉考克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_HARPERS_FERRY">
+			<Text>哈珀渡口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_FREDERICK">
+			<Text>弗雷德里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CITY_NAME_CUMBERLAND">
+			<Text>坎伯兰</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

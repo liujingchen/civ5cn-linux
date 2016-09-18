@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_UR">
+			<Text>乌尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KISH">
+			<Text>基什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URUK">
+			<Text>乌鲁克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ERIDU">
+			<Text>埃利都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ADAB">
+			<Text>阿达布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UMMA">
+			<Text>乌玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAGASH">
+			<Text>拉格什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKSHAK">
+			<Text>阿科萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LARAK">
+			<Text>拉莱克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAD_TABIRA">
+			<Text>巴德-塔比拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LARSA">
+			<Text>拉尔萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISIN">
+			<Text>伊辛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JEMDET_NASR">
+			<Text>珍迪特-纳什尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHURUPPAK">
+			<Text>苏鲁帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIBRU">
+			<Text>尼布鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZIMBIR">
+			<Text>津比尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GIRSU">
+			<Text>吉尔苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZABALAM">
+			<Text>扎巴兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KISIGA">
+			<Text>基西加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINA">
+			<Text>尼纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DILBAT">
+			<Text>迪尔巴特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUTU">
+			<Text>库图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARAD">
+			<Text>马拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ENEGI">
+			<Text>埃尼基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HATTUSA">
+			<Text>哈图沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NESA">
+			<Text>尼沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUSSARA">
+			<Text>库沙拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUWANUWA">
+			<Text>图瓦努瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUBUSNI">
+			<Text>胡布斯尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PURUSHANDA">
+			<Text>普鲁山达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUSNA">
+			<Text>鲁斯那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMUHA">
+			<Text>沙姆哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALACAHOYUK">
+			<Text>阿拉卡霍亚克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNIP">
+			<Text>图尼普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARCHEMISH">
+			<Text>卡尔切米什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALAB">
+			<Text>哈拉布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALALAKH">
+			<Text>阿拉拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QADESH">
+			<Text>卡迪什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULLAMA">
+			<Text>乌拉玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NENASSA">
+			<Text>尼那沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NERIK">
+			<Text>尼瑞克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LANDA">
+			<Text>兰达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAKPIS">
+			<Text>哈克皮斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARINNA">
+			<Text>阿林那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HANHANA">
+			<Text>汉哈那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GAZIURA">
+			<Text>加兹乌拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARISSA">
+			<Text>萨利沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUMMANI">
+			<Text>库曼尼</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

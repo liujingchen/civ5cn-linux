@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_POLYNESIA_ADJECTIVE">
+			<Text>波利尼西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_POLYNESIA_DESC">
+			<Text>波利尼西亚文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_POLYNESIA_SHORT_DESC">
+			<Text>波利尼西亚</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Diplomacy Screen-->
+		<Row Tag="TXT_KEY_TRADE_ITEM_VOTES">
+			<Text>世界议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_YES">
+			<Text>我们有代表票可供交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO">
+			<Text>我们没有代表票可供交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_YES_THEM">
+			<Text>他们有代表票可供交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO_THEM">
+			<Text>他们有代表票可供交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_IN_SESSION">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]世界议会召开大会期间不能进行代表票交易。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO_LEAGUE">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]世界议会尚未创建。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO_SPY">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]我们需要以[ICON_DIPLOMAT]外交官的名义向他们的[ICON_CAPITAL]首都派驻一名间谍。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO_SPY_ACTIVE_PLAYER">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]他们需要以[ICON_DIPLOMAT]外交官的名义在我们的[ICON_CAPITAL]首都派驻一名间谍。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NOT_MEMBER">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]不是世界议会的成员国。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_NO_PROPOSALS">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]本届世界议会大会尚未提出议案。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_ALREADY_COMMITTED">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]已经向另一文明出让了本届世界议会大会的代表。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_ALREADY_USED_VOTES">
+			<Text>[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]已经在本届世界议会大会上行使了代表权。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_ENACT_TT">
+			<Text>在下届世界议会大会上，该领袖将运用所掌握的[COLOR_POSITIVE_TEXT]{1_NumVotes}[ENDCOLOR]张核心代表票来{2_ChoiceText}[COLOR_POSITIVE_TEXT]实施[ENDCOLOR]以下内容的提案：[NEWLINE][NEWLINE]{3_ProposalText}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TRADE_REPEAL_TT">
+			<Text>在下届世界议会大会上，该领袖将运用所掌握的[COLOR_POSITIVE_TEXT]{1_NumVotes}[ENDCOLOR]张核心代表票来{2_ChoiceText}[COLOR_WARNING_TEXT]废除[ENDCOLOR]以下内容的提案：[NEWLINE][NEWLINE]{3_ProposalText}</Text>
+		</Row>
+		<!-- League Overview Popup-->
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW">
+			<Text>世界议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_RENAME">
+			<Text>改名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_RENAME_TT">
+			<Text>为世界议会确定一个新名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_WORLD_LEADER_INFO_SESSION">
+			<Text>距离提名下届世界领袖的回合数：[COLOR_POSITIVE_TEXT]{1_DelegatesForWin}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_WORLD_LEADER_INFO_VOTES">
+			<Text>当选世界领袖所需要的代表票数：[COLOR_POSITIVE_TEXT]{1_DelegatesForWin}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_WORLD_LEADER_INFO_TT">
+			<Text>由于世界议会已经改组为联合国，文明可以开始争取外交胜利。一个文明想要赢得外交胜利，必须在推举世界领袖提案的表决中获得{1_DelegatesForWin}张以上的代表票。此数值是由游戏中文明和城邦的数量决定的。[NEWLINE][NEWLINE]每隔一届大会将会进行一次推举世界领袖提案，期间的一届大会则进行普通提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_IN_SESSION">
+			<Text>会议召开</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_IN_SPECIAL_SESSION">
+			<Text>[COLOR_POSITIVE_TEXT]特别会议[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_VOTES">
+			<Text>{1_VotesRemaining}名代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS">
+			<Text>{@2_CivName}的{@1_LeaderName}共掌握{3_VotesRemaining}张代表票。会议召开期间此数值将被锁定直到会议结束。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_BASE_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自成员国资格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_EXTRA_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自之前竞选世界领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_HOST_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 由于担任东道主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_CS_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自城邦(每个盟邦{2_VotesPerCityState}张)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_DIPLOMAT_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自研发全球化(每名担任[ICON_DIPLOMAT]外交官的间谍{2_VotesPerDiplomat}张)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WONDER_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自世界级奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WORLD_RELIGION_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自信奉世界主流宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WORLD_IDEOLOGY_VOTES">
+			<Text>[NEWLINE][ICON_BULLET]{1_NumVotes} 来自追随世界主流意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTES_REMAINING">
+			<Text>剩余代表票：{1_VotesRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_COMMIT_VOTES">
+			<Text>行使代表权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_RESET_VOTES">
+			<Text>重置代表票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_TURNS_UNTIL_SESSION">
+			<Text>距离召开下届大会的回合数：{1_NumTurnsUntilNextVote}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSERS_LIST">
+			<Text>待提案方：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_COMMIT_PROPOSALS">
+			<Text>提交议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_RESET_PROPOSALS">
+			<Text>重置议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PREFIX_ENACT">
+			<Text>[COLOR_POSITIVE_TEXT]实施：[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PREFIX_REPEAL">
+			<Text>[COLOR_WARNING_TEXT]废除：[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_BUTTON_TT">
+			<Text>[COLOR_GREY]目前你不能提交此项议案。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_CHOICE_BUTTON_TT">
+			<Text>[COLOR_GREY]此项议案已进入审核程序，不能重复提交。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_PLAYER_PROPOSAL">
+			<Text>此项议案不能由一家文明提交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_GAMEOPTION">
+			<Text>本局游戏不允许此项议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_ALREADY_PROPOSED">
+			<Text>已提交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_ALREADY_ENACTED">
+			<Text>已生效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_TECH">
+			<Text>尚未有文明完成{@1_TechName}的研发。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INVALID_RESOLUTION_NO_CHOICES">
+			<Text>此项议案无有效选项。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CURRENT_PROPOSALS">
+			<Text>当前提案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CURRENT_PROPOSALS_TT">
+			<Text>获得最多代表票支持，即将提交下届大会表决的议案。如果出现并列的结果，议案将无法通过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_ACTIVE_RESOLUTIONS">
+			<Text>已实施的议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_ACTIVE_RESOLUTIONS_TT">
+			<Text>目前已生效的所有决议案，各文明可通过大会表决加以废除。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INACTIVE_RESOLUTIONS">
+			<Text>可实施的议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_INACTIVE_RESOLUTIONS_TT">
+			<Text>各文明可通过大会表决加以实施的所有决议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_OTHER_RESOLUTIONS">
+			<Text>其他议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_OTHER_RESOLUTIONS_TT">
+			<Text>目前不能提交的议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSER_BY_ROTATION">
+			<Text>由于优先权轮转到了他们，下届大会该国将可提交议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSER_BY_HOSTING">
+			<Text>由于他们是东道主，下届大会该国将可提交议案。如果本届大会结束时东道主发生改变，将由新的东道主提交议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSER_BY_DELEGATION_SIZE">
+			<Text>由于他们是掌握最多代表票的非东道主，下届大会该国将可提交议案。如果本届大会结束时此排名发生改变，将由新的掌握最多代表票的非东道主提交议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSE_RESOLUTION">
+			<Text>提交议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSE_BUTTON">
+			<Text>点击提交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSE_BUTTON_TT">
+			<Text>点击此处提交议案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_YAY">
+			<Text>[COLOR_GREEN]赞成[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_ABSTAIN">
+			<Text>弃权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_NAY">
+			<Text>[COLOR_RED]反对[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VIEW_ALL_RESOLUTIONS">
+			<Text>查看所有议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_TITLE">
+			<Text>当前作用效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_TT">
+			<Text>这些是来自世界议会的作用效果。新决议的实施或旧决议的废除将会改变这些作用效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_NONE">
+			<Text>无效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_HOST">
+			<Text>东道主：{@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_ACTIVE_PROJECTS">
+			<Text>实施工程：{1_ProjectsList}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_ACTIVE_PROJECTS_ENTRY">
+			<Text>{@1_ProjectName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_GPT">
+			<Text>每回合[ICON_GOLD]金钱：{1_GoldPerTurn}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_RESOURCE_QUANTITIES">
+			<Text>额外资源：{1_ResourcesList}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_RESOURCE_QUANTITIES_ENTRY">
+			<Text>{@1_ResourceName} ({2_ResourceQuantity})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_CITY_STATES">
+			<Text>禁止[ICON_INTERNATIONAL_TRADE]交易：所有城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_PLAYERS">
+			<Text>禁止[ICON_INTERNATIONAL_TRADE]交易：{1_CivsList}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_EMBARGO_PLAYERS_ENTRY">
+			<Text>{@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_NO_RESOURCE_HAPPINESS">
+			<Text>禁止资源提供[ICON_HAPPINESS_1]快乐：{1_ResourceList}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_NO_RESOURCE_HAPPINESS_ENTRY">
+			<Text>{@1_ResourceName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_UNIT_MAINTENANCE">
+			<Text>单位维护+{1_UnitMaintenancePercent}%[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_DISCOVERED_TECH_MODIFIER">
+			<Text>研发其他文明已有科技时-{1_ResearchCostPercent}%[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_CULTURE_FROM_WONDERS">
+			<Text>世界级奇观+{1_CulturePerWorldWonder}[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_CULTURE_FROM_NATURAL_WONDERS">
+			<Text>自然奇观+{1_CulturePerWorldWonder}[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_NO_NUCLEAR_WEAPONS">
+			<Text>禁止制造核武器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WORLD_RELIGION">
+			<Text>世界宗教：{1_IconString}{@2_ReligionName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_WORLD_IDEOLOGY">
+			<Text>世界意识形态：{@1_IdeologyName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_POSITIVE_GREAT_PERSON_RATE">
+			<Text>{2_GreatPersonList}产生速率+{1_GreatPersonRateMod}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_NEGATIVE_GREAT_PERSON_RATE">
+			<Text>{2_GreatPersonList}产生速率{1_GreatPersonRateMod}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_GREAT_PERSON_RATE_ENTRY">
+			<Text>{@1_GreatPersonType}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_GREAT_PERSON_TILE_IMPROVEMENT_CULTURE">
+			<Text>每处伟人修建的地块设施+{1_NumCulture}[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_EFFECT_SUMMARY_LANDMARK_CULTURE">
+			<Text>每处风景地标+{1_NumCulture}[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CHANGE_NAME">
+			<Text>改名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_ENTER_NAME">
+			<Text>输入新的名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_ERROR_NAME_EMPTY">
+			<Text>名字不能为空。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CONFIRM">
+			<Text>你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_CONFIRM_MISSING_VOTES">
+			<Text>[COLOR_WARNING_TEXT]你掌握的代表票尚未全部指派。[ENDCOLOR]你确定要继续吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_ON_HOLD_TT">
+			<Text>在世界议会的特别大会结束前，此提案暂时搁置。</Text>
+		</Row>
+		<!-- Knowledge of other players' opinions-->
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_NONE">
+			<Text>[NEWLINE][NEWLINE]他们的意图尚不为人知。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_PARTIAL">
+			<Text>[NEWLINE][NEWLINE]我们对他们的目标已有所了解。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_INTIMATE">
+			<Text>[NEWLINE][NEWLINE]我们对他们的内情已充分掌握。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_IDEOLOGY">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]我们奉行相同的意识形态[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_NO_IDEOLOGY">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]我们奉行不同的意识形态[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_SPY">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]我们已经以[ICON_DIPLOMAT]外交官的身份向他们的[ICON_CAPITAL]首都派驻间谍[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_NO_SPY">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]我们尚未以[ICON_DIPLOMAT]外交官的身份向他们的[ICON_CAPITAL]首都派驻间谍[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_DOF">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]我们之间已经声明友谊[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_INTRIGUE_NO_DOF">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]我们之间尚未声明友谊[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTES">
+			<Text>[NEWLINE][NEWLINE]他们对当前提案的基本态度：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_NONE">
+			<Text>[NEWLINE][ICON_BULLET]对{1_Proposal}的态度——未知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_PARTIAL">
+			<Text>[NEWLINE][ICON_BULLET]对{1_Proposal}的态度——{2_VoteChoice}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_INTIMATE">
+			<Text>[NEWLINE][ICON_BULLET]对{1_Proposal}的态度：{3_DesireLevel}{2_VoteChoice}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_OPINIONS_VOTE_COMMITMENT">
+			<Text>[NEWLINE][NEWLINE]根据已达成的交易，他们同意让{3_NumDelegates}名代表为{1_Proposal}投下{2_VoteChoice}票。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS">
+			<Text>[NEWLINE][NEWLINE]根据我们对其他文明意图的了解，我们预计此项提案的表决结果如下：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_COMMITMENTS">
+			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}：{2_NumCivs}个文明将根据已达成的交易投下{1_NumDelegates}张代表票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_CHOICE">
+			<Text>[NEWLINE][ICON_BULLET]{3_VoteChoice}：{1_NumDelegates}张代表票({2_NumCivs}个文明)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_UNACCOUNTED">
+			<Text>[NEWLINE][ICON_BULLET]{2_NumCivs}个文明的{1_NumDelegates}张代表票未确定意向</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_VOTE_OPINIONS_OURS">
+			<Text>[NEWLINE][ICON_BULLET]我们掌握{1_NumDelegates}张代表票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_POSITIVE">
+			<Text>[NEWLINE][NEWLINE]会对此项提案表示愉快的文明：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINIONS_NEGATIVE">
+			<Text>[NEWLINE][NEWLINE]会对此项提案表示愤怒的文明：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_OVERVIEW_PROPOSAL_OPINION">
+			<Text>[NEWLINE][ICON_BULLET]{@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_NEVER">
+			<Text>极度不愿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_STRONG_DISLIKE">
+			<Text>高度不愿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_DISLIKE">
+			<Text>中度不愿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_WEAK_DISLIKE">
+			<Text>轻度不愿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_NEUTRAL">
+			<Text>(保持中立)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_WEAK_LIKE">
+			<Text>轻度愿意</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_LIKE">
+			<Text>中度愿意</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_STRONG_LIKE">
+			<Text>高度愿意</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_DESIRE_ALWAYS">
+			<Text>极度愿意</Text>
+		</Row>
+		<!-- League Project Popup-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_POPUP_COMPLETE">
+			<Text>完成！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_POPUP_TOTAL_COST">
+			<Text>完成此项目需要花费{1_TotalCost}[ICON_PRODUCTION]产能，由所有文明共同分担，贡献的比例越高，获得的回报越多：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_POPUP_PROGRESS_COST">
+			<Text>此项目当前完成度为{1_PercentComplete}%。你的文明已经贡献了[COLOR_POSITIVE_TEXT]{2_PlayerContribution}[ENDCOLOR][ICON_PRODUCTION]产能，贡献比例越高，获得回报越多：</Text>
+		</Row>
+		<!-- League Splash Popup-->
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_TITLE_FOUNDED">
+			<Text>世界议会成立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_FOUNDED">
+			<Text>{@1_CivName}已经发现了世界上所有的文明。为了庆祝这一历史时刻，各文明领袖将于{3_TurnsUntilSession}回合后共同出席{2_LeagueName}以商讨国际外交事务。当文明进入新时代时，大会可能推行改革并选择新的东道主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_GAME_ERA">
+			<Text>世界进入了{@1_EraName}（已有半数文明进入此时代，或已有一个文明超越此时代）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_THIS_ERA">
+			<Text>当前时代：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_NEXT_ERA">
+			<Text>下一时代：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_ERA_HOST_DELEGATES">
+			<Text>[ICON_BULLET]东道主文明{1_NumDelegates}代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_ERA_CIV_DELEGATES">
+			<Text>[ICON_BULLET]其他文明{1_NumDelegates}代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_ERA_CITYSTATE_DELEGATES">
+			<Text>[ICON_BULLET]每个同盟城邦+{1_NumDelegates}代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_ERA_DIPLO_VICTORY_POSSIBLE">
+			<Text>[ICON_BULLET]每隔一届大会提名一次[COLOR_POSITIVE_TEXT]世界领袖[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPLASH_MESSAGE_ERA_NO_CHANGE">
+			<Text>[ICON_BULLET]未改变</Text>
+		</Row>
+		<!-- Miscellaneous UI-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_COST_PER_PLAYER">
+			<Text>每个文明{1_ProductionCostPerPlayer}[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_NOT_FOUNDED">
+			<Text>世界议会尚未成立。需等某个文明完成{@1_TechName}科技并发现本局游戏中的所有其他文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_NOT_FOUNDED_GAME_SETTINGS">
+			<Text>本局游戏已禁用世界议会</Text>
+		</Row>
+		<!-- League Notifications-->
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROPOSALS_NEEDED">
+			<Text>提出议案</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROPOSALS_NEEDED_TT">
+			<Text>现在轮到你向{1_LeagueName}提交议案了。你可以提议实施一项新决议，或废止一项现有决议。你和其他{1_LeagueName}的成员国将在下届大会中表决你的提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTES_NEEDED">
+			<Text>指派代表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTES_NEEDED_TT">
+			<Text>{1_LeagueName}的新一届大会召开了，你的代表正等待你的指令。你为各项提案分配你所掌握的代表票，以期实现本文明利益的最大化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_DONE">
+			<Text>大会结束</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_DONE_TT">
+			<Text>向{1_LeagueName}提出的议案已经完成表决。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_PASS">
+			<Text>{@1_CivName}当选世界领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL">
+			<Text>无人当选世界领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_PASS_DETAILS">
+			<Text>由于获得了至少{1_NumDelegates}张代表票，{@2_CivName}已经成为世界领袖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_WORLD_LEADER_FAIL_DETAILS">
+			<Text>由于无人获得至少{1_NumDelegates}张代表票，世界领袖表决无果而终。票数领先的{2_NumCivilizations}个文明获得了永久性的额外代表名额。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_CHANGED_SUMMARY">
+			<Text>{@1_CivName}成为东道主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_SAME_SUMMARY">
+			<Text>{@1_CivName}继续担任东道主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_HOST_DETAILS">
+			<Text>{1_LeagueName}的特别大会决定由{@2_CivName}担任下届东道主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_PASS_SUMMARY">
+			<Text>{1_ResolutionName} 获得通过</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_FAIL_SUMMARY">
+			<Text>{1_ResolutionName} 未获通过</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_PASS">
+			<Text>{1_ResolutionName} 获得通过。 其内容将[COLOR_POSITIVE_TEXT]立即生效[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_ENACT_FAIL">
+			<Text>{1_ResolutionName} 未获通过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_PASS">
+			<Text>{1_ResolutionName} 获得通过。 原内容将[COLOR_WARNING_TEXT]立即废止[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_REPEAL_FAIL">
+			<Text>{1_ResolutionName} 未获通过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_RESULT_MEMBER_VOTE">
+			<Text>[ICON_BULLET]{1_NumVotes}票{2_ResolutionChoiceText}(来自{@3_CivName})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON">
+			<Text>大会即将召开</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_VOTING_SOON_TT">
+			<Text>{1_LeagueName}即将在{2_TurnsUntilSession}回合后召开大会商讨以下提案：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_PROGRESS">
+			<Text>{@1_ProjectName}进度更新</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_PROGRESS_TT">
+			<Text>{@1_ProjectName}项目当前完成度为[COLOR_POSITIVE_TEXT]{2_PercentComplete}[ENDCOLOR]%。如想参加该项目以获取回报，请在城市建造列表中选择该项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_COMPLETE">
+			<Text>{@1_ProjectName}完成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_LEAGUE_PROJECT_COMPLETE_TT">
+			<Text>{@1_ProjectName}项目已经完成。</Text>
+		</Row>
+		<!-- League Names-->
+		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_GENERIC">
+			<Text>世界议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_1">
+			<Text>{@1_Ordinal}{@2_CityName}大会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_2">
+			<Text>{@1_Ordinal}{@2_CityName}协商会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_WORLD_CONGRESS_3">
+			<Text>{@1_Ordinal}{@2_CityName}理事会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_UNITED_NATIONS">
+			<Text>联合国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_1">
+			<Text>第一届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_2">
+			<Text>第二届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_3">
+			<Text>第三届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_4">
+			<Text>第四届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_5">
+			<Text>第五届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_6">
+			<Text>第六届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_7">
+			<Text>第七届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_8">
+			<Text>第八届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_9">
+			<Text>第九届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_ORDINAL_10">
+			<Text>第十届</Text>
+		</Row>
+		<!-- Special Sessions-->
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS">
+			<Text>世界议会创立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_WORLD_CONGRESS_HELP">
+			<Text>世界各大文明领袖共同出席世界议会，商讨国际事务。他们的第一项议程是决定议会的东道主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES">
+			<Text>世界议会欢迎城邦加入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_WELCOME_CITY_STATES_HELP">
+			<Text>各独立城邦登上了世界舞台，正式参与国际外交事务。各大文明将获得来自同盟城邦的额外代表票。由于此项改革，世界议会召开特别大会以决定下一届东道主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_LEADERSHIP_COUNCIL">
+			<Text>世界议会组织机构大改革</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_LEADERSHIP_COUNCIL_HELP">
+			<Text>国家不论大小，都致力于争取国际事务的发言权。为解决纠纷，世界议会决定召开特别大会以选择下一届东道主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS">
+			<Text>世界议会改组为联合国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_SPECIAL_SESSION_START_UNITED_NATIONS_HELP">
+			<Text>建立永久和平的理念在世界议会中生根发芽，并最终推动了联合国的诞生。世界议会决定召开特别大会以选择这个国际外交新生力量的东道主。联合国将继续发挥原世界议会的作用，但每隔一届大会进行的世界领袖选举将会触发[COLOR_POSITIVE_TEXT]外交胜利[ENDCOLOR]。</Text>
+		</Row>
+		<!-- Resolutions-->
+		<Row Tag="TXT_KEY_RESOLUTION_DIPLO_VICTORY">
+			<Text>世界领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DIPLO_VICTORY_HELP">
+			<Text>确定一位世界领袖。如果某文明在议会中获得足够多的代表票，该文明将达成[COLOR_POSITIVE_TEXT]外交胜利[ENDCOLOR]。所需代表票数量由本局游戏中文明和城邦的数量决定，具体可以在世界议会界面中查看。[NEWLINE][NEWLINE]如果没有哪个文明获得足够多的代表票，则票数前两名的文明将在以后的大会上永久性获得[COLOR_POSITIVE_TEXT]2张额外代表票[ENDCOLOR]。世界议会改组为联合国后会定期进行推举世界领袖的表决。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHANGE_LEAGUE_HOST">
+			<Text>选择东道主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHANGE_LEAGUE_HOST_HELP">
+			<Text>确定一个文明作为大会的东道主。作为东道主可获得额外的代表票，并能提交议案。[NEWLINE][NEWLINE]文明不能主动提交此议案。文明进入新时代后会自动进行确定东道主的表决。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GOLD_FOR_EVERYONE">
+			<Text>金钱大派送</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GOLD_FOR_EVERYONE_HELP">
+			<Text>每个成员国一次性增加100[ICON_GOLD]金钱。废止此决议时无效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GPT_FOR_EVERYONE">
+			<Text>城邦关税</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_GPT_FOR_EVERYONE_HELP">
+			<Text>对城邦的[ICON_INFLUENCE]影响力衰退速率更快，但通往城邦的[ICON_INTERNATIONAL_TRADE]商路可产出额外的[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_RESOURCE_FOR_EVERYONE">
+			<Text>资源大派送</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_RESOURCE_FOR_EVERYONE_HELP">
+			<Text>此决议生效期间每个成员国获得2单位特定资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CITY_STATE_AID">
+			<Text>城邦援助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CITY_STATE_AID_HELP">
+			<Text>每个大文明成员国贡献20%[ICON_GOLD]金钱储备以援助城邦成员国。对城邦关系为负值时会重置为0[ICON_INFLUENCE]影响力。废止此决议时无效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_ALL_CITY_STATES_EMBARGO">
+			<Text>城邦禁运</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_ALL_CITY_STATES_EMBARGO_HELP">
+			<Text>不能建立通往城邦的[ICON_INTERNATIONAL_TRADE]商路。此类商路将立即中断并需要重新指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PLAYER_EMBARGO">
+			<Text>贸易制裁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_PLAYER_EMBARGO_HELP">
+			<Text>不能建立通往特定文明的[ICON_INTERNATIONAL_TRADE]商路。此类商路将立即中断并需要重新指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_BAN_LUXURY_HAPPINESS">
+			<Text>禁止奢侈品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_BAN_LUXURY_HAPPINESS_HELP">
+			<Text>宣布大众对某种奢侈资源的利用不合乎道德、会导致资源枯竭或是其他不良后果。此禁令生效期间各文明无法获得来自此种奢侈资源[ICON_HAPPINESS_1]的快乐点数奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_STANDING_ARMY_TAX">
+			<Text>限制常备军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_STANDING_ARMY_TAX_HELP">
+			<Text>单位的维护将多花费25%[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT">
+			<Text>外籍学者居留权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT_HELP">
+			<Text>研究至少一个其他文明已有科技的速度加快20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_INTERNATIONAL_SPACE_STATION">
+			<Text>国际空间站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_INTERNATIONAL_SPACE_STATION_HELP">
+			<Text>启动国际空间站项目。项目进行期间，各文明可以通过在城市建造列表中选择该项目为其贡献[ICON_PRODUCTION]产能。项目完成后，各文明将根据贡献的大小获得相应的奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_1_HELP}[NEWLINE][NEWLINE]在有文明研发完成人造卫星之后即可提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CULTURAL_HERITAGE_SITES">
+			<Text>评定文化遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CULTURAL_HERITAGE_SITES_HELP">
+			<Text>每处世界级奇观为所在城市提供+3[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NATURAL_HERITAGE_SITES">
+			<Text>评定自然遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NATURAL_HERITAGE_SITES_HELP">
+			<Text>每处有市民在工作的自然奇观提供+5[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_FAIR">
+			<Text>世界博览会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_FAIR_HELP">
+			<Text>启动世界博览会项目。项目进行期间，各文明可以通过在城市建造列表中选择该项目为其贡献[ICON_PRODUCTION]产能。项目完成后，各文明将根据贡献的大小获得相应的奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_1_HELP}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_GAMES">
+			<Text>国际运动会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_GAMES_HELP">
+			<Text>启动国际运动会项目。项目进行期间，各文明可以通过在城市建造列表中选择该项目为其贡献[ICON_PRODUCTION]产能。项目完成后，各文明将根据贡献的大小获得相应的奖励。[NEWLINE][NEWLINE][ICON_TROPHY_GOLD]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_3_HELP}[NEWLINE][ICON_TROPHY_SILVER]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_2_HELP}[NEWLINE][ICON_TROPHY_BRONZE]: {TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_1_HELP}[NEWLINE][NEWLINE]在有文明研发完成无线电之后即可提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION">
+			<Text>核不扩散</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION_HELP">
+			<Text>所有文明停止制造核武器（原子弹和核导弹）。已经制造的核武器则不会被销毁。[NEWLINE][NEWLINE]在有文明研发完成高级弹道学后即可提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_RELIGION">
+			<Text>世界宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_RELIGION_HELP">
+			<Text>确定一个具有最高地位的世界宗教。有半数以上城市信奉该宗教的文明可额外获得2张代表票。该宗教传播速度加快25%，其圣城+50%[ICON_TOURISM]魅力。每次只能确定一个世界宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_IDEOLOGY">
+			<Text>世界意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_WORLD_IDEOLOGY_HELP">
+			<Text>确定一个具有最高地位的世界意识形态。追随该意识形态的文明可额外获得3张代表票。所有文明的公共舆论都将增加对该意识形态的欢迎度。每次只能确定一个世界意识形态。[NEWLINE][NEWLINE]在有文明研发完成无线电之后即可提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_ARTS_FUNDING">
+			<Text>艺术资助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_ARTS_FUNDING_HELP">
+			<Text>大文学家、大美术家和大音乐家产生速率提升33%。大科学家、大工程师和大商业家产生速率降低33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_SCIENCES_FUNDING">
+			<Text>科研资助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_SCIENCES_FUNDING_HELP">
+			<Text>大科学家、大工程师和大商业家产生速率提升33%。大文学家、大美术家和大音乐家产生速率降低33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS">
+			<Text>历史地标保护</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS_HELP">
+			<Text>每处有市民在工作的伟人区域设施提供+2[ICON_CULTURE]文化，有市民在工作的考古学家所建风景地标设施提供+4[ICON_CULTURE]文化。[NEWLINE][NEWLINE]在有文明研发完成考古学之后即可提案。</Text>
+		</Row>
+		<!-- Resolution Decisions-->
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_NONE">
+			<Text>尚未决定</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_YES_OR_NO">
+			<Text>选择赞成或反对</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_ANY_MEMBER">
+			<Text>选择决议影响的成员国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_CITY">
+			<Text>选择决议影响的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_ANY_LUXURY_RESOURCE">
+			<Text>选择决议影响的奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_REPEAL">
+			<Text>选择是否要废止此项决议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_MAJOR_CIV_MEMBER">
+			<Text>选择决议影响的文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_OTHER_MAJOR_CIV_MEMBER">
+			<Text>选择决议影响的除你之外的其他文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_HIGH_DELEGATE_MEMBER">
+			<Text>选择一个拥有大量代表票的文明({1_NumDelegates}张以上)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_RELIGION">
+			<Text>选择决议影响的宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_DECISION_IDEOLOGY">
+			<Text>选择决议影响的意识形态</Text>
+		</Row>
+		<!-- Resolution Choices-->
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_NO">
+			<Text>反对</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_YES">
+			<Text>赞成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_PLAYER">
+			<Text>{@1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_PLAYER_YOU">
+			<Text>{@1_CivName}(我国)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_CITY">
+			<Text>(PLACEHOLDER)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_RESOURCE">
+			<Text>{1_IconString}{@2_ResourceName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_RELIGION">
+			<Text>{1_IconString}{@2_ReligionName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_RELIGION_YOU">
+			<Text>{1_IconString}{@2_ReligionName}(我国)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_IDEOLOGY">
+			<Text>{@1_IdeologyName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOLUTION_CHOICE_IDEOLOGY_YOU">
+			<Text>{@1_IdeologyName}(我国)</Text>
+		</Row>
+		<!-- League Projects-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION">
+			<Text>国际空间站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION_SPLASH">
+			<Text>国际空间站已经建成并发射升空，这标志着人类进入了全新的发展阶段。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLD_FAIR">
+			<Text>世界博览会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLD_FAIR_SPLASH">
+			<Text>来自世界各地的创新者和发明家汇聚到一起，在盛大的世界博览会上分享他们的新奇创意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLD_GAMES">
+			<Text>国际运动会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_WORLD_GAMES_SPLASH">
+			<Text>来自世界各地的选手代表自己的文明，在展现力量、技巧和美感的不同项目上进行激烈而友好的竞争。全世界的人们都在关注这场盛大的国际运动会，选手们赢得的每块奖牌都在为自己的文明增添荣耀。</Text>
+		</Row>
+		<!-- League Project Rewards-->
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NONE">
+			<Text>无奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_NONE_HELP">
+			<Text>对项目未作出足够贡献，不能获得奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TIER_1">
+			<Text>([ICON_PRODUCTION]{1_ContributionThreshold}或以上)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TIER_2">
+			<Text>([ICON_PRODUCTION]{1_ContributionThreshold}或以上)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_TIER_3">
+			<Text>(贡献最大)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_1">
+			<Text>已建成组件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_1_HELP">
+			<Text>一次性科研奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2">
+			<Text>空间站乘员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_2_HELP">
+			<Text>免费获得一位大科学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3">
+			<Text>地面控制中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_ISS_3_HELP">
+			<Text>在[ICON_CAPITAL]首都出现国际空间站奇观。({TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_HELP})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_1">
+			<Text>参展代表团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_1_HELP">
+			<Text>为下一次[ICON_GOLDEN_AGE]黄金时代积累500点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_2">
+			<Text>突破性发明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_2_HELP">
+			<Text>免费获得一项社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_3">
+			<Text>展会东道主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_FAIR_3_HELP">
+			<Text>[ICON_CULTURE]文化点数增加100%，持续20回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_1">
+			<Text>参赛代表团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_1_HELP">
+			<Text>+3[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_2">
+			<Text>名列奖牌榜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_2_HELP">
+			<Text>+3[ICON_HAPPINESS_1]快乐。对城邦一次性增加30[ICON_INFLUENCE]影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_3">
+			<Text>主办运动会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_WORLD_GAMES_3_HELP">
+			<Text>[ICON_TOURISM]魅力点数增加100%，持续20回合。免费获得一项社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEAGUE_PROJECT_REWARD_DESC">
+			<Text>{1_RewardIconString}{2_RewardDescription}{3_Contribution}：{4_RewardDetails}</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

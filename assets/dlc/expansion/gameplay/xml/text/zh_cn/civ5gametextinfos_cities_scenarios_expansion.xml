@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME SCENARIO -->
+		<Row Tag="TXT_KEY_CITY_NAME_NEAPOLI">
+			<Text>尼亚波利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALONAE">
+			<Text>萨罗那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARNUNTUM">
+			<Text>卡努恩图姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CASTAREGINA">
+			<Text>里贾纳堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MILAN">
+			<Text>米兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GENUA">
+			<Text>热那亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASSILIA">
+			<Text>马西利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIER">
+			<Text>特里尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUTETIA">
+			<Text>卢滕西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GESORIACUM">
+			<Text>杰索利亚库姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORIALLUM">
+			<Text>科利阿卢姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PORTUSNAMNETUM">
+			<Text>南特图姆港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NARBO">
+			<Text>纳博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRIGANTIUM">
+			<Text>布利甘提乌姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TARRACO">
+			<Text>塔拉科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMERITAAUGUSTA">
+			<Text>埃梅利塔-奥古斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLISIPO">
+			<Text>欧利西波</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IOLCAESAREA">
+			<Text>约尔-凯撒里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THESSALONICA">
+			<Text>塞萨洛尼卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MISTRA">
+			<Text>米斯特拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CYRENE">
+			<Text>昔兰尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASTRIS">
+			<Text>阿玛斯特里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORYLAEUM">
+			<Text>多利莱乌姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATTALIA">
+			<Text>安塔利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MYRA">
+			<Text>米拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINOPE">
+			<Text>锡诺普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMASIA">
+			<Text>阿马西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SELEUCIA">
+			<Text>塞琉西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MELITENE">
+			<Text>米利提尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIUM">
+			<Text>阿尼乌姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THOSPIA">
+			<Text>索斯皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AMIDA">
+			<Text>阿米达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NISIBIS">
+			<Text>尼西比斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SINGARA">
+			<Text>辛格拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CTESIPHON">
+			<Text>泰西封</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIEL">
+			<Text>蒂尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THEROUANNE">
+			<Text>塞洛安尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOURNAI">
+			<Text>图尔奈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONGRES">
+			<Text>通赫伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAMBRAI">
+			<Text>康布雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAINZ">
+			<Text>美因茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XANTEN">
+			<Text>克桑滕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VOUILLE">
+			<Text>沃耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VANNES">
+			<Text>瓦讷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLOSA">
+			<Text>图卢萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GOTHISCANDZA">
+			<Text>哥特斯坎扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RECCOPOLIS">
+			<Text>瑞科波利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VICTORIACUM">
+			<Text>维克托利亚库姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLOGICUS">
+			<Text>欧洛吉库斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BAIYARA">
+			<Text>拜亚拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EBORA">
+			<Text>伊波拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEGOVIA">
+			<Text>塞哥维亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BALSA">
+			<Text>巴尔萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UXAMA">
+			<Text>乌克萨马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIERMES">
+			<Text>提尔梅斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLETUM">
+			<Text>托莱图姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLBIA">
+			<Text>奥尔比亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TYRAS">
+			<Text>提拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARHEIMAR">
+			<Text>阿尔黑玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TURDA">
+			<Text>图尔达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APULON">
+			<Text>阿普隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BETUWE">
+			<Text>贝图威</Text>
+		</Row>
+		<!-- Vandal-->
+		<Row Tag="TXT_KEY_CITY_NAME_HIPPO_REGIUS">
+			<Text>希波-勒吉乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEPTUS_MAGNA">
+			<Text>大雷普图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARTENNA">
+			<Text>卡尔特那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BULLA_REGIA">
+			<Text>布拉-勒吉亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CATANE">
+			<Text>卡塔尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIRTA">
+			<Text>易尔塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CARALIS">
+			<Text>卡拉利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TACAPE">
+			<Text>塔卡佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAPUT_VADA">
+			<Text>卡普特-瓦达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRICAMERON">
+			<Text>特里卡梅隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRIPOLIS">
+			<Text>的黎波里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THAGASTE">
+			<Text>塔加斯特</Text>
+		</Row>
+		<!--Celts-->
+		<Row Tag="TXT_KEY_CITY_NAME_DINORWIG">
+			<Text>迪诺威格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUGUVALION">
+			<Text>卢古瓦利翁</Text>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_CAIRO">
+			<Text>开罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_DVIN">
+			<Text>德芬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BAALBEK">
+			<Text>巴奥贝克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BILBAIS">
+			<Text>比尔拜斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ASWAN">
+			<Text>阿斯旺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_ZABID">
+			<Text>扎比德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TAIZZ">
+			<Text>塔伊兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SANAA">
+			<Text>萨那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_YANBU">
+			<Text>延布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HAMA">
+			<Text>哈马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_HOMS">
+			<Text>堆姆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_AZAZ">
+			<Text>阿扎兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_QUS">
+			<Text>库斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KAFR_SABT">
+			<Text>卡弗-沙布特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_JAFFA">
+			<Text>雅法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_RABAT">
+			<Text>拉巴特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SAFI">
+			<Text>萨非</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BEJAIA">
+			<Text>贝贾亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_TINMEL">
+			<Text>亭梅尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_SIJILMASA">
+			<Text>西吉尔玛沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_BIDZAJA">
+			<Text>比扎拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_KABIS">
+			<Text>卡比斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITY_NAME_MAHDIJA">
+			<Text>玛赫迪贾</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

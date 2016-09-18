@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+  <Language_zh_CN>
+    <Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+      <Text>埃塞俄比亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
+      <Text>埃塞俄比亚文明</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
+      <Text>埃塞俄比亚</Text>
+    </Row>
+  </Language_zh_CN>
+</GameData>

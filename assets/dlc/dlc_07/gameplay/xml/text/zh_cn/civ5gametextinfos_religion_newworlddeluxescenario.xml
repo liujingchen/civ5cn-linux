@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<!-- Follower Beliefs-->
+		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES">
+			<Text>可以消耗[ICON_PEACE]信仰建造议事厅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MEETING_HOUSES_SHORT">
+			<Text>议事厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BELIEF_HOLY_WARRIORS">
+			<Text>可以消耗[ICON_PEACE]信仰购买晚景时代（及其后各时代）的陆上单位。</Text>
+		</Row>
+		<!-- Pantheons-->
+		<Row Tag="TXT_KEY_BELIEF_APU">
+			<Text>已建立[ICON_CONNECTED]连接路线的城市+3[ICON_PEACE]信仰，贸易站+1[ICON_GOLD]金钱，可以消耗[ICON_PEACE]信仰购买工人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_APU_SHORT">
+			<Text>阿普神力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COQUIHANI">
+			<Text>采石场+2[ICON_PEACE]信仰，奇观+15%[ICON_PRODUCTION]产能，可以消耗[ICON_PEACE]信仰建造工坊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COQUIHANI_SHORT">
+			<Text>光之神科吉哈尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_COYOTE">
+			<Text>种植园+1[ICON_PEACE]信仰并+1[ICON_RESEARCH]科研，可以消耗[ICON_PEACE]信仰建造图书馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COYOTE_SHORT">
+			<Text>土狼盗火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HUNAHPU">
+			<Text>猎场+1[ICON_FOOD]食物，每处香蕉、柑橘和小麦资源+1[ICON_PEACE]信仰，可以消耗[ICON_PEACE]信仰建造神庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HUNAHPU_SHORT">
+			<Text>猎手乌纳普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTI">
+			<Text>边界扩展速度+15%，神庙+2[ICON_HAPPINESS_1]快乐并+1[ICON_PEACE]信仰，可以消耗[ICON_PEACE]信仰购买移民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTI_SHORT">
+			<Text>印蒂祭礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_QUETZALCOATL">
+			<Text>[ICON_FOOD]食物积累速率+10%，花园+3[ICON_PEACE]信仰，可以消耗[ICON_PEACE]信仰建造水磨坊和引水渠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QUETZALCOATL_SHORT">
+			<Text>羽蛇神魁札尔科亚特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SEDNA">
+			<Text>渔船+1[ICON_PEACE]信仰，湖泊、海滨和大洋区域+1[ICON_PRODUCTION]产能，可以消耗[ICON_PEACE]信仰建造灯塔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEDNA_SHORT">
+			<Text>海神赛德娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SOSONDOWAH">
+			<Text>军事要塞+4[ICON_PEACE]信仰，堡垒+2[ICON_PEACE]信仰，城市的[ICON_RANGE_STRENGTH]远程战斗力+30%，可以消耗[ICON_PEACE]信仰建造城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SOSONDOWAH_SHORT">
+			<Text>守护者索森多瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_XBALANQUE">
+			<Text>战斗获胜可增加[ICON_PEACE]信仰，可以消耗[ICON_PEACE]信仰购买古典时代的陆上单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XBALANQUE_SHORT">
+			<Text>勇士斯巴兰克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AZTEC_PANTHEON">
+			<Text>阿兹特克神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INCA_PANTHEON">
+			<Text>印加神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_IROQUOIS_PANTHEON">
+			<Text>易洛魁神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MAYA_PANTHEON">
+			<Text>玛雅神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHOSHONE_PANTHEON">
+			<Text>肖肖尼神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PANTHEON_NWS_PEDIA">
+			<Text>免费提供一项次级宗教，鼠标指向屏幕顶部信息栏的信仰数值可查看宗教的详情。</Text>
+		</Row>
+		<!-- Reformation Beliefs-->
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_NWS">
+			<Text>无森林的冻土地块+2[ICON_PEACE]信仰，雪原地块+4[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_NWS">
+			<Text>荒漠地块+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_EARTHS_BOUNTY">
+			<Text>每处铁、宝石、黄金、白银、赤铜和食盐资源+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EARTHS_BOUNTY_SHORT">
+			<Text>大地的恩赐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ANIMALS">
+			<Text>建有牧场的地址+3[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_ANIMALS_SHORT">
+			<Text>神圣牲灵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_HIGH_GROUND">
+			<Text>丘陵地块+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_HIGH_GROUND_SHORT">
+			<Text>神圣高地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_LOW_GROUND">
+			<Text>沼泽或冲积平原地块+3[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_LOW_GROUND_SHORT">
+			<Text>神圣低地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_NWS">
+			<Text>种植园+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_NWS">
+			<Text>自然奇观+8[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_NWS">
+			<Text>丛林地块+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_NWS">
+			<Text>湖泊、海滨和大洋区块+2[ICON_PEACE]信仰。沿河的城市+1[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TOTEMISM">
+			<Text>猎场+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOTEMISM_SHORT">
+			<Text>图腾崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORLD_TREES">
+			<Text>森林地块+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_TREES_SHORT">
+			<Text>世界之树</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY">
+			<Text>特洛伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_ADJ">
+			<Text>特洛伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_TROY_DESC">
+			<Text>传奇之城特洛伊据认为建立于公元前3000至公元前2000年间，曾是爱琴海滨一处繁荣的贸易中心。作为荷马史诗《伊利亚特》故事的主要发生地，特洛伊一直都被认为是个纯粹虚构的城市。然而，19世纪时考古学家在今土耳其境内发现了据信为特洛伊古城的遗址。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS">
+			<Text>克诺索斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_ADJ">
+			<Text>克诺索斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KNOSSOS_DESC">
+			<Text>克诺索斯古城坐落于希腊的克里特岛，是远古青铜时代米诺斯文明的所在地。克诺索斯的米诺斯人在公元前2000至公元前1000年间持续影响着希腊社会文化发展，他们以高超的手工艺技术闻名于世，并经常与古埃及人进行贸易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS">
+			<Text>比伯罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_ADJ">
+			<Text>比伯罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_BYBLOS_DESC">
+			<Text>腓尼基人的定居点比伯罗斯位于今黎巴嫩境内，是世界上最古老的城市之一，约建立于公元前5000至公元前4000年间。该城本名吉巴尔，“比伯罗斯”是后来希腊人所起的名字，在希腊语中意为纸莎草，因为该城是埃及输出纸莎草的主要中转站。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT">
+			<Text>乌加里特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_ADJ">
+			<Text>乌加里特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_UGARIT_DESC">
+			<Text>古老的乌加里特城坐落于地中海东岸今叙利亚境内。约在公元前6000至公元前5000年间即有人在此定居，并逐渐发展为一座繁荣的港口城市，在此后两千年间同埃及和希腊都有大量贸易往来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE">
+			<Text>昔兰尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_ADJ">
+			<Text>昔兰尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_KYRENE_DESC">
+			<Text>昔兰尼是古希腊人的一处殖民点，坐落于今利比亚境内，由来自锡拉岛的希腊殖民者于公元前630年建立。此后昔兰尼逐步发展为一处贸易中心，有多条通往该地区其他希腊殖民点的商路在此交汇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI">
+			<Text>斯托比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_ADJ">
+			<Text>斯托比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_STOBI_DESC">
+			<Text>古老的斯托比城曾是罗马帝国“马其顿萨卢塔里斯”行省的首府，坐落于今马其顿境内。斯托比作为凯尔纳河与阿西奥斯河流域的贸易中心而拥有重要战略地位，该城在公元518年毁于一场地震。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS">
+			<Text>塞奥索波利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_ADJ">
+			<Text>塞奥索波利斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SEUTHOPOLIS_DESC">
+			<Text>塞奥索波利斯由色雷斯国王塞奥底斯三世于公元前4世纪建立，在此之后一直作为奥德里西亚王朝的首都，直到公元前281年被凯尔特人攻陷。塞奥索波利斯的遗址已在今保加利亚境内被发现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI">
+			<Text>恩科米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_ADJ">
+			<Text>恩科米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ENKOMI_DESC">
+			<Text>恩科米城坐落于塞浦路斯岛上，在公元前2000至公元前1000年间是一个重要的黄铜贸易中心。恩科米的繁荣一直持续到约公元前1050年，当时的一场大地震对其造成了毁灭性的打击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM">
+			<Text>伊拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_ADJ">
+			<Text>伊拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_ELAM_DESC">
+			<Text>古代伊拉姆地区范围很广，包括今伊朗和伊拉克的一部。公元前3000至公元前2000年间开始建城并持续存在了数千年之久，最终因内部的动乱及外来的入侵而于公元1世纪初灭亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN">
+			<Text>纳希切万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_ADJ">
+			<Text>纳希切万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_NAKHCHIVAN_DESC">
+			<Text>纳希切万包括今亚美尼亚、伊朗和土耳其的内陆地区，据认为在5000年前即有人到此定居。历史上该地区经历了从波斯帝国到马其顿帝国时期的多场战乱。今阿塞拜疆共和国境内还有一个地区名叫纳希切万。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI">
+			<Text>瓦苏卡尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_ADJ">
+			<Text>瓦苏卡尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_WASHUKANNI_DESC">
+			<Text>瓦苏卡尼城是古代米坦尼人于公元前3000至公元前2000年间建立的胡里安王国的首都。该城的确切位置在今天已不为人知，历史学者通常认为是在喀布尔河畔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN">
+			<Text>沙鲁亨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_ADJ">
+			<Text>沙鲁亨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CITYSTATE_SHARUHEN_DESC">
+			<Text>古老的沙鲁亨城坐落于今以色列南部的内盖夫沙漠中，公元前16世纪被逐出埃及的希克索斯人曾在此避难。后来该定居点被埃及法老阿赫摩斯一世摧毁。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

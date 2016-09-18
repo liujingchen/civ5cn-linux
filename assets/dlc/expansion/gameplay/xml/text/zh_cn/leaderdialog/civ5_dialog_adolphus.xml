@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
+			<Text>初次见面！我是古斯塔夫·阿道夫，瑞典的黄金之王。也许我们能作为盟友一起合作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
+			<Text>陌生人，欢迎来到冰雪之王的领地。我是古斯塔夫·阿道夫，伟大的瓦萨王朝的子孙和继承人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
+			<Text>呵，世界大舞台上的新来者。请接受我，古斯塔夫·阿道夫，瑞典最有名望的王的问候。在我的殿堂上，请保持和平。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_1">
+			<Text>哈，你看起来比我想象的还要英明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_2">
+			<Text>当心——你的真实意图已经被他们知道了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_3">
+			<Text>该死，看起来奥克森谢娜对你的评价是正确的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_1">
+			<Text>你以为你能在提利也无法击败我的地方取得胜利吗？如此傲慢，又如此愚蠢！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_2">
+			<Text>哈，强大的加尔斯队长又一次取得了胜利。我早说过，这个人应该得到晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_1">
+			<Text>嗯。你不过赢了这一场战斗——又不是这全部战争。现在，我对你的策略已然了解，下一次，我会击败你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_2">
+			<Text>在你还能这样做的时候，尽情欢呼你的胜利吧，因为你没多少时间了。北方轻骑兵会再次回来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
+			<Text>为什么，天神啊，你已经放弃我了吗？我不是正在做你要求的事吗？……我怎么能够输掉？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
+			<Text>我即瓦萨，你不可能完全毁灭我。当我陨落的时候，我的王朝的意志将会永存，并成为你身边永恒的一根刺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_3">
+			<Text>我是瑞典之王！你可以夺走我的土地、我的人民、我的国家，但是你永远无法夺走瓦萨家族的精神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_1">
+			<Text>好啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_2">
+			<Text>请接受我的问候。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_1">
+			<Text>下次见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>这样很好，不过如果我拿不到我应得的，我可不会接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你不想再加一点点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>差一点点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_NEUTRAL">
+			<Text>毫无兴趣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_NEUTRAL">
+			<Text>沉默还是战争。现在，我选择前者，但是之后就不好说了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_NEUTRAL">
+			<Text>如果我接受这个请求的话，当我见到主的时候，我就无法问心无愧了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_NEUTRAL">
+			<Text>我相信我能拿出一个你能接收甚至同意的协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我们努力去帮助每个人，包括你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_1">
+			<Text>好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_2">
+			<Text>不，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_1">
+			<Text>让我们听听看。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_2">
+			<Text>开始吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_4">
+			<Text>美好的一天，我的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_3">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_HAPPY">
+			<Text>成交！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>哈，我的贵族们就喜欢互相作对，但这对我不起作用，我的朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_2">
+			<Text>哦，别这样，这就是你能做得最好的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快要成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_HAPPY">
+			<Text>谢谢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_HAPPY">
+			<Text>我是一个乐于助人的人，而我相信你正需要一个帮助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_HAPPY">
+			<Text>我很悲伤，我的朋友，在这个时间点上我真的无法帮助你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，我相信我们的人民都能从这次交易中获得。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_HAPPY">
+			<Text>感谢您的及时援助，您会得到回报的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_AGREE_SHORT_5">
+			<Text>棒极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_3">
+			<Text>当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_4">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_3">
+			<Text>开始吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_4">
+			<Text>我正在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_5">
+			<Text>你好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GREETING_6">
+			<Text>你想要干嘛？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_GOODBYE_6">
+			<Text>走开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_YES_ANGRY">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>即使是华伦斯坦也不会开这么低。修改你的提议，在我修理你的脑子之前。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你应该再加一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_4">
+			<Text>差一点点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_ANGRY">
+			<Text>在你看来，难道我就像是个疯子吗？我必须这么做，因为你的要求已经冒犯到我了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_YES_ANGRY">
+			<Text>你的恨意早已人尽皆知。我会接收你的要求的，只要这能保全我的人民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_ANGRY">
+			<Text>我即瓦萨。你的无礼不仅侮辱了我，还侮辱了我的先祖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADEREQUEST_ANGRY">
+			<Text>如果可以选择，我宁愿用你的鲜血来洗刷我的土地，但是，我必须做我应该做的，不管这是多么讨厌。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DEMANDTRIBUTE_ANGRY">
+			<Text>我应该去观察一下你近来的所做所为，如果你同意的话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_5">
+			<Text>当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_6">
+			<Text>这完全不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DISAGREE_SHORT_7">
+			<Text>你不是认真的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LETSHEARIT_5">
+			<Text>现在该如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1">
+			<Text>我是瑞典之王！在这一天，我会用你的鲜血来结束你的恶行并解放那些可怜的人民。你的末日已经到了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
+			<Text>看，北方轻骑兵会再一次骑上战马——当我的骑士们发动第一次冲锋时，你的军队就会被毁灭。上帝与我们同在！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_3">
+			<Text>带着上帝的祝福和胜利的武器，我会将你的臭气从这片土地上抹除。看吧，现在，北方之狮已经向你冲来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_1">
+			<Text>哈哈！加尔斯队长一定会为他的骑兵再一次走上战场而兴奋！感谢你，提供了如此美妙的机会——为你的灭亡做好准备吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_2">
+			<Text>多么肮脏的背叛！自从华伦斯坦之后我再也没有见到有人向你一样做出如此令人作呕的行为。我绝不允许它再次出现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_3">
+			<Text>我要诅咒你的贪得无厌和穷兵黩武！我要把你的野蛮行径从这片土地上抹除！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

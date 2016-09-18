@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TITLE">
+			<Text>壬辰朝鲜之役</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DESC">
+			<Text>大军阀丰臣秀吉已经统一了全日本。为了让麾下的武士们有事可干，他将目光转向了西面的朝鲜。他能够继续扩张日本帝国吗？中国派往朝鲜的援军能及时赶到吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_KOREA_TEXT">
+			<Text>剧情描述[NEWLINE]祝福您，伟大的统治者——可怕的风暴正在横扫整个东方世界，愿您在此艰难时局中一直获得上天的眷顾。日本大军阀丰臣秀吉最终以武力统一了这个岛国。秀吉对自己装备着精良火器的大军充满自信，于是他将目光转向西方。中国的大明王朝及其忠实盟友——朝鲜的李氏王朝都必须对其保持警惕！而在北方的白山黑水之间，新生的满族政权正在迅速崛起。让你的步兵、骑兵和水师都尽快做好准备吧：在黄海之滨爆发的这场较量将决定东方各国未来的命运！[NEWLINE][NEWLINE]胜利条件[NEWLINE]日本或满洲获胜的条件是占领首尔和北京。中国和朝鲜的胜利条件是在1600年之后继续保有自己的所有城市。如果以上条件均未达成，则100回合结束后积分最高的一方获胜。注意：消灭敌方单位及控制首尔和北京均可获得额外的积分。[NEWLINE][NEWLINE]特殊规则[NEWLINE]在开局时可购买社会政策以平衡快乐点数与金钱收入。各大势力中只有满洲可以建立新城市。游戏初始状态为朝鲜与中国结盟并与日本处于战争之中。游戏中不能研发科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_JAPAN_TEXT">
+			<Text>剧情描述[NEWLINE]祝福您，伟大的统治者——可怕的风暴正在横扫整个东方世界，愿您在此艰难时局中一直获得上天的眷顾。日本大军阀丰臣秀吉最终以武力统一了这个岛国。秀吉对自己装备着精良火器的大军充满自信，于是他将目光转向西方。中国的大明王朝及其忠实盟友——朝鲜的李氏王朝都必须对其保持警惕！而在北方的白山黑水之间，新生的满族政权正在迅速崛起。让你的步兵、骑兵和水师都尽快做好准备吧：在黄海之滨爆发的这场较量将决定东方各国未来的命运！[NEWLINE][NEWLINE]胜利条件[NEWLINE]日本或满洲获胜的条件是占领首尔和北京。中国和朝鲜的胜利条件是在1600年之后继续保有自己的所有城市。如果以上条件均未达成，则100回合结束后积分最高的一方获胜。注意：消灭敌方单位及控制首尔和北京均可获得额外的积分。[NEWLINE][NEWLINE]特殊规则[NEWLINE]在开局时可购买社会政策以平衡快乐点数与金钱收入。各大势力中只有满洲可以建立新城市。游戏初始状态为朝鲜与中国结盟并与日本处于战争之中。游戏中不能研发科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_CHINA_TEXT">
+			<Text>剧情描述[NEWLINE]祝福您，伟大的统治者——可怕的风暴正在横扫整个东方世界，愿您在此艰难时局中一直获得上天的眷顾。日本大军阀丰臣秀吉最终以武力统一了这个岛国。秀吉对自己装备着精良火器的大军充满自信，于是他将目光转向西方。中国的大明王朝及其忠实盟友——朝鲜的李氏王朝都必须对其保持警惕！而在北方的白山黑水之间，新生的满族政权正在迅速崛起。让你的步兵、骑兵和水师都尽快做好准备吧：在黄海之滨爆发的这场较量将决定东方各国未来的命运！[NEWLINE][NEWLINE]胜利条件[NEWLINE]日本或满洲获胜的条件是占领首尔和北京。中国和朝鲜的胜利条件是在1600年之后继续保有自己的所有城市。如果以上条件均未达成，则100回合结束后积分最高的一方获胜。注意：消灭敌方单位及控制首尔和北京均可获得额外的积分。[NEWLINE][NEWLINE]特殊规则[NEWLINE]在开局时可购买社会政策以平衡快乐点数与金钱收入。各大势力中只有满洲可以建立新城市。游戏初始状态为朝鲜与中国结盟并与日本处于战争之中。游戏中不能研发科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+			<Text>剧情描述[NEWLINE]祝福您，伟大的统治者——可怕的风暴正在横扫整个东方世界，愿您在此艰难时局中一直获得上天的眷顾。日本大军阀丰臣秀吉最终以武力统一了这个岛国。秀吉对自己装备着精良火器的大军充满自信，于是他将目光转向西方。中国的大明王朝及其忠实盟友——朝鲜的李氏王朝都必须对其保持警惕！而在北方的白山黑水之间，新生的满族政权正在迅速崛起。让你的步兵、骑兵和水师都尽快做好准备吧：在黄海之滨爆发的这场较量将决定东方各国未来的命运！[NEWLINE][NEWLINE]胜利条件[NEWLINE]日本或满洲获胜的条件是占领首尔和北京。中国和朝鲜的胜利条件是在1600年之后继续保有自己的所有城市。如果以上条件均未达成，则100回合结束后积分最高的一方获胜。注意：消灭敌方单位及控制首尔和北京均可获得额外的积分。[NEWLINE][NEWLINE]特殊规则[NEWLINE]在开局时可购买社会政策以平衡快乐点数与金钱收入。各大势力中只有满洲可以建立新城市。游戏初始状态为朝鲜与中国结盟并与日本处于战争之中。游戏中不能研发科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_FIRSTGREETING_1">
+			<Text>英勇善战的满洲人民向你致意。只有对我们保持尊敬，你们才可能活着看到下一次日出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BRIEFING">
+			<Text>简介</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TURNSREMAINING">
+			<Text>剩余回合数: {1_TurnsRemaining}[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_CONQUER">
+			<Text>尚待占领: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NEED_TO_REGAIN">
+			<Text>需收复的城市: {1_CitiesToRegain}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_HOLD_CITIES">
+			<Text>必须守住城市直到1600年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_DESC">
+			<Text>满洲文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_ADJECTIVE">
+			<Text>满洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS_SHORT">
+			<Text>八旗制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MANCHU_CONVERTS_LAND_BARBARIANS">
+			<Text>摧毁蛮族营地后可以收编防守该营地的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY_SHORT">
+			<Text>正义之师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KOREA_RIGHTEOUS_ARMY">
+			<Text>即使失去所有城市也不会完全灭亡，并将定期获得免费单位以收复失地。包括龟船及在遭到近战攻击时可撤退的弓手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_UNIT_HELP_SETTLER">
+			<Text>建立新城市以扩展你的帝国。新城市建立时自动拥有纪念碑、粮仓和市场。[NEWLINE][NEWLINE]组建该单位时城市的[ICON_FOOD]食物产出将暂停。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_ANTIQUITY_SETTLER_TEXT">
+			<Text>女真诸部落是满族的前身，他们生活的地区被称为满洲，即今中国东北地区。在17世纪满清王朝兴起之前，女真人还曾在12世纪时统一于金王朝的旗帜之下。历史上的女真人是优秀的猎人和骑手，特别擅长在马背上作战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
+			<Text>[NEWLINE]部落民必须在人口在2[ICON_CITIZEN]市民以上的城市中组建。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HEADING">
+			<Text>满洲八旗铁骑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_TEXT">
+			<Text>八旗制度是满清王朝的开创者努尔哈赤于17世纪初创立的一种军政组织形式。八旗初创之时只是将满洲士兵分别编入不同的军事单位，后来又按民族区别对待，从满洲八旗中分出蒙古八旗，并另外组建了汉军八旗。满洲八旗和蒙古八旗都是精锐的骑兵部队，长期的游牧和渔猎生活使他们弓马娴熟，所向无敌。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_HELP">
+			<Text>该满洲特色单位替代普通的骑士。拥有强大的远程攻击力，更高的移动力以及双倍的晋升速率。该单位战斗时还能产生双倍的陆军统帅点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_INFO">
+			<Text>八旗铁骑是中古时代替代普通骑士的满洲特色单位，拥有额外的移动力以及双倍的晋升速率，还能产生双倍的陆军统帅点数。八旗铁骑还能运用强大的远程攻击力在远距离打击敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV5_MONGOLIA_KESHIK_STRATEGY">
+			<Text>八旗铁骑是中古时代满洲的特色单位，替代骑士。八旗铁骑拥有强大的远程攻击力和更高的移动力（共5点），能够高效率地运用袭扰战术。不仅如此，八旗铁骑还拥有双倍的晋升速率，并能产生双倍的陆军统帅点数。这种骑乘单位能够帮助满洲掌控所有开阔地形。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MANCHURIA_TEXT_1">
+			<Text>中国满清王朝的前身是生活于历史上的满洲地区（今中国东北）的女真诸部。17世纪初女真诸部在其杰出领袖努尔哈赤的领导下完成统一，随后他发动了对明王朝的扩张战争。满清王朝最终取代明朝控制了广阔的土地，持续统治中国近300年。满清作为中国的最后一个王朝被中华民国所推翻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_NAME">
+			<Text>努尔哈赤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_SUBTITLE">
+			<Text>后金汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_LIVED">
+			<Text>1558-1626</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_NURHACI_TEXT_1">
+			<Text>女真人的杰出首领努尔哈赤将中国东北地区的女真诸部统一起来，是满清王朝的主要缔造者。努尔哈赤在16世纪晚期起兵，并在1616称汗，国号“大金”（史称后金），即日后满清王朝的前身。在统治期间，努尔哈赤对中国大明王朝和朝鲜李氏王朝发动了战争。努尔哈赤还创立了八旗制度，将麾下的部队分别编入不同的军事单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_STRATEGY">
+			<Text>造纸坊是中国的特色建筑，替代银行。造纸坊可增加城市的金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PAPER_MAKER_HELP">
+			<Text>+4[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_IMPROVEMENT_WAJO">
+			<Text>倭城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO">
+			<Text>修建[LINK=IMPROVEMENT_WAJO]倭城[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_REC">
+			<Text>可以提升该地块上军事单位的[ICON_STRENGTH]防御战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILD_WAJO_HELP">
+			<Text>该地块上的单位+50%[ICON_STRENGTH]防御战斗力。日本的特色设施，只能修建于海滨地块。在倭城旁结束回合的敌方单位将遭受2损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_HELP">
+			<Text>倭城是日本的特色设施，在本剧情中替代堡垒。必须修建于海滨地块。可使其上单位的防御战斗力提升50%，在倭城旁结束回合的敌方单位将遭受2损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_WAJO_TEXT">
+			<Text>“倭城”是一种特殊的区域设施，它不能增加地块的产能或获取资源。在倭城旁结束回合的敌方单位将遭受2损伤，而其上单位的防御战斗力则将提升50%。但是，倭城不能为处于敌境内的单位提供防御战斗力加成。[NEWLINE][NEWLINE]日本入侵朝鲜的“壬辰战争”期间，日本军队沿朝鲜海岸线紧急建造了许多城堡，称为“倭城”（塞爱维小提示：这当然是大明和朝鲜方面的叫法）。这些城堡主要分布于朝鲜南部海滨，作为前哨基地或防御据点，其形式通常是在人工堆砌的丘陵或高地上再搭建木制城墙、塔楼及其内部的房舍，风格与传统的日式城堡一致。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_VP_FUTURE_TECH">
+			<Text>消灭敌军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_VP_TECH">
+			<Text>首尔与北京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} 来自消灭敌军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_DIPLO_MY_SCORE_TECH">
+			<Text>{1_Num} 来自首尔与北京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW">
+			<Text>遭遇近战时撤退</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GUERILLA_WITHDRAW_HELP">
+			<Text>单位面临近战攻击时将会撤退。遭遇高移动力的敌方单位或附近缺少开阔地形时撤退几率将会降低。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_BUILDING_PORCELAIN_TOWER_STRATEGY">
+			<Text>大报恩寺塔可提升近战单位和海上单位的组建速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_WONDER_PORCELAIN_TOWER_HELP">
+			<Text>组建近战单位或海上单位时+15%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_GUERILLAS_SPAWNED">
+			<Text>由于“正义之师”文明特质，朝鲜获得了新的军事单位以进行游击战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_TECH_SPREAD">
+			<Text>由于击败了这个{1_UnitName}单位，{2_TechName}科技已经解锁！现在你将能在你的城市中组建{3_UnitName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_MANCHU_DOW">
+			<Text>新近完成统一的满洲政权察觉到中国和朝鲜的国力由于同日本的长期战争而削弱，决定乘机发动扩张战争！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_NINGXIA_REBELLION_OVER">
+			<Text>中国军队已经平定了宁夏地区的哱拜叛乱，并向朝鲜战场增派援军。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_WAJO_REINFORCEMENTS">
+			<Text>日本援军已经抵达沿朝鲜海滨建造的倭城。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_JAPANESE_REINFORCEMENTS">
+			<Text>日本援军已经在朝鲜半岛登陆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_EXTRA_MANCHU_UNITS">
+			<Text>又一个女真部落决定加入满洲大军作战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_POLICY_COLLECTIVE_RULE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]集体统治[ENDCOLOR][NEWLINE]购买单位花费的[ICON_GOLD]金钱减少33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_MAP_TITLE">
+			<Text>东亚</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

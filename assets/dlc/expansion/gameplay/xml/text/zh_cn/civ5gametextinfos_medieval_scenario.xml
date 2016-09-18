@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TITLE">
+			<Text>走向文艺复兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DESC">
+			<Text>这是一个充满了传奇般的宗教战争的舞台。在遍布鲜血的地平线上，你能保存你的文明、并带领这个世界进入文艺复兴的光辉中吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RANDOM_MAP">
+			<Text>随机欧洲地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_FIXED_MAP">
+			<Text>历史地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>剧情描述[NEWLINE]基督教史上的第一次大分裂将天主教会分成了东部和西部两个教区。所有试图协调罗马公教和拜占庭正教的努力都已告失败。就在此时，信仰伊斯兰教的土耳其文明已经逼近了君士坦丁堡。作为回应，教皇乌尔班二世决定召集十字军来保卫拜占庭并夺回圣地。这是一个充满了传奇般的宗教战争的舞台。在遍布鲜血的地平线上，你能保存你的文明、并带领这个世界进入文艺复兴的光辉中吗？[NEWLINE][NEWLINE]胜利条件[NEWLINE]200回合后，分数最高的文明获得胜利。特别的剧情胜利点数包括：[NEWLINE][ICON_BULLET]控制圣城：控制（或结盟）你宗教的对应圣城以及耶路撒冷（10点/回合）[NEWLINE][ICON_BULLET]神圣罗马帝国皇帝：被所有大文明和城邦选举为神圣罗马帝国皇帝（250点/次）[NEWLINE][ICON_BULLET]开发新世界：研究了探险以后将轻帆船送到地图西边。[NEWLINE][ICON_BULLET]宗教战争：攻占异教城市[NEWLINE][NEWLINE]特殊规则[NEWLINE]剧情已经预设了3个宗教：天主教（圣城为梵蒂冈）；东正教（圣城为君士坦丁堡）；伊斯兰教（圣城为麦加）。控制对应圣城（或耶路撒冷）即可享受该宗教的创立者信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BRIEFING">
+			<Text>简介</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TURNSREMAINING">
+			<Text>剩余回合数: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_FUTURE_TECH">
+			<Text>剧情特有胜利点</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num}剧情特有胜利点[NEWLINE](控制圣城，神圣罗马皇帝选举)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_NAME">
+			<Text>萨拉丁·尤素福·阿尤布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_SUBTITLE">
+			<Text>埃及和叙利亚第一苏丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_LIVED">
+			<Text>1138-1193</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SALADIN_TEXT_1">
+			<Text>萨拉丁·优素福·本·阿尤布·本·沙迪·本·马尔旺·艾勒-阿尤比，通常被人们简称为萨拉丁，出身于一个库尔德贵族家庭，并最终成为埃及和叙利亚的第一位苏丹。公元1138年，萨拉丁出生于今伊拉克的提克里特，由他的叔叔抚养成人。在26岁时，他加入了他叔叔阿萨德（塞爱维小贴士：全名阿萨德·谢尔库赫）的部队。阿萨德当时是塞尔柱帝国叙利亚总督努尔丁手下的著名将领。加入叔叔的军队以后，萨拉丁在对抗十字军和剿灭埃及篡位者迪拉姆的比勒拜斯战役和西加沙战役中大放异彩。萨拉丁继续向亚历山大进军，亚历山大无血开城，于是萨拉丁于1169年被法蒂玛哈里发阿迪德任命为维齐尔。2年后努尔丁命令萨拉丁在埃及建立一个新的王朝。随着1174年努尔丁的去世，萨拉丁宣布建立阿尤布王朝。[NEWLINE][NEWLINE]依靠埃及作为大本营，萨拉丁在接下来的几年内向外扩张，他于1173年占领也门，1174年占领大马士革和哈马斯、取得叙利亚。占领叙利亚标志着萨拉丁击败了老对手赞吉王朝，于是他返回埃及，开始逐步稳固自己在埃及的统治。他主持修建了开罗城塞，挖掘了拜尔·尤素福深井，以及吉萨大桥等一些列工程。但是之后不久，十字军来到了他的土地上大肆劫掠，由此从1177年开始，萨拉丁将他的目光投向了巴勒斯坦。[NEWLINE][NEWLINE]萨拉丁之后一直与基督徒作战，直到到1193年去世。萨拉丁对十字军取得的一系列胜利，以及他在1187年灭亡耶路撒冷王国、占领圣城的战绩，让他在欧洲人中十分出名。由狮心王理查德、尊严王菲利普二世和巴巴罗萨大帝领导的第三次十字军东征由此也变得更像是一场屠杀而非战役。到了1191年9月，十字军的队伍里已经只剩下大约2000战士和50名骑士了，理查德不得不与萨拉丁讲和。1192年的拉姆拉条约规定耶路撒冷由穆斯林占有，但基督徒有进入城中朝圣的权力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_1">
+			<Text>你好，我是阿尤布的萨拉丁。我们是讲究公正的国家——但胆敢侵犯我们的国家必定自取灭亡。如果你能避免那些已从历史中消失的国家曾犯过的错误，你就会和我们相处得很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_2">
+			<Text>愿主保佑你！我是阿尤布的萨拉丁。我追求和平，但绝不会在战争前退缩。如果你想继续生存下去，就不要试图挑衅我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_3">
+			<Text>你好，我是萨拉丁，阿尤布的苏丹。我们智慧的人民渴望平等的交流，但在必要时我们也做好了保卫自己的准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_FIRSTGREETING_4">
+			<Text>你好，我是阿尤布的萨拉丁。我们追求和平。如果你想制造什么麻烦，我建议你最好上别处去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_TRADE_NO_HAPPY">
+			<Text>我不能同意你的提案，它们对于阿尤布人民来说不公平。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
+			<Text>我们可以用你的帮助来对抗自甘堕落的异端和污染大地的垃圾。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_SONGHAI_TEXT_1">
+			<Text>阿尤布王朝由库尔德人萨拉丁创立。王朝以埃及为核心，于公元12-13世纪统治者中东的绝大部分地区。到1183年时，阿尤布苏丹的统治区域包括埃及、突尼斯、叙利亚、美索不达米亚、库尔德斯坦、汉志、也门和黎凡特部分地区。由十字军建立的耶路撒冷王国于1187年被阿尤布王朝攻灭，由是引发了由狮心王理查德和尊严王菲利普二世领导的第三次十字军东征。[NEWLINE][NEWLINE]萨拉丁死后，他的儿子们相互争夺王位，但王位最终被萨拉丁的弟弟阿迪尔于1200年取得。但是，之后的王国陷入了从1230-1247年间的叙利亚暴乱的麻烦之中。而且在叙利亚暴动期间，也门、汉志和美索不达米亚也乘机独立。在勉强击败一次十字军对尼罗河三角洲的东征后，羸弱的阿尤布苏丹穆阿扎姆·突兰沙最终被手下的马木鲁克将领推翻。失去核心的埃及领地后，阿尤布王朝仍在阿勒颇等地区统治了10年，直到1260年被蒙古人彻底消灭。[NEWLINE][NEWLINE]虽然阿尤布王朝存在的历史不长，它却对穆斯林文化和科技的繁荣做出了很大贡献。萨拉丁及其继任者们总体上来说采用的是比较平和而开明的统治策略。大马士革和开罗先后见证了这段时间内阿拉伯文学艺术的发展。在阿尤布王朝统治期间，大量穆斯林学校被兴办起来，尤其是关于医学、药学和植物学的。一些伟大的穆斯林医学家，比如伊本·阿巴塔、达赫尔、拉什敦·阿苏尔等，在这段统治期间创造了许多领先世界的医疗手段。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_NAME">
+			<Text>阿布·尤素福·阿古柏·曼苏尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_SUBTITLE">
+			<Text>穆瓦希德埃米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_LIVED">
+			<Text>1160-1199</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_ALMANSUR_TEXT_1">
+			<Text>阿布·尤素福·阿古柏·曼苏尔（1160-1199）是穆瓦希德朝的第三任埃米尔。他的前任、也是他的父亲在1184年与葡萄牙的基督教君主阿方索一世作战时身亡。曼苏尔发誓要为父亲报仇雪恨，因此他登陆伊比利亚半岛，攻占并洗劫了数个基督教城市，最终向摩洛哥带回了3000战俘。回到摩洛哥后，他致力于加强王国的文化和外交发展。[NEWLINE][NEWLINE]曼苏尔离开伊比利亚后，卡斯提尔国王阿方索七世开始尝试“收复”伊比利亚那些被摩尔人占领的土地。他召集了那个时代几乎最强大的兵力——据称有30多万——夺取了许多穆瓦希德的城市，包括锡尔维什和贝雅。作为报复，曼苏尔很快就重返伊比利亚半岛，并在1195年7月的阿拉科斯战役中大败阿方索七世，基督教军队死伤达到15万人。在这场史诗般的胜利后，曼苏尔被冠以“神的胜利使者”的称号。[NEWLINE][NEWLINE]除了他的军事成就外，曼苏尔统治下的国度里，贸易、艺术和科学也持续繁荣着。曼苏尔还监督建造了可托巴大清真寺、曼苏里亚运河（位于马拉喀什）和乌代雅城堡（位于拉巴特），并大力支持哲学家、艺术家和学者。著名哲学家兼医生伊本·拉希德（基督教世界里称为亚瓦罗斯）就是得到了他的资助。现在拉巴特的最大清真寺其实也是曼苏尔开始建造的，不过由于曼苏尔过早的去世导致工程被迫中断。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_1">
+			<Text>你好！我是穆瓦希德朝的阿古柏·曼苏尔。来吧——一起参观一下我辉煌的宫殿！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_2">
+			<Text>啊！一颗新星在地平线上升起。我是穆瓦希德朝的阿古柏·曼苏尔。我应当作一首诗来庆祝我们历史性的相会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_HARUN_FIRSTGREETING_3">
+			<Text>你好，陌生人！我是阿布·尤素福·阿古柏·曼苏尔，穆瓦希德的统治者。来吧——向我介绍一下你的帝国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_ARABIA_TEXT_1">
+			<Text>穆瓦希德朝是由柏柏尔人伊本·图马特在公元12世纪建立的一个摩洛哥王朝。伊本·图马特最初只是试图进行宗教改革，但很快他和他的支持者们就推翻了作为统治者的穆拉比德家族，建立了自己的王朝。他的统治团结了柏柏尔人和摩尔人，并在之后的几十年内扩张到了整个马格里布和摩洛哥地区。穆瓦希德朝是一个充满了宗教激情的王朝，因此他们很快就越过摩洛哥海峡登陆伊比利亚南部（今天的葡萄牙和西班牙南部）。在1170年时他们将首都也搬到了塞维利亚。[NEWLINE][NEWLINE]虽然基督教国王们不断尝试夺回整个伊比利亚半岛，但穆瓦希德朝对伊比利亚的稳固统治一直持续到1212年。在那一年，卡斯提尔、阿拉贡、葡萄牙和纳瓦拉的联军在托洛萨的那瓦斯战役中决定性的击败了穆罕默德三世。之后40年内，绝大部分摩尔人的土地都被基督教势力征服：科尔多巴在1236年，塞维利亚在1248年。到1260年为止，在收复失地运动中唯一幸存的地区只剩下格拉纳达，不过格拉纳达城堡又坚持了250年才被攻克。[NEWLINE][NEWLINE]在非洲，穆瓦希德朝面对的是野蛮人的进攻和土著部落的叛乱，穆瓦希德朝甚至有段时间不得不和卡斯提尔王国结盟来对付他们。但穆瓦希德朝还是逐渐的丧失他们统治的土地，最主要的得利者是作为柏柏尔人分支的马林人，他们最终也将取代穆瓦希德朝，建立马林王朝。到1265年时，穆瓦希德朝的最后一任统治者安达里斯·瓦切奇已经只能龟缩于首都马拉喀什内。然而1268年连马拉喀什也被围困了，并于次年9月陷落；落城后安达里斯在混乱中被一个奴隶杀死。[NEWLINE][NEWLINE]穆瓦希德朝留下了它的继任者们无法追赶的文化和艺术遗产。曼苏尔等统治者资助了诸如亚瓦罗斯和迈蒙尼德这样的哲学家。穆瓦希德朝的建筑也十分出名，例如塞维利亚的基拉尔达清真寺、马拉喀什的可托巴大清真寺、拉巴特的哈桑塔、萨菲的光塔等。穆瓦希德朝统治下的犹太人也经历了一个“黄金时代”，全欧洲的犹太人纷纷从基督教世界来到摩尔人统治的伊比利亚，他们对穆瓦希德朝的医学和科技都做出了巨大贡献。虽然只存在了160年，穆瓦希德朝在北非和伊比利亚半岛留下的痕迹今日依然可见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV_OTTOMAN_TEXT_1">
+			<Text>所谓“奥斯曼土耳其人”最早为西欧人所知，是在1227年他们移居到塞尔柱王国的安纳托利亚地区。他们的大酋长埃尔图鲁尔加齐在日益衰落的塞尔柱帝国的西安纳托利亚地区建立了一个公爵领。他的儿子奥斯曼（欧洲人用以命名这个国家的名字）和孙子奥尔汗一世将大幅扩展这个国家。通过1362年的一系列精巧的军事行动，奥斯曼人越过达达尼尔海峡，进入了拜占庭帝国最后的统治地区——巴尔干半岛。到1453年时奥斯曼土耳其上升为一个超大帝国：这一年苏丹穆罕默德二世攻陷了君士坦丁堡，之后将其改名为伊斯坦布尔并定都于此。奥斯曼帝国将成为中世纪保留下来的最长和最大的帝国。[NEWLINE][NEWLINE]攻陷君士坦丁堡——东正教的圣城后，穆罕默德表现出了极为高明的政治策略。他会见了东正教普世牧首基纳迪奥斯二世，他表示虽然奥斯曼帝国是一个穆斯林国家，但他允许东正教教徒保留他们的信仰；作为交换，东正教必须在世俗方面的一切支持奥斯曼帝国。由此他收服了东正教徒，东正教徒不仅成为了帝国的成员，甚至还数次参与了奥斯曼帝国对抗天主教徒的战争。[NEWLINE][NEWLINE]随后，奥斯曼土耳其继续坚定的执行扩张策略，他们颠覆了巴尔干地区，占领了黎凡特和埃及，主宰了整个东地中海。帝国的贸易网络连接了黑海、爱琴海和地中海，在东方他们还通过红海，与印度洋和整个东方联系起来。对欧洲的扩张一直推进到维也纳城下，但在那里，奥斯曼帝国于1529年和1532年连续遭到两次大败。于是他们转而向北非扩张，到1566年时，土耳其帝国的国土已经涵盖了从巴格达到布达佩斯、从阿尔及尔到麦加的大片土地。[NEWLINE][NEWLINE]在整个扩张时期，奥斯曼帝国涌现了许多能干有才的苏丹，比如穆罕默德二世、塞利姆一世、以及苏莱曼大帝。对犹太教和东正教的宗教宽容政策让帝国的经济和哲学异常活跃，多种宗教传统和社会风俗的交流融合使得这个帝国的文学和科技都达到了黄金时代。大清真寺里的免费教育、文学界的新视野、还有统治阶级的经济支持都使得奥斯曼帝国成为比西方诸国更加稳定和繁荣的乐土。[NEWLINE][NEWLINE]但是到了17世纪时，帝国还是不可避免的进入了漫长的衰落期，在帝国北部和东部，莫斯科俄罗斯的兴起和蒙古人的屠杀使得奥斯曼无力再向西欧扩张。在地中海，西班牙国王菲利普二世率领的一支基督教联合海军于1571年在勒班托大海战中终结了奥斯曼帝国的海上霸权。新大陆的滚滚财源使得欧洲人不再依靠奥斯曼帝国的贸易线。除了新教革命时期造成的动乱之外，奥斯曼帝国再也没有成为基督教欧洲的威胁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_1">
+			<Text>依我的胡子和肚皮起誓，十分欢迎你，我的朋友！我是苏莱曼，土耳其人的领袖！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_2">
+			<Text>土耳其人民欢迎你，陌生人！我是苏莱曼！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_SULEIMAN_FIRSTGREETING_3">
+			<Text>欢迎你，陌生人！我是苏莱曼，土耳其人的领袖！让我们用丰盛的晚餐来庆祝我们的会面吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_NAME">
+			<Text>弗朗索瓦一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_SUBTITLE">
+			<Text>法国国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_LIVED">
+			<Text>1494-1547</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_FRANCIS_TEXT_1">
+			<Text>弗朗索瓦一世对法国的统治从公元1515年开始，持续到他的去世。在他的统治期间，他见证了法国在文化和政治上的剧烈变化。弗朗索瓦一世一生为争夺欧洲基督教世界的主导权，与同期的神圣罗马帝国皇帝查理五世为敌，他们之间的斗争可以说是后来新教革命中所有军事和经济冲突的根据。1514年时法王路易去世，虽然他一生结过三次婚，但没有留下任何子嗣。他的近亲弗朗索瓦便作为他的继承人，在1515年的新年于兰斯大教堂加冕为法国国王。[NEWLINE][NEWLINE]虽然弗朗索瓦一世并没有如他母亲期望的那样获得什么人文教育，但他最后依然被冠以“伟大的作家”的称号。在弗朗索瓦一世继位时，文艺复兴的思想和理论都已经传入法国。弗朗索瓦一世赞助了一批当时最为著名的艺术家和文学家，比如达芬奇、塞利尼、德尔萨托等人。很多人在他的鼓励下定居于法国，并得到大笔的赞助以从事创造。他还雇佣了大批人员搜集意大利的书籍和手稿，1537年时，弗朗索瓦一世还颁布了一项法令，规定每一本在法国出版的书都必须在他的图书馆抄录一本副本。[NEWLINE][NEWLINE]但在文学与艺术之外，弗朗索瓦一世被人记住的主要原因是他的军事和外交行动——绝大部分都是针对神圣罗马帝国皇帝查理五世的，又以意大利为主要战场。1515年，他刚继位不久，便在马里尼亚诺之战中击败瑞士，占领了意大利北部的著名城邦米兰。但在十年之后的一系列小规模战争中，弗朗索瓦一世在帕维亚战役中兵败于西班牙，并成为俘虏。在狱中的他不得不在次年签订了马德里和约。[NEWLINE][NEWLINE]回到法国以后，弗朗索瓦一世立刻宣布他是被强迫签订马德里和约的，拒绝承认和约内的一切内容，这自然引起了哈布斯堡王朝和法国的又一场战争。为了对抗哈布斯堡王朝，法国和奥斯曼土耳其帝国结盟。他们在1536-1538年间和1542-1546年间与哈布斯堡王朝在意大利展开了一系列大战。战场上双方不分胜负，但查理五世却后院起火，不得不签订了克雷皮条约。在对抗哈布斯堡西班牙的期间，弗朗索瓦一世大力开发新世界和亚洲。著名港口勒阿佛尔（塞爱维小贴士：号称“巴黎外港”，连接巴黎和出海口）就是为了这个目标而在1517年建造的。[NEWLINE][NEWLINE]1547年3月，弗朗索瓦一世在朗布依埃庄园去世。他的一生是充满争议的：他对文学和艺术的支持导致了国家财政破产；他对新教徒的迫害、包括数次大屠杀给法国留下了持续数十年的宗教乱局；虽然他十分关注书籍和人文，但他又对思想实施监控，流放了一些著名哲学家，比如约翰·开尔文；他的一系列战争并没有为法国带来任何资源或经济上的利益。但不管怎么说，即使在他死后，弗朗索瓦一世依然给欧洲大陆留下了深刻影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>你好，我是弗朗索瓦一世，文艺复兴艺术的赞助者！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>你好，陌生人！我是弗朗索瓦一世，法国国王！我对朋友如春风，对敌人如死神，你选择哪一条路？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>啊哈，我们终于见面了。我是弗朗索瓦一世，法国国王。来吧，我们一起讨论一下如何划分远处我们两个伟大国度之间的那片陆地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>你好，我是弗朗索瓦一世，来自瓦卢瓦家族的法国国王。有兴趣来看看我新建的庄园吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_VIKING_FURY">
+			<Text>海运的单位+1[ICON_MOVES]移动力且在登陆时只消耗1移动力。近战单位在劫掠时不消耗移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_VIKING_FURY_SHORT">
+			<Text>维京狂暴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART">
+			<Text>与拥有更多城市的文明的单位交战时可获得战斗力加成（20%）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_BRAVEHEART_SHORT">
+			<Text>勇敢的心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN">
+			<Text>所有陆军单位+1[ICON_MOVES]移动。所有部队进入沿河地块时只消耗1行动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAY_IGORS_CAMPAIGN_SHORT">
+			<Text>英雄远征</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN">
+			<Text>所有被征服的城市免费获得一座法庭。开局时开罗自带金字塔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_JUSTICE_SALADIN_SHORT">
+			<Text>正义之使</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LOGOTHETE_COURSE">
+			<Text>额外获得一个间谍。是剧情里唯一开局自带圣城的文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LOGOTHETE_COURSE_SHORT">
+			<Text>文官制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_TERROR">
+			<Text>所有陆军单位+1[ICON_MOVES]移动，并自动晋升长途行军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_SEVEN_CITIES">
+			<Text>研究了探险以后可以将三个西班牙征服者送到地图最西边去探索新大陆，并获得开发新世界的剧情奖励分数和[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_LAND_TRADE_GOLD">
+			<Text>每条[ICON_CONNECTED]商路+2[ICON_GOLD]金钱收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_TRAIT_ENHANCED_CULTURE">
+			<Text>城市每回合+2[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_DESC">
+			<Text>奥格斯堡位于巴伐利亚西南部，公元前15年由罗马皇帝提贝里乌斯建立，之后很快成为罗马拉比亚行省的军事和经济中心。虽然公元5世纪时城市遭到阿提拉的劫掠，但在8世纪的查理曼大帝和11世纪的巴伐利亚的韦尔夫家族统治下，奥格斯堡依然蒸蒸日上。这主要得益于奥格斯堡独特的地理位置：它位于大部分穿越阿尔卑斯山的商路的交汇处；奥格斯堡也因此在1276年三月成为神圣罗马帝国治下的一个帝国自由市（塞爱维小贴士：帝国自由市是指这些城市直接由皇帝管理，不受所在地区的领主管辖，而不是类似威尼斯那样的完全自主的城邦）。奥格斯堡的战略重要性也使得它成为17世纪天主教-新教战争的主战场。15到16世纪是奥格斯堡的黄金时期，此时它处于商业大族富格尔家族和韦尔泽家族管理下。大量的艺术家受到财富吸引而进入城市中寻找赞助者，因此奥格斯堡成为了音乐、文学、绘画和建筑的中心。1806年，拿破仑解散了神圣罗马帝国，奥格斯堡也因此失去了帝国自由市的地位，成为巴伐利亚王国的一员。19世纪的工业革命和德国统一使奥格斯堡开始转型为以纺织、炼钢和军用产品为主的制造业城市。虽然在二战中被严重摧毁，重建后的奥格斯堡依然是欧洲的重要城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_DESC">
+			<Text>公元50年，为了保护下日耳曼尼亚行省，罗马人在莱茵河畔建立了堡垒城市科隆。在罗马和之后的法兰克人统治下，科隆作为阿尔卑斯山北部的重要经济和宗教中心之一开始繁荣起来。公元785年，科隆被设为大主教区。在神圣罗马帝国时期，这座城市住有七个选帝侯中三个大主教中的一个。和所有其他的重要教会城市一样，科隆是莱茵河上的一个关键港口和贸易中心，也是很多影响力极大的行会的总部所在地。在宗教改革期间，虽然有2位路德宗的大主教的努力，这个城市依然保持在天主教阵营。科隆大学（欧洲最古老的大学之一）的教授甚至还在1520年公开烧毁了路德的书籍。1789年法兰西共和国占领了科隆，从此它失去了自由市的地位。根据1815年的维也纳会议，科隆成为普鲁士王国的一部分，之后又随着德国统一并入德意志。二战时科隆成为盟军空袭的主要目标之一，遭受了262次空袭，95%的城区被摧毁。直到1959年，科隆才恢复到了二战之前的人口。在那之后，科隆又被重建为一个现代化的工业大都会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_DESC">
+			<Text>麦加作为穆罕默德和古兰经的诞生地，是伊斯兰教的第一圣城。每个穆斯林一生中都会尽己所能到麦加去朝觐过。尽管它建城的历史已只存在于传说之中，但到公元6世纪时，麦加依靠着他们的骆驼商队，已成为了香料贸易的枢纽之地，是当时世界最富有的城市之一。穆罕默德于公元570年生于此地，从此这座城市便与伊斯兰教结下了不解之缘。即使当穆罕默德占领了麦地那并将其作为急速扩张的穆斯林王国的行政中心后，麦加仍然保留了信仰中心的地位。随着越来越多的学者和信徒想要在克尔白周围定居，以及为了满足朝圣人群需求而日益增多的商贾，在其后的几个世纪里，无论哈里发们和征服者们如何兴衰，麦加始终保持着繁荣。直到1517年，它成为了奥斯曼帝国的一部分；随着一战末期奥斯曼帝国的分崩离析，它被纳入了沙特的统治之下。麦加现存着无数宗教和历史遗迹，这里的禁寺是世界上最大的清真寺，亦是一座世界级的伊斯兰教大学。到麦加朝觐仍是每个穆斯林的“五功”之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_DESC">
+			<Text>突尼斯城由柏柏尔人在公元前的第二个千年里建成，在公元前146年布匿战争中毁于罗马人之手。尽管之后罗马人又将之重建，但是直到公元7世纪被阿拉伯穆斯林征服之前，突尼斯城并未有甚突出地位。自公元9世纪起，突尼斯城开始被在此延续统治的穆斯林王朝意识到是毗邻欧洲的战略要地，从而成为了西地中海最重要的海军基地。在另一次叛乱后，阿卜杜勒·慕敏在1159年占领了这座城市并将其建设成为了一个贸易中心；从12世纪起到16世纪，突尼斯是当时世界上最富有，最具有战略意义的港口之一。1534年，奥斯曼帝国获得了突尼斯城名义上的所有权，在被西班牙人短暂占有之后，1574年，这里的奥斯曼政府获得了相当的自治权。在侯赛因王朝的统治之下，随着传统贸易和工业的增长，巴巴里海盗的活动也随之猖獗并达到顶峰。在一连串的叛乱，被入侵，被占领之后，法国在1881年到1956年占据了这里。随着法国人的撤退，突尼斯城作为了独立的突尼斯的首都，也是这个地区一座世界性的贸易和文化中心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_DESC">
+			<Text>公元前9世纪，希腊殖民者便建立了那不勒斯，今日那不勒斯已是持续有人居住的城市中，最古老的之一了。此后那不勒斯在罗马治下经历了共和国和帝国时代。作为欧洲世界的一个缩影，这座城市见证了许多统治者的来来去去以及他们的遗产和文化的印记。从1282年直到1816年，富饶且充满活力的那不勒斯王国都定都在此，在当时风起云涌的欧陆蓬勃发展。那不勒斯此后被西班牙，法国，奥地利所统治，后又落入法国人之手，终在拿破仑战争后获得独立。在1815年的维也纳会议上，那不勒斯王国和西西里王国合并组成两西西里王国，直到1861年被意大利所统一。2800年的悠久历史，在那不勒斯留下了数不清的伟大的艺术品，建筑及繁华的商业，使其成为地中海区域最重要的城市之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_DESC">
+			<Text>里加最初是一个建于公元二世纪的定居点，在中世纪早期成为通往拜占庭的德维纳-第聂伯河商路的前哨站。在中世纪盛期，里加因加入了汉萨同盟而变得繁荣。现在，它是波罗的海国家中最大的城市，亦是拉脱维亚的首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_DESC">
+			<Text>格但斯克坐落于维斯瓦河的河口三角洲，这片地区在两千多年前便有人类定居。格但斯克（德语称但泽）于980年，由当时的波兰大公梅什科一世用作要塞而兴建。今日格但斯克是波兰第四大城市，也是最重要的海港。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_DESC">
+			<Text>在10到12世纪时，波洛茨克是斯拉夫人在今白俄罗斯地方的一股统治性的力量。然而到13世纪它成为了立陶宛的附庸，并逐渐衰落不彰于史。1812年拿破仑入侵俄国的战争中有两场战斗在这附近打响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MESSIAH">
+			<Text>每个改革家进入后，改变附近城市40%天主教徒的信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_RELIGIOUS_TEXTS">
+			<Text>5倍宗教传播速度（印刷机科技后为9倍）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_PAPAL_PRIMACY">
+			<Text>对信仰[ICON_RELIGION_CHRISTIANITY]天主教的城邦[ICON_INFLUENCE]影响力的下限值+15。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHORAL_MUSIC">
+			<Text>信众规模达到5的城市中神庙+4[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INDULGENCES">
+			<Text>每条[ICON_CONNECTED]商路+2[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_THIRD_ROME">
+			<Text>圣城如被占领，则现存的最大城市代替成为圣城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY">
+			<Text>+2[ICON_CULTURE]文化，神庙+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HAJJ">
+			<Text>+5[ICON_CULTURE]文化，神祠和神庙+5[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SALAT">
+			<Text>+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC">
+			<Text>每个信仰该宗教的城市+8[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE">
+			<Text>神祠和神庙+3[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY_PEDIA">
+			<Text>天主教指的是在罗马教廷主持下的基督教会的教义和宗教体系。根据教会学者的说法，天主教之所以有别于基督教的其他宗派，是因为它对教会传统与圣礼的恪守，它的神职人员也是圣经的解释者。[NEWLINE][NEWLINE]“天主教”这个说法最早由安提约基亚的依纳爵在公元107年提出。早期的教会被分为三个牧首辖区管辖，分别是罗马，亚历山大里亚和安条克，后来又增加了君士坦丁堡和耶路撒冷。罗马教会声称他们因着与圣彼得的关系，应当拥有特殊的地位与权力。在近千年的时间里，天主教统治了欧洲，直到东正教在1054年的东西方教会大分裂中产生。大约500年以后，又一个基督教的宗派在新教改革中产生，起因是许多信徒相比于枯燥的教义与仪式，更喜欢对信仰的个性表达。。[NEWLINE][NEWLINE]现在，天主教会认为这些不服从于梵蒂冈的信徒为“非天主教徒”，但是也容忍了他们对圣经的不同解读。天主教仍是基督教会最大的宗派，有超过10亿的信徒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY_PEDIA">
+			<Text>东正教现在是第二大的基督教宗派，大约有3亿信徒。正教徒们希望通过灵修使自己与上帝趋近。[NEWLINE][NEWLINE]东正教源于东西方教会大分裂。公元9到10世纪间，东欧包括基辅罗斯和巴尔干一带，君士坦丁堡主教区管辖下的教众的信条发生了重要的改变。对教义理解（例如“和子说”）的分歧，对教皇对各大主教区权威的否认，同时罗马和君士坦丁堡在政治和经济上的竞争加剧了双方了裂痕，最终导致了教会的分裂。双方最后的联系，因1204年十字军攻陷君士坦丁堡而告终。1453年，君士坦丁堡陷于奥斯曼帝国，在其对宗教相对宽容的统治下，东方教会变得与罗马教会更加疏离。东正教自视为早期基督教的正统传承者，在沙皇俄国时代开始繁盛。尽管因为苏联的统治和巴尔干地区的世俗化，东正教会的实力有所衰退，但是近年来又有所复兴，并仍是基督教的一个重要分支。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM_PEDIA">
+			<Text>最终导致基督教欧洲分裂的新教改革，起自德国一次对天主教教义与仪式的抗争，尤其是对救赎，释罪和对圣经的阐释。[NEWLINE][NEWLINE]1517年，威腾伯格大学城的一位叫马丁路德的德国牧师，在研读了一些人文学者的著作后，发表了95篇批判天主教会某些修道仪式的论文。他的行动促进了其他一些自由主义宗教思想家进一步完善了他们各自对教会的批判。信义宗在德国和斯堪的纳维亚逐渐兴起，加尔文宗在瑞士开始发展。同时，在英格兰和部分地区，宗教又与政治被混在在了一起，产生了更多新的教派。尽管存在着差异，所以新教运动都有两条相同的原则：其一，只有圣经，而不是教皇的阐释，才是基督教会唯一权威的来源；其二，救赎只会通过救世主耶稣与信徒本人的联系而降临，而非只需行善与赎罪券。[NEWLINE][NEWLINE]天主教信仰的分裂引发了一系列的宗教战争，留下的影响一直持续到现在。新教有许多不同的宗派，合计信徒大约有6亿7千万。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_HELP">
+			<Text>触发选举成为神圣罗马帝国皇帝的投票。圣彼得大教堂的拥有者获得额外的一票。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_QUOTE">
+			<Text>当一个人对着一堆乱石沉思，头脑中呈现出一副教堂的图画时，这堆乱石就不再仅仅是一堆石头了。[NEWLINE]——安托万·德·圣埃克絮佩里（法国作家兼飞行员）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_UNITED_NATIONS_DESC">
+			<Text>圣彼得大教堂是文艺复兴后期在梵蒂冈城兴建的教堂，是世界上内部空间最大的教堂。传统上认为圣彼得在公元64年去世后就安葬在这里，几年后这里建了一座圣祠。君士坦丁大帝在319年到333年间在这个墓地上修建了老圣彼得大教堂。随着几个世纪中不停的损毁，教皇尤利乌二世在1505年决定将其重建为一座不朽的建筑，这项工程延续了120多年，历经了多任教皇和总设计师。为了维持这项庞大的工程，不少教皇开始大肆出售赎罪券，也是马丁路德领导的新教改革的导火索。在一些文艺复兴代表人物，例如米开朗基罗、拉斐尔、布拉曼帖、贝尔尼尼等人的努力下，圣彼得大教堂成为了西方文明最重要的瑰宝之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_EO_DIPLOMACY_AND_UN_VOTE">
+			<Text>神圣罗马帝国皇帝选举前[NEWLINE][NEWLINE]{1_Num}回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_VOTE">
+			<Text>神圣罗马帝国皇帝选举</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_DIPLO_VOTE_TT">
+			<Text>你必须投票选出神圣罗马帝国皇帝！！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_POP_UNITED_NATIONS_VOTE">
+			<Text>神圣罗马帝国皇帝选举！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_POP_UN_ELEC_RESULTS">
+			<Text>神圣罗马帝国皇帝选举结果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_HRE_WINNER">
+			<Text>神圣罗马帝国{1:genderfeminine?女皇;other?皇帝;}是：{1_LeaderName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NO_HRE_WINNER">
+			<Text>神圣罗马帝国皇帝未被选出（投票未分胜负）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_DIPLO_PROJECT_BUILT_BY">
+			<Text>赢得选举并未结束剧情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VICTORY_DIPLOMATIC">
+			<Text>神圣罗马帝国选举</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_DIPLO_VOTES_NEEDED">
+			<Text>梵蒂冈获得额外1票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_HAVE_FOUNDER_BELIEFS">
+			<Text>通过控制圣城/耶路撒冷获得创立者信条收益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NEED_FOUNDER_BELIEFS">
+			<Text>你需要控制圣城/耶路撒冷来获得创立者信条收益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CARAVEL">
+			<Text>一艘{@1_UnitName}已踏上新大陆的征程！由此次探险的壮举你获得{2_VPAmount}胜利点。派出{3_NumRemaining}支更多的探险队将获得探险胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CONQUISTADOR">
+			<Text>一队{@1_UnitName}已踏上新大陆的征程！由此次征服新世界的壮举你获得{2_GoldAmount}[ICON_GOLD]金钱及{3_VPAmount}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_OTHER_CARAVEL">
+			<Text>{@1_PlayerName}的一支远征队已踏上新大陆的征程！由此次探险的壮举他们获得{2_VPAmount}胜利点。派出{3_NumRemaining}支更多的探险队将获得探险胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_1">
+			<Text>你秉持不同的信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_2">
+			<Text>你征服了异教圣城！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SPECIFIC_DIPLO_STRING_3">
+			<Text>你解放了异教圣城！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_FIRST_REFORMER">
+			<Text>一位下级牧师马丁路德发表了九十五条论纲批判天主教会的胡作非为。他的作品在{@1_CityStateName}引起了激烈反响并改宗新教。路德的信条会在此扎根繁荣吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_SECOND_REFORMER">
+			<Text>第二位宗教改革家慈运理开始通过布道使{@1_CityStateName}的居民改信新教。请注意——他的新教教义正在迅速传播！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_THIRD_REFORMER">
+			<Text>第三位改革家约翰·加尔文开始通过布道使{@1_CityStateName}的居民改信新教。加尔文的作品提供了一个建立新教团体的系统方案。这个对天主教会的挑战会被阻止吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_YOU_ADOPTED_PROTESTANTISM">
+			<Text>你超过一半的城市都接受了新教的经过改良的信条。你的文明现在可以考虑改宗新教。你需要控制{@1_HolyCityName}作为新的圣城。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_OTHER_ADOPTED_PROTESTANTISM">
+			<Text>{@1_PlayerName}已将新教作为国教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NEW_ORTHODOX_HOLY_CITY">
+			<Text>{@1_OldHolyCityName}已被占领。东正教新圣城是{@2_NewHolyCityName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_NO_ORTHODOX_CITIES">
+			<Text>{@1_OldHolyCityName}已被占领，但是没有其他东正教城市，所以{@1_OldHolyCityName}仍然作为圣城。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_CITY_CAPTURE">
+			<Text>{1_CivName:textkey}通过占领{@3_CityName}（人口达到{4_Population}的异教城市）获得{2_VP}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_CITY_CAPTURE_HUMAN">
+			<Text>通过占领{@2_CityName}（人口达到3的异教城市）获得{1_VP}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_HOLY_CITY_CAPTURE">
+			<Text>{1_CivName:textkey}通过占领{@3_CityName}（人口达到{4_Population}的异教圣城）获得{2_VP}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_VP_HOLY_CITY_CAPTURE_HUMAN">
+			<Text>你通过占领{@2_CityName}（人口达到{3_Population}的异教圣城）获得{1_VP}胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EXPLORATION_TITLE">
+			<Text>探索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EXPLORATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我们永远都不能停止探索，如果我们的探索会有终点，那也会是我们下一次探索的开端，去首次认识我们未知的所在。”[NEWLINE][TAB][TAB]　　　　——托马斯·斯特恩斯·艾略特[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EXPLORATION_HELP">
+			<Text>你可以建造[COLOR_POSITIVE_TEXT]轻帆船[ENDCOLOR]，一个昂贵的海军单位，在开拓新世界的探索中有代表性的意义。建造轻帆船并驶向地图西部的边缘以获得胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EXPLORATION_DESC">
+			<Text>葡萄牙在航海者亨利的领导下开创了文艺复兴的大航海时代。葡萄牙人依靠着轻帆船，沿着非洲西海岸，最后绕过好望角进入印度洋。经过1492年克里斯托弗哥伦布的航海，人们的目光被聚焦到如何找出一条从西边到达富饶的中国和印度的航路。西班牙在接下去半个世纪的竞争中领先，他们征服了许多南美土著文明，并且斐迪南·麦哲伦（中途遇难）领导了船队首次成功环绕地球航行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUMANISM_TITLE">
+			<Text>人文主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUMANISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“有了光明，黑暗自己就会消失。”[NEWLINE][TAB][TAB]　　　　——德西德里乌斯·伊拉斯谟[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUMANISM_HELP">
+			<Text>你可以建造[COLOR_POSITIVE_TEXT]歌剧院[ENDCOLOR]以大量增加[ICON_CULTURE]文化。某个文明必须研究人文主义以触发新教改革。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HUMANISM_DESC">
+			<Text>文艺复兴时期的人文主义是一次14到15世纪起源于中欧的文化和教育改革。人文主义者力图促进某些我们现在称为“人文科学”的学科的研究：哲学，历史，语言及宗教。德西德里乌斯·伊拉斯谟是人文学者中的重要人物，他对新约全书的拉丁语和希腊语翻译影响了新教改革的前进。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_MUSLIM_CAVALRY">
+			<Text>强力的中世纪骑乘单位，被长枪兵克制。只有阿尤布可以组建。此单位与其取代的骑士不同，不受攻城惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY_STRATEGY">
+			<Text>这是一个阿尤布特色单位，取代骑士。这个单位与骑士的数据一样，但是它更适于攻击城市。马穆鲁克骑兵在进攻后仍可移动。它的速度使得敌方很难在其到达目标前组织有效的防线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN_STRATEGY">
+			<Text>威尔士长弓手是凯尔特的特色单位，取代弩兵。威尔士长弓手的射程比弩兵更远，可以攻击距离三个地块的敌人，经常在敌方还击之前就能将其歼灭。与其他远程单位一样，它也被近战单位克制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_CARAVEL_STRATEGY">
+			<Text>在这个剧情里，建造一艘轻帆船意味着开始探索新大陆的航程。建造后将轻帆船驶向地图的边缘，它将消失但你会获得胜利点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_AUSTRIAN_HUSSAR_STRATEGY">
+			<Text>骠骑兵是极好的侦察兵和迂回攻击单位。他们相比所取代的枪骑兵有些许力量和速度上的优势。他们自带+1视野的晋升及迂回打击效果+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_RUSSIAN_COSSACK_STRATEGY">
+			<Text>哥萨克骑兵是俄国特色单位，取代枪骑兵。他们比枪骑兵力量更强，在对负伤单位作战时有战斗优势加成。这使得哥萨克在反击是异常强大—让敌人先与前线的炮火战斗，然后用哥萨克骑兵将被削弱的敌人撕扯成碎片！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_HELP_CARAVEL">
+			<Text>文艺复兴时期海军探索单位。将它们移动到地图西部的边缘以获得胜利点。战斗时作为海军近战单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
+			<Text>中世纪时代单位，取代骑士。擅长于侦查与海外殖民。仅西班牙可组建。研究探险科技后,可以将3队征服者移动到地图西部边缘以获得新大陆胜利点与[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
+			<Text>西班牙征服者是一个多用途的单位，在陆地与海上都有强大的战斗力。作为骑士的取代单位，它是一个特别的陆上侦查单位，有着超常的视野。同时，它也有建立新城市的能力，但是只能在没有西班牙首都的异大陆。在海上，征服者拥有防御性的海运能力晋升，使其自身也能防御海军单位的进攻。当它攻击城市时，也不会像其实那样有攻城惩罚。研究探险科技后,可以将3队征服者移动到地图西部边缘以获得新大陆胜利点与[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WELSH_LONGBOWMAN">
+			<Text>中世纪远程步兵单位。仅凯尔特可以组建。它相比弩手增加了1射程，但是相对力量较弱。它经过复杂地形时可相当于经过了平坦地形。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STAVE_CHURCH_STRATEGY">
+			<Text>原木大教堂可以增加城市的[ICON_PEACE]信仰，加速你创立和传播宗教。城市必须有神祠才能修建原木大教堂。原木大教堂不需要维护费，且建设时间只有它取代的神庙的一半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STAVE_CHURCH_TEXT">
+			<Text>原木大教堂是以原木为建材的梁柱结构建筑，修建于维京人皈依基督教后的中世纪斯堪的纳维亚。仅在瑞典，据估计就有超过1000做原木教堂被修建，最古老的可追溯到12世纪中叶。除了它们的宗教用途，原木教堂也经常用来作为会议大厅、文化中心、法庭甚至市场。早期的原木教堂仅仅是木栅栏围成，有着陡峭的斜屋面以便让厚重的积雪可以滑落。这些教堂有着精心制作的木雕装饰，通常是基督教文化的图像，也偶尔有描述基督教诞生前的英雄与传说。然后，只有屋角的柱被插进土中用于承重，并在底部框架上铺上木板。现存有30座原木教堂，其中有285座都在挪威。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHATEAU_STRATEGY">
+			<Text>宫堡是中世纪时代用来增加城市防御的建筑。城市需要拥有城墙才能建造宫堡。宫堡比它所取代的城堡造价更高，但是它能为城市提供[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHATEAU_TEXT">
+			<Text>宫堡或是领主的宅邸，或是贵族在乡间的住宅，通常没有防御工事。在中世纪，一座宫堡通过贵族的领地（世袭土地）的供养，能够最大限度的自给自足。这些经常不规则延伸的建筑包括门房、厨房、马厩、酿酒屋、面包房、库房、仆人房、艺术馆、宴会厅、图书馆以及家族的起居室。这是从高卢的罗马贵族，例如老普林尼、米西纳斯、提比略皇帝所喜欢的开放式别墅发展而来。相当于在法国城市里的宫殿。巴黎的卢浮宫和卢森堡公园原来都是宫堡，在城市扩张导致其丧失原来的军事意义之后就成了宫殿。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHATEAU_HELP">
+			<Text>城市必须要有城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MADRASAH_STRATEGY">
+			<Text>伊斯兰学校是中世纪时期建筑。它会增加城市的科研，当城市在丛林周围时产出还会增加。城市必须要有图书馆才能建造伊斯兰学校。与被它替代的大学不同，它还能提供[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MADRASAH_TEXT">
+			<Text>伊斯兰学校是阿拉伯各种教育机构的统称。尽管属于宗教机构，伊斯兰学校经常是世俗化的，并通常涵盖了初等到高等教育。伊斯兰学校经常托庇于一座清真寺之下，甚至会专门研究医药、律法、自然科学、哲学或者女性教育。卡鲁因大学是第一座伊斯兰大学，由一位富商的女儿，法蒂玛·菲赫利在859年创立。在法蒂玛，阿尤布，马穆鲁克三个王朝的统治下，由统治者或富有的精英创立伊斯兰大学的风潮在埃及到中东流行。第一座奥斯曼帝国的伊斯兰大学在1331年遵从逊尼派的传统在伊兹尼克成立.这些土耳其和阿拉伯的伊斯兰大学，在欧洲的黑暗时期，保存了西方世界的学术成果，并将其与东方文化融合在一起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MADRASAH_HELP">
+			<Text>城市周围工作的丛林地块+2[ICON_RESEARCH]科研[NEWLINE][NEWLINE]城市必须拥有图书馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_WONDER_HAGIA_SOPHIA_HELP">
+			<Text>某个城市训练的传教士可传教3次，为这个城市提供一座免费神庙。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

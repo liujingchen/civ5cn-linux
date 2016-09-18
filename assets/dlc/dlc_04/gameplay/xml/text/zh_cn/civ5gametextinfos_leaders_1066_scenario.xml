@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_BISMARCK">
+			<Text>强王哈拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_ELIZABETH">
+			<Text>哈罗德·葛温森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_NAPOLEON">
+			<Text>征服者威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARALD">
+			<Text>斯文二世</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

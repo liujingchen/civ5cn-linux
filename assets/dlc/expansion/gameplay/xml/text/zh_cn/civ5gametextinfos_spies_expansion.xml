@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- America - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_0">
+			<Text>卡森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_1">
+			<Text>费利克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_2">
+			<Text>丹尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_3">
+			<Text>爱德华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_4">
+			<Text>雷克斯教授</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_5">
+			<Text>伊丽莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_6">
+			<Text>玛丽</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_7">
+			<Text>弗吉尼亚</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_8">
+			<Text>斯佳丽</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AMERICA_9">
+			<Text>芭芭拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Arabia - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_0">
+			<Text>索尔霍法特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_1">
+			<Text>肯吉尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_2">
+			<Text>扎拉法赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_3">
+			<Text>特姆沙阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_4">
+			<Text>阿布雅德赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_5">
+			<Text>穆斯塔法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_6">
+			<Text>优素福</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_7">
+			<Text>瓦达赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_8">
+			<Text>莎米拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARABIA_9">
+			<Text>贾迈勒</Text>
+		</Row>
+		<!-- Aztec - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_0">
+			<Text>梅兹特利</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_1">
+			<Text>席特拉利</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_2">
+			<Text>奇玛尔利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_3">
+			<Text>库奥特利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_4">
+			<Text>特亚卡潘</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_5">
+			<Text>雅欧特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_6">
+			<Text>科阿特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_7">
+			<Text>辉特兹林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_8">
+			<Text>伊特兹利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AZTEC_9">
+			<Text>特皮因</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- China - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_0">
+			<Text>李</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_1">
+			<Text>陈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_2">
+			<Text>张</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_3">
+			<Text>刘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_4">
+			<Text>杨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_5">
+			<Text>黄</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_6">
+			<Text>赵</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_7">
+			<Text>吴</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_8">
+			<Text>周</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHINA_9">
+			<Text>孙</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Egypt - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_0">
+			<Text>瑞法特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_1">
+			<Text>赫巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_2">
+			<Text>萨拉赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_3">
+			<Text>阿赫迈德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_4">
+			<Text>扎卡利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_5">
+			<Text>芭斯蒂特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_6">
+			<Text>玛艾特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_7">
+			<Text>尼布赫特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_8">
+			<Text>蒂芙尼特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EGYPT_9">
+			<Text>尼乌丝</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- England - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_0">
+			<Text>詹姆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_1">
+			<Text>斯佳丽</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_2">
+			<Text>麦克罗夫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_3">
+			<Text>夏洛特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_4">
+			<Text>格温多琳</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_5">
+			<Text>“X先生”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_6">
+			<Text>格雷博士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_7">
+			<Text>安德鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_8">
+			<Text>斯科特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ENGLAND_9">
+			<Text>安妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- France - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_0">
+			<Text>让-保罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_1">
+			<Text>玛蒂</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_2">
+			<Text>吕西安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_3">
+			<Text>弗朗索瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_4">
+			<Text>奥古斯丁</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_5">
+			<Text>“X先生”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_6">
+			<Text>杜邦博士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_7">
+			<Text>“蝮蛇”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_8">
+			<Text>伊薇特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCE_9">
+			<Text>雷纳尔</Text>
+		</Row>
+		<!-- Germany - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_0">
+			<Text>约翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_1">
+			<Text>玛莲</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_2">
+			<Text>威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_3">
+			<Text>爱娃</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_4">
+			<Text>海因茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_5">
+			<Text>霍斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_6">
+			<Text>卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_7">
+			<Text>“蝮蛇”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_8">
+			<Text>阿尔布雷希特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GERMANY_9">
+			<Text>安东</Text>
+		</Row>
+		<!-- Greece - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_0">
+			<Text>杰森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_1">
+			<Text>海伦娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_2">
+			<Text>阿列克西娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_3">
+			<Text>克利图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_4">
+			<Text>卡珊德拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_5">
+			<Text>安德雷斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_6">
+			<Text>黛丝德蒙娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_7">
+			<Text>安西娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_8">
+			<Text>阿尼亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GREECE_9">
+			<Text>列安德尔</Text>
+		</Row>
+		<!-- India - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_0">
+			<Text>阿索克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_1">
+			<Text>桑克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_2">
+			<Text>霍尔米斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_3">
+			<Text>桑吉夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_4">
+			<Text>阿南达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_5">
+			<Text>拉妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_6">
+			<Text>帕尔瓦蒂</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_7">
+			<Text>穆克塔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_8">
+			<Text>卡莉西玛</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDIA_9">
+			<Text>乔兹娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Iroquois - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_0">
+			<Text>欧娜塔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_1">
+			<Text>欧内妲</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_2">
+			<Text>欧莎达吉娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_3">
+			<Text>欧特提亚尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_4">
+			<Text>吉妮西</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_5">
+			<Text>达加亚多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_6">
+			<Text>欧图提亚尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_7">
+			<Text>卡特莉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_8">
+			<Text>欧农达凯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IROQUOIS_9">
+			<Text>霍南亚乌斯</Text>
+		</Row>
+		<!-- Japan -->
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_0">
+			<Text>赤石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_1">
+			<Text>雄木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_2">
+			<Text>服部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_3">
+			<Text>诸角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_4">
+			<Text>桃知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_5">
+			<Text>川岛</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_6">
+			<Text>御铃</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_7">
+			<Text>阪西</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_8">
+			<Text>枫</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JAPAN_9">
+			<Text>望月</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Ottoman - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_0">
+			<Text>易卜拉颀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_1">
+			<Text>巴耶兹德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_2">
+			<Text>索科尔鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_3">
+			<Text>马赫穆特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_4">
+			<Text>乌维斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_5">
+			<Text>萝谢拉娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_6">
+			<Text>莎菲耶</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_7">
+			<Text>哈芙莎</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_8">
+			<Text>科西姆</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OTTOMAN_9">
+			<Text>努尔芭奴</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Persia - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_0">
+			<Text>阿兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_1">
+			<Text>达比尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_2">
+			<Text>菲鲁兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_3">
+			<Text>加斯帕尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_4">
+			<Text>沙哈扎德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_5">
+			<Text>阿佳</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_6">
+			<Text>玛佳妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_7">
+			<Text>佩莉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_8">
+			<Text>莎尔塔吉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERSIA_9">
+			<Text>雅丝敏</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Rome - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_0">
+			<Text>弗拉维乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_1">
+			<Text>蕾古拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_2">
+			<Text>塞尔维乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_3">
+			<Text>卢西娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_4">
+			<Text>哥尼利乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_5">
+			<Text>莉西娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_6">
+			<Text>加努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_7">
+			<Text>“巨蛇”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_8">
+			<Text>阿格莉帕</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ROME_9">
+			<Text>布鲁图斯</Text>
+		</Row>
+		<!-- Russia - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_0">
+			<Text>阿列克谢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_1">
+			<Text>莱娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_2">
+			<Text>德里特里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_3">
+			<Text>安娜斯塔西娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_4">
+			<Text>塔蒂亚娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_5">
+			<Text>鲍里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_6">
+			<Text>谢利博士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_7">
+			<Text>米哈伊尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_8">
+			<Text>娜塔莎</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_9">
+			<Text>兹梅亚</Text>
+		</Row>
+		<!-- Siam - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_0">
+			<Text>阿兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_1">
+			<Text>恰那隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_2">
+			<Text>基耶特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_3">
+			<Text>尼兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_4">
+			<Text>维罗特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_5">
+			<Text>卡拉普</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_6">
+			<Text>玛育莉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_7">
+			<Text>芙恩</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_8">
+			<Text>拉塔娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIAM_9">
+			<Text>托拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Songhai - flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_0">
+			<Text>阿赫玛多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_1">
+			<Text>阿育布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_2">
+			<Text>巴德鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_3">
+			<Text>波卡里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_4">
+			<Text>古耶达多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_5">
+			<Text>阿德夏姆波</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_6">
+			<Text>奇娜卡</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_7">
+			<Text>莱拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_8">
+			<Text>玛丽亚娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SONGHAI_9">
+			<Text>欧妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Austria - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_0">
+			<Text>斐迪南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_1">
+			<Text>乔安娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_2">
+			<Text>弗朗兹-约瑟夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_3">
+			<Text>阿斯特丽德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_4">
+			<Text>安娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_5">
+			<Text>休伯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_6">
+			<Text>阿罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_7">
+			<Text>纳特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_8">
+			<Text>格奥尔格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AUSTRIA_9">
+			<Text>阿诺德</Text>
+		</Row>
+		<!-- Byzantium - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_0">
+			<Text>巴希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_1">
+			<Text>尼科弗罗斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_2">
+			<Text>迪米特里奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_3">
+			<Text>腓力波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_4">
+			<Text>西奥弗拉克托斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_5">
+			<Text>西蒙妮斯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_6">
+			<Text>佐伊</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_7">
+			<Text>乔安诺</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_8">
+			<Text>谢妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BYZANTIUM_9">
+			<Text>欧芙萝西妮</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Carthage - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_0">
+			<Text>汉密尔卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_1">
+			<Text>玛戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_2">
+			<Text>巴尔哈恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_3">
+			<Text>索芙妮巴</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_4">
+			<Text>伊泽贝尔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_5">
+			<Text>西米尔赛</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_6">
+			<Text>坎道洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_7">
+			<Text>津利迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_8">
+			<Text>吉斯哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CARTHAGE_9">
+			<Text>费雷鲁斯</Text>
+		</Row>
+		<!-- Celts - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_0">
+			<Text>克里斯蒂安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_1">
+			<Text>西欧布安</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_2">
+			<Text>西姆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_3">
+			<Text>菲安</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_4">
+			<Text>帕特里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_5">
+			<Text>迪尔德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_6">
+			<Text>奎恩先生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_7">
+			<Text>埃达奥因</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_8">
+			<Text>奥维恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CELTS_9">
+			<Text>塞萨上校</Text>
+		</Row>
+		<!-- Ethiopia - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_0">
+			<Text>穆鲁·肯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_1">
+			<Text>温迪姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_2">
+			<Text>里欧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_3">
+			<Text>迪米克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_4">
+			<Text>穆鲁·阿雷姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_5">
+			<Text>阿比贝奇</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_6">
+			<Text>泽玛</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_7">
+			<Text>米赫蕾特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_8">
+			<Text>科比德奇</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ETHIOPIA_9">
+			<Text>阿蕾姆内西</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Huns - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_0">
+			<Text>巴兰贝尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_1">
+			<Text>乌尔丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_2">
+			<Text>多纳图斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_3">
+			<Text>查拉托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_4">
+			<Text>欧克塔尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_5">
+			<Text>布列达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_6">
+			<Text>埃拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_7">
+			<Text>邓吉兹克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_8">
+			<Text>赫尔迪科</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HUNS_9">
+			<Text>古德卢姆</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Maya - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_0">
+			<Text>卡玛佐兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_1">
+			<Text>科约帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_2">
+			<Text>古库玛兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_3">
+			<Text>胡那普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_4">
+			<Text>胡拉坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_5">
+			<Text>伊克切尔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_6">
+			<Text>伊克塔布</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_7">
+			<Text>库库尔坎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_8">
+			<Text>萨巴兰切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAYA_9">
+			<Text>兹帕克那</Text>
+		</Row>
+		<!-- Netherlands - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_0">
+			<Text>乔斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_1">
+			<Text>亨德丽卡</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_2">
+			<Text>马尔滕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_3">
+			<Text>安克</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_4">
+			<Text>古乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_5">
+			<Text>“X先生”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_6">
+			<Text>格里吉斯博士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_7">
+			<Text>威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_8">
+			<Text>泰斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NETHERLANDS_9">
+			<Text>尼夫</Text>
+		</Row>
+		<!-- Sweden - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_0">
+			<Text>雷夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_1">
+			<Text>英格佳德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_2">
+			<Text>泽伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_3">
+			<Text>拉格茜尔德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_4">
+			<Text>拉尔斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_5">
+			<Text>莉娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_6">
+			<Text>赫尔·格拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_7">
+			<Text>马格努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_8">
+			<Text>薇尔玛</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SWEDEN_9">
+			<Text>库欣</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

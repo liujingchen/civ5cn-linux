@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5">
+			<Text>哦，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6">
+			<Text>我想我必须接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1">
+			<Text>你把我的热情当成了软弱。你会为此后悔的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2">
+			<Text>你低估了我们——神圣的俄罗斯将把你生吞活剥！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3">
+			<Text>你这个愚蠢的白痴。你将付出代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4">
+			<Text>你这个愚蠢的贱民。我们要埋葬你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1">
+			<Text>我不再觉得你有趣了。准备战争吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2">
+			<Text>你的行为很无礼，你知道的。现在你必须付出代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3">
+			<Text>你那可悲的国家阻挡着俄罗斯的强大之路！你必须灭亡！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1">
+			<Text>你做得确实不错。祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2">
+			<Text>你是一个比我所想的更为狡猾的对手。祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3">
+			<Text>我们战败了。我成了你的俘虏。也许还有更坏的命运在等着我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你想生存那就把我们想要的都拿出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY">
+			<Text>我亲爱的朋友，你可以提供给我们下列东西吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL">
+			<Text>你是否愿意为了我们两个伟大国家之间的持续和平而赠送一点礼物呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6">
+			<Text>你一定是在开玩笑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7">
+			<Text>请再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1">
+			<Text>很高兴能遇到世界舞台上的另一位统治者。我们各自的臣仆都是些无聊的马屁精，你说是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2">
+			<Text>欢迎！我总是很喜欢和小国家的领袖会面！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3">
+			<Text>你好，陌生人！如果你的智慧和理性能象你的相貌那样出众得话我们就一定合得来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4">
+			<Text>期待下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6">
+			<Text>哦——你还在这里？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8">
+			<Text>我们的会谈结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5">
+			<Text>哦，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6">
+			<Text>怎么样？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1">
+			<Text>说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4">
+			<Text>什么事？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6">
+			<Text>然后呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7">
+			<Text>继续吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1">
+			<Text>我向你取得的胜利表示祝贺。我被你的勇力所折服。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2">
+			<Text>现在让我们享用和平的果实吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3">
+			<Text>我对你的宽容表示感谢。我不会对你恩将仇报的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_1">
+			<Text>君主是至高无上的；一个人必须拥有绝对的权威，才能有相应能力来掌控如此庞大的国家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_2">
+			<Text>我是一个专制的君主，那是我的责任；一个好的贵族应当拥护我，那是他的责任。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_3">
+			<Text>我喜欢公开地进行赞扬和奖赏，私下地进行指责和惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我发现你那明目张胆的贪婪又达到了一个新境界，我必须拒绝。请提高你的报价或者滚蛋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_1">
+			<Text>如果你能提高报价我将非常感谢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你不能做得更好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你几乎就要成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你是想让我们破产吗？快点拿出更公平的条款！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就快可以了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY">
+			<Text>你知道我的丈夫已经死了：俄国不再是由一个白痴来统治了。因此我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY">
+			<Text>你是打算利用我们之间的亲密关系吗？表现好点，否则我会生气的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL">
+			<Text>没什么可说的，我们对你的提议毫无兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY">
+			<Text>哦好吧。快点结束这冗长的谈判吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY">
+			<Text>非常好。我们同意！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL">
+			<Text>俄国同意你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY">
+			<Text>我们向你提出这个建议。如果你知道好歹的话就应该接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY">
+			<Text>这笔交易能吸引你吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
+			<Text>你对这笔交易有兴趣么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
+			<Text>你这个放肆的流氓！你怎么敢这么做？我应该把你剁碎了喂猪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
+			<Text>你实在太下流了。但你很幸运，因为我很喜欢你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL">
+			<Text>你没有资格向我们要求任何事。我们拒绝！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY">
+			<Text>你会后悔的，我保证。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY">
+			<Text>当然啦！我绝对不会拒绝你——任何事都不会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL">
+			<Text>看来我除了接受外别无选择。目前是这样……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1">
+			<Text>多么令人失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2">
+			<Text>太令人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3">
+			<Text>是吗？我相信你不会再有机会为自己的目光短浅而懊悔了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4">
+			<Text>你太愚蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5">
+			<Text>很好。我希望你学到了教训。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1">
+			<Text>都结束了。你知道你表现得非常糟糕：我相信你已经知道自己做错了。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

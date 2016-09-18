@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DENMARK_TEXT">
+			<Text>愿荣耀永远与您相伴，“蓝牙”哈拉德·戈尔姆森，老王戈尔姆和王后泰拉·丹妮博德开创的伟大王朝的继承人。您不仅在战场上赢得了对挪威军队的辉煌胜利，还在全国各地完成了许多宏伟工程——包括无数保护人民免受战火蹂躏的环形要塞。您于公元983年成功驱逐了日耳曼入侵者，令丹麦王国的独立地位得以延续始终。[NEWLINE][NEWLINE]勇敢的维京领袖啊，您将再次开创一个伟大的时代。您的人民呼唤您带领他们重拾力量和荣耀！您能再次令全世界在北方大军的武力面前颤抖吗？您能再次让维京战士们的狂暴咆哮从海面直冲云宵吗？您能开创一个经得起时间考验的文明吗？</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

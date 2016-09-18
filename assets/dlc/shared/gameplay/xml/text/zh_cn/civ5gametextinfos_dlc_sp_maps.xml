@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_TITLE">
+		<Text>探险家</Text>
+	</Row>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_1_DESC">
+		<Text>探险家地图包</Text>
+	</Row>
+	</Language_zh_CN>
+</GameData>

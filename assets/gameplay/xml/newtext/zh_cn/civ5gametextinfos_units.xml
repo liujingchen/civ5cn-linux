@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Objects -->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPECIALUNIT_FIGHTER">
+			<Text>战斗机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALUNIT_MISSILE">
+			<Text>导弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALUNIT_PEOPLE">
+			<Text>侦察兵、移民、传教士、间谍、伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_B17">
+			<Text>B-17“空中堡垒”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN">
+			<Text>快速民兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANTI_AIRCRAFT_GUN">
+			<Text>高射炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARABIAN_CAMELARCHER">
+			<Text>骆驼骑射手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHER">
+			<Text>弓手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARTILLERY">
+			<Text>火炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AT_GUN">
+			<Text>反坦克炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ATOMIC_BOMB">
+			<Text>原子弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AZTEC_JAGUAR">
+			<Text>美洲虎战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATTLESHIP">
+			<Text>战列舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOMBER">
+			<Text>轰炸机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CANNON">
+			<Text>加农炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARAVEL">
+			<Text>轻帆船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARRIER">
+			<Text>航空母舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CATAPULT">
+			<Text>投石车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY">
+			<Text>近代骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHARIOT_ARCHER">
+			<Text>战车射手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHINESE_CHUKONU">
+			<Text>诸葛弩兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN">
+			<Text>弩兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DESTROYER">
+			<Text>驱逐舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EGYPT_WARCHARIOT">
+			<Text>埃及战车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENGLISH_LONGBOWMAN">
+			<Text>长弓手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE">
+			<Text>主力舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIGHTER">
+			<Text>战斗机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION">
+			<Text>外籍军团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_MUSKETEER">
+			<Text>法国火枪手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRIGATE">
+			<Text>巡航舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEY">
+			<Text>桨帆船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_LANDSKNECHT">
+			<Text>自由佣兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER">
+			<Text>德国坦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
+			<Text>大艺术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER">
+			<Text>大工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL">
+			<Text>陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT">
+			<Text>大商业家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST">
+			<Text>大科学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY">
+			<Text>王伴骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREEK_HOPLITE">
+			<Text>希腊方阵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GUIDED_MISSILE">
+			<Text>导弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELICOPTER_GUNSHIP">
+			<Text>武装直升机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HORSEMAN">
+			<Text>骑手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDIAN_WARELEPHANT">
+			<Text>印度战象</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INFANTRY">
+			<Text>现代步兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRONCLAD">
+			<Text>铁甲舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR">
+			<Text>莫霍克战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JAPANESE_SAMURAI">
+			<Text>日本武士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JAPANESE_ZERO">
+			<Text>零式战斗机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JET_FIGHTER">
+			<Text>喷气式战斗机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KNIGHT">
+			<Text>骑士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANCER">
+			<Text>枪骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LONGSWORDSMAN">
+			<Text>长剑士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MECH">
+			<Text>末日机甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MECHANIZED_INFANTRY">
+			<Text>机械化步兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSILE_CRUISER">
+			<Text>导弹巡洋舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MOBILE_SAM">
+			<Text>防空导弹车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MODERN_ARMOR">
+			<Text>主战坦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MUSKETMAN">
+			<Text>火枪手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_MISSILE">
+			<Text>核导弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NUCLEAR_SUBMARINE">
+			<Text>核潜艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTTOMAN_JANISSARY">
+			<Text>苏丹亲兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OTTOMAN_SIPAHI">
+			<Text>西帕希骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PARATROOPER">
+			<Text>伞兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PERSIAN_IMMORTAL">
+			<Text>波斯长生军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PIKEMAN">
+			<Text>长枪兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RIFLEMAN">
+			<Text>来复枪兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKET_ARTILLERY">
+			<Text>火箭炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROMAN_BALLISTA">
+			<Text>弩炮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROMAN_LEGION">
+			<Text>罗马军团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RUSSIAN_COSSACK">
+			<Text>哥萨克骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SCOUT">
+			<Text>侦察兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SETTLER">
+			<Text>移民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIAMESE_WARELEPHANT">
+			<Text>纳瑞宣战象</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY">
+			<Text>曼德卡骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPEARMAN">
+			<Text>矛兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STEALTH_BOMBER">
+			<Text>隐形轰炸机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE">
+			<Text>潜艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SWORDSMAN">
+			<Text>剑士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TANK">
+			<Text>坦克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TREBUCHET">
+			<Text>抛石机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIREME">
+			<Text>三列桨战船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WARRIOR">
+			<Text>勇士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BRUTE">
+			<Text>蛮族勇士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WORK_BOAT">
+			<Text>工船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WORKER">
+			<Text>工人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_FIGHTER">
+			<Text>战斗机单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_BOMBER">
+			<Text>轰炸机单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_ARMOR">
+			<Text>装甲单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_MOUNTED">
+			<Text>骑乘单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVAL">
+			<Text>海军单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_SIEGE">
+			<Text>压制武器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION">
+			<Text>海运能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
+			<Text>能够以海运模式进入[COLOR_POSITIVE_TEXT]水域[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION">
+			<Text>海运防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
+			<Text>能够以海运模式进入[COLOR_POSITIVE_TEXT]水域[ENDCOLOR]。海运模式下有防御能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION">
+			<Text>远洋海运</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP">
+			<Text>能够以海运模式进入[COLOR_POSITIVE_TEXT]水域[ENDCOLOR]。海运的单位能进入大洋并拥有+1视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY">
+			<Text>立即恢复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]本单位完全恢复[ENDCOLOR]。这将[COLOR_POSITIVE_TEXT]放弃本次晋升机会[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1">
+			<Text>冲击一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2">
+			<Text>冲击二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3">
+			<Text>冲击三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_1">
+			<Text>操练一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_2">
+			<Text>操练二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_3">
+			<Text>操练三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1">
+			<Text>精准一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
+			<Text>+20%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2">
+			<Text>精准二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
+			<Text>+20%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3">
+			<Text>精准三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
+			<Text>+25%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1">
+			<Text>弹幕一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
+			<Text>+25%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2">
+			<Text>弹幕二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
+			<Text>+25%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3">
+			<Text>弹幕三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
+			<Text>+25%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1">
+			<Text>定位一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2">
+			<Text>定位二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3">
+			<Text>定位三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE">
+			<Text>攻坚能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY">
+			<Text>警戒能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_HELP">
+			<Text>+1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC">
+			<Text>医疗能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_HELP">
+			<Text>相邻的所有单位每回合[COLOR_POSITIVE_TEXT]额外恢复1生命力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMPHIBIOUS">
+			<Text>两栖作战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMPHIBIOUS_HELP">
+			<Text>海上登陆或跨河攻击时无战斗力惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE">
+			<Text>猛烈冲锋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]受伤单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VOLLEY">
+			<Text>齐射能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VOLLEY_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]驻扎单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_1">
+			<Text>隐蔽一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_1_HELP">
+			<Text>+25%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR] 对[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_2">
+			<Text>隐蔽二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_2_HELP">
+			<Text>+25%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR] 对[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1">
+			<Text>列阵一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]骑乘[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2">
+			<Text>列阵二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]骑乘[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1">
+			<Text>伏击一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]装甲[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2">
+			<Text>伏击二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]装甲[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARCH">
+			<Text>长途行军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MARCH_HELP">
+			<Text>能够[COLOR_POSITIVE_TEXT]每回合恢复[ENDCOLOR] (包括执行任务时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLITZ">
+			<Text>闪击战术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLITZ_HELP">
+			<Text>能够同一回合[COLOR_POSITIVE_TEXT]攻击多次[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOODSMAN">
+			<Text>林地作战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOODSMAN_HELP">
+			<Text>移动速度加倍([COLOR_POSITIVE_TEXT]通过森林或丛林[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOGISTICS">
+			<Text>后勤补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOGISTICS_HELP">
+			<Text>1额外攻击次数/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RANGE">
+			<Text>射程拓展</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RANGE_HELP">
+			<Text>+1射程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INDIRECT_FIRE">
+			<Text>间接火力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INDIRECT_FIRE_HELP">
+			<Text>可越过障碍进行远程攻击 (目标需在本方单位视野范围内)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOBILITY">
+			<Text>机动能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOBILITY_HELP">
+			<Text>+1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPLY">
+			<Text>海上补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPLY_HELP">
+			<Text>可恢复损伤([COLOR_POSITIVE_TEXT]包括境外[ENDCOLOR]) 每回合2生命力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1">
+			<Text>拦截一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2">
+			<Text>拦截二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3">
+			<Text>拦截三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1">
+			<Text>缠斗一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2">
+			<Text>缠斗二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3">
+			<Text>缠斗三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1">
+			<Text>攻坚一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2">
+			<Text>攻坚二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3">
+			<Text>攻坚三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP">
+			<Text>+25%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1">
+			<Text>轰炸一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2">
+			<Text>轰炸二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3">
+			<Text>轰炸三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RANGE">
+			<Text>航程拓展</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RANGE_HELP">
+			<Text>+2航程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SORTIE">
+			<Text>连续出击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SORTIE_HELP">
+			<Text>1额外[COLOR_POSITIVE_TEXT]拦截[ENDCOLOR]次数/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REPAIR">
+			<Text>修理能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_REPAIR">
+			<Text>空中修理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION">
+			<Text>规避能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION_HELP">
+			<Text>遭受拦截时的损伤-50%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_1">
+			<Text>侦察一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_1_HELP">
+			<Text>+1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2">
+			<Text>侦察二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2_HELP">
+			<Text>+1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3">
+			<Text>侦察三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3_HELP">
+			<Text>+1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1">
+			<Text>生存一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1_HELP">
+			<Text>+1生命力(境外恢复)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2">
+			<Text>生存二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2_HELP">
+			<Text>+50%防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3">
+			<Text>生存三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3_HELP">
+			<Text>+50%防御 单位可[COLOR_POSITIVE_TEXT]每回合恢复[ENDCOLOR] (包括执行任务时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOBILITY_1">
+			<Text>机动一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOBILITY_2">
+			<Text>机动二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORALE_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORALE">
+			<Text>强化士气</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
+			<Text>+10%[ICON_STRENGTH]战斗力 (邻近友军时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE">
+			<Text>军事纪律</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 (在己方领土)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OLIGARCHY">
+			<Text>寡头政治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在己方领土)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIMEJI_CASTLE">
+			<Text>姬路城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION_HELP">
+			<Text>+1[ICON_MOVES]移动力 +1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
+			<Text>海军传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE_HELP">
+			<Text>+1[ICON_MOVES]移动力 +1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE">
+			<Text>大灯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM_HELP">
+			<Text>+25%进攻加成 (在己方领土)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
+			<Text>民族主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_MOVES_I_HELP">
+			<Text>1额外移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_MOVES_I">
+			<Text>1额外移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_I_HELP">
+			<Text>1额外视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_I">
+			<Text>额外视野(1)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_II_HELP">
+			<Text>2额外视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_III_HELP">
+			<Text>3额外视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_II">
+			<Text>额外视野(2)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_III">
+			<Text>额外视野(3)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_IV">
+			<Text>额外视野(4)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XTRA_SIGHT_IV_HELP">
+			<Text>4额外视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIGHT_PENALTY">
+			<Text>受限视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIGHT_PENALTY_HELP">
+			<Text>-1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON">
+			<Text>空中侦察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_RECON_HELP">
+			<Text>6格范围内可见</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I">
+			<Text>对骑乘单位加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_I_HELP">
+			<Text>50%加成(对骑乘单位)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II">
+			<Text>对骑乘单位加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_II_HELP">
+			<Text>100%加成(对骑乘单位)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
+			<Text>对城市加成(20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_HELP">
+			<Text>20%加成(对城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
+			<Text>对城市加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT_HELP">
+			<Text>50%加成(对城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY">
+			<Text>防御战斗力惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOUNTED_PENALTY">
+			<Text>对骑乘单位战斗力惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_PENALTY">
+			<Text>攻击城市战斗力惩罚(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_PENALTY_HELP">
+			<Text>33%惩罚(攻击城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_PROMOTION_CITY_PENALTY">
+			<Text>攻击城市战斗力惩罚(25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_PROMOTION_CITY_PENALTY_HELP">
+			<Text>25%惩罚(攻击城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_I">
+			<Text>拦截能力(20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_II">
+			<Text>拦截能力(40)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_III">
+			<Text>拦截能力(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_IV">
+			<Text>拦截能力(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP">
+			<Text>空中游猎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP_HELP">
+			<Text>能够进行空中游猎消灭拦截单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED">
+			<Text>弱化远程攻击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WEAK_RANGED_HELP">
+			<Text>-50%战斗力(远程攻击)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR">
+			<Text>对飞机加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_HELICOPTER">
+			<Text>对直升机加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
+			<Text>对战斗机加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
+			<Text>对潜艇加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
+			<Text>对潜艇加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
+			<Text>对坦克加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION_I">
+			<Text>规避能力(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVASION_II">
+			<Text>规避能力(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_PENALTY">
+			<Text>对海军单位战斗力惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RIVAL_TERRITORY">
+			<Text>能够进入敌方领土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_I">
+			<Text>能够运载1个单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_II">
+			<Text>能够运载2个单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_III">
+			<Text>能够运载3个单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_IV">
+			<Text>能够运载4个单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOLIAGE_IMPASSABLE">
+			<Text>不能进入森林或丛林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS">
+			<Text>复杂地形惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS_HELP">
+			<Text>进入复杂地形消耗全部移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
+			<Text>需要天文学才能进入大洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP">
+			<Text>不能进入大洋(需要天文学)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE">
+			<Text>不能进入大洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INVISIBLE_SUBMARINE">
+			<Text>不可见(潜艇)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SEE_INVISIBLE_SUBMARINE">
+			<Text>能够发现潜艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST">
+			<Text>不受地形影响</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT">
+			<Text>悬停单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
+			<Text>能够通过山脉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLAT_MOVEMENT_COST">
+			<Text>所有地形耗费1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE">
+			<Text>可进入冰区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_CAPTURE">
+			<Text>不能占领城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE">
+			<Text>不能进行近战攻击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES">
+			<Text>无防御地形加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARADROP">
+			<Text>可进行空降</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MUST_SET_UP">
+			<Text>需要远程攻击准备</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RANGED_SUPPORT_FIRE">
+			<Text>远程支援火力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RANGED_SUPPORT_FIRE_HELP">
+			<Text>驻扎时可为友军提供支援火力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_AFTER_ATTACKING">
+			<Text>能够在攻击后移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OPEN_TERRAIN">
+			<Text>开阔地形战斗加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SECOND_ATTACK">
+			<Text>可攻击两次</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_MOVEMENT">
+			<Text>海军移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_MOVEMENT_HELP">
+			<Text>2额外移动力(海军单位)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL">
+			<Text>统率能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_HELP">
+			<Text>提升邻近单位战斗效率</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_I">
+			<Text>统帅一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_II">
+			<Text>统帅二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_I_HELP">
+			<Text>战斗容易催生陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPAWN_GENERALS_II_HELP">
+			<Text>战斗非常容易催生陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FREE_PILLAGE_MOVES">
+			<Text>劫掠不消耗移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY">
+			<Text>消灭敌方单位后立即恢复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY_HELP">
+			<Text>消灭非蛮族单位后立即恢复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY">
+			<Text>消灭敌方单位后恢复2损伤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_BONUS">
+			<Text>进攻战斗加成(25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
+			<Text>森林/丛林战斗加成(25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
+			<Text>丛林战斗加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_LANDS">
+			<Text>境外战斗加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREIGN_LANDS_HELP">
+			<Text>境外战斗加成(20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
+			<Text>受伤敌军加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED_HELP">
+			<Text>对受伤单位战斗加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FASTER_HEAL">
+			<Text>恢复速率加倍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WORKER">
+			<Text>修建区域设施以增加[ICON_FOOD]食物产出、[ICON_PRODUCTION]工业产能和[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SETTLER">
+			<Text>建立新城市以扩展你的领地范围。[NEWLINE][NEWLINE]城市组建此单位期间[ICON_FOOD]增长将暂停。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WORKBOAT">
+			<Text>在水域资源如[ICON_RES_FISH]鱼群之上修建设施（工船将被消耗掉）。该单位没有防御能力，如遭敌攻击将被摧毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SS_PART">
+			<Text>太空飞船部件之一，建成后需运往首都组装以赢得[COLOR_POSITIVE_TEXT]科技胜利[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SS_BOOSTER">
+			<Text>太空飞船组件之一，建成后需运往首都组装以赢得[COLOR_POSITIVE_TEXT]科技胜利[ENDCOLOR]。与其他组件不同，完成飞船需要三个飞船助推器。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
+			<Text>适用于克制敌方航空母舰的海军单位。能够运载三个导弹单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
+			<Text>对除驱逐舰和潜艇之外的所有单位不可见（除非发起攻击或与其他单位相邻）。能够运载二个导弹单位，适用于猎杀敌方潜艇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
+			<Text>能够运载三个飞机单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BATTLESHIP">
+			<Text>游戏中使用直接火力作战的最强大海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
+			<Text>对除驱逐舰和潜艇之外的所有单位不可见（除非发起攻击或与其他单位相邻）。能够秘密接近敌方舰船对其造成严重杀伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
+			<Text>游戏后期特别适用于侦察任务的快速战舰。也可用于猎杀敌方潜艇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
+			<Text>比巡航舰更强大的海军单位，但速度较慢且不能进入大洋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FRIGATE">
+			<Text>启蒙时代强大的海军单位，适用于争夺制海权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SHIPOFTHELINE">
+			<Text>启蒙时代强大的海军单位，适用于争夺制海权。英国特色单位，替代巡航舰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
+			<Text>启蒙时代快速的海军单位，具备超远视野，适用于海洋探索。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
+			<Text>远古时代的海军单位，适用于争夺制海权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
+			<Text>游戏中的最强军事单位，但不能享有任何防御性地形加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_MISSILE">
+			<Text>用于对敌方进行核打击。能够对城市造成严重破坏并杀伤爆炸范围内的所有单位。[NEWLINE][NEWLINE]需要曼哈顿工程以及2单位铀资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_STEALTH_BOMBER">
+			<Text>具备超远航程的空军单位，能够飞临敌方单位和城市上空进行轰炸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JET_FIGHTER">
+			<Text>适用于争夺制空权和拦截敌方飞机的空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GUIDED_MISSILE">
+			<Text>一次性使用的廉价单位，适用于杀伤敌方单位或破坏城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR">
+			<Text>游戏后期快速而强大的单位。进攻城市和防御时有战斗力惩罚，但在开阔地形下战斗效率极高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
+			<Text>适用于克制坦克和主战坦克的单位。能够飞越山脉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MOBILE_SAM">
+			<Text>能够拦截试图轰炸附近单位的敌方飞机。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ROCKET_ARTILLERY">
+			<Text>游戏后期快速的压制武器。该单位与其他压制武器不同，开火前不需要进行远程攻击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MECHANIZED_INFANTRY">
+			<Text>游戏后期快速的主力陆军单位，无须特殊资源即可组建。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ATOMIC_BOMB">
+	<Text>用于对敌方进行核打击。能够对城市造成严重破坏并摧毁爆炸范围内的所有单位。可用航空母舰运载。[NEWLINE][NEWLINE]需要曼哈顿工程和铀资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOMBER">
+			<Text>能够飞临敌方单位和城市上空进行轰炸的空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_B17">
+			<Text>够飞临敌方单位和城市上空进行轰炸的空军单位。美国特色单位，替代轰炸机。该单位有一定几率规避拦截，相比普通轰炸机破坏城市能力更强。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FIGHTER">
+			<Text>适用于争夺制空权和拦截敌方飞机的空军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
+			<Text>适用于争夺制空权和拦截敌方飞机的空军单位。日本特色单位，替代战斗机。该单位对其他战斗机有战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
+			<Text>强大的步兵单位，能够己方领土外5格范围内实施空降。该单位在空降后可继续移动和劫掠，但本回合内无法进行攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TANK">
+			<Text>工业时代强大的陆军单位。进攻城市和防御时有战斗力惩罚，但在开阔地形下战斗效率极高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
+			<Text>工业时代强大的陆军单位。进攻城市和防御时有战斗力惩罚，但在开阔地形下战斗效率极高。[NEWLINE][NEWLINE]德国特色单位，替代坦克。相比普通坦克移动力额外加1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ARTILLERY">
+			<Text>游戏中第一种射程达3格的压制武器。开火前需要进行远程攻击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ANTI_AIRCRAFT_GUN">
+			<Text>能够拦截试图轰炸附近单位的敌方飞机。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ANTI_TANK_GUN">
+			<Text>相对廉价的陆军单位，适用于克制坦克。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
+			<Text>工业时代的基本陆军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
+			<Text>工业时代的基本陆军单位。法国特色单位，替代现代步兵。在境外时有战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
+			<Text>启蒙时代的骑乘单位，能够与同时代步兵单位正面交锋。对其他骑乘单位战斗力较弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COSSACK">
+			<Text>启蒙时代的骑乘单位，能够与同时代步兵单位正面交锋。对其他骑乘单位战斗力较弱。[NEWLINE][NEWLINE]俄国特色单位，替代近代骑兵，对受伤单位有战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RIFLEMAN">
+			<Text>游戏中期强大的一线陆军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANCER">
+			<Text>适用于进攻作战的骑乘单位，在防御时有战斗力惩罚。能够高效率地追击敌方骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
+			<Text>适用于进攻作战的骑乘单位，在防御时有战斗力惩罚。能够高效率地追击敌方骑乘单位。奥斯曼特色单位，替代枪骑兵。相比枪骑兵速度更快且视野更远。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CANNON">
+			<Text>启蒙时代强大的压制武器。开火前需要进行远程攻击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MUSKETMAN">
+			<Text>游戏中第一种火器单位。相当廉价而强力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MINUTEMAN">
+			<Text>游戏中最早的火器单位之一。美国特色单位，替代火枪手。在复杂地形中移动时如履平地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MUSKETEER">
+			<Text>游戏中最早的火器单位之一。法国特色单位，替代火枪手。该单位相比火枪手拥有更强的[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JANISSARY">
+			<Text>游戏中最早的火器单位之一。奥斯曼特色单位，替代火枪手。该单位相比火枪手拥有更强的攻击力，并且消灭敌军时可恢复生命力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LONGSWORDSMAN">
+			<Text>中古时代强大的步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
+			<Text>中古时代强大的步兵单位。日本特色单位，替代长剑士。该单位相比长剑士拥有更强的战斗力，并能更快地催生陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TREBUCHET">
+			<Text>中古时代强大的压制武器，适用于破坏敌方城市的防御力。开火前需要进行远程攻击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_KNIGHT">
+			<Text>中古时代强大的骑乘单位，对长枪兵战斗力较弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAMEL_ARCHER">
+			<Text>中古时代快速的远程单位，对长枪兵战斗力较弱。阿拉伯特色单位，替代骑士。该单位与骑士的不同之处是能够远程攻击而不能近战攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SIAMESE_WARELEPHANT">
+			<Text>中古时代强大的骑乘单位。暹罗特色单位，替代骑士。该单位相比骑士拥有更高的[ICON_STRENGTH]战斗力及对其他骑乘单位的战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
+			<Text>中古时代强大的骑乘单位，对长枪兵战斗力较弱。桑海特色单位，替代骑士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CROSSBOWMAN">
+			<Text>中古时代的远程步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHUKONU">
+			<Text>中古时代的远程步兵单位。中国特色单位，替代弩兵。该单位与弩兵的不同之处是同一回合能攻击两次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LONGBOWMAN">
+			<Text>中古时代的远程步兵单位。英国特色单位，替代弩兵。该单位相比弩兵拥有1格额外射程。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PIKEMAN">
+			<Text>适用于克制骑士和其他骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
+			<Text>适用于克制骑士和其他骑乘单位。德国特色单位，替代长枪兵。该单位相比长枪兵成本更低。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CATAPULT">
+			<Text>游戏中第一种压制武器。能够远距离杀伤单位和破坏城市，但开火前需要进行远程攻击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BALLISTA">
+			<Text>能够远距离杀伤单位和破坏城市的压制武器，但开火前需要进行远程攻击准备。罗马特色单位，替代投石车。该单位相比投石车拥有更强的[ICON_RANGE_STRENGTH]远程战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HORSEMAN">
+			<Text>游戏早期快速而强大的骑乘单位。对矛兵战斗力较弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COMPANION_CAVALRY">
+			<Text>游戏早期快速而强大的骑乘单位。对矛兵战斗力较弱。希腊特色单位，替代骑手。该单位相比骑手拥有更强的[ICON_STRENGTH]战斗力，并能更快地催生陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SWORDSMAN">
+			<Text>古典时代强大的一线陆军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MOHAWK_WARRIOR">
+			<Text>古典时代强大的一线陆军单位。易洛魁特色单位，替代剑士。该单位相比剑士拥有在森林和丛林中的战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ROMAN_LEGION">
+			<Text>古典时代强大的一线陆军单位。罗马特色单位。该单位相比剑士拥有更强的[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
+			<Text>适用于开阔地形的快速远程单位，但在复杂地形下难以发挥作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
+			<Text>适用于开阔地形的快速远程单位，但在复杂地形下难以发挥作用。埃及特色单位，替代战车射手。该单位与战车射手的不同之处为不需要[ICON_RES_HORSES]马资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT">
+			<Text>适用于开阔地形的快速远程单位。印度特色单位，替代战车射手。该单位相比战车射手拥有更强的[ICON_STRENGTH]战斗力和远程攻击力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SPEARMAN">
+			<Text>远古时代适用于克制骑乘单位的陆军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HOPLITE">
+			<Text>远古时代适用于克制骑乘单位的陆军单位。希腊特色单位，替代矛兵。该单位相比矛兵拥有更强的[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_IMMORTAL">
+			<Text>远古时代适用于克制骑乘单位的陆军单位。波斯特色单位，替代矛兵。该单位相比矛兵拥有更强的[ICON_STRENGTH]战斗力，且恢复速度更快。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ARCHER">
+			<Text>远古时代强大的远程单位，能够在远距离杀伤敌军。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SCOUT">
+			<Text>适用野外侦察的单位，在复杂地形下如履平地，但遭敌攻击时十分脆弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WARRIOR">
+			<Text>游戏中最早的军事单位，战斗力较弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JAGUAR">
+			<Text>游戏中最早的军事单位，战斗力较弱。阿兹特克特色单位，替代勇士。该单位与勇士的不同之处是在丛林中战斗力更强，且消灭敌军后能够立即恢复。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BARBARIAN_WARRIOR">
+			<Text>游戏中最早的蛮族军事单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REPAIR_HELP">
+			<Text>空中修理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHUSRO">
+			<Text>库斯罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AYABHATA">
+			<Text>阿里亚巴塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTFREID_LEIBNIZ">
+			<Text>哥特弗雷特·莱布尼兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_GAUSS">
+			<Text>弗雷德里希·高斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERICO_DANDOLO">
+			<Text>恩里科·丹多洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WHITTINGTON">
+			<Text>理查德·惠廷顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TODAR_MAL">
+			<Text>托达·马尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VAN_DIEMEN">
+			<Text>范·迪门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_MORTON">
+			<Text>威廉·莫顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERDINAND_DA_LESSEPS">
+			<Text>斐迪南·德·雷塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SARGON">
+			<Text>萨尔贡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUN_TZU">
+			<Text>孙子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEONIDAS">
+			<Text>莱奥尼达斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LYSANDER">
+			<Text>莱桑德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHANDRAGUPTA_MAURYA">
+			<Text>旃陀罗笈多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAMILCAR_BARCA">
+			<Text>哈米尔卡·巴尔卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GAIUS_MARIUS">
+			<Text>盖乌斯·马略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SCIPIO_AFRICANUS">
+			<Text>西庇阿·阿非利加努斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VERCINGETORIX">
+			<Text>维钦托利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARMINIUS">
+			<Text>阿米尼乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAO_CAO">
+			<Text>曹操</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHUGE_LIANG">
+			<Text>诸葛亮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELISARIUS">
+			<Text>贝利撒留</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHALED_IBN_AL_WALID">
+			<Text>哈立德·伊本·瓦利德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_MARTEL">
+			<Text>铁锤查理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EL_CID">
+			<Text>埃尔·熙德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_THE_CONQUEROR">
+			<Text>征服者威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUBUTAI">
+			<Text>速不台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIMUR">
+			<Text>帖木儿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEANNE_DARC">
+			<Text>贞德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AUITZOTL">
+			<Text>阿辉佐特尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERNAN_CORTES">
+			<Text>埃尔南·科尔特斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_PIZARRO">
+			<Text>弗朗西斯科·皮萨罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IVAN_THE_TERRIBLE">
+			<Text>恐怖的伊凡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AKBAR">
+			<Text>阿克巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVUS_ADOLPHUS">
+			<Text>古斯塔夫·阿道夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHEL_DE_RUYTER">
+			<Text>米歇尔·德·赖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CROMWELL">
+			<Text>奥利弗·克伦威尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EUGENE_OF_SAVOY">
+			<Text>欧根·萨伏依</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LORD_NELSON">
+			<Text>纳尔逊勋爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERONIMO">
+			<Text>杰罗尼莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_LEE">
+			<Text>罗伯特·爱德华·李</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YAMAMOTO">
+			<Text>山本五十六</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PATTON">
+			<Text>巴顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MONTGOMERY">
+			<Text>蒙哥马利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUERDIAN">
+			<Text>古德里安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROMMEL">
+			<Text>隆美尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHUKOV">
+			<Text>朱可夫</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

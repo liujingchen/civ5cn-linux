@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities Polynesia -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_SAMOA">
+			<Text>萨摩亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONGA">
+			<Text>汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKUHIVA">
+			<Text>努库希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAIATEA">
+			<Text>赖阿特阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOTEAROA">
+			<Text>奥特阿罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAHITI">
+			<Text>塔希提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HILO">
+			<Text>希洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TEWAIPOUNAMU">
+			<Text>特韦伊普纳姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAPANUI">
+			<Text>拉帕努伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUAMOTU">
+			<Text>土阿莫土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAROTONGA">
+			<Text>拉罗汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUVALU">
+			<Text>图瓦卢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUBUAI">
+			<Text>土布艾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANGAREVA">
+			<Text>芒阿雷瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OAHU">
+			<Text>瓦胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIRITIMATI">
+			<Text>圣诞岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONTONGJAVA">
+			<Text>翁通爪哇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIUE">
+			<Text>纽埃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REKOHU">
+			<Text>瑞可胡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RAKAHANGA">
+			<Text>拉卡杭阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORA_BORA">
+			<Text>博拉博拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAILUA">
+			<Text>凯卢阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UVEA">
+			<Text>乌维阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUTUNA">
+			<Text>富图纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROTUMA">
+			<Text>罗图马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOKELAU">
+			<Text>托克劳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAHAINA">
+			<Text>拉海纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELLONA">
+			<Text>贝洛纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUNGAVA">
+			<Text>曼加瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIKOPIA">
+			<Text>蒂科皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EMAE">
+			<Text>埃马埃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAPINGAMARANGI">
+			<Text>卡平阿马朗伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAKUU">
+			<Text>陶乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKUORO">
+			<Text>努阔罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIKAIANA">
+			<Text>斯凯亚纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANUTA">
+			<Text>阿努塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUGURIA">
+			<Text>努古里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PILENI">
+			<Text>皮莱尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKUMANU">
+			<Text>努库马努</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

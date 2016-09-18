@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_PACHACUTI">
+			<Text>帕查库提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>伊莎贝拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

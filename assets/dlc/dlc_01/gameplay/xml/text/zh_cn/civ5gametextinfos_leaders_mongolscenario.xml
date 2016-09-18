@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG">
+			<Text>完颜璟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER">
+			<Text>米海尔八世</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

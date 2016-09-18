@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Civs and Leaders-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_ADJECTIVE">
+			<Text>比利时</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_DESC">
+			<Text>比利时</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_BRAZIL_SHORT_DESC">
+			<Text>比利时</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_ADJECTIVE">
+			<Text>意大利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_DESC">
+			<Text>意大利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_ROME_SHORT_DESC">
+			<Text>意大利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_ADJECTIVE">
+			<Text>布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_DESC">
+			<Text>布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CIV_AMERICA_SHORT_DESC">
+			<Text>布尔</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

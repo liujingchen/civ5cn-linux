@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG">
+			<Text>奥格斯堡</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_AUGSBURG_ADJ">
+			<Text>奥格斯堡</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE">
+			<Text>科隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_COLOGNE_ADJ">
+			<Text>科隆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA">
+			<Text>麦加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_MECCA_ADJ">
+			<Text>麦加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS">
+			<Text>突尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_TUNIS_ADJ">
+			<Text>突尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES">
+			<Text>那不勒斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_NAPLES_ADJ">
+			<Text>那不勒斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA">
+			<Text>里加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_RIGA_ADJ">
+			<Text>里加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK">
+			<Text>格但斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_GDANSK_ADJ">
+			<Text>格但斯克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK">
+			<Text>波洛茨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_CITYSTATE_POLOTSK_ADJ">
+			<Text>波洛茨克</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

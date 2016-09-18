@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME -->
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII">
+			<Text>重骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN">
+			<Text>刀兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN">
+			<Text>斧兵</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA">
+			<Text>三列桨快船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT">
+			<Text>哥特战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD">
+			<Text>“上帝之鞭”</Text>
+		</Row>
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD">
+			<Text>陆地铁甲舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANDSHIP">
+			<Text>陆地战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN">
+			<Text>陆地利维坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLYER">
+			<Text>飞行器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIRSHIP">
+			<Text>飞行战舰</Text>
+            <Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS">
+			<Text>飞行堡垒</Text>
+		</Row>
+		<!-- INTO THE RENAISSANCE -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_UNIT_SONGHAI_MUSLIMCAVALRY">
+			<Text>马穆鲁克骑兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WELSH_LONGBOWMAN">
+			<Text>威尔士长弓手</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

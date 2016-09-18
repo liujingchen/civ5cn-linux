@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY_SHORT">
+			<Text>维京狂暴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VIKING_FURY">
+			<Text>海运的单位+1[ICON_MOVES]移动力且在登陆时只消耗1移动力。近战单位在劫掠时不消耗移动力。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

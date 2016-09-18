@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_1">
+			<Text>我是卡齐米日大帝，波兰之王！你因何而来到我这荣耀之国？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_2">
+			<Text>你好，旅行者，我是波兰的卡齐米日！来，与我们同饮，分享你的见闻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_FIRSTGREETING_3">
+			<Text>你好，陌生人，我是波兰的卡齐米日大帝。或许你早已听说过我的成就。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_1">
+			<Text>你这是在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_2">
+			<Text>你这是在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_WARBLUFF_3">
+			<Text>注意你的用词。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_1">
+			<Text>……今天，你应该了解到波兰不是那么简单就能被小瞧的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_WINWAR_2">
+			<Text>……今天，你应该了解到波兰不是那么简单就能被小瞧的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_1">
+			<Text>也许我被打败了，但是我确信我留下了一个更好的国家给我的子民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LOSEWAR_2">
+			<Text>也许我被打败了，但是我确信我留下了一个更好的国家给我的子民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_1">
+			<Text>欢庆你的胜利吧，不会再有下次了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_2">
+			<Text>今天你是胜者……我希望你能善待我的子民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEFEATED_3">
+			<Text>就算是你胜利了，我的王国的子民依然会记得他们真正的国王……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_2">
+			<Text>向您致敬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_1">
+			<Text>走好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_2">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_NEUTRAL">
+			<Text>波兰很欢迎公平的交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我们的商人和你们的一样熟练……你必须提高你的出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做的更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>就快可以了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_NEUTRAL">
+			<Text>我认为你的提议不符合我们的利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_NEUTRAL">
+			<Text>这次我们会同意的，但是请谨慎行事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_NEUTRAL">
+			<Text>你的要求是对全波兰的羞辱，我不会同意的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_NEUTRAL">
+			<Text>你对这个感兴趣吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_NEUTRAL">
+			<Text>也许有一天你会需要我手中的一些东西，但是现在我要求你把这个给我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_2">
+			<Text>不，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_3">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_HAPPY">
+			<Text>这是完全可以接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我不能接受你的提议，也许你可以做的更好一点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能做到的最好的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_HAPPY_3">
+			<Text>还差一点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_HAPPY">
+			<Text>你不是故意给你的朋友一个差的提议的，是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_HAPPY">
+			<Text>波兰向来很乐意与朋友分享。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_HAPPY">
+			<Text>就算是朋友，我的子民也不会同意我如此慷慨的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_HAPPY">
+			<Text>你好朋友！波兰向你提供下面这个贸易提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_HAPPY">
+			<Text>一直以来，你都是我的朋友，你会考虑把这些提供给我的子民吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_3">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_AGREE_SHORT_5">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_4">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_3">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_5">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_GOODBYE_6">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_YES_ANGRY">
+			<Text>好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你肯定不是认真的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NEEDMORE_ANGRY_4">
+			<Text>多么无礼的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADE_NO_ANGRY">
+			<Text>你把我们当傻瓜了吗？我不会接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_YES_ANGRY">
+			<Text>看起来这次我无路可选只能同意……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRIBUTE_NO_ANGRY">
+			<Text>你的玩笑品位真低……我们绝对不会同意如此骇人听闻的要求的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_TRADEREQUEST_ANGRY">
+			<Text>这是我的提议，同不同意随你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DEMANDTRIBUTE_ANGRY">
+			<Text>我的王国需要从你那里得到这些东西，拒绝给我绝对是愚蠢至极！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_6">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_LETSHEARIT_5">
+			<Text>你在说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_1">
+			<Text>我深思熟虑了一下之后，觉得除掉你一定是个合适的决定！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_2">
+			<Text>我发现你的王国品味太低了，我觉得我有义务把你这颗毒瘤从世界上抹除！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_DECLAREWAR_3">
+			<Text>我相信我的子民会对让你不再这片土地上肆意妄为很感兴趣的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_1">
+			<Text>我的军队将会把你曾经存在过的事实从每个人的记忆中抹除！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_2">
+			<Text>这难道不是赤裸裸的背叛吗？！我会像踩蚂蚁一样把你踩在脚下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR_ATTACKED_3">
+			<Text>我看你彻底缺乏外交天赋！我要让你从失败中好好领悟如何以礼待人！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

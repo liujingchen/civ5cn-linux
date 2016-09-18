@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN_SHORT">
+			<Text>蟒蛇计划</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_ANACONDA_PLAN">
+			<Text>本剧情中只有军事工程师和北方陆军单位能进入海运状态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL_SHORT">
+			<Text>反叛呼声</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TRAIT_REBEL_YELL">
+			<Text>单位自动获得+10%战斗力的晋升。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

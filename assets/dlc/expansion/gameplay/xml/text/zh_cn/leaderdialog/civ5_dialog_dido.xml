@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_1">
+			<Text>欢迎来到安全迦太基海港，公平的陌生人。我被称为推罗的流浪者，狄多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_2">
+			<Text>迦太基的女王欢迎你来到她公平的城市。许多人称我为艾丽莎，你可以叫我狄多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_FIRSTGREETING_3">
+			<Text>腓尼基人欢迎你来到我们公平的国度。我是狄多，迦太基和她所有领地的女王。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_1">
+			<Text>啊，我期望你做更多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_2">
+			<Text>一个好的移动，不过可能不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_WARBLUFF_3">
+			<Text>你真愚蠢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_WINWAR_1">
+			<Text>我的剑是真的，和任何英雄的一样有力。我希望你学到教训，不再来迦太基。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_WINWAR_2">
+			<Text> 敲响钟声，高飞于比尔萨山顶。胜利生色了我公平的国度。你怎么说？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_1">
+			<Text>你用了什么巫术，你唤起了什么邪恶的魔力来反抗我的军队？下一次我应该提防你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LOSEWAR_2">
+			<Text>我一定是惹怒了命运女神，这是唯一的解释。像你这样的人永远没有希望打败我，除非你受助于来自天上的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_1">
+			<Text>我控诉命运，我看见宇宙万物都在密谋反对我。命运，唯一的避难所，唯一的忠告离开了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_2">
+			<Text>当我最终长眠于大地，也许我会被铭记，正如我可怜的城市消耗于火焰和痛苦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEFEATED_3">
+			<Text>我想火葬适合一个女神。它的火焰将穿过水岸，与星辰共舞。现在我将拥抱死亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_1">
+			<Text>幸会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_1">
+			<Text>直到我们再次相遇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我称赞你尽力做的事，但是你必须比这做得更好。来，再试一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做更好一点么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>.....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_NEUTRAL">
+			<Text>我不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_NEUTRAL">
+			<Text>你怎么处理这个？我着迷于这奇怪的打算，想要它能顺利通过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_NEUTRAL">
+			<Text>你是个多愚蠢的人啊！你永远不能从这个朝廷得到这不劳而获的利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_NEUTRAL">
+			<Text>来，让我们玩一场游戏。也许我会让你赢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>是的，我相信你的黄金恰好做这个。来，交过来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_2">
+			<Text>不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_1">
+			<Text>让我们听听它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_4">
+			<Text>再次见到你很高兴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_3">
+			<Text>一路平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_HAPPY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>为什么？我没让亲爱的埃涅阿斯侥幸逃脱这样一个提议。为什么你不再试一次，嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>那是你能做的最好的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>.....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_HAPPY">
+			<Text>谢谢，但是不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_HAPPY">
+			<Text>  嗯，好吧，我想一次不会产生伤害。快接受它，免得我的顾问发现问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_HAPPY">
+			<Text>那毫无可能。你今天喝了什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_HAPPY">
+			<Text>我刚有一个了不起的主意，我想你也会欣赏它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_HAPPY">
+			<Text>我刚有一个了不起的主意，我想你也会欣赏它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_3">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_4">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_3">
+			<Text>开始。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_4">
+			<Text>我正在听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_5">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GREETING_6">
+			<Text>你现在想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_5">
+			<Text>这是全部。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_GOODBYE_6">
+			<Text>滚开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_YES_ANGRY">
+			<Text>好的。同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我真不知道这会去哪。别再结结巴巴，拿出一个实际的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须比那做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NEEDMORE_ANGRY_4">
+			<Text>.....</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADE_NO_ANGRY">
+			<Text>你想胜过我？我，比皮格马利翁和推罗的领主们都聪明。呸，你让我厌恶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_YES_ANGRY">
+			<Text>为了及时的处理更紧迫的事情，我会同意这荒谬的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRIBUTE_NO_ANGRY">
+			<Text>你不比伊阿尔巴斯好，目前在许多方面更差。我会数落这些吗？哦停下，我相信你将发现这有教育意义的事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_TRADEREQUEST_ANGRY">
+			<Text>我确定这是徒劳的，但我至少可以说我尝试了——这里其他人比我谈及得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DEMANDTRIBUTE_ANGRY">
+			<Text>这些是我要求的，我厌烦听你可怜的尝试诙谐的话语。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_AGREE_SHORT_4">
+			<Text>我想我必须接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_5">
+			<Text>再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_6">
+			<Text>那是不能接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DISAGREE_SHORT_7">
+			<Text>你就不能认真点么！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_LETSHEARIT_5">
+			<Text>然后呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_1">
+			<Text>和平和我形同陌路，我不能再忍受你会报复这片大地的恐惧。也许，今晚你的宿命到了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_2">
+			<Text>看起来命运力图要终结你。你的嘲弄和措施引起了公平的迦太基的忿怒。你的死期到了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_DECLAREWAR_3">
+			<Text>告诉我，知道我的军队，我的战象，或者我的舰队的数量么？不？好的，你很快就会知道了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_1">
+			<Text>哦，污秽，奸诈小人！即使你悔改也无法慰藉我受伤的心灵！你的行为给我们人民之间带来了不幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_2">
+			<Text>你希望从如此可怜的行动中得到什么？我的战象将重新集结，自由冲锋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO_ATTACKED_3">
+			<Text>你带着欺骗来到我的海港——伪君子，毒蛇。诸神为证，你将用鲜血与劳役偿还你的罪过。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ATTILA">
+			<Text>阿提拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOUDICCA">
+			<Text>布狄卡</Text>
+     		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DIDO">
+			<Text>狄多</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS">
+			<Text>古斯塔夫·阿道夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA">
+			<Text>玛丽亚·特蕾西亚</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL">
+			<Text>帕卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>海尔·塞拉西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA">
+			<Text>提奥多拉</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM">
+			<Text>威廉·奥兰治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA">
+			<Text>伊莎贝拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

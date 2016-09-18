@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MAP_MED_TITLE">
+			<Text>地中海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_MED_HELP">
+			<Text>包括整个地中海沿岸地区的较大尺寸地图</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>这个单位和周围地块里的单位每回合[COLOR_POSITIVE_TEXT]回复15生命力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTION_AUTOMATE_TRADE">
+			<Text>贸易（自动）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_YOU_REGAINED_CAPITAL">
+			<Text>你夺回了你的初始[ICON_CAPITAL]首都！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ADD_REFORMATION_BELIEF">
+			<Text>你采用了宗教改革这项社会政策，现在你可以给你的宗教添加一个信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ADD_REFORMATION_BELIEF">
+			<Text>添加改革信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_SUMMARY">
+			<Text>商路遭劫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_KNOWN">
+			<Text>{1_PlayerName}劫掠了你在{2_CityName}和{3_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_UNKNOWN">
+			<Text>一个未知的文明劫掠了你在{1_CityName}和{2_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADER_BARBARIAN">
+			<Text>肮脏的野蛮人劫掠了你在{1_CityName}和{2_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_SUMMARY">
+			<Text>友方商路遭劫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_KNOWN">
+			<Text>{1_PlayerName}劫掠了{2_PlayerName}在{3_CityName}和{4_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_UNKNOWN">
+			<Text>一个未知的文明劫掠了{1_PlayerName}在{2_CityName}和{3_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_UNIT_PLUNDERED_TRADEE_BARBARIANS">
+			<Text>野蛮人劫掠了{1_PlayerName}在{2_CityName}和{3_CityName}之间建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL">
+			<Text>文化影响力率先达到无远弗届级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_TT">
+			<Text>{1_CivName}是首个对另一文明的文化影响力达到“无远弗届”级的文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_UNMET_INFLUENTIAL_TT">
+			<Text>一个未知文明是首个对另一文明的文化影响力达到“无远弗届”级的文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL">
+			<Text>影响力不再无远弗届</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_NO_LONGER_INFLUENTIAL_TT">
+			<Text>你的文化不再具备无远弗届的影响力了</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_SOMEONE_INFLUENTIAL_ACTIVE_PLAYER_TT">
+			<Text>你是首个对另一文明的文化影响力达到“无远弗届”级的文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER">
+			<Text>文化胜利迫在眉睫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_ACTIVE_PLAYER_TT">
+			<Text>你只需要再对一个文明达到“无远弗届”级的文化影响力就能获得文化胜利了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE">
+			<Text>文化胜利威胁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_TT">
+			<Text>{1_CivName}只需要再对一个文明达到“无远弗届”级的文化影响力就能获得文化胜利了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_ONE_UNMET_TT">
+			<Text>未知文明只需要再对一个文明达到“无远弗届”级的文化影响力就能获得文化胜利了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER">
+			<Text>文化胜利触手可及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_ACTIVE_PLAYER_TT">
+			<Text>你只需要再对两个文明达到“无远弗届”级的文化影响力就能获得文化胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO">
+			<Text>文化胜利竞争者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_TT">
+			<Text>{1_CivName}只需要再对两个文明达到“无远弗届”级的文化影响力就能获得文化胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CULTURE_VICTORY_WITHIN_TWO_UNMET_TT">
+			<Text>未知文明只需要再对两个文明达到“无远弗届”级的文化影响力就能获得文化胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_GALLEASS">
+			<Text>中古时代用于控制海域的强大远程海军单位，攻击和防御能力均强于普通的桨帆战舰。只有威尼斯文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_PATHFINDER">
+			<Text>这个肖肖尼特色单位既擅长探索又擅长战斗。代替侦察兵。允许从所进入的遗迹中选择奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SHOSHONE_COMANCHE_RIDERS">
+			<Text>擅长于机动作战的骑乘单位。只有肖肖尼文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INDONESIAN_KRIS_SWORDSMAN">
+			<Text>古典时代的肉搏单位。它持有的武器上带有神秘的晋升，只有在第一次战斗以后才能得知。只有印尼文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BAZOOKA">
+			<Text>原子时代单位，拥有一格远程攻击范围。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_AXMAN">
+			<Text>蛮族替代战车的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ARCHAEOLOGIST">
+			<Text>考古学家是一种特别的工人单位，他们可以被用来发掘历史遗址以修建地标设施或是获取一件可收藏于博物馆、宫殿、冬宫或特定奇观的文物。考古学家可以在任何势力的领土范围内发行发掘，完成发掘后这个考古学家将被消耗掉。考古学家单位无法用[ICON_GOLD]金钱购买，并且只能在拥有大学的城市才能组建。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ZULU_IMPI">
+			<Text>专门用于对抗骑士以及其他骑乘单位。只有祖鲁文明可以建造。每次战斗开始前可先进行一轮远程攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ASSYRIAN_SIEGE_TOWER">
+			<Text>强大的近程压制单位，可以给周边的所有单位提供攻城加成。只有亚述文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BRAZILIAN_PRACINHA">
+			<Text>现代步兵单位，击败敌人时可以提供[ICON_GOLDEN_AGE]黄金时代点数。只有巴西文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANDSKNECHT">
+			<Text>此单位的成本低于长枪兵，而且劫掠不会消耗移动力。攻击城市时获得双倍[ICON_GOLD]金钱。通过推行雇佣军政策来解锁，不能直接组建而必须用金钱购买。购买后可以立即移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WINGED_HUSSAR">
+			<Text>用于对抗敌方骑乘单位的重骑兵。这个单位比枪骑兵速度更快、力量更强。如果对敌方造成的损害大于己方所受损害，则可以将敌方单位击退一格。只有波兰文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU">
+			<Text>近程海军单位，擅长于海上探索。比替代的轻帆船具有更高的[ICON_MOVES]移动力。同时还能与外国进行一次性的贸易来获取[ICON_GOLD]金钱和经验。只有葡萄牙文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PARATROOPER">
+			<Text>可空降的强力步兵单位，投放距离为9格。空降后依然可以移动和劫掠设施，但不能发起攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAMURAI">
+			<Text>中古时代强大的步兵单位。日本特色单位，替代长剑士。该单位相比长剑士拥有更强的战斗力，并能更快地催生陆军统帅。海运的日本武士能修建渔船，只花费1回合时间而且自身不会被消耗掉（这使其在和平时期也有用处）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PARATROOPER_STRATEGY">
+			<Text>伞兵是一种游戏后期的步兵单位。他弱于机械化步兵，但可以空降到9格范围外（从友方领土算起）。这项能力允许伞兵越过敌军防线进入敌方防御薄弱的后方，破坏敌方的道路和重要资源。伞兵的空投是一种危险的工作，所以你需要确认目标有足够的重要性。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BERBER_CAVALRY">
+			<Text>一种专精于沙漠战斗、保护摩洛哥领土的骑乘单位。在摩洛哥领土和荒漠地块上战斗有加成。只有摩洛哥文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARGO_SHIP">
+			<Text>可以建立两个文明之间的国际商路来获得[ICON_GOLD]金钱，也可以建立起国内商路来运送[ICON_FOOD]食物（需要粮仓）或[ICON_PRODUCTION]产能（需要工坊）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARAVAN">
+			<Text>可以建立两个文明之间的国际商路来获得[ICON_GOLD]金钱，也可以建立起国内商路来运送[ICON_FOOD]食物（需要粮仓）或[ICON_PRODUCTION]产能（需要工坊）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_XCOM_SQUAD">
+			<Text>来自未来的步兵单位，擅长空降于任何危险的地域。空降后当回合可以移动和拆除设施，但不能发起进攻。[NEWLINE][NEWLINE][COLOR_CYAN]一路顺风，长官！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
+			<Text>电气时代的特殊步兵单位，只能通过采纳了自由意识形态的志愿军理念获得。这个单位在国境外的战斗有加成，其余方面类似早期现代步兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_ZERO">
+			<Text>适用于争夺制空权和拦截敌方飞机的空军单位。日本特色单位，替代战斗机。该单位对其他战斗机有战斗力加成，而且不需要石油资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VENETIAN_MERCHANT">
+			<Text>威尼斯的特殊伟人单位，替代大商业家。除了可以进行贸易任务外，还可以立刻购买城邦，将其变为威尼斯的傀儡城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_MUSICIAN_DETAILS">
+			<Text>[ICON_PLUS]大音乐家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_MUSICIAN_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS]大音乐家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_WRITER_DETAILS">
+			<Text>[ICON_PLUS]大文学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_WRITER_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS]大文学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_DOES_THIS_MEAN_WAR_PLUS_PILLAGE_UPSET">
+			<Text>你是想发起战争吗！？（对{1_Team}）[NEWLINE]这同样也会激怒{2_Team}，因为这条商路连接到他们的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_PLUNDER_WARNING">
+			<Text>劫掠这条商路将激怒{1_Team}，因为这条商路连接到他们的城市。你确定你想劫掠这条商路并激怒他们吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE">
+			<Text>劫掠商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK">
+			<Text>创造杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS">
+			<Text>出售珍奇商品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_GIVE_POLICIES">
+			<Text>创作政治专著</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM">
+			<Text>进行巡回演出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE">
+			<Text>购买城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE_HELP">
+			<Text>这名威尼斯商人将使用他富可敌国的财富来买下这座城邦，这座城邦将变为威尼斯文明控制下的一座傀儡城市，你将获得这座城邦的全部单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_BUY_CITY_STATE_DISABLED_HELP">
+			<Text>这个单位必须在城邦境内，且该城邦不能与你处于交战中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
+			<Text>允许使用[ICON_PEACE]信仰购买大教堂（+1[ICON_PEACE]信仰，+1[ICON_CULTURE]文化，+1[ICON_HAPPINESS_1]快乐，一个美术杰作展位）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
+			<Text>宗教传播速度+25%（研发印刷机后+50%）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE_WITH_TRADE">
+			<Text>{1_ReligionIcon}信众规模: {2_NumFollowers} {3_PressureString} ({4_Num}条商路)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_WARRIOR">
+			<Text>从这个遗失的部落中招募勇士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_POPULATION">
+			<Text>说服剩下的人口加入我方城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_CULTURE">
+			<Text>通过与这个遗失部落的联系来增强我们的[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_REVEAL_NEARBY_BARBS">
+			<Text>通过这个部落的情报来确定周边的野蛮人营地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_GOLD">
+			<Text>与这个遗失部落贸易以获得[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_MAP">
+			<Text>看看他们的地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_TECH">
+			<Text>研究他们的工具，获得新科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_REVEAL_RESOURCE">
+			<Text>请教最近的资源的位置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_UPGRADE_UNIT">
+			<Text>使用从这个部落获得的装备来给单位换装</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_BARBARIANS">
+			<Text>反复告诉这个部落的人民：你们是野蛮人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_SETTLER">
+			<Text>说服这个部落加入你的文明，成为一个移民单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_SCOUT">
+			<Text>说服这个部落加入你的文明，成为一个侦察兵单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_WORKER">
+			<Text>说服这个部落加入你的文明，成为一个工人单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_EXPERIENCE">
+			<Text>让你的单位研究这个部落获得经验</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_HEALING">
+			<Text>饮用土著草药治愈伤口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_FAITH">
+			<Text>研究这个部落的宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_PROPHET_FAITH">
+			<Text>获得一个大先知！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ESTABLISH_TRADE_ROUTE">
+			<Text>建立商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ESTABLISH_TRADE_ROUTE_HELP">
+			<Text>用这个单位建立从这个城市到另一个城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_TRADE_UNIT_HOME_CITY">
+			<Text>改变起点城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_TRADE_UNIT_HOME_CITY_HELP">
+			<Text>改变这个单位的起点城市。这个单位会在下回合移动到目标城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT">
+			<Text>转移到新港口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CHANGE_ADMIRAL_PORT_HELP">
+			<Text>转移此海军统帅到你控制的另一座港口城市。他可以在下回合从新港口出海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_IMPROVEMENT_REBUILD_WARN_TRADE_ROUTE">
+			<Text>你确定要{@1_ActionName}？[NEWLINE]目前的区域设施将会被取代，城市连接也可能被取消。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS">
+			<Text>有[ICON_CONNECTED]城市连接的城市+2[ICON_RESEARCH]科研</Text>
+		</Row>
+		<!-- PROMOTIONS -->
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_TRADITION">
+			<Text>探索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAPPER">
+			<Text>工兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAPPER_HELP">
+			<Text>当在城市周边时，所有2格内的友方单位获得攻城+50%加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II">
+			<Text>对城市加成(250)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_II_HELP">
+			<Text>对城市攻击加成+250%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS">
+			<Text>战斗胜利时获得黄金时代点数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS_HELP">
+			<Text>每次杀死敌军时获得黄金时代点数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL_HELP">
+			<Text>+3[ICON_MOVES]移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM">
+			<Text>卫国战争</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HORNS_HELP">
+			<Text>+1移动力。+25%夹击加成。对所有[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]+10%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST_HELP">
+			<Text>在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形战斗时+10%[ICON_STRENGTH]力量。+25%夹击加成。对所有[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]+10%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS_HELP">
+			<Text>+10%[ICON_STRENGTH]战斗力。+25%夹击加成。对所有[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]+10%[COLOR_POSITIVE_TEXT]防御力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS_HELP">
+			<Text>相比普通贸易任务+100%[ICON_GOLD]金钱并+100%城邦影响力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE_HELP">
+			<Text>如果对敌方造成的损害大于己方所受损害，则可以将敌方单位击退一格。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER_HELP">
+			<Text>每次战斗开始前先进行一轮远程攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_CHEST">
+			<Text>野牛之胸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HORNS">
+			<Text>野牛之角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_LOINS">
+			<Text>野牛之腰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRADE_MISSION_BONUS">
+			<Text>贸易任务加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_CHARGE">
+			<Text>强力冲锋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_GUNPOWDER">
+			<Text>掷矛突击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN">
+			<Text>国土防卫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_HELP">
+			<Text>境内作战+25%力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO">
+			<Text>先祖之力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO_HELP">
+			<Text>境内作战+15%力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR">
+			<Text>沙漠战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DESERT_WARRIOR_HELP">
+			<Text>在[COLOR_POSITIVE_TEXT]荒漠[ENDCOLOR]地形+50%[ICON_STRENGTH]力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER">
+			<Text>满月突击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOON_STRIKER_HELP">
+			<Text>+1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER">
+			<Text>土著语言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER_HELP">
+			<Text>可以选择遗迹结果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING">
+			<Text>高山训练</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALTITUDE_TRAINING_HELP">
+			<Text>在丘陵上的移动力加倍，在[COLOR_POSITIVE_TEXT]丘陵[ENDCOLOR]上作战时+10%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE">
+			<Text>神秘锋刃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MYSTIC_BLADE_HELP">
+			<Text>在完成首次作战后，获得一项随机的特殊晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY">
+			<Text>难攻不破</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INVULNERABIILITY_HELP">
+			<Text>防御时+30%力量，治疗时额外回复20生命值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK">
+			<Text>侧翼突袭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SNEAK_ATTACK_HELP">
+			<Text>+50%夹击加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEROISM">
+			<Text>英勇无畏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEROISM_HELP">
+			<Text>具有此晋升的单位能像大军事家一样给予周边单位战斗加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBITION">
+			<Text>野心勃勃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBITION_HELP">
+			<Text>攻击时+50%力量，防御时-20%力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS">
+			<Text>枕戈待旦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RESTLESSNESS_HELP">
+			<Text>每回合可以进行两次攻击，+1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT">
+			<Text>就地征召</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_HELP">
+			<Text>杀死非蛮族单位时自动回复满生命值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE">
+			<Text>就敌之刃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_BLADE_HELP">
+			<Text>在敌方境内结束回合的话损失20生命值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVIL_SPIRITS">
+			<Text>邪灵附体</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EVIL_SPIRITS_HELP">
+			<Text>攻击时-10%战斗力，防御时-30%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EXTENDED_PARADROP">
+			<Text>天行者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EXTENDED_PARADROP_HELP">
+			<Text>可以长距离投送(40格)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE">
+			<Text>闪电战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIGHTNING_WARFARE_HELP">
+			<Text>攻击时+15%战斗力，+1[ICON_MOVES]移动力，无视区域控制</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1">
+			<Text>狼群一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_1_HELP">
+			<Text>攻击时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2">
+			<Text>狼群二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_2_HELP">
+			<Text>攻击时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3">
+			<Text>狼群三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WOLFPACK_3_HELP">
+			<Text>攻击时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1">
+			<Text>飞行甲板一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_1_HELP">
+			<Text>可以多装载1个飞机单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2">
+			<Text>飞行甲板二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_2_HELP">
+			<Text>可以多装载1个飞机单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3">
+			<Text>飞行甲板三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLIGHT_DECK_3_HELP">
+			<Text>可以多装载1个飞机单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_1">
+			<Text>装甲一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_1_HELP">
+			<Text>防御时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_2">
+			<Text>装甲二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_2_HELP">
+			<Text>防御时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_3">
+			<Text>装甲三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_PLATING_3_HELP">
+			<Text>防御时+25%战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS">
+			<Text>珍奇商品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS_HELP">
+			<Text>能与邻接的外国地块进行一次性的贸易来获取[ICON_GOLD]金钱和经验，数量多少由该地区到首都的距离决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER">
+			<Text>城市掠夺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_PLUNDER_HELP">
+			<Text>攻击城市时根据造成的破坏获得相应的[ICON_GOLD]金钱。</Text>
+		</Row>
+		<!-- BUILDINGS HELP -->
+		<Row Tag="TXT_KEY_BUILDING_AIRPORT_HELP">
+			<Text>允许从这个城市空运单位。[COLOR_POSITIVE_TEXT]可容纳的空军单位数量从6增加至10。[ENDCOLOR]50%来自于世界奇观、自然奇观和地面设施（风景地标、摩艾石像群、宫堡等）的[ICON_CULTURE]文化产出增加到该城市的[ICON_TOURISM]魅力产出中。来自杰作的[ICON_TOURISM]魅力产出+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARTISTS_GUILD_HELP">
+			<Text>提供2[ICON_GREAT_PEOPLE]大美术家点数。提供2美术家席位(每个美术家+3[ICON_CULTURE]文化，+3[ICON_GREAT_PEOPLE]大美术家点数)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
+			<Text>所在城市每处已开发的奢侈资源额外增加1处。每处[ICON_RES_OIL]石油资源和每处绿洲+2[ICON_GOLD]金钱。来自其他玩家的商路给城市所有者+1[ICON_GOLD]金钱，给商路发起者+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CANDI_HELP">
+			<Text>印尼文明替代花园的特殊建筑。+25%[ICON_GREAT_PEOPLE]伟人诞生速度。每座城市中每支至少有一个信众的宗教+2[ICON_PEACE]信仰。[NEWLINE][NEWLINE]与花园不同，建造龛邸的城市不必邻近河流或湖泊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARAVANSARY_HELP">
+			<Text>从本城起始的陆上商路距离+50%，如为通向其他文明的商路还可额外+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUCAL_STABLE_HELP">
+			<Text>波兰文明替代马厩的特殊建筑。组建骑乘单位时+15%[ICON_PRODUCTION]产能并+15经验。[NEWLINE][NEWLINE]城市已开发的每处[ICON_RES_HORSE]马、[ICON_RES_SHEEP]绵羊和[ICON_RES_COW]牛群资源+1[ICON_PRODUCTION]产能并+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
+			<Text>本城市已开发的每处[ICON_RES_WHEAT]小麦、[ICON_RES_BANANA]香蕉和[ICON_RES_DEER]野鹿资源+1[ICON_FOOD]食物。[NEWLINE][NEWLINE]允许在本国的商路之间输送[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HANSE_HELP">
+			<Text>德国替代银行的特色建筑。每条本文明通往城邦的商路+5%[ICON_PRODUCTION]产能。其他文明通往拥有同业公会的城市的商路可为城市所有者额外+1[ICON_GOLD]金钱，商路所有者也可额外+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_HANSE">
+			<Text>[NEWLINE][ICON_BULLET]同业公会修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
+			<Text>通过水域建立[ICON_CONNECTED]连接到[ICON_CAPITAL]首都的[ICON_CONNECTED]城市连接（如果尚未建立陆路[ICON_CONNECTED]连接）。从本城起始通向其他文明的海上商路距离+50%并额外+1[ICON_GOLD]金钱。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOTEL_HELP">
+			<Text>50%来自于世界奇观、自然奇观和地面设施（风景地标、摩艾石像群、宫堡等）的[ICON_CULTURE]文化产出增加到该城市的[ICON_TOURISM]魅力产出中。来自杰作的[ICON_TOURISM]魅力产出+50%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IKANDA_HELP">
+			<Text>祖鲁文明替代军营的特殊建筑。给予冷兵器类肉搏单位特殊晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
+			<Text>海滨和大洋区块+1[ICON_FOOD]食物。本城市已开发的每处海洋资源+1[ICON_PRODUCTION]产能。[NEWLINE][NEWLINE]本城市已开发的每处[ICON_RES_FISH]鱼群资源+1[ICON_FOOD]食物。[NEWLINE][NEWLINE]城市必须沿海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUSICIANS_GUILD_HELP">
+			<Text>提供3[ICON_GREAT_PEOPLE]大音乐家点数。提供2音乐家席位(每个专家+3[ICON_CULTURE]文化，+3[ICON_GREAT_PEOPLE]大音乐家点数)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
+			<Text>所有城市都需要有市场。文明的城市数量越多建造成本越高。来自其他玩家的商路可使此城市的所有者+4[ICON_GOLD]金钱，商路拥有者也可额外+2[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
+			<Text>亚述文明替代图书馆的特殊建筑。本城市中每2[ICON_CITIZEN]市民+1[ICON_RESEARCH]科研。另外还提供一个文学杰作空位，当收藏有文学杰作时，本城新组建单位获得额外经验值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_HELP">
+			<Text>城市必须有市场。其他文明通往拥有总督府城市的商路可为城市所有者额外+1[ICON_GOLD]金钱，商路所有者也可额外+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TOURIST_CENTER_HELP">
+			<Text>所有城市都需要有旅馆。文明的城市数量越多建造成本越高。100%来自于世界奇观、自然奇观和地面设施（风景地标、摩艾石像群、宫堡等）的[ICON_CULTURE]文化产出增加到该城市的[ICON_TOURISM]魅力产出中。来自杰作的[ICON_TOURISM]魅力产出+100%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
+			<Text>本城市开发的丛林区块+2[ICON_RESEARCH]科研。允许建造考古学家[NEWLINE][NEWLINE]城市必须有图书馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WORKSHOP_HELP">
+			<Text>允许在本国的商路之间输送[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WRITERS_GUILD_HELP">
+			<Text>提供2[ICON_GREAT_PEOPLE]大文学家点数。提供2文学家席位(每个文学家+3[ICON_CULTURE]文化，+3[ICON_GREAT_PEOPLE]大文学家点数)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STADIUM_HELP">
+			<Text>该建筑提供的[ICON_HAPPINESS_1]快乐点数以该城市的[ICON_CITIZEN]市民数量为限。城市必须有动物园。</Text>
+		</Row>
+		<!-- IMPROVEMENTS HELP -->
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_BRAZILWOOD_CAMP_HELP">
+			<Text>巴西红木林场只能建造于丛林区域。该设施提供额外的[ICON_GOLD]金钱产出。研发声学科技后还能提供[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_FEITORIA_HELP">
+			<Text>商站只能建造于城邦的领土中，必须沿海且不处于任何资源上。该设施向你提供一份该城邦连接的每一种奢侈资源，不管你与城邦关系如何，但该资源无法被交易。该设施还像普通堡垒一样提供50%防御加成。只有葡萄牙文明可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KASBAH_HELP">
+			<Text>卡斯巴哈只能建造于荒漠地块上。提供额外的1[ICON_FOOD]食物、[ICON_PRODUCTION]产能和[ICON_GOLD]金钱。该设施还像普通堡垒一样提供50%防御加成。只能建造在摩洛哥文明的领土中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
+			<Text>宫堡只能建造在邻接奢侈资源的地块上，且不能邻接其他的宫堡。该设施像普通堡垒一样提供50%防御加成。只能建造在法国文明的领土中。研究航空科技后+1[ICON_CULTURE]文化产出，+2[ICON_GOLD]金钱产出</Text>
+		</Row>
+		<!-- WONDERS HELP -->
+		<Row Tag="TXT_KEY_WONDER_BOROBUDUR_HELP">
+			<Text>只能建造在宗教圣城中。立刻获得3个免费的传教士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
+			<Text>获得一条额外的商路和一艘免费的货船。来自其他玩家的商路可使此城市的所有者+2[ICON_GOLD]金钱，商路拥有者也可额外+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_RED_FORT_HELP">
+			<Text>所有城市的防御建筑效率+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
+			<Text>需要开启秩序意识形态。制造装甲部队时+50%[ICON_PRODUCTION]产能。免费获得一项社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PARTHENON_HELP">
+			<Text>在其杰作展位中已经收藏有一件美术杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PETRA_HELP">
+			<Text>所有本城范围内的荒漠地形+1[ICON_FOOD]食物，+1[ICON_PRODUCTION]产能（冲积平原除外）。获得一条额外的商路和一支免费的商队。研究考古学科技后+6[ICON_CULTURE]文化。城市必须位于荒漠或邻近荒漠。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PRORA_RESORT_HELP">
+			<Text>需要开启独裁意识形态。+2[ICON_HAPPINESS_1]快乐，每2项已采用的政策+1[ICON_HAPPINESS_1]快乐。免费获得一项社会政策。城市必须沿海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
+			<Text>需要开启自由意识形态。所有城市每位专业人员+1[ICON_PRODUCTION]产能。免费获得一项社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TERRA_COTTA_ARMY_HELP">
+			<Text>按你拥有的陆地军事单位类型，每类单位免费增加一个，出现于建造兵马俑的城市附近。</Text>
+		</Row>
+		<!-- NATURAL WONDERS HELP -->
+		<Row Tag="TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP">
+			<Text>所有经过邻接区块的单位均获可永久晋升，该晋升加倍单位在丘陵上的移动力，并且在丘陵地形作战时提供战斗力加成。</Text>
+		</Row>
+		<!-- TECH HELP -->
+		<Row Tag="TXT_KEY_TECH_COMPASS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]桨帆战舰[ENDCOLOR]，第一种远程海军单位。同时允许你建造[COLOR_POSITIVE_TEXT]港口[ENDCOLOR]，它能从水上建立城市到首都的城市连接，产出[ICON_GOLD]金钱。另外，提高工船的[ICON_GOLD]金钱产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NUCLEAR_FISSION_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]火箭筒[ENDCOLOR]，游戏中最强大的远程单位，以及[COLOR_POSITIVE_TEXT]原子弹[ENDCOLOR]，游戏里的第一种核武器（注意：你必须先完成曼哈顿工程并拥有[ICON_RES_URANIUM]铀资源）。同时允许你建造[COLOR_POSITIVE_TEXT]核电站[ENDCOLOR]，一个需要[ICON_RES_URANIUM]铀资源的能增加城市[ICON_PRODUCTION]产能的建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_INTERNET_HELP">
+			<Text>因特网科技自动让你全部城市的[ICON_TOURISM]魅力产出翻倍，加速你的[COLOR_POSITIVE_TEXT]文化胜利[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PRINTING_PRESS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]动物园[ENDCOLOR]，一个增加[ICON_HAPPINESS_1]快乐度的建筑，从而使[ICON_GOLDEN_AGE]黄金时代更容易到来。同时也是开启世界议会的前置要求之一。</Text>
+		</Row>
+		<!-- THEMING BONUS STRINGS-->
+		<Row Tag="TXT_KEY_SISTINE_CHAPEL_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自同一时代且同一文明的2件美术杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOUVRE_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要2件美术杰作和2件文物，全部来自不同时代的不同文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UFFIZI_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自同一时代且同一文明的美术杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自不同时代且不同文明的美术杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自不同时代且非本城市所属文明的文学杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUSEUM_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自同一时代，同为美术杰作或同为文物，杰作（或文物）的作者均诞生于本城市所属文明，或者均不不来自本城市所属文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLOBE_THEATER_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自同一时代，同一文明的文学杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BROADWAY_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自同一时代，同一文明的音乐杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自不同时代，不同文明的文学杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SYDNEY_OPERA_HOUSE_THEMING_BONUS_HELP">
+			<Text>想使奖励最大化的话，需要来自不同时代，同一文明的音乐杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_1">
+			<Text>{1_EraAdjective}{2_CivAdjective}艺术博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_2">
+			<Text>{1_EraAdjective}{2_CivAdjective}军事博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_3">
+			<Text>{1_EraAdjective}艺术博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_4">
+			<Text>{1_EraAdjective}军事博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_5">
+			<Text>{1_CivAdjective}博物馆（{2_EraAdjective}时代）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_6">
+			<Text>{1_EraAdjective}世界博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_7">
+			<Text>{1_CivAdjective}艺术博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_8">
+			<Text>{1_CivAdjective}军事博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_HERMITAGE">
+			<Text>世界艺术博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SISTINE_CHAPEL">
+			<Text>{1_Era}{2_CivAdjective}艺术教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_OXFORD_UNIVERSITY">
+			<Text>世界文学图书馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_LOUVRE">
+			<Text>世界最受欢迎博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_UFFIZI">
+			<Text>{1_Era}{2_CivAdjective}艺术博物馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_GLOBE_THEATER">
+			<Text>{1_Era}{2_CivAdjective}文学剧场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BROADWAY">
+			<Text>{1_Era}{2_CivAdjective}音乐秀场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_GREAT_LIBRARY">
+			<Text>古代知识图书馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SYDNEY_OPERA_HOUSE">
+			<Text>{2_CivAdjective}音乐艺术中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEGAL_BODY">
+			<Text>（©1991-2013）Take-Two交互软件公司及其分支机构发行，Firaxis游戏公司开发。相关公司名称及游戏名称均为Take-Two交互软件公司的商标或注册商标。游戏分级标志为娱乐软件协会的商标。所有其他标志和商标均属于相应所有者。保留所有权利。本游戏的内容纯属虚构，如有雷同纯属巧合。[NEWLINE][NEWLINE]本游戏汉化包由塞爱维·文明联盟和游翔·天邈联合制作，塞爱维-游翔为大家提供自由、绿色、开放、精益求精的汉化包。同时考虑所有用户的利益，不加密、不破坏游戏结构。感谢塞爱维论坛和游翔论坛全体会员的支持和贡献，感谢所有文明玩家对我们的热心关注！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

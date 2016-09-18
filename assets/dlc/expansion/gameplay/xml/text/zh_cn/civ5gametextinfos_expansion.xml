@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT">
+			<Text>选择长计历奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_LONG_COUNT_TT">
+			<Text>你可以选择一项奖励以庆祝这个玛雅长计历周期“伯克盾”的结束！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON">
+			<Text>选择信仰催生的伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FAITH_GREAT_PERSON_TT">
+			<Text>当前积累的信仰点数使你可以额外选择一位伟人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SELECTED_EARLIER_BAKTUN">
+			<Text>此项奖励在第{1_Num}长计历周期结束时已经选择过了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAYA_CALENDAR_LONG_STRING">
+			<Text> {1_Num}伯克盾.{2_Num}卡盾.{3_Num}年.{4_Num}月.{5_Num}日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAYA_DATE_TOOLTIP">
+			<Text>我们的科学家和神学家们已经创立了神奇的玛雅历法。当这个“伯克盾”结束时，你将可以额外选择一位伟人以作为庆典的一部分。[NEWLINE][NEWLINE]当前玛雅长计历日期为:[NEWLINE]{1_LongMayaCalendarString}[NEWLINE][NEWLINE](即公历的{2_TraditionalDateString})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_MERCHANT_FROM_FAITH">
+			<Text>你必须开启商业政策才能选择大商业家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_SCIENTIST_FROM_FAITH">
+			<Text>你必须开启理性政策才能选择大科学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ARTIST_FROM_FAITH">
+			<Text>你必须开启自由政策才能选择大艺术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_GENERAL_FROM_FAITH">
+			<Text>你必须开启独裁政策才能选择陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
+			<Text>你必须开启独裁政策才能选择海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
+			<Text>你必须开启秩序政策才能选择大工程师。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_PROPHET_FROM_FAITH">
+			<Text>你必须创立一个宗教才能选择大先知。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION">
+			<Text>禁用宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_RELIGION_HELP">
+			<Text>禁用宗教系统。不能积累信仰点数，不能创立神系和宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_PUPPET">
+			<Text>[NEWLINE][ICON_BULLET]傀儡影响: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_BELIEF">
+			<Text>[NEWLINE][ICON_BULLET]宗教影响: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
+			<Text>你从{@3_CityName}掠取了{1_Num}[ICON_GOLD]及{2_Num}[ICON_CULTURE]!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CULTURE_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FAITH_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FAITH">
+			<Text>[ICON_PEACE]信仰: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_HELP_INFO">
+			<Text>[ICON_PEACE]信仰可用于创立和加强[COLOR_POSITIVE_TEXT]宗教[ENDCOLOR]，还可以用于购买传教士、宗教裁判官和宗教建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_RELIGION">
+			<Text>{1_Num}[ICON_CULTURE]来自宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_BUILDINGS">
+			<Text>{1_Num}[ICON_PEACE]来自建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_TERRAIN">
+			<Text>{1_Num}[ICON_PEACE]来自地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_POLICIES">
+			<Text>{1_Num}[ICON_PEACE]来自政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_TRAITS">
+			<Text>{1_Num}[ICON_PEACE]来自领袖特质</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_RELIGION">
+			<Text>{1_Num}[ICON_PEACE]来自宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_FAVORED_RELIGION">
+			<Text>{2_Num}市民: {1_ReligionString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_HOLY_CITY">
+			<Text> (圣城)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_RELIGION_SPREADING">
+			<Text>(正向邻近城市传播)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_OTHER_FOLLOWERS">
+			<Text>{1_Num}市民: 其他宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ATHEISTS">
+			<Text>{1_Num}市民: 无宗教信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NO_RELIGION">
+			<Text>该城市无信教人群。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_FAITH">
+			<Text>[NEWLINE]没有足够的[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_GIFT_TILE_IMPROVEMENT">
+			<Text>{1_NumGold}[ICON_GOLD]金钱 - 增加资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_BULLY_GOLD_AMOUNT">
+			<Text>获得{1_NumGold}[ICON_GOLD]金钱 - 消耗{2_NumInfluence}[ICON_INFLUENCE]影响力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_BULLY_UNIT_AMOUNT">
+			<Text>役使{@1_Unit} - 消耗{2_NumInfluence}[ICON_INFLUENCE]影响力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_ESPIONAGE">
+			<Text>禁用谍报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_ESPIONAGE_HELP">
+			<Text>禁用谍报系统。不能使用间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING">
+			<Text>允许在其他文明的首都建立使馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_DEFENSIVE_EMBARK_STRING">
+			<Text>海运的单位防御战斗力加倍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HITPOINTS">
+			<Text>[ICON_STRENGTH]生命点: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB">
+			<Text>[COLOR_NEGATIVE_TEXT]你用陆军统帅夺取了对方的领土！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNITED_NATIONS_VOTE_NOT_SELF_ALT">
+			<Text>(不能投票给自己)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CIV_ALT">
+			<Text>{@1_VotingCivName}投票给{@2_RecipientCivName}，因为他们与该国关系最好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_VOTE_TT_CITYSTATE_ALT">
+			<Text>{@1_MinorCivName}投票给{@2_RecipientCivName}，因为{@2_RecipientCivName}是他们的解放者或是盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_PRELIMINARY_ALT">
+			<Text>这个初步投票结果显示哪一个大国最受联合国成员的欢迎。各成员不能投票给自己。从下次投票开始将可以赢取外交胜利。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

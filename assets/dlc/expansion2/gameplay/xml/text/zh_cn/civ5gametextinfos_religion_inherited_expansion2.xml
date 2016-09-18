@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- RELIGIONS -->
+		<Row Tag="TXT_KEY_RELIGION_PANTHEON">
+			<Text>旧神信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BUDDHISM">
+			<Text>佛教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CONFUCIANISM">
+			<Text>儒学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHRISTIANITY">
+			<Text>基督教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HINDUISM">
+			<Text>印度教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ISLAM">
+			<Text>伊斯兰教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JUDAISM">
+			<Text>犹太教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHINTO">
+			<Text>神道教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SIKHISM">
+			<Text>锡克教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TAOISM">
+			<Text>道教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TENGRIISM">
+			<Text>腾格里教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZOROASTRIANISM">
+			<Text>祆教</Text>
+		</Row>
+		<!-- BELIEF NAMES -->
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT_SHORT">
+			<Text>狩猎女神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES_SHORT">
+			<Text>丰产仪式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN_SHORT">
+			<Text>工匠之神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA_SHORT">
+			<Text>海神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY_SHORT">
+			<Text>苍天之神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSENGER_GODS_SHORT">
+			<Text>神使</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE_SHORT">
+			<Text>天人合一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD_SHORT">
+			<Text>哺育世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORMAL_LITURGY_SHORT">
+			<Text>宗教偶像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES_SHORT">
+			<Text>石圈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR_SHORT">
+			<Text>战神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES_SHORT">
+			<Text>化剑为犁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_ANIMALS_SHORT">
+			<Text>神圣动物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HARVEST_FESTIVAL_SHORT">
+			<Text>丰收庆典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS_SHORT">
+			<Text>神圣水域</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE_SHORT">
+			<Text>爱神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS_SHORT">
+			<Text>宗教移民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS_SHORT">
+			<Text>节庆女神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION_SHORT">
+			<Text>口头传说</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP_SHORT">
+			<Text>祖先崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE_SHORT">
+			<Text>沙漠神话</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH_SHORT">
+			<Text>神圣道路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY_SHORT">
+			<Text>守护女神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS_SHORT">
+			<Text>灵魂医者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS_SHORT">
+			<Text>神灵之碑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT">
+			<Text>宗教文本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIQUARY_SHORT">
+			<Text>宗教圣物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT">
+			<Text>热爱和平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS_SHORT">
+			<Text>繁荣艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL_SHORT">
+			<Text>葬礼仪式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_PROPERTY_SHORT">
+			<Text>教会财产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE_SHORT">
+			<Text>什一税</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INITIATION_RITES_SHORT">
+			<Text>入会仪式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_JUST_WAR_SHORT">
+			<Text>正义之战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH_SHORT">
+			<Text>信仰守护者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT">
+			<Text>巡回宣教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSIAH_SHORT">
+			<Text>弥赛亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MISSIONARY_ZEAL_SHORT">
+			<Text>传教热情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDER_SHORT">
+			<Text>神圣修会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_UNITY_SHORT">
+			<Text>宗教统一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS_SHORT">
+			<Text>大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MOSQUES_SHORT">
+			<Text>清真寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAGODAS_SHORT">
+			<Text>佛塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONASTERIES_SHORT">
+			<Text>修道院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_GARDENS_SHORT">
+			<Text>平安园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC_SHORT">
+			<Text>合唱音乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT">
+			<Text>宗教艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA_SHORT">
+			<Text>礼仪戏剧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ASCETISM_SHORT">
+			<Text>禁欲主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER_SHORT">
+			<Text>宗教中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY_SHORT">
+			<Text>至高教皇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA_SHORT">
+			<Text>极光之舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH_SHORT">
+			<Text>世界教会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIMAGE_SHORT">
+			<Text>朝圣制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE_SHORT">
+			<Text>信仰对话</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_WARRIORS_SHORT">
+			<Text>神圣战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY_SHORT">
+			<Text>宗教社团</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DIVINE_INSPIRATION_SHORT">
+			<Text>神圣启示</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP_SHORT">
+			<Text>信仰宗师</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

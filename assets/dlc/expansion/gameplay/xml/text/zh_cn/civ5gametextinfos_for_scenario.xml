@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>剧情描述[NEWLINE]公元4世纪，罗马帝国已经分裂为东西两部分，对西方世界近千年的统治已经难以为为继。日耳曼蛮族的首领们横扫帝国的边界，建立起自己的王国。与此同时一场巨大的风暴正从东北方袭来——阿提拉率领着匈人大军开始了压垮一切的掠夺和征服。选择你的阵营，鼓起你的勇气，为下一个千年的历史走向而奋战吧。[NEWLINE][NEWLINE]胜利条件[NEWLINE]对胜利争夺的围绕着三大帝国的城市控制权：西罗马、东罗马和萨珊波斯。各个帝国每回合将通过控制帝国都市获得胜利点（萨珊波斯获得的胜利点加倍）。蛮族势力通过占领上述帝国的城市来获得胜利点。70回合后获得最多胜利点的一方将赢得胜利。[NEWLINE][NEWLINE]特殊规则[NEWLINE]蛮族势力不需要支出单位维护费。东西罗马帝国不能变卖建筑。本剧情中有三个社会政策分支，第一个只有东西罗马帝国可以启用，第二个只有萨珊波斯可以启用，第三个只有蛮族势力可以启用。罗马政策分支的效果是反向的——选择政策将获得惩罚而非奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TITLE">
+			<Text>罗马的衰亡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_DESC">
+			<Text>作为罗马皇帝抵御蛮族的攻击，或是作为蛮族领袖摧毁罗马建立新的王国！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_ROME_TEXT_1">
+			<Text>经过数十年的边境战争和经济危机，公元293年，戴克里先皇帝为罗马帝国建立了新的政体。他创立了双主皇帝制度，任命马克西米安为帝国西部主皇帝。戴克里先和马克西米安退位之后，君士坦丁大帝于公元330年迁都君士坦丁堡（原名拜占庭）并称其为“新罗马”。狄奥多西一世是最后一位统治统一的罗马帝国的君主，在他于395年去世前把帝国平分给了他的两个儿子：阿卡狄乌斯统治东部，霍诺留统治西部。[NEWLINE][NEWLINE]与东帝国相比，西帝国人口较少，文化和政治的地区差异较大，同蛮族的边境战争导致的沉重税负拖垮了国家的经济。公元402年西帝国将行政首都迁至拉文纳，但罗马仍保持着作为经济文化中心的地位。公元4世纪之前西罗马的军力主要集中于北部高卢地区及莱茵河沿线，此后逐渐收缩以确保意大利半岛的安全，这导致更多的叛乱和内战在不列颠、高卢、北非和日耳曼地区爆发。[NEWLINE][NEWLINE]在霍诺留之后不停的篡位者和平庸君主的循环中，中央权力逐渐萎缩并逐步丧失了对各个省区的控制。在伊比利亚和高卢地区，由于哥特和汪达尔人这样的蛮族部落的迁入，导致了这里罗马的行政体系的崩塌，并产生了新的羁縻形式的王国。随着汪达尔人占领北非，西罗马帝国丧失了对西地中海的控制，不仅加速了贸易的衰退，更严重影响了意大利的谷物供应。同时，444到453年，匈人统一在了阿提拉的领导下，迅速入侵了西罗马并造成了严重破坏。[NEWLINE][NEWLINE]接下来的20年，罗马遭受了一系列内战内乱，并在476年日耳曼裔的罗马将军奧多亚塞废黜最后一位西罗马皇帝罗慕洛时到达了巅峰。尽管东罗马皇帝芝诺授予了奥多亚赛“意大利国王”的称号，拜占庭又帮助东哥特人在489年入侵罗马。493年3月，东哥特人首领狄奥多里克攻入了罗马，并在宴会时将奥多亚赛杀害，西罗马正式灭亡。即使6世纪时拜占庭一度光复西罗马旧地，罗马帝国再也无法回到往日的荣光。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_NAME">
+			<Text>霍诺留</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_SUBTITLE">
+			<Text>西罗马帝国皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_LIVED">
+			<Text>384-423</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_HONORIUS_TEXT_1">
+			<Text>霍诺留（384-423）是罗马皇帝狄奥多西一世的次子。狄奥多西于公元395年去世之前将帝国一分为二，阿卡狄乌斯统治东部，霍诺留统治西部。霍诺留上台后局势十分动荡，在大将斯提利科（后来成为他的岳父）的辅佐下才略为稳定下来。霍诺留的统治被后人视为西罗马帝国衰落的开始，不到一个世纪后西罗马即告彻底灭亡。[NEWLINE][NEWLINE]霍诺留统治下的西罗马帝国不断遭受蛮族的入侵或内部叛乱——高卢、伊比利亚、北非甚至意大利半岛。第一场危机是发生于北非持续两年的叛乱，最终被斯提利科平定下去。随后亚拉里克一世领导的西哥特人大举入侵意大利半岛。斯提利科从不列颠调回多支军团，于406年将其击败。在同一年多个东哥特人、阿兰人和汪达尔人部族又越过封冻的莱茵河进入高卢。为此斯提利科于410年完全放弃不列颠，集中兵力沿莱茵河设防。与此同时，西哥特人再次入侵，于410年攻陷罗马并大肆劫掠后离去（霍诺留在此之前已迁都拉文纳）。[NEWLINE][NEWLINE]在统治后期，霍诺留被迫将大片土地转让给各个蛮族首领。418年签订的一份条约允许西哥特人在高卢南部建立一个王国，此后该王国进一步扩张到了伊比利亚。高卢北部则建立了一个法兰克王国，名义上从属于霍诺留的统治，实际上的君主则是萨利安法兰克人的首领克洛迪奥。到霍诺留去世时，西罗马的大片领土已经被蛮族控制，形成了中世纪不列颠、法兰西和西班牙诸王国的前身。不过霍诺留毕竟还保有帝国的核心领地。霍诺留于423年8月死于浮肿病，没有留下子嗣。之后东罗马皇帝狄奥多西二世指定他的表亲瓦伦提尼安三世为新的西罗马皇帝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_BYZANTIUM_TEXT_1">
+			<Text>公元293年截克里先皇帝为迟暮的罗马帝国建立了新的政体——双主皇帝制度。他设立了一名“共治奥古斯都”马克西米安负责管理帝国的西部。戴克里先和马克西米安退位之后，君士坦丁一世正式将罗马领土划分为东西两部分，并于公元330年迁都君士坦丁堡（原名拜占庭）并称其为“新罗马”。“两个罗马原则”逐渐深入人心，以至于狄奥多西一世在他于395年去世前把帝国平分给了他的两个儿子：阿卡狄乌斯统治东部，霍诺留统治西部。狄奥多西一世成为最后一位统治统一的罗马帝国的君主。[NEWLINE][NEWLINE]东罗马帝国（学术上经常被称为拜占庭帝国）包括了巴尔干半岛南部，安纳托利亚和埃及全境及黎凡特大部。东罗马帝国由于更稳定的政权更迭，成型的都市文化，丰富的财政收入，比之在3到4世纪困扰西罗马的战争和各种剧变要少许多。其中丰厚的收入让拜占庭君主们得以通过进贡与蛮族入侵者媾和以及雇用大量雇佣兵[NEWLINE][NEWLINE]广泛的贸易带来的财富和技术让狄奥多西二世能够在三世纪头十年加固君士坦丁堡的城墙使其固若金汤（直到1204年城墙才首次被破坏）。狄奥多西还用财富收买阿提拉，让他转而向西进军。狄奥多西的继任者马尔基安拒绝向匈人支付过高的岁币，匈人的帝国也在453年阿提拉死后分崩离析。后来还有许多续存的匈人作为拜占庭的雇佣兵参与了对萨珊王朝和阿拉伯人的战争。[NEWLINE][NEWLINE]在阿提拉死后，东罗马帝国享受了一段长时间的和平与发展，西罗马帝国却在外部入侵和内部混乱中崩溃了。普遍认为西罗马灭亡的时间是在476年奥多亚赛废黜了罗慕路斯·奥古斯都。拜占庭皇帝芝诺雇用了狄奥多里克领导下的东哥特人，重新收复了西罗马。狄奥多里克带着他的军队进入了意大利废黜了奥多亚赛，建立了自己的国家。芝诺驱使东哥特人占领意大利和罗马，与狄奥多里克保持了良好的关系，不但解决了威胁帝国东部的大患，还获得了名义上了对西罗马的无上权威。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_PERSIA_TEXT_1">
+			<Text>前伊斯兰时代波斯的最后一个王朝——萨珊王朝的统治从224年延续到651年，其创立者是阿尔达希尔一世，全盛时期帝国疆域包括现在的伊朗、伊拉克、阿富汗、叙利亚、高加索诸国全境，以及阿拉伯半岛、巴基斯坦、波斯湾、土耳其的部分地区。巴赫拉姆五世（421-438）及其继任者统治时期是萨珊王朝的第一次黄金时代，它与罗马和拜占庭进行对抗并对它们施加影响。在遭受了阿拉伯人的一系列入侵后，帝国最后在伊嗣俟三世统治时期覆亡。[NEWLINE][NEWLINE]盛世神话和充满冲突的历史进程掩盖了帕提亚帝国的 没落和萨珊王朝的崛起。 萨珊的统治似乎始于波西斯地区的首府——伊什塔克尔城，在被认为是祭司世家的后裔阿尔达希尔总督的统治下。在 已经衰弱的帕提亚统治下，残酷的阿尔达希尔铲除包括他兄弟在内的所有竞争对手，自立为萨珊国王——众王之王，武力镇压周边省份的叛乱。其子沙普尔一世继续版图扩张，统治亚美尼亚、巴克特里亚及大部分贵霜帝国初期的土地，甚至发动对罗马的一系列战争。[NEWLINE][NEWLINE]从沙普尔一世死后到巴赫拉姆五世这段时间里，虽然对东罗马的一系列无果的战争阻碍了萨珊帝国西进之路，但也逐渐地向东方和南方进行扩张。追求和平的巴赫拉姆五世开创了文学、音乐和体育的黄金时代。尽管如此，在他死后的世纪里，他的继承人们不得不在整个在位时期抵抗蛮族、拜占庭和阿拉伯的入侵和治下省份的起义。[NEWLINE][NEWLINE]萨珊第二个黄金时期始于卡瓦德一世（488-531年在位)。 但是对拜占庭不停的战争耗尽了国库和削弱了萨珊帝国在西部省份的统治。不过萨珊的军队一度占领了耶路撒冷（614年）、亚历山大（619年）并在621年占领埃及全境。然而迅速的扩张过度分散了军事力量，分散而变得不满的平民和虔诚的宗教氛围强烈地吸引着穆斯林们移居到南方。到三十年后的公元651年，萨珊帝国被阿拔斯王朝取代而不复存在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_NAME">
+			<Text>巴赫拉姆五世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_SUBTITLE">
+			<Text>萨珊波斯国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_LIVED">
+			<Text>421-438</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_BAHRAM_TEXT_1">
+			<Text>巴赫拉姆是萨珊王朝第14任国王（公元421-438年），在他的父亲伊嗣侯一世暴亡（另一说为暗杀）之后继承了王位。巴赫拉姆一上台就在全国范围有计划地推行迫害基督徒的政策，这使得他很快就跟东罗马帝国走向了战争。几场非决定性的战役之后，波斯人与罗马人于422年签署的跳跃宣告两国维持现状。不过，不久之后（公元428年），巴赫拉姆又不顾当地基督教长老伊萨克的抗议，吞并了亚美尼亚，再一次使拜占庭和萨珊之间的关系紧张了起来。[NEWLINE][NEWLINE]尽管时有摩擦和冲突，与东罗马的和平还是持续了数年，给了巴赫拉姆纵情声色的机会——还碰巧给波斯带来了又一个黄金时代。他重现了皇室的辉煌，并以打猎，皇家聚会和女色为乐。在他的赞助之下，一些伟大的萨珊音乐和文学，如《阿尔达希尔·帕帕克的业绩》，被创作了出来。诸如马球这样的运动成为了皇室的消遣，他在战争，打猎和爱情上的经历则成为了神话和传奇，这些经历甚至出现在了如欧玛尔·海亚姆的鲁拜集（四行诗第17首）这样知名的流行故事集之中。[NEWLINE][NEWLINE]巴赫拉姆最后一次出现在政治舞台上是在他与匈人的冲突中。匈人的游牧部落从东北方向入侵，并在北伊朗地区大肆劫掠。他们穿过呼罗珊，最远到达了到了雷伊。由于未作战争准备，巴赫拉姆向匈人提议和平，此提议被匈人所接受。但当巴赫拉姆聚集起他的军队之后，他连夜穿过塔巴里斯坦省，在匈人未察觉的情况下突袭了他们的营地并进行了大屠杀，并俘虏了首领的妻子。侥幸存活的匈人被追杀到了乌浒水（今阿姆河）一带。尽管巴赫拉姆已经重病缠身，但是他的一位将军依然向着北方的游牧部落挺进并屠杀他们，并由此结束了匈人对萨珊的威胁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_NAME">
+			<Text>盖萨里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_SUBTITLE">
+			<Text>汪达尔国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_LIVED">
+			<Text>389-477</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_GENSERIC_TEXT_1">
+			<Text>盖萨里克生于公元389年，在其异母兄长贡德里克于428年死后成为了汪达尔人国王。当他们被西哥特人包围时，盖萨里克果断决定率领他的族人离开伊比利亚进入人口较少的非洲沿海。在迅速组建了一支舰队以后，429年，包括战士和妇孺的8万汪达尔人跨越海峡进入了罗马统治性的北非。[NEWLINE][NEWLINE]汪达尔人利用罗马人的内讧，迅速打败了军心涣散了罗马部队。几个月内，他们征服了现今摩洛哥和阿尔及利亚地方，罗马皇帝瓦伦提尼安三世与其签订了和平协议并承认了盖萨里克对该地区的统御权。然而，盖萨里克野心勃勃，439年，他撕毁了和平协定，入侵了罗马治下的迦太基。迦太基城被庞大的舰队兵不血刃地攻占。凭借着相当于罗马和拜占庭海军规模总和的舰队，汪达尔人突袭了罗马的商路和海岸线，封锁了包括西西里的西地中海各岛屿。[NEWLINE][NEWLINE]在成为一个辽阔王国的主宰之后，盖萨里克将他的精力放到了制定法律和保障通往东罗马的商路上，为此他让儿子迎娶了瓦伦提尼安的女儿。但是445年瓦伦提尼安三世被暗杀了，盖萨里克认为这意味着之前的协议被废弃，于是登陆了意大利，扫除了一些妄图挑战他的弱小势力，进入了罗马城。教皇利奥一世恳求他不要摧毁这座城市，盖萨里克虽然最后撤兵了，但他的士兵早已将罗马洗劫一空。[NEWLINE][NEWLINE]468年，昔日罗马帝国的东西两部分最后一次合作对付盖萨里克。面对重重困难，盖萨里克在卡本半岛战胜了数量占优的拜占庭舰队，汪达尔人乘胜入侵希腊，却惨败而归。盖萨里克与拜占庭在474年签署了和平协议,并于477年在自己的宫殿里平静地去世。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_FRANCE_TEXT_1">
+			<Text>法兰克人是日耳曼部落脆弱的联盟中的一支，定居在罗马在日耳曼尼亚的边界，沿着莱茵河下游右岸的一片狭长区域中。公元三世纪，一些法兰克人袭击了罗马沿着莱茵河的边境，同时另一部分人迁移到了帝国境内，在高卢定居。这导致了法兰克人分裂为里普利安法兰克人（前者）和萨利安法兰克人（后者）两个部族。[NEWLINE][NEWLINE]里普利安法兰克人更倾向定居生活，他们建设了小定居点和房屋，沿着莱茵河左岸居住，通过渔猎及偶尔打劫罗马人维生。即使这样，他们已是罗马的邻居中，最和平的族群了。310年，罗马皇帝君士坦丁在莱茵河上架设了一座桥梁，以促进与里普利安人的贸易。里普利安人在罗马人的促进下加速了社会整合，并越来越多地为帝国提供保护，作为帝国与东方好战部落的缓冲带。里普利安法兰克人最后一位首领跛子西格伯特加入了克洛维一世的联军。克洛维一世率领了法兰克诸部与阿勒曼尼人对抗，并重新统一了法兰克诸部落。[NEWLINE][NEWLINE]在同一时间，萨利安法兰克人正被来自北方的蛮族攻击而离开了原来的家园，迁移到了罗马境内的托克萨德里亚（今安特卫普一带）。这个“无礼”的定居被皇帝叛教者尤里安所拒绝并攻击他们。公元358年，萨利安人向罗马人投降以换取公民资格。五世纪20年代里，通过霍诺留皇帝的资助，萨利安法兰克人在克洛迪奥的带领下积累了相当多的财富。萨利安人证明了他们是罗马人忠实的朋友。451年,埃提乌斯号召他的日耳曼人盟友一起对抗阿提拉为首的匈人的入侵。萨利安人与罗马人在沙隆战役中共同作战，有效地阻挡了匈人对西欧的威胁。作为回报，罗马人允许萨利安人的势力继续扩张。486年，克洛维统治了一个罗马人和日耳曼人构成的国王。他统合了法兰克人，击败了西哥特和阿勒曼尼人。克洛维将他帝国的首都定在巴黎，奠定了法国的起源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_NAME">
+			<Text>克洛吉奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_SUBTITLE">
+			<Text>萨利安法兰克国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_LIVED">
+			<Text>392-448</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_CHLODIO_TEXT_1">
+			<Text>克洛吉奥从公元441年直到去世都是萨利安法兰克人的国王——更准确的说是部落首领。他被部分历史学家认为是法兰西的前身—莫洛温王朝的创建者。克洛吉奥凭借在杜伊斯堡的要塞，控制了现今泰鲁阿讷一带地区，他开始考虑带领他的人民通过迁移远离日益从东方来的日耳曼移民部落的威胁，后者正被更先进的匈人驱逐出他们的定居点。[NEWLINE][NEWLINE]428年，罗马削减了的萨利安人的领地，克洛吉奥奋起反抗，在康布雷击败了一支罗马军队，将他的家族和臣属安置在了高卢北部。431年，他将领土向南扩展到索姆河。到了432年，萨利安人形成了一个罗马帝国下的半独立的王国，定都在图尔奈。[NEWLINE][NEWLINE]萨利安人的扩张一直持续到448年，克洛吉奥被一支埃提乌斯所属的高卢军队击败。最终签署的和平协议承认了他的家族在这片地区的统治，条件是法兰克人必须永远为罗马提供支援。几年后，萨利安法兰克人在其子尔德里克的带领下参与了埃提乌斯阻止匈人西进的战争。他的孙子克洛维最终统一了法兰克人部落，击败了阿里曼尼人（496年）和西哥特（507年），建立了横跨高卢的法兰克王国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_GERMANY_TEXT_1">
+			<Text>哥特人是一个起源于斯堪的纳维亚的东欧部落，分为东哥特和西哥特两支。哥特人在罗马衰亡的历程中扮演了重要角色。尽管西哥特人和东哥特人有着相同的语言，习俗和信仰，双方分别有不同的发展历程并都建立过中世纪王国。[NEWLINE][NEWLINE]西哥特人定居在达西亚，与罗马一直和平相处到376年。当时他们的首领向拜占庭皇帝瓦伦斯要求移居到多瑙河南岸以躲避匈人。协议持续到395年，同年亚拉里克一世登上了王位。408年，罗马军队屠杀了大约3万人蛮族佣兵的家属。亚拉里克在拜占庭的支持下，借机迅速向罗马宣战并入侵了意大利。在数次胜利和对罗马城三次围困后，410年8月，西哥特人攻占了罗马，将其洗劫一空，亚拉里克在意大利建立了一个西哥特王国。在接下去一个世纪里，西哥特人稳步扩张他们的领土，最终控制了高卢南部及整个伊比利亚。西哥特人定都于图卢兹，将汪达尔人赶出了伊比利亚，但也失去了意大利。507年，克洛维领导下的法兰克人在武耶战役中决定性地击败了西哥特人，从他们手中抢过了高卢的控制权。这是西哥特人由盛转衰的转折点。西哥特最后一任君主罗德里克，在711年死于倭马亚王朝征服伊比利亚的战斗中。[NEWLINE][NEWLINE]东哥特的历史就相对不那么复杂。在向南迁移后他们在多瑙河与第聂伯河之间建立了一个地广人稀的王国。这是个多民族的国家，由哥特贵族实行统治，包括了萨尔玛提亚人，格皮德人，达西亚人及较小的凯尔特人和斯拉夫人部落。匈人的崛起压迫了这个多民族国家，他们最终接受了匈人的统治，加入了匈人的军队。东哥特人在451年沙隆战役时，从属于阿提拉的统辖。但在阿提拉死后第三年，东哥特人在狄奥德米尔的领导下发起了叛乱削弱了匈人的力量。狄奥多里克大帝在454年诞生。471年，他成为了东哥特国王，在他统治的20年里，东哥特人占有了意大利全境与巴尔干半岛大部。但是在他死后东哥特人的脆弱统治立即出现破裂。拜占庭对东哥特的攻击迫使首领托提拉放弃了罗马。553年，在拉克塔里山战役中，托提拉仅存的支持者们或战死，或被俘，或被处死。剩余的东哥特人败退到奥地利定居,最终消失在历史舞台上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_NAME">
+			<Text>亚拉里克一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_SUBTITLE">
+			<Text>东哥特国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_LIVED">
+			<Text>370-410</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_LEADER_ALARIC_TEXT_1">
+			<Text>面对匈人的推进，西哥特人逃进拜占庭帝国，他们为了获得罗马地区的定居权而成为拜占庭帝国的仆从军。年轻的亚拉里克的加入了这个军团。在394年，他带领一支哥特军队协助帝国击败了叛乱的阿博加斯特。次年，亚拉里克被推选为西哥特人的首领。[NEWLINE][NEWLINE]同年，拜占庭帝国皇帝和亚拉里克的资助者，狄奥多西去世了。尽管他效忠于帝国并且是西哥特人的国王，但在随后的宫廷变动中亚拉里克还是被忽视并抛弃。于是在狄奥多西去世后不久，亚拉里克就攻打了东罗马。公元394年，他在劫掠了希腊之后，兵临君士坦丁堡城下。于是皇帝只好任命亚拉里克为拥有军事自主权的大元帅。[NEWLINE][NEWLINE]在公元407年，帝国一分为二，即将陷入内战的时候，亚拉里克率领西哥特军队越过了尤利亚山，来到罗马城外。由于饥荒，罗马罗马元老院最后只能妥协。亚拉里克的军队一直停留在这个地区，当元老院违背了之前的协议时，他再次出兵包围了罗马。在这次攻城战之后，亚拉里克在409年与元老院签署了另一份协议。通过这份协议，他在罗马扶植起了一个傀儡皇帝。然后西哥特人向北方进军。[NEWLINE][NEWLINE]但没过多久，亚拉里克就不得不回来废黜了傀儡皇帝并宣称自己是意大利之王。在410年8月，西哥特人通过萨拉里亚城门攻入了城市。亚拉里克对罗马人民显示了难得的仁慈：没有洗劫基督教堂，并保护了在教堂中避难的上千名基督徒和异教徒。然后，亚拉里克向南进军卡拉布利亚，准备进攻非洲以夺回那里的罗马行省。但是他暴毙于科森扎港口，死因可能是热病。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_CIV_SONGHAI_TEXT_1">
+			<Text>汪达尔是东日耳曼部落的一支，他们的家乡在斯堪的纳维亚。在公元前2世纪的某个时段，汪达尔人渡过波罗的海进入了波兰。公元406年的时候，汪达尔人到达了莱茵河。他们试图渡过莱茵河，却遭到了在北高卢罗马化地区定居的法兰克人的顽强抵抗。汪达尔人在取得了对法兰克军队的决定性胜利之后，继续向南一路掠夺前进。在洗掠了法兰克和罗马城市之后，他们于公元409年到达并翻过了比利牛斯山脉，进入了伊比利亚地区。[NEWLINE][NEWLINE]迫于此地西哥特人的压力，盖萨里克带领汪达尔人于429年跨过了海峡到达了北非。盖萨里克在435年与罗马签订的条约中获得了努米底亚行省，从而建立了汪达尔王国。盖萨里克在439年撕毁了条约并控制了迦太基以及此地区的众多的船厂和舰队。在接下来的十年中，通过对罗马和拜占庭无情的海盗掠夺，汪达尔人轻松占领了撒丁岛、西西里岛、科西嘉岛以及巴利阿里群岛。[NEWLINE][NEWLINE]阿提拉去世之后，罗马皇帝通过自己女儿和盖萨里克儿子的婚事停止了汪达尔人的入侵，并试图以此契机收复失地。然而由于一系列令人费解的事件和双方的不信任，皇帝的努力以失败告终，汪达尔于455年在意大利登陆并最终占领了罗马。[NEWLINE][NEWLINE]洗掠罗马城标志着汪达尔国力的巅峰。盖萨里克在477年的死、宗教矛盾、旧罗马省份叛乱以及缺乏贸易导致汪达尔王国渐渐衰败。在最终决战中，拜占庭帝国在贝利撒留的率领下大败了汪达尔军队，杀死了汪达尔将军查宗并占领了汪达尔的大部分城市。汪达尔最后的国王盖利摩于公元534年向罗马征服者投降，献出迦太基，汪达尔国王自此灭亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT_SHORT">
+			<Text>王室血统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRANK_TRAIT">
+			<Text>单位在移动进入有丘陵的地格时无视地形移动力消耗，在河边移动速度加快。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS_SHORT">
+			<Text>高墙坚垒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_THEODOSIAN_WALLS">
+			<Text>堡垒2格以内的单位+10%[ICON_STRENGTH]战斗力。陆军统帅产生速率增加50%并且增加10%战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST_SHORT">
+			<Text>掠夺补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BURNING_UNREST">
+			<Text>战斗单位在劫掠非道路地块设施后会完全恢复生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT_SHORT">
+			<Text>招募蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_BARBARIAN_RECRUITMENT">
+			<Text>西罗马帝国罗马军团会将击败的敌方单位招募到自己一方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES_SHORT">
+			<Text>海盗大军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRAIT_MEDITERRANEAN_PIRATES">
+			<Text>海军单位会将击败的敌方战船招募到自己一方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD_SHORT">
+			<Text>上帝之鞭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_SCOURGE_OF_GOD">
+			<Text>所有陆军战斗单位+2[ICON_MOVES]移动力。开局拥有“上帝之鞭”阿提拉单位。第一次攻陷城市后奖励2个攻城锤。所有牧场+2[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS_SHORT">
+			<Text>蓝面义军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TRAIT_CELTS">
+			<Text>在与比自己城市多的文明作战时，获得战斗力加成（+50%）。境内的森林地格看做道路使用。海运单位+1[ICON_MOVES]移动力，从海格移动到陆地花费1点移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLIBANARII_TEXT">
+			<Text>重骑兵是萨珊帝国对应拜占庭帝国甲胄骑兵的兵种，他们装备着比甲胄骑兵更重型的装甲。重骑兵的骑手和战马都全面受到铁甲的保护，在战斗中用于撕开对方步兵和弓箭手的阵型。相对于在东面和背面与蛮族作战，重骑兵主要装备于萨珊帝国的西方部队，在拜占庭帝国的大规模决战中使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII_STRATEGY">
+			<Text>重骑兵是萨珊文明的特色单位，取代骑手。重骑兵在战斗力、防御以及攻城效率方面都强于骑手，不过移动速度要满的多。作为骑乘单位，重骑兵被矛兵、长枪兵等单位克制。自带闪击战术晋升，可以一回合攻击两次，而且和其他骑乘单位类似，可以攻击后移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CLIBANARII_HELP">
+			<Text>快速并且强大的骑乘单位，只有萨珊文明才能建造。取代骑手，[ICON_STRENGTH]战斗力、防御力和对城市攻击效率都比骑手高，自带闪击战术晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_FRANK_SEAXMAN_TEXT">
+			<Text>撒克逊短刀是一种长匕首或者是有缺口的短弯剑，它受到很多凯尔特和法兰克战士的青睐。撒克逊短刀既可以用作工具，也可当做武器使用，在近距离肉搏战中效果显著。在蛮族大移民的几个世纪中，撒克逊短刀也出现过很多变种，包括窄撒克逊短刀（schmalsax）和宽撒克逊短刀（breitsax），以及后两种各自的加长和缩短版本。在英雄史诗《贝奥武夫》中，英雄就是用撒克逊短刀斩去的巨龙的脑袋，另外格兰戴尔的母亲和贝奥武夫战斗时用的也是这种短刀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRANK_SEAXMAN_STRATEGY">
+			<Text>刀兵是法兰克文明的特色单位，取代剑士。刀兵比普通剑士的战斗力要高一些，并且不需要铁。刀兵自带两栖作战晋升，可以海上登陆或跨河攻击时不受惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FRANK_SEAXMAN">
+			<Text>强大的前线陆军单位，只有法兰克文明才能建造。取代剑士，[ICON_STRENGTH]战斗力比剑士高，自带两栖作战晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_VANDAL_AXEMAN_TEXT">
+			<Text>尽管骚扰罗马的蛮族使用着各种各样的斧子类武器，汪达尔人更喜欢使用掷斧——把斧子像导弹一样扔向近处的敌人。汪达尔人使用的掷斧是法兰克人在3世纪发明的法兰克掷斧的一种变种，汪达尔人在掷出前会有一个抬手动作，这个动作会让掷斧在空中旋转以增加其命中率。掷斧比弓箭要重，比投枪要准，在汪达尔征服罗马迦太省的海战中发挥了巨大作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_AXEMAN_STRATEGY">
+			<Text>斧兵是汪达尔文明的特色单位，取代剑士。斧兵比普通剑士的战斗力要高一些，并且不需要铁。斧兵自带猛烈冲锋晋升，使得他们对于受伤单位有战斗加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VANDAL_AXEMAN">
+			<Text>强大的前线陆军单位，只有汪达尔文明才能建造。取代剑士，[ICON_STRENGTH]战斗力比剑士高，自带猛烈冲锋晋升，对于受伤单位有战斗加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_VANDAL_TRIHEMIOLLA_TEXT">
+			<Text>以希腊设计为基础的三列桨快船是汪达尔海军的主要战舰，重约40吨，每侧装有两排半的船桨。比三列桨战船有更快的速度和机动力，三列桨快船既可以进行撞击，也可以进行登船作战。三列桨快船主要用于劫掠商船和海岸城市。为了应对罗马和拜占庭战船上装载的投石器，三列桨快船的甲板一般被加固过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VANDAL_TRIHEMIOLLA_STRATEGY">
+			<Text>三列桨快船是汪达尔文明的特色海军单位，取代三列桨战船。三列桨快船只能在海岸格子上移动，战斗力比三列桨战船高，自带海上补给晋升（在领土外可以恢复生命力），可以俘获敌军舰船。三列桨快船和它的能力使得汪达尔海军成为地中海上不可忽视的力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VANDAL_TRIHEMIOLLA">
+			<Text>强大的海军单位，通过近战对城市和其它海军单位进行打击，称霸海洋。可以俘获敌对舰船。只有汪达尔文明才可以建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_GOTH_GADRAUHT_TEXT">
+			<Text>哥特部落没有常备军，战斗依赖于哥特战士和短期民兵。哥特战士一般的装备是长矛、投掷用短枪和盾牌，尽管有些战士能够装备剑和弓。这些无护甲部队在复杂地形上拥有着优势，因为这些地形上罗马人熟悉的阵型作战无法展开。哥特战士一般一百个人一队，是名副其实的“百人战士”，与部落部队并肩作战。不过他们并不可靠，在战争天平向敌人倾斜的时候，他们战至最后一人的几率和逃跑的几率相当。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOTH_GADRAUHT_STRATEGY">
+			<Text>哥特战士是的哥特文明的特色单位，取代剑士。哥特战士比普通剑士的战斗力要高一些，并且不需要铁。哥特战士可以使用敌人境内的道路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GOTH_GADRAUHT">
+			<Text>强大的前线陆军单位，只有哥特文明才能建造。取代剑士，[ICON_STRENGTH]战斗力比剑士高，可以可以使用敌人境内的道路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_HUN_SCOURGE_OF_GOD_TEXT">
+			<Text>“上帝之鞭”是阿提拉的绰号。这个单位代表战场上指挥战斗的阿提拉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUN_SCOURGE_OF_GOD_STRATEGY">
+			<Text>“上帝之鞭”是匈人文明的特色伟人，取代陆军统帅。“上帝之鞭”和普通陆军统帅提供相同的战斗力加成，不过移动速度更快，而且每回合可以额外回复相邻单位20生命值。这个加强型陆军统帅保证了他的骑兵单位能够永远处于最佳的战斗状态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HUN_SCOURGE_OF_GOD">
+			<Text>这个匈人特色伟人替代陆军统帅。“上帝之鞭”和普通陆军统帅提供相同的战斗力加成，不过移动速度更快而且每回合治疗相邻的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOR_CEILIDH_HALL_STRATEGY">
+			<Text>同乐会厅是古典时期凯尔特文明的特色建筑。这个建筑能够增加城市的[ICON_CULTURE]文化和[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOR_SATRAPS_COURT_STRATEGY">
+			<Text>总督府是波斯文明的特色建筑，能够增加城市的财富产出。不过，总督府还能提升文明的[ICON_HAPPINESS_1]快乐度。城市在建造总督府前必须先建造市场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEAD_HALL_TEXT">
+			<Text>在古代斯堪的纳维亚和日耳曼地区，蜜酒厅是一个巨大的单间建筑，一般作为酋长的宴会厅和部落的文化宗教中心来使用。蜜酒厅由酋长侍卫保护，在部落危机时也作为部落女人、孩子以及老人的最后的避难所使用。蜜酒厅由木材和石料建造，长约40到50米，用雕刻装饰，一般是整个城镇中最辉煌的建筑。从公元4世纪起，蜜酒厅一般会被强化加固，这是中世纪城堡的前身。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL_STRATEGY">
+			<Text>蜜酒厅能够增加2点[ICON_HAPPINESS_1]快乐和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEAD_HALL_HELP">
+			<Text>+2[ICON_HAPPINESS_1]快乐和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HOV_TEXT">
+			<Text>尽管祭祀场是个经常连屋顶都没有仅仅用栅栏围起来的地方，它是哥特部落中的重要建筑，是异教徒举行“抹杀”（blot，一种动物祭祀仪式）的场所。日耳曼的德鲁伊们大张旗鼓地举行抹杀仪式来祈求丰收、狩猎成功和战争胜利。祭祀方式一般是斩首，如阿加塞阿斯在哥特战争期间（公元535-554年）写到：“他们砍下马、牛羊和无视数不清的其它动物的头颅，想象着自己在做着虔诚的仪式”。如果部落受到了前所未有的重大危机，也存在德鲁伊们用俘虏与奴隶在祭祀场进行活人祭祀的情况。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV_STRATEGY">
+			<Text>祭祀场能够增加2点[ICON_HAPPINESS_1]快乐和1点[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HOV_HELP">
+			<Text>+1[ICON_HAPPINESS_1]快乐，+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_HELP_CELT_PICTISH_WARRIOR">
+			<Text>只有凯尔特文明才能组建这种单位。该单位在己方领土外战斗力更强同时劫掠敌方设施不需要消耗额外的行动力。该单位拥有+50%的夹击加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_UNIT_CELT_PICTISH_WARRIOR_STRATEGY">
+			<Text>皮克特战士是凯尔特人的特色单位。 皮克特战士很适合早期突袭，他们可以荒废对手的土地，在同一回合快速劫掠然后离开。特别擅长与友军配合作战，能获得+50%的夹击加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_TECH">
+			<Text>帝都控制</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_VP_FUTURE_TECH">
+			<Text>帝都占领</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_CANNOT_UNLOCK">
+			<Text>[COLOR_NEGATIVE_TEXT]在罗马的衰亡剧情中，你不能采用其他政策分支。[/ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]罗马衰落[ENDCOLOR]反应了罗马帝国逐渐黯淡的荣耀以及他的政策如何随着时间的推移而解开。[NEWLINE][NEWLINE]罗马帝国继承的罗马遗产，使得你拥有的与[ICON_CAPITAL]首都[ICON_CONNECTED]相连的城市提供+1[ICON_HAPPINESS_1]快乐，同时从你的[ICON_CITIZEN]市民未被俘虏的城市获得-5%[ICON_HAPPINESS_4]不满。[NEWLINE][NEWLINE]当蛮族占领你的城市时，你将获得20[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]萨珊遗产[ENDCOLOR]来自波斯万世绵延的辉煌而继续闪耀。萨珊王朝拥有一支人数众多的军队，较少的蛮族入侵者，同时希望结束与罗马长达几个世纪的战争。[NEWLINE][NEWLINE]实行萨珊政策分支里的所有政策后，未来的[ICON_CULTURE]文化将按3比1转换为[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]蛮族激情[ENDCOLOR]给予出征将士们为他们自己强抢豪夺属于罗马巨大荣耀的梦想。[NEWLINE][NEWLINE]蛮族王国额外+20[ICON_HAPPINESS_1]快乐。从占领城市中产生的每点[ICON_CULTURE]文化中获得额外15[ICON_CULTURE]文化作为战利品。他们不用支付单位的维护费用。[NEWLINE][NEWLINE]实行蛮族政策分支里的所有政策后，未来的[ICON_CULTURE]文化将按3比1转换为[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN">
+			<Text>罗马衰落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID">
+			<Text>萨珊遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN">
+			<Text>蛮族激情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_CAP">
+			<Text>罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_SASSANID_CAP">
+			<Text>萨珊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_BARBARIAN_CAP">
+			<Text>蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ROMAN">
+			<Text>罗马衰落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ROMAN_TEXT">
+			<Text>[COLOR_POSITIVE_TEXT]罗马衰落[ENDCOLOR][NEWLINE]每座被蛮族军队占领的城市+20[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BRANCH_ROMAN_DESC">
+			<Text>罗马衰落的文明帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_ROMAN_TITLE">
+			<Text>{2_CivName:textkey}{@1: gender feminine?女皇; other?皇帝;} {1_PlayerName:textkey} </Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION">
+			<Text>蛮族征兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]蛮族征兵[ENDCOLOR][NEWLINE]-10%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_CONSCRIPTION_DESC">
+			<Text>蛮族征兵的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM">
+			<Text>农奴制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]农奴制度[ENDCOLOR][NEWLINE]拥有城墙的城市-2[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SERFDOM_DESC">
+			<Text>农奴制度的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER">
+			<Text>篡权将领</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]篡权将领[ENDCOLOR][NEWLINE]每个要塞+1[ICON_CULTURE]文化，同时一支敌军出现在你未被占领的城市外。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_USURPER_DESC">
+			<Text>篡权将领的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT">
+			<Text>遗弃设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]遗弃设施[ENDCOLOR][NEWLINE]来自城市连通的[ICON_GOLD]金钱减少50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NEGLECT_DESC">
+			<Text>遗弃设施的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI">
+			<Text>普遍倦怠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]普遍倦怠[ENDCOLOR][NEWLINE]奢侈品资源带来的[ICON_HAPPINESS_1]快乐-1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_ENNUI_DESC">
+			<Text>普遍倦怠的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT">
+			<Text>货币贬值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]货币贬值[ENDCOLOR][NEWLINE]+10%单位维护费用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DEBASEMENT_DESC">
+			<Text>帝国赞助的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE">
+			<Text>黑暗时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]黑暗时代[ENDCOLOR][NEWLINE]-20[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DARK_AGE_DESC">
+			<Text>黑暗时代的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID">
+			<Text>萨珊遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]萨珊遗产[ENDCOLOR][NEWLINE]的奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_SASSANID_TITLE">
+			<Text>{2_CivName:textkey}{@1: gender feminine?女王; other?国王;} {1_PlayerName:textkey} </Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE">
+			<Text>神圣之火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]神圣之火[ENDCOLOR][NEWLINE]每个城市+1[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SACRED_FIRE_DESC">
+			<Text>神圣之火的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE">
+			<Text>鼓励文学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]鼓励文学[ENDCOLOR][NEWLINE]每个城市+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_PAHLAVI_LITERATURE_DESC">
+			<Text>鼓励文学的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM">
+			<Text>重商主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]重商主义[ENDCOLOR][NEWLINE]每个城市+2[ICON_GOLD]金币。伟人产生速率加快25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_MERCANTILISM_DESC">
+			<Text>重商主义的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD">
+			<Text>丝绸之路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]丝绸之路[ENDCOLOR][NEWLINE]每个贸易站+1[ICON_GOLD]金币。[ICON_GOLDEN_AGE]黄金时代持续时间增加50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SILK_ROAD_DESC">
+			<Text>丝绸之路的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA">
+			<Text>波斯王书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]波斯王书[ENDCOLOR][NEWLINE]开始于[ICON_GOLDEN_AGE]黄金时代并且一名大工程师出现在[ICON_CAPITAL]首都外。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SHAHNAMA_DESC">
+			<Text>波斯王书的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY">
+			<Text>常备军队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]常备军队[ENDCOLOR][NEWLINE]每个要塞+2[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_STANDING_ARMY_DESC">
+			<Text>常备军队的文明百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_FINISHER">
+			<Text>萨珊政策分支完成者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_SASSANID_FINISHER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]萨珊政策分支完成者[ENDCOLOR][NEWLINE]所有未来的[ICON_CULTURE]文化按3比1转变为[ICON_GOLD]金币。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TURNS_REMAINING">
+			<Text>剩余回合: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_HUN_FIRST_CITY_CAPTURE">
+			<Text>在你攻陷第一个城市时，你的军队在城市的残垣旁装配了两支攻城锤部队来扩充你的军队！继续前行征服吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_ROMAN_CITY_CAPTURE_CULTURE">
+			<Text>最近沦陷于蛮族的城市数量: {1_NUM}[NEWLINE]惩罚: {2_NUM}[ICON_CULTURE]文化[NEWLINE][NEWLINE]每座被蛮族攻占的城市会导致你的社会更加衰败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN">
+			<Text>蛮族激情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]蛮族激情[ENDCOLOR][NEWLINE]的奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_BARBARIAN_TITLE">
+			<Text>{2_CivName:textkey}{@1: gender feminine?女王; other?国王;} {1_PlayerName:textkey} </Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS">
+			<Text>志愿从军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]志愿从军[ENDCOLOR][NEWLINE]训练战斗单位时+50%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILLING_RECRUITS_DESC">
+			<Text>志愿兵制的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION">
+			<Text>强制同化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]强制同化[ENDCOLOR][NEWLINE]建造法庭速度加快150%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_NATIVE_COERCION_DESC">
+			<Text>强制同化的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS">
+			<Text>资深老兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]资深老兵[ENDCOLOR][NEWLINE]军事单位从战斗中获得额外的100%经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_WILY_VETERANS_DESC">
+			<Text>资深老兵的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM">
+			<Text>部落繁盛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]部落繁盛[ENDCOLOR][NEWLINE]每个城市+5[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_TRIBAL_BLOOM_DESC">
+			<Text>部落繁盛的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY">
+			<Text>真命之师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]真命之师[ENDCOLOR][NEWLINE]相邻己方军事单位+50%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_DESTINYS_ARMY_DESC">
+			<Text>真命之师的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME">
+			<Text>王国兴起</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]王国兴起[ENDCOLOR][NEWLINE]每座城市分别+2[ICON_FOOD]食物，[ICON_PRODUCTION]产能，[ICON_GOLD]金钱和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_KINGDOM_COME_DESC">
+			<Text>王国兴起的百科帮助</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_FINISHER">
+			<Text>蛮族政策分支完成者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_POLICY_BARBARIAN_FINISHER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]蛮族政策分支完成者[ENDCOLOR][NEWLINE]所有未来的[ICON_CULTURE]文化按3比1转变为[ICON_GOLD]金币。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_DESTINYS_ARMY">
+			<Text>真命之师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_DESTINYS_ARMY_HELP">
+			<Text>在相邻己方军事单位周围+50%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HEAL_ON_PILLAGE">
+			<Text>健康劫掠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HEAL_ON_PILLAGE_HELP">
+			<Text>该单位劫掠完敌方非道路的设施后[COLOR_POSITIVE_TEXT]痊愈[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_SPEED">
+			<Text>蛮王激励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_SPEED_HELP">
+			<Text>2额外移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_MEDIC_GENERAL">
+			<Text>强力医者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_PROMOTION_HUN_MEDIC_GENERAL_HELP">
+			<Text>该单位和其他相邻单位每回合[COLOR_POSITIVE_TEXT]额外回复20生命力[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARBARIAN_CONSCRIPT">
+			<Text>蛮族征兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARBARIAN_CONSCRIPT_HELP">
+			<Text>-10%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_OFFICER">
+			<Text>募兵军官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RECRUITMENT_OFFICER_HELP">
+			<Text>可招募被击败的敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_ROUTE">
+			<Text>熟悉道路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ENEMY_ROUTE_HELP">
+			<Text>在被敌人占领的道路上移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK">
+			<Text>战斗友谊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_HELP">
+			<Text>与友军配合作战时获得+50%夹击加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOR_SCENARIO_TP_GOLD_FROM_CULTURE">
+			<Text>{1_Num}成政策后将每3[ICON_CULTURE]文化转变为1[ICON_GOLD]金钱。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

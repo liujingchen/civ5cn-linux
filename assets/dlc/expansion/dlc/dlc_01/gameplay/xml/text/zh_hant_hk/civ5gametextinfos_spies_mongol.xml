@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_0">
+      <Text>朝青龍</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_1">
+      <Text>特莫林</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_2">
+      <Text>紀維京</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_3">
+      <Text>吉吉丁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_4">
+      <Text>恩可巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_5">
+      <Text>蒙赫巴亞爾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_6">
+      <Text>袞德馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_7">
+      <Text>西馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_8">
+      <Text>巴塔奇坎</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_MONGOL_9">
+      <Text>丘浪尼</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_0">
+      <Text>喬根</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_1">
+      <Text>梅特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_2">
+      <Text>亨利克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_3">
+      <Text>尼爾斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_4">
+      <Text>海勒</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_5">
+      <Text>腓德烈克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_6">
+      <Text>艾達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_7">
+      <Text>西亞</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_8">
+      <Text>腓賈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_DENMARK_9">
+      <Text>摩頓</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_RESOURCE_JEWELRY">
+			<Text>珠宝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PORCELAIN">
+			<Text>瓷器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COPPER">
+			<Text>赤铜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SALT">
+			<Text>食盐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CRAB">
+			<Text>螃蟹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TRUFFLES">
+			<Text>松露</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CITRUS">
+			<Text>柑橘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_CULTURE">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FAITH">
+			<Text>信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_MERCANTILE_ADJECTIVE">
+			<Text>商业型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_RELIGIOUS_ADJECTIVE">
+			<Text>宗教型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_SRI_PADA">
+			<Text>圣足山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_SINAI">
+			<Text>西奈山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MT_KAILASH">
+			<Text>吉罗娑山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ULURU">
+			<Text>乌鲁汝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FAITH_TEXT">
+			<Text>信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6">
+			<Text>原子时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_POSTMODERN_STRATEGY">
+			<Text>原子时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_7">
+			<Text>信息时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HOLY_SITE">
+			<Text>宗教圣地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOMAIN_HOVER">
+			<Text>悬浮单位</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

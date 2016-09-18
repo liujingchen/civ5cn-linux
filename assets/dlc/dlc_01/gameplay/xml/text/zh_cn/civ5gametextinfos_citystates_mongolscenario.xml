@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--freesand leo-->
+<GameData>
+  <Language_zh_CN>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR">
+		  <Text>回鹘</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_UIGHUR_ADJ">
+		  <Text>回鹘</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA">
+		  <Text>格鲁吉亚</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_GEORGIA_ADJ">
+		  <Text>格鲁吉亚</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY">
+		  <Text>匈牙利</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_HUNGARY_ADJ">
+		  <Text>匈牙利</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET">
+		  <Text>大越</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DAI_VIET_ADJ">
+		  <Text>大越</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI">
+		  <Text>大理</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_DALI_ADJ">
+		  <Text>大理</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS">
+		  <Text>阿拔斯王朝</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_ABBASIDS_ADJ">
+		  <Text>阿拔斯王朝</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS">
+		  <Text>十字军邦国</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_CRUSADERS_ADJ">
+		  <Text>十字军邦国</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA">
+		  <Text>西夏</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_WESTERN_XIA_ADJ">
+		  <Text>西夏</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA">
+		  <Text>高丽</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_MONGOL_SCENARIO_CITYSTATE_KOREA_ADJ">
+		  <Text>高丽</Text>
+	  </Row>  
+  </Language_zh_CN>
+</GameData>

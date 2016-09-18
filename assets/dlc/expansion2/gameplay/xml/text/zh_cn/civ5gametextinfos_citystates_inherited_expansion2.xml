@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>    
+  	<Row Tag="TXT_KEY_CITYSTATE_ANTWERP">
+			<Text>安特卫普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ">
+			<Text>安特卫普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA">
+			<Text>卡霍基亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CAHOKIA_ADJ">
+			<Text>卡霍基亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO">
+			<Text>科伦坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJ">
+			<Text>科伦坡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG">
+			<Text>香港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_HONG_KONG_ADJ">
+			<Text>香港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM">
+			<Text>耶路撒冷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJ">
+			<Text>耶路撒冷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA">
+			<Text>拉本塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LA_VENTA_ADJ">
+			<Text>拉本塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA">
+			<Text>马尼拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANILA_ADJ">
+			<Text>马尼拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN">
+			<Text>米兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MILAN_ADJ">
+			<Text>米兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA">
+			<Text>蒙巴萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ">
+			<Text>蒙巴萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE">
+			<Text>布拉格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PRAGUE_ADJ">
+			<Text>布拉格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA">
+			<Text>瓦莱塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VALLETTA_ADJ">
+			<Text>瓦莱塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY">
+			<Text>梵蒂冈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_VATICAN_CITY_ADJ">
+			<Text>梵蒂冈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG">
+			<Text>维滕贝格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WITTENBERG_ADJ">
+			<Text>维滕贝格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN">
+			<Text>埃里温</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_YEREVAN_ADJ">
+			<Text>埃里温</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR">
+			<Text>桑给巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ">
+			<Text>桑给巴尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH">
+			<Text>苏黎世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_ZURICH_ADJ">
+			<Text>苏黎世</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_VP_DIPLO_SOMEONE_WON">
+			<Text>{1_CivName}已经当选世界领袖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_NEW_CAPITALS_REMAINING">
+			<Text>所有玩家都还控制着他们的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_TEAM_LEADING">
+			<Text>组队{1_Team}控制着{2_num}个初始[ICON_CAPITAL]首都.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_ACTIVE_PLAYER_LEADING"/>
+		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_PLAYER_LEADING">
+			<Text>{1_player}控制着{2_num}个初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_UNMET_PLAYER_LEADING">
+			<Text>一个未知玩家控制着{1_num}个初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_CONTROL_YOUR_CAPITAL">
+			<Text>你控制了{1_CityName}，你的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_SOMEONE_CONTROLS_THEIR_CAPITAL">
+			<Text>{1_PlayerName}控制了{2_CityName}，他们的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_CONTROLS_THEIR_CAPITAL">
+			<Text>一个未知文明控制了他们的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_YOUR_CAPITAL">
+			<Text>{1_PlayerName}控制了{2_CityName}，你的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_CONTROL_OTHER_PLAYER_CAPITAL">
+			<Text>你控制了{1_CityName}，{2_CivName}的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_OTHER_PLAYER_CAPITAL">
+			<Text>{1_PlayerName}控制了{2_CityName}，{3_CivName}的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_PLAYER_CONTROLS_OTHER_PLAYER_CAPITAL">
+			<Text>一个未知玩家控制了{1_CityName}，{2_CivName}的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_OTHER_PLAYER_CONTROLS_UNMET_PLAYER_CAPITAL">
+			<Text>{1_PlayerName}控制了一个未知文明的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_UNMET_PLAYER_CONTROLS_UNMET_PLAYER_CAPITAL">
+			<Text>一个未知文明控制了另一个未知文明的初始[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_YOU_NO_CAPITAL">
+			<Text>你还未建造首都城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_KNOWN_NO_CAPITAL">
+			<Text>{1_PlayerName}还未建造首都城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TT_UNKNOWN_NO_CAPITAL">
+			<Text>一个未知玩家还未建造首都城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_TYPE_REFORMATION">
+			<Text>改革</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_REFORMATION_BELIEF_TITLE">
+			<Text>增加改革信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MAJOR">
+			<Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} ({4_CivName})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_MAJOR_MINOR">
+			<Text>{1_CityName} ({2_CivName}) [ICON_TURNS_REMAINING] {3_CityName} (城邦)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_HEADING">
+			<Text>商路：[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARAVAN">
+			<Text>{1_CivAdj}商队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ROUTE_TT_PLOT_CARGO_SHIP">
+			<Text>{1_CivAdj}货船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_FROM_LEAGUES">
+			<Text>世界议会</Text>
+		</Row>
+		<!--Trade route top bar-->
+		<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES">
+			<Text>[ICON_TURNS_REMAINING] {1_TradeRoutesUsedNum} / {2_TradeRoutesAvailable}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT_UNASSIGNED">
+			<Text>你有{1_Num}个未分派任务的{2_UnitName}。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_INTERNATIONAL_TRADE_ROUTES_TT">
+			<Text>你有{1_TradeRoutesUsedNum}个贸易单位。[NEWLINE]你能建立{2_TradeRoutesAvailableNum}条商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_BOTH_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] ({3_CivName}) {4_CityName} ({5_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_ONLY_DEST_TT">
+			<Text>{1_CityName} [ICON_TURNS_REMAINING] ({2_CivName}) {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_YOUR_ROUTE_ONLY_ORIGIN_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] ({3_CivName}) {4_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_BOTH_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_ONLY_DEST_TT">
+			<Text>{1_CityName} [ICON_TURNS_REMAINING] {2_CityName} ({3_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_INTERNAL_YOUR_ROUTE_ONLY_ORIGIN_TT">
+			<Text>{1_CityName} ({2_ResourcesStr}) [ICON_TURNS_REMAINING] {3_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_BOTH_TT">
+			<Text>({1_CivName}) {2_CityName} ({3_ResourcesStr}) [ICON_TURNS_REMAINING] {4_CityName} ({5_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_ONLY_DEST_TT">
+			<Text>({1_CivName}) {2_CityName} [ICON_TURNS_REMAINING] {3_CityName} ({4_ResourcesStr})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_TO_YOU_ROUTE_ONLY_ORIGIN_TT">
+			<Text>({1_CivName}) {2_CityName} ({3_ResourcesStr}) [ICON_TURNS_REMAINING] {4_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_FOOD_YIELD_TT">
+			<Text>{1_Num}[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_PRODUCTION_YIELD_TT">
+			<Text>{1_Num}[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_GOLD_YIELD_TT">
+			<Text>{1_Num}[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_SCIENCE_YIELD_TT">
+			<Text>{1_Num}[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_CULTURE_YIELD_TT">
+			<Text>{1_Num}[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_FAITH_YIELD_TT">
+			<Text>{1_Num}[ICON_FAITH]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_CITY_STATE_TT">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_ESTABLISHED_BY_PLAYER_TT">
+			<Text>你建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_ITR_ESTABLISHED_BY_OTHER_TT">
+			<Text>其它文明建立的与你文明之间的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADDITIONAL_INTERNATIONAL_TRADE_ROUTE">
+			<Text>允许建立一条额外的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXTENDS_SEA_TRADE_ROUTE_RANGE">
+			<Text>扩大海上商路的范围。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXTENDS_LAND_TRADE_ROUTE_RANGE">
+			<Text>扩大陆上商路的范围。</Text>
+		</Row>
+		<!-- Establish International Trade Route Popup-->
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_TITLE">
+			<Text>建立商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_STARTING_CITY">
+			<Text>起始城市：{1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_TRADE_UNIT">
+			<Text>贸易单位：{1_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_RANGE">
+			<Text>范围：{1_Num}格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GPT_YOU">
+			<Text>你：+{1_Num: number #}[ICON_GOLD]金钱/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GPT_THEM">
+			<Text>他们：+{1_Num: number #}[ICON_GOLD]金钱/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_BASE">
+			<Text>基础金钱：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_BUILDING">
+			<Text>从{1_CityName}的建筑得到的金钱奖励：{2_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_POLICIES">
+			<Text>从社会政策得到的奖励：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_YOURS">
+			<Text>{1_CityName}：{2_Num}金钱/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_GPT_THEIRS">
+			<Text>{1_CityName}：{2_Num}金钱/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_EXCLUSIVE_CONNECTION">
+			<Text>独家连接奖励：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_OTHER_TRAIT">
+			<Text>来自{1_CivAdj}特质：{2_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RESOURCE_HEADER">
+			<Text>不同的资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RESOURCE_DIFFERENT">
+			<Text>{1_ResourceIcon} {2_ResourceName:textkey}：{3_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_RIVER_MODIFIER">
+			<Text>沿河：+{1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_DOMAIN_SEA_MODIFIER">
+			<Text>海路：{1_Num}x</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_TOTAL">
+			<Text>总计：{1_Num}[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_TRADEE_TOTAL">
+			<Text>{1_CivName}总计：{2_Num}[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_REVENUE">
+			<Text>你的收益</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_REVENUE">
+			<Text>他们的收益</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_GAIN">
+			<Text>你的科研收益</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_GAIN">
+			<Text>他们的科研收益</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_EXPLAINED">
+			<Text>{1_CivName}发现了{2_Num}项你不知道的科技。你凭借文化影响力从这条商路获得+{3_Num}[ICON_RESEARCH]科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_EXPLAINED">
+			<Text>你发现了{1_Num}项{2_CivName}不知道的科技。对方凭借文化影响力从这条商路获得+{3_Num}[ICON_RESEARCH]科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_YOUR_SCIENCE_TOTAL">
+			<Text>总计：{1_Num}[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_TT_THEIR_SCIENCE_TOTAL">
+			<Text>{1_CivName}总计：{2_Num}[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_FOOD">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"}[ICON_FOOD]食物/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_PRODUCTION">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"}[ICON_PRODUCTION]产能/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_GOLD">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"} [ICON_GOLD]金钱/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_SCIENCE">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"} [ICON_RESEARCH]科研/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_CULTURE">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"} [ICON_CULTURE]文化/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_FAITH">
+			<Text>{1_Num: number \"'+'##;'[COLOR_RED]-'##\"} [ICON_FAITH]信仰/每回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_ITEM_RELIGIOUS_PRESSURE">
+			<Text>+{1_ReligionIcon}{2_Num}宗教压力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_CHOOSE_TRADE_ROUTE">
+			<Text>你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_CITYNAME">
+			<Text>城市名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_CIVNAME">
+			<Text>文明名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_GOLD">
+			<Text>最多金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_GOLD_DELTA">
+			<Text>最多金钱增量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE">
+			<Text>最多科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_SORT_MAX_SCIENCE_DELTA">
+			<Text>最多科研增量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_INTERNATIONAL_TRADE_ROUTE_PREV_ROUTE">
+			<Text>上次选择的商路</Text>
+		</Row>
+		<!--Change Trade Unit Home City-->
+		<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_TITLE">
+			<Text>更改贸易单位主城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_STARTING_CITY">
+			<Text>起始城市：{1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_TRADE_UNIT">
+			<Text>贸易单位：{1_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_TRADE_UNIT_HOME_CITY_ITEM_CITY">
+			<Text>{1_CityName}</Text>
+		</Row>
+		<!--Change Admiral Port -->
+		<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_TITLE">
+			<Text>更改海军统帅驻泊港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_STARTING_CITY">
+			<Text>原驻泊港：{1_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_ADMIRAL">
+			<Text>海军统帅：{1_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHANGE_ADMIRAL_PORT_ITEM_CITY">
+			<Text>{1_CityName}</Text>
+		</Row>
+		<!--Trade Overview-->
+		<Row Tag="TXT_KEY_TRADE_ROUTE_OVERVIEW">
+			<Text>商路总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_TAB_EXISTING_TR">
+			<Text>你的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_TAB_AVAILABLE_TR">
+			<Text>可建立的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_TAB_TR_WITH_YOU">
+			<Text>与你连接的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_DOMAIN">
+			<Text>[ICON_INTERNATIONAL_TRADE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_CITY">
+			<Text>[ICON_ARROW_LEFT]城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_CITY">
+			<Text>[ICON_ARROW_RIGHT]城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_GPT">
+			<Text>[ICON_ARROW_LEFT][ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_GPT">
+			<Text>[ICON_ARROW_RIGHT][ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_FOOD">
+			<Text>[ICON_ARROW_RIGHT][ICON_FOOD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_PRODUCTION">
+			<Text>[ICON_ARROW_RIGHT][ICON_PRODUCTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_RELIGION">
+			<Text>[ICON_ARROW_LEFT][ICON_RELIGION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_RELIGION">
+			<Text>[ICON_ARROW_RIGHT][ICON_RELIGION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_TOURISM">
+			<Text>[ICON_ARROW_LEFT][ICON_TOURISM]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_TOURISM">
+			<Text>[ICON_ARROW_RIGHT][ICON_TOURISM]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_SCIENCE">
+			<Text>[ICON_ARROW_LEFT][ICON_RESEARCH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_SCIENCE">
+			<Text>[ICON_ARROW_RIGHT][ICON_RESEARCH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TURNS_REMAINING">
+			<Text>[ICON_TURNS_REMAINING]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_GPT_ENTRY">
+			<Text>{1_Num: number #.#}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_RELIGIOUS_PRESSURE_ENTRY">
+			<Text>{1_ReligionIcon} +{2_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TO_EXISTING_TR_TT">
+			<Text>列出你已经建立的与其它文明城市之间的商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TO_AVAILABLE_TR_TT">
+			<Text>列出所有可以建立的商路，包括那些你已经建立的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TO_OTHERS_TR_TT">
+			<Text>列出所有其它文明建立的与你的城市之间的商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_DOMAIN_TT">
+			<Text>贸易单位可以穿越陆地（通过商队）或者水路（通过货船）。[NEWLINE][NEWLINE]点击按商路的交通方式来排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_CIV_TT">
+			<Text>点击按商路的起始国家来排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_CITY_TT">
+			<Text>点击按商路的起始城市来排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_CIV_TT">
+			<Text>点击按商路的目标国家来排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_CITY_TT">
+			<Text>点击按商路的目标城市来排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_GPT_TT">
+			<Text>点击按建立商路的文明通过商路产生的[ICON_GOLD]金钱数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_GPT_TT">
+			<Text>点击按商路目的地的文明通过商路获得的[ICON_GOLD]金钱数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_FOOD_TT">
+			<Text>点击按商路目的地的城市获得的[ICON_FOOD]食物数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_PRODUCTION_TT">
+			<Text>点击按商路目的地的城市获得的[ICON_PRODUCTION]产能数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_RELIGION_TT">
+			<Text>点击按商路的起始城市从目的地城市获得的宗教压力排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_RELIGION_TT">
+			<Text>点击按商路的目的地城市从起始城市获得的宗教压力排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TURNS_REMAINING_TT">
+			<Text>点击按商路的剩余回合数排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_LAND_DOMAIN_TT">
+			<Text>商队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_SEA_DOMAIN_TT">
+			<Text>货船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_FROM_SCIENCE_TT">
+			<Text>点击按建立商路的文明通过商路产生的[ICON_RESEARCH]科研数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRO_COL_TO_SCIENCE_TT">
+			<Text>点击按商路目的地的文明通过商路获得的[ICON_RESEARCH]科研数量排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_TRADE_OVERVIEW">
+			<Text>贸易总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_YOUR_CITIES">
+			<Text>[ICON_MINUS] 你的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_YOUR_CITIES_COLLAPSED">
+			<Text>[ICON_PLUS] 你的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_MAJOR_CIVS">
+			<Text>[ICON_MINUS] 大文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_MAJOR_CIVS_COLLAPSED">
+			<Text>[ICON_PLUS] 大文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_CITY_STATES">
+			<Text>[ICON_MINUS] 城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_TRADE_ROUTE_CITY_STATES_COLLAPSED">
+			<Text>[ICON_PLUS] 城邦</Text>
+		</Row>
+		<!--Trade Unit Construction Warnings-->
+		<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_LAND">
+			<Text>[NEWLINE][NEWLINE]你不能建造这个贸易单位因为没有陆上商路空闲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NONE_OF_TYPE_SEA">
+			<Text>[NEWLINE][NEWLINE]你不能建造这个贸易单位因为没有海上商路空闲。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_UNIT_CONSTRUCTION_NO_EXTRA_SLOTS">
+			<Text>[NEWLINE][NEWLINE]你不能建造新的贸易单位因为你已达到贸易单位数量上限。</Text>
+		</Row>
+		<!-- Culture Related -->
+		<Row Tag="TXT_KEY_CHOOSE_ARCHAEOLOGY_TITLE">
+			<Text>考古发现</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LEAD_IN">
+			<Text>你的考古学家发现了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE1">
+			<Text>远程攻击遗迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE2">
+			<Text>近战攻击遗迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE3">
+			<Text>蛮族营地遗迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE4">
+			<Text>遭劫掠的远古遗迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE5">
+			<Text>被摧毁的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_TYPE6">
+			<Text>远古文献</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ATTACKER">
+			<Text>攻击者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_DEFENDER">
+			<Text>防御者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_PLUNDERER">
+			<Text>劫掠者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_CONQUEROR">
+			<Text>征服者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_AUTHOR">
+			<Text>编撰者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_FOUNDER">
+			<Text>建立者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_NO_SLOTS">
+			<Text>[COLOR_RED]美术杰作没有空余的展位了！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_OPTIONS">
+			<Text>从以下选项中选择：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_HEADER">
+			<Text>保存{1_String}文物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITING_HEADER">
+			<Text>保存{1_String}文献</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_ARTIFACT_RESULT">
+			<Text>文物会被保存在最邻近的美术杰作展位中。文物提供+2[ICON_CULTURE]文化和+2[ICON_TOURISM]魅力。考古学家会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_WRITTEN_ARTIFACT_RESULT">
+			<Text>文献会被保存在最邻近的文学杰作展位中。文献提供+2[ICON_CULTURE]文化和+2[ICON_TOURISM]魅力。考古学家会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_HEADER">
+			<Text>修建风景地标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_RESULT">
+			<Text>当完成时，风景地标会根据它的建成时间提供[ICON_CULTURE]文化。建成时间与所在文明的当前时代相比，每早一个时代就+1[ICON_CULTURE]文化。修建风景地标会消耗掉考古学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MAJOR_CIV">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]在其他文明的领土上修建风景地标可长期提升对该文明的外交关系。[ENDCOLOR]</Text>		
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_LANDMARK_MINOR_CIV">
+			<Text>[NEWLINE][COLOR_POSITIVE_TEXT]在城邦的领土上修建风景地址可一次性大幅度增加对该城邦的影响力。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_HEADER">
+			<Text>开启文化复兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_ARCH_RENAISSANCE_RESULT">
+			<Text>将消耗掉此文献并一次性大幅度增加[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POPUP_WRITTEN_ARTIFACT">
+			<Text>远古文献</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_OVERVIEW">
+			<Text>文化总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_OVERVIEW_TT">
+			<Text>文化总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TAB_YOUR_CULTURE">
+			<Text>你的文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TAB_CULTURE_VICTORY">
+			<Text>文化胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TAB_PLAYER_INFLUENCE">
+			<Text>对外影响</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TAB_SWAP_GREAT_WORKS">
+			<Text>交换杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_PULLDOWN">
+			<Text>选择玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_UNKNOWN">
+			<Text>[COLOR_GREY]默默无闻[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_EXOTIC">
+			<Text>[COLOR_WHITE]初具风情[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_FAMILIAR">
+			<Text>[COLOR_WHITE]众口相传[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_POPULAR">
+			<Text>[COLOR_WHITE]广受称誉[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENTIAL">
+			<Text>[COLOR_MAGENTA]无远弗届[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_DOMINANT">
+			<Text>[COLOR_MAGENTA]绝对支配[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_FALLING">
+			<Text>[COLOR_RED]下降[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_STATIC">
+			<Text>[COLOR_WHITE]稳定[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_RISING_SLOWLY">
+			<Text>[COLOR_PLAYER_LIGHT_GREEN_TEXT]缓慢上升[COLOR_PLAYER_LIGHT_GREEN_TEXT]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_RISING">
+			<Text>[COLOR_GREEN]上升[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CULTURE_HEADER_TT">
+			<Text>此城市产生的[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_HEADER_TT">
+			<Text>此城市产生的[ICON_TOURISM]魅力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER">
+			<Text>[ICON_GREAT_WORK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_GREAT_WORK_HEADER_TT">
+			<Text>城市中的[ICON_GREAT_WORK]杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_GREAT_WORK_TT">
+			<Text>文学：{1_String}[NEWLINE]美术：{2_String}[NEWLINE]音乐：{3_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT_ENTRY">
+			<Text>{1_Num}/{2_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_GREAT_WORK_SLOTS_TT">
+			<Text>文学：{1_String}[NEWLINE]美术：{2_String}[NEWLINE]音乐：{3_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER_TT">
+			<Text>达成无远弗届影响力的文明数/文化胜利需要的文明数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_LEVEL_HEADER_TT">
+			<Text>可能的值：[NEWLINE]- 默默无闻[NEWLINE]- 初具风情[NEWLINE]- 众口相传[NEWLINE]- 广受称誉[NEWLINE]- 无远弗届[NEWLINE]- 绝对支配[NEWLINE][NEWLINE]对目标文明影响力达到众口相传级以上可获得利益:[NEWLINE] 1. 商路提供额外的[ICON_RESEARCH]科研[NEWLINE] 2. [ICON_SPY]间谍行动更高效[NEWLINE] 3. 统治所占领的城市更容易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_FAMILIAR">
+			<Text>[NEWLINE][NEWLINE]获得的利益:[NEWLINE]- 每条通往受影响文明的商路:[NEWLINE]+1[ICON_RESEARCH]科研[NEWLINE]- [ICON_SPY]间谍在1回合内建成监视网[NEWLINE]- 占领受影响文明的城市后:[NEWLINE]抵抗时间和人口损失减少25%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_POPULAR">
+			<Text>[NEWLINE][NEWLINE]获得的利益:[NEWLINE]- 每条通往受影响文明的商路:[NEWLINE]+2[ICON_RESEARCH]科研[NEWLINE]- [ICON_SPY]间谍在1回合内建成监视网，派驻受影响文明的同盟城邦的间谍自原等级提升1级[NEWLINE]- 占领受影响文明的城市后:[NEWLINE]抵抗时间和人口损失减少50%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_INFLUENTIAL">
+			<Text>[NEWLINE][NEWLINE]获得的利益:[NEWLINE]- 每条通往受影响文明的商路:[NEWLINE]+3[ICON_RESEARCH]科研[NEWLINE]- [ICON_SPY]间谍在1回合内建成监视网，派驻受影响文明的城市及其同盟城邦的间谍自原等级提升1级[NEWLINE]- 占领受影响文明的城市后:[NEWLINE]抵抗时间和人口损失减少75%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_BONUSES_DOMINANT">
+			<Text>获得的利益:[NEWLINE]- 每条通往受影响文明的商路:[NEWLINE]+4[ICON_RESEARCH]科研[NEWLINE]- [ICON_SPY]间谍在1回合内建成监视网，派驻受影响文明的城市及其同盟城邦的间谍自原等级提升2级[NEWLINE]- 占领受影响文明的城市后:[NEWLINE]没有抵抗和人口损失</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_BONUS_CITY_STATE">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]派驻的间谍自原等级提升{1_SpyBonus}级，因为你对该城邦的同盟文明拥有强大的文化影响力。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_BONUS_MAJOR_CIV">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]派驻的间谍自原等级提升{1_SpyBonus}级，因为你对该文明拥有强大的文化影响力。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_PERCENT_HEADER_TT">
+			<Text>总体[ICON_TOURISM]魅力输出与目标文明总体[ICON_CULTURE]文化之比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_MODIFIERS_HEADER_TT">
+			<Text>对目标文明[ICON_TOURISM]魅力输出的修正因子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_TOURISM_HEADER_TT">
+			<Text>修正后的[ICON_TOURISM]魅力输出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENCE_TREND_HEADER_TT">
+			<Text>上升或下降提示[NEWLINE]（如果在上升，提示信息会显示达到无远弗届级所需要的回合数）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENTIAL_TURNS_TT">
+			<Text>在{1_Num}回合内达到无远弗届级（假定魅力输出保持不变）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_PERCENT_TT">
+			<Text>{1_String}[NEWLINE]达到{2_String}级需要{3_Num}%以上</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CIVILIZATION_HEADER">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_INFLUENTIAL_HEADER">
+			<Text>文化影响</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_LEVEL_HEADER">
+			<Text>等级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PERCENT_HEADER">
+			<Text>[ICON_TOURISM]对比[ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_MODIFIERS_HEADER">
+			<Text>+/- %</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_HEADER">
+			<Text>[ICON_TOURISM]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TREND_HEADER">
+			<Text>趋势</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_GREAT_WORKS">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自{2_Num}[ICON_GREAT_WORK]杰作 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_THEMING_BONUSES">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自博物馆和奇观奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_TILES">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自世界奇观，国家奇观，地域设施提供的{2_Num}%[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_FAITH_BUILDINGS">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自[ICON_PEACE]信仰购买的建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGIOUS_ART">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自宗教艺术信条 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_TECH_ENHANCED">
+			<Text>{1_Num}[ICON_TOURISM]魅力 来自建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_RELIGION_BONUS">
+			<Text>+{1_Num}%奖励 由于宗教信仰相同：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_OPEN_BORDERS_BONUS">
+			<Text>+{1_Num}%奖励 由于开放边界：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_TRADE_ROUTE_BONUS">
+			<Text>+{1_Num}%奖励 由于建立商路：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_LEAGUES_BONUS">
+			<Text>+{1_Num}%奖励 来自作为世界宗教的圣城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_TECH_BONUS">
+			<Text>+{1_Num}%奖励 来自科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_CARNIVAL_BONUS">
+			<Text>+{1_Num}%奖励 由于嘉年华会进行中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_LESS_HAPPY_BONUS">
+			<Text>+{1_Num}%奖励 由于较少的[ICON_HAPPINESS_1]快乐：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_COMMON_FOE_BONUS">
+			<Text>+{1_Num}%奖励 由于与共同的敌人作战：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_SHARED_IDEOLOGY_BONUS">
+			<Text>+{1_Num}%奖励 由于意识形态相同：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_DIFFERENT_IDEOLOGY_PENALTY">
+			<Text>{1_Num}%惩罚 由于意识相态不同：[NEWLINE]   </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_BUILDING_BONUS">
+			<Text>+{1_Num}%奖励 由于建造了{2_BuildingName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_OPEN_BORDERS">
+			<Text>+{1_Num}%奖励 由于开放边界[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_TRADE_ROUTE">
+			<Text>+{1_Num}%奖励 由于文明间的商路[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_CARNIVAL">
+			<Text>+{1_Num}%奖励 由于嘉年华会进行中[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_LESS_HAPPY">
+			<Text>+{1_Num}%奖励 由于较少的[ICON_HAPPINESS_1]快乐[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_COMMON_FOE">
+			<Text>+{1_Num}%奖励 由于与共同的敌人作战[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_SHARED_IDEOLOGY">
+			<Text>+{1_Num}%奖励 由于意识形态相同[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_DIFFERENT_IDEOLOGIES">
+			<Text>{1_Num}%惩罚 由于意识相态不同[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_PROPAGANDA">
+			<Text>+{1_Num}%奖励 由于外交官的宣传[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_RELIGION_NOTE">
+			<Text>+{1_Num}%奖励 由于宗教信仰相同[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_NO_THEME">
+			<Text>没有主题奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_WORLD_MUSEUM">
+			<Text>世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_TOURISM_HEADER_TT">
+			<Text>此文明产生的[ICON_TOURISM]魅力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_TOURISM_OUTPUT">
+			<Text>当前[ICON_TOURISM]魅力输出： </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_INFLUENTIAL_OF">
+			<Text>{1_NumInfluentialCivs} / {2_TotalCivs}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_IDEOLOGY_HEADER">
+			<Text>意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_IDEOLOGY_HEADER_TT">
+			<Text>此文明选择的意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER">
+			<Text>公共舆论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_HEADER_TT">
+			<Text>人民对他们国家选择的意识形态的满意程度。[NEWLINE][NEWLINE]可能的值有：[NEWLINE][COLOR_POSITIVE_TEXT]- 心满意足[ENDCOLOR][NEWLINE]- 秉持异议[NEWLINE][COLOR_YELLOW]- 和平抗争[ENDCOLOR][NEWLINE][COLOR_NEGATIVE_TEXT]- 革命浪潮[ENDCOLOR][NEWLINE][NEWLINE]如果这项满意等级不是[COLOR_POSITIVE_TEXT]心满意足[ENDCOLOR]的话将会产生一定程度的[ICON_HAPPINESS_4]不满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_CONTENT">
+			<Text>[COLOR_POSITIVE_TEXT]心满意足[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_DISSIDENTS">
+			<Text>秉持异议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_CIVIL_RESISTANCE">
+			<Text>[COLOR_YELLOW]和平抗争[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_REVOLUTIONARY_WAVE">
+			<Text>[COLOR_NEGATIVE_TEXT]革命浪潮[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_OVERVIEW">
+			<Text>当一个文明选择一种意识形态之后即会开始记录其公共舆论的变化情况，公共舆论是根据文明的对外影响与来自其它有意识形态的文明外来影响相比较计算出来的。[NEWLINE][NEWLINE]如果外来意识形态影响造成的压力超过本国意识形态的压力，公共舆论会逐渐偏离[COLOR_POSITIVE_TEXT]心满意足[ENDCOLOR]并且产生[ICON_HAPPINESS_4]不满。下面的汇总显示了针对每种意识形态的压力状况。[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_NOT_INFLUENCED">
+			<Text>未被其它文明的意识形态影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_INFLUENCED_WORLD_IDEOLOGY">
+			<Text>受世界议会选出的世界意识形态影响：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_INFLUENCED_BY">
+			<Text>被下列文明的意识形态影响：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_FREEDOM">
+			<Text>[NEWLINE]为了[COLOR_POSITIVE_TEXT]自由[ENDCOLOR]：[NEWLINE]{1_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_AUTOCRACY">
+			<Text>[NEWLINE]为了[COLOR_POSITIVE_TEXT]独裁[ENDCOLOR]：[NEWLINE]{1_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_FOR_ORDER">
+			<Text>[NEWLINE]为了[COLOR_POSITIVE_TEXT]秩序[ENDCOLOR]：[NEWLINE]{1_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_PREFERRED_IDEOLOGY">
+			<Text>[NEWLINE][NEWLINE]偏爱的意识形态是 [COLOR_POSITIVE_TEXT]{1_String}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE1">
+			<Text>公共舆论正在产生{1_Num}[ICON_HAPPINESS_4]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE2">
+			<Text>[NEWLINE]  采用以下两算法中结果值较大者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE3">
+			<Text>[NEWLINE]    每座城市{1_Num}[ICON_HAPPINESS_4]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_OPINION_TT_UNHAPPINESS_LINE4">
+			<Text>[NEWLINE]    每{1_Num}人口1[ICON_HAPPINESS_4]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER">
+			<Text>[ICON_HAPPINESS_4]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_PUBLIC_OPINION_UNHAPPINESS_HEADER_TT">
+			<Text>由公共舆论导致的[ICON_HAPPINESS_4]不满。[NEWLINE][NEWLINE]可以视之为此文明的民众对领袖所选择意识形态的认同程度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_EXCESS_HAPPINESS_HEADER">
+			<Text>总体[ICON_HAPPINESS_1]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_VICTORY_EXCESS_HAPPINESS_HEADER_TT">
+			<Text>当前的总体[ICON_HAPPINESS_1]快乐等级[NEWLINE][NEWLINE]公共舆论的不满也包含在这个总计里。数值在-20或以下时文明会开始出现叛乱并且意识形态可能会变为民众所偏爱的类型。（你可以在公共舆论的提示信息中找到偏爱的类型）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_THIRD_PARTY_CULTURE_INFLUENCE">
+			<Text>{1_Civ}对{3_Civ}的文化影响程度为{2_Num: number #.#}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_THIRD_PARTY_CULTURE_INFLUENCE_UNMET">
+			<Text>{1_Civ}对未知文明的文化影响程度为{2_Num: number #.#}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_HAPPINESS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_PUBLIC_OPINION_UNHAPPINESS">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CLICK_TO_MOVE">
+			<Text>点击移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CLICK_TO_MOVE_TT">
+			<Text>左键点击杰作来把它们移到别处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CLICK_TO_VIEW">
+			<Text>点击查看</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CO_CLICK_TO_VIEW_TT">
+			<Text>左键点击杰作来查看它们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANTIQUITY_SITES_TO_EXCAVATE">
+			<Text>还未被发掘的历史遗址数：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HIDDEN_SITES_TO_EXCAVATE">
+			<Text>还未被发掘的隐藏遗址数：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE">
+			<Text>热门旅游城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURAL_INFLUENCE_TT">
+			<Text>按玩家对外[ICON_CULTURE]文化影响力达到无远弗届级的数量进行排名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CITY_TOURISM">
+			<Text>热门旅游城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_SCREEN_CITY_TOURISM_TT">
+			<Text>按[ICON_TOURISM]魅力输出对城市进行排名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DOUBLE_TOURISM">
+			<Text>双倍[ICON_TOURISM]魅力输出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GP_MOD">
+			<Text>[ICON_BULLET]政策奖励：+{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOLDENAGE_GP_MOD">
+			<Text>[ICON_BULLET]嘉年华会奖励：+{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_CONGRESS_POSITIVE_GP_MOD">
+			<Text>[ICON_BULLET]世界议会奖励：+{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_CONGRESS_NEGATIVE_GP_MOD">
+			<Text>[ICON_BULLET]世界议会惩罚：{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_TITLE">
+			<Text>意识形态选择</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_OPTIONS">
+			<Text>选择下列意识形态中的一种：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_BEST_VICTORY_TYPES">
+			<Text>最佳胜利方式：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_ADOPTED_BY">
+			<Text>采用者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_ADOPTED_BY_NOBODY">
+			<Text>[COLOR_POSITIVE_TEXT]无[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_NUM_FREE_POLICIES">
+			<Text>最早采用者的免费政策数：{1_NumFreePolicies}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_IDEOLOGY_CONFIRM">
+			<Text>你确定你想采用[COLOR_POSITIVE_TEXT]{@1_PolicyName}[ENDCOLOR]吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_WORLD_CONGRESS">
+			<Text>一旦遇到了所有其它的文明，就能建立世界议会了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXTRA_VOTES_FROM_DIPLOMATS">
+			<Text>在世界议会中额外获得{1_DelegatesPerDiplomat}张代表票（由于以外交官身份派驻其它文明[ICON_CAPITAL]首都的间谍）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK]美术杰作或文物展位：{1_NumSlots}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK]文学杰作展位：{1_NumSlots}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_SLOTS_TOOLTIP">
+			<Text>[ICON_GREAT_WORK]音乐杰作展位：{1_NumSlots}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_1">
+			<Text>{1_Num} [ICON_GREAT_WORK]使用的杰作展位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_2">
+			<Text>{1_Num} [ICON_GREAT_WORK]空闲的杰作展位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_TOURISM_TOOLTIP_3">
+			<Text>文化胜利进度(对其他文明的影响力达到无远弗届级): {1_XofYString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITING_SLOT_EMPTY">
+			<Text>空（文学）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_SLOT_EMPTY">
+			<Text>空（美术）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SLOT_EMPTY">
+			<Text>空（文物）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUSIC_SLOT_EMPTY">
+			<Text>空（音乐）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITING_SLOT_TT">
+			<Text>点击更改你希望交换的文学杰作。文学杰作只能与文学杰作交换。一旦与其它文明交换完成，你交换到的杰作就会进入你原来的杰作使用的建筑或奇观展位中。你的新杰作不能在当前回合再次交换。[NEWLINE][NEWLINE]如果你选择了一个文学杰作在此展示但并未在你的回合进行交换，其它文明可以在他们的回合不经你允许就交换掉它！确保你只会将想要换走的杰作展示出来！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_SLOT_TT">
+			<Text>点击更改你希望交换的美术杰作。美术杰作只能与美术杰作交换。一旦与其它文明交换完成，你交换到的杰作就会进入你原来的杰作占据的建筑或奇观展位中。你的新杰作不能在当前回合再次交换。[NEWLINE][NEWLINE]如果你选择了一个美术杰作在此展示但并未在你的回合进行交换，其它文明可以在他们的回合不经你允许就交换掉它！确保你只会将想要换走的杰作展示出来！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_SLOT_TT">
+			<Text>点击更改你希望交换的文物。文物只能与文物交换。一旦与其它文明交换完成，你交换到的文物就会进入你原来的文物占据的建筑或奇观展位中。你的新文物不能在当前回合再次交换。[NEWLINE][NEWLINE]如果你选择了一个文物在此展示但并未在你的回合进行交换，其它文明可以在他们的回合不经你允许就交换掉它！确保你只会将想要换走的文物展示出来！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUSIC_SLOT_TT">
+			<Text>点击更改你希望交换的音乐杰作。音乐杰作只能与音乐杰作交换。一旦与其它文明交换完成，你交换到的杰作就会进入你原来的杰作占据的建筑或奇观展位中。你的新杰作不能在当前回合再次交换。[NEWLINE][NEWLINE]如果你选择了一个音乐杰作在此展示但并未在你的回合进行交换，其它文明可以在他们的回合不经你允许就交换掉它！确保你只会将想要换走的杰作展示出来！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITING_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc}未将可交换的文学杰作展示出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc}未将可交换的美术杰作展示出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc}未将可交换的文物展示出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT_EMPTY">
+			<Text>{1_CivShortDesc}未将可交换的音乐杰作展示出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITING_OTHERS_SLOT">
+			<Text>{1_CivShortDesc}希望用这个文学杰作交换其它的文学杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ART_OTHERS_SLOT">
+			<Text>{1_CivShortDesc}希望用这个美术杰作交换其它的美术杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHERS_SLOT">
+			<Text>{1_CivShortDesc}希望用这个文物交换其它的文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUSIC_OTHERS_SLOT">
+			<Text>{1_CivShortDesc}希望用这个音乐杰作交换其它的音乐杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_BUTTON">
+			<Text>交换</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_BUTTON_TT">
+			<Text>这将会用你的杰作或文物交换另一个文明的杰作或文物。你的物品会进入他们的一个城市中，而他们的物品会进入你用来交换的物品原来存放的展位中。一件物品一回合只能交换一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_BUTTON_DISABLED_TT">
+			<Text>要交换你的杰作或文物，你需要选择你的物品中的一件并且选择其它文明的一件相同类型的物品。（文学杰作只能交换文学杰作。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLEAR_BUTTON">
+			<Text>清空</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CLEAR_BUTTON_TT">
+			<Text>这将会重置将要进行的杰作交换。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_WRITING_HEADER">
+			<Text>文学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_ART_HEADER">
+			<Text>美术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_ARTIFACT_HEADER">
+			<Text>文物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_MUSIC_HEADER">
+			<Text>音乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_THIS">
+			<Text>选择{1_String}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_CLEAR_SPOT">
+			<Text>清空这个展位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_SWAPPING">
+			<Text>清空</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_SWAPPING_TT">
+			<Text>这将会清空这个展位，使你无法在你的回合交换到其它物品。同样的，如果这个展位是空的，其它文明也不能在他们的回合交换到这个类型的物品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_YOURS">
+			<Text>我们的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_THEIRS">
+			<Text>他们的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAP_NAME">
+			<Text>你可以与任何不与你处于交战中的文明交换杰作或者文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PICKER_DIPLOMAT">
+			<Text>外交官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMAT_PICKER_SPY">
+			<Text>间谍</Text>
+		</Row>
+		<!--Choose Goody Hut Reward Popup-->
+		<Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_TITLE">
+			<Text>选择远古遗迹奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_GOODY_HUT_BONUS_DESCRIPTION">
+			<Text>从列表中选择远古遗迹奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE">
+			<Text>城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE">
+			<Text>来自城市连接的收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
+			<Text>[ICON_PLUS]城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS]城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES">
+			<Text>[ICON_PLUS]城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES_COLLAPSE">
+			<Text>[ICON_MINUS]城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_DIPLOMACY_AND_LEAGUE_SESSION">
+			<Text>外交[NEWLINE][NEWLINE]世界议会召开剩余回合数：{1_Num}[NEWLINE][NEWLINE]由于有玩家进入了新的时代，间隔时间变短了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_DIPLOMACY_AND_VICTORY_SESSION">
+			<Text>外交[NEWLINE][NEWLINE]联合国会议召开剩余回合数：{1_TurnsUntilSession}[NEWLINE][NEWLINE]下一次[COLOR_POSITIVE_TEXT]世界领袖[ENDCOLOR]选举剩余回合数：{2_TurnsUntilVictorySession}[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]外交胜利[ENDCOLOR]现在有可能达成了。要获得胜利，一个文明必须在[COLOR_POSITIVE_TEXT]世界领袖[ENDCOLOR]选举中获得足够多的选票支持。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_24">
+			<Text>交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_25">
+			<Text>世界议会</Text>
+		</Row>
+		<!-- Victory Screen Victory Types -->
+		<Row Tag="TXT_KEY_VICTORYSCREEN_DOMINATION">
+			<Text>[ICON_VICTORY_DOMINATION]支配</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORYSCREEN_CULTURAL">
+			<Text>[ICON_VICTORY_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORYSCREEN_DIPLOMATIC">
+			<Text>[ICON_VICTORY_DIPLOMACY]外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORYSCREEN_SPACE_RACE">
+			<Text>[ICON_VICTORY_SPACE]科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE">
+			<Text>你对{2_Civ}的文化影响程度：{1_Num: number #.#}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_CULTURE_INFLUENCE_UNMET">
+			<Text>你对未知文明的文化影响程度：{1_Num: number #.#}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_TURNS_UNTIL_SESSION">
+			<Text>下一次世界领袖选举剩余回合数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_NEEDED">
+			<Text>赢得世界领袖选举需要的代表票数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_CONTROLLED">
+			<Text>你控制的代表票数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_DELEGATES_IN_WORLD">
+			<Text>总计代表票数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_UN_ACTIVE">
+			<Text>联合国已建立，启用外交胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_UN_INACTIVE">
+			<Text>联合国尚未建立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYVIEW_TOURISM_TEXT">
+			<Text>魅力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_NEW_TO_XP">
+			<Text>“神佑君王”的新手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_NEW_TO_XP2">
+			<Text>“新奇世界”的新手</Text>
+		</Row>
+		<!-- Score -->
+		<Row Tag="TXT_KEY_VP_POLICIES">
+			<Text>政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_GREAT_WORKS">
+			<Text>杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_RELIGION">
+			<Text>宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_POLICIES">
+			<Text>{1_Num} 来自政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_GREAT_WORKS">
+			<Text>{1_Num} 来自杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_RELIGION">
+			<Text>{1_Num} 来自宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCENARIO1">
+			<Text>剧情胜利点1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCENARIO2">
+			<Text>剧情胜利点2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCENARIO3">
+			<Text>剧情胜利点3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCENARIO4">
+			<Text>剧情胜利点4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
+			<Text>纵观历史长河，浮现出无数的具有远见的男男女女，改变了世界，使他们自己成为世界的焦点，其中有艺术家、科学家、军事家、商业家等等，他们的天赋使他们异于常人，并且高高在上。在游戏中，这样的人被称作“伟人”。[NEWLINE][NEWLINE]在游戏中，有9种不同的伟人：大商业家、大美术家、大音乐家、大文学家、大科学家、大工程师、陆军统帅、海军统帅以及大先知。每一种都有一种特别的能力。[NEWLINE][NEWLINE]您的文明需要建造某种建筑或奇观来供养“专业人员”，专业人员不在指定的城市区块工作，而是负责催生伟人。需要产能还是需要伟人，这对于城市的管理是一个很大的挑战。 </Text>
+		</Row>
+		<!--New Declare War Screen-->
+		<Row Tag="TXT_KEY_DECLARE_WAR_TOP">
+			<Text>你确定要向{1_CivName}宣战吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_NAME_DESC">
+			<Text>{1_PlayerName}({2_EraName})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_ALLIES_HEADER">
+			<Text>结盟的城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_HEADER">
+			<Text>与{1_CivName}的交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_TURNS_LEFT">
+			<Text>剩余{1_Num}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_YOU">
+			<Text> 来自</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_DEALS_FROM_OTHER">
+			<Text> 来自{1_CivName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES_HEADER">
+			<Text>商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_YES">
+			<Text>是</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_NO">
+			<Text>否</Text>
+		</Row>
+		<!--City Banner-->
+		<Row Tag="TXT_KEY_CITY_DIPLOMAT_OTHER_CIV_TT">
+			<Text>{1_SpyRank}{2_SpyName}以外交官的身份派驻{3_CityName}。当{4_SpyRank}{5_SpyName}在城市里时，他们会建立监控网络并告知你此文明的世界议会投票意向。</Text>
+		</Row>
+		<!-- Declare War Popup -->
+		<Row Tag="TXT_KEY_DECLARE_WAR_UNDER_PROTECTION_OF">
+			<Text>受到保护：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_ALLIED_CITYSTATES">
+			<Text>同盟城邦：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_ACTIVE_DEALS">
+			<Text>当前交易：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_TRADES_FROM_THEM">
+			<Text>来自他们：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_TRADES_FROM_YOU">
+			<Text>来自于你：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECLARE_WAR_TRADE_ROUTES">
+			<Text>商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACTIVE_DEAL_RESOURCE">
+			<Text>{1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

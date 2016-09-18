@@ -1,0 +1,885 @@
+﻿[1]开发公司
+[N]
+[N]
+[N]
+[1]Firaxis Games
+[N]
+[N]
+[2]设计团队
+[3]初代文明游戏创造者
+[4]Sid Meier
+[3]主设计师
+[4]Jon Shafer
+[3]副设计师
+[4]Ed Beach
+[4]Scott Lewis
+[N]
+[2]制作团队
+[3]主制作人
+[4]Dennis Shirk
+[3]副制作人
+[4]Lisa Miller
+[3]参与制作
+[4]Clint McCaul
+[4]Michelle Menard
+[3]文字主编
+[4]Michelle Menard
+[4]Paul Murphy
+[N]
+[2]程序设计团队
+[3]主程序设计师
+[4]Brian Wade
+[3]系统程序主管
+[4]Tim Kipp
+[3]人工智能程序主管
+[4]Ed Beach
+[3]图像程序主管
+[4]Dan Baker
+[3]界面程序主管
+[4]Marc Meyer
+[3]多人游戏程序主管
+[4]Justin Randall
+[4]Jonathan Tanner
+[3]工具程序主管
+[4]Bart Muzzin
+[3]人工智能程序员
+[4]Scott Lewis
+[3]系统程序员
+[4]Dom Cerquetti
+[4]Ken Grey
+[4]Greg Osefo
+[4]Don Wuenschell
+[3]多人游戏程序员
+[4]Todd Smith
+[3]图像程序员
+[4]Joshua Barczak
+[4]John Kloetzli
+[4]Marc Olano
+[4]Kiran Sudhakara
+[4]Marek Vojtko
+[3]模组程序员
+[4]Shaun Seckman
+[3]工具程序员
+[4]Eric Jordan
+[4]Scott Ramsey
+[4]Sergey Tiraspolsky
+[3]协助工作程序员
+[4]Justin Boswell
+[4]Dan Goodman, Blind Squirrel Games
+[4]Katie Hirsch
+[4]Steve Houchard
+[4]Michelle Menard
+[4]Daniel Selnick, Blind Squirrel Games
+[4]Bob Thomas
+[3]特别感谢
+[4]Ervin Hearn
+[N]
+[2]美工团队
+[3]主美工师
+[4]Dorian Newcomb
+[3]动画美工主管
+[4]Chris Hickman
+[3]角色美工主管
+[4]Brian Busatti
+[3]结构美工主管
+[4]Arne Schmidt
+[3]单位美工主管
+[4]Tom Symonds
+[3]界面美工主管
+[4]Russell Vaccaro III
+[3]特效美工主管
+[4]Todd Bilger
+[3]周边地形美工师
+[4]Steve Egrie
+[3]美工师
+[4]Aaron Andersen
+[4]Jerome J Atherholt
+[4]Michael R Bates
+[4]Kevin Bradley
+[4]Brian Busatti
+[4]Greg Cunningham
+[4]Taylor Fischer
+[4]Nathan Gordon
+[4]Arthur Gould
+[4]Jason Guy
+[4]David Jones
+[4]Suzana Kilic
+[4]Alex Kim
+[4]Jonathan Mack
+[4]Gregory Marlow
+[4]Ryan Murray
+[4]Jason Pastrana
+[4]Dan Perry
+[4]Brian Theodore
+[3]概念图美工
+[4]Marc Hudgins
+[4]Sang Han
+[3]附加美工人员
+[4]Erik Ehoff
+[4]Ed Lynch
+[4]Piero Macgowan
+[4]Jack Snyder
+[4]Art Wiesen
+[3]开场动画
+[4]Digic Pictures
+[3]开场动画脚本
+[4]Paul Murphy
+[N]
+[2]音效团队
+[3]音效部经理
+[4]Michael Curran
+[3]音效设计师
+[4]Michael Curran
+[4]Paul Heitsch
+[4]Geoff Knorr
+[4]Roland Rizzo
+[4]Ian Smith
+[3]音乐创作
+[4]Michael Curran
+[4]Geoff Knorr
+[3]协助音乐创作
+[4]Paul Heitsch
+[4]Roland Rizzo
+[4]Ian Smith
+[3]编曲
+[4]Michelle Menard
+[3]音频程序员
+[4]Dom Cerquetti
+[4]Ken Grey
+[4]Don Wuenschell
+[3]混音工程师
+[4]Scott Metcalfe
+[N]
+[2]质保团队
+[3]质保经理
+[4]Scott Wittbecker
+[3]质保主管
+[4]Grant Frazier
+[3]测试员
+[4]Michael Argo 
+[4]Justice Avery
+[4]Matthew Beach
+[4]David Cerny 
+[4]Daron Carlock
+[4]Jim Crawley
+[4]Pat Glascoe
+[4]Mike Lemon
+[4]Patrick Miller
+[N]
+[3]参与测试人员
+[4]bernie14
+[4]Bob Thomas
+[4]bobT
+[4]C.Roland
+[4]Chris Withers
+[4]dacole
+[4]Ray "Primax" Daniels
+[4]danthrax
+[4]DanQ
+[4]Joey "jdog5000" Durham
+[4]Zac "karadoc" Evans
+[4]Adam "Peachrocks" Ferguson
+[4]Scott "DTA" Forehan
+[4]freakmon
+[4]Didier "Arcan" Gagnière
+[4]Peter "jobe" Grabowitz
+[4]Michael "AlazkanAssassin" Hall
+[4]Rich "rah" Hebel
+[4]Fredrik "Grey Fox" Henriksson
+[4]Hugin
+[4]Impaler[WrG]
+[4]Andrew "ainwood" Inwood
+[4]Max Jacobson
+[4]Nick "Abyss" Karl
+[4]Dale Kent
+[4]KillerClowns
+[4]loki1232
+[4]Ryan Lord
+[4]Joe "snoopy369" Matise
+[4]Kelly "yin26" McLaughlin
+[4]Meredith
+[4]Ming
+[4]monoha
+[4]Joseph Moskie
+[4]Joel "colonelmustard" Myers
+[4]BARBER "Penny" Nicolas
+[4]Nikis-Knight
+[4]Gloria Carson "Nolan"
+[4]William "Wilboman" Nordan
+[4]notyoueither
+[4]OgreBG
+[4]Opera
+[4]Derek "Kael" Paxton
+[4]Anthony "Dominae" Petryk
+[4]Peter "Gyathaar" Pettersen
+[4]Pfeffersack
+[4]Bruce "Valkrionn" Powell
+[4]Stewart "MMC" Rice
+[4]robin-uiowa
+[4]James "Lord_Phan" Saul
+[4]Elliot Schroeder
+[4]Anthony "Ztaesek" Seekatz
+[4]Claudiu "claudelu" Simion
+[4]Skidbladnir
+[4]Luke "Snafusmith" Smith
+[4]Wouter "Locutus" Snijders
+[4]Matthew "GeneralMatt" Standish
+[4]Hal "SirPartyMan" Steiner
+[4]TheMeInTeam
+[4]totallycres
+[4]Jacob "xienwolf" Turner
+[4]Daniels "Solver" Umanovskis
+[4]Velociryx
+[4]Radek "vondrack" Vondracek
+[4]Steve "WarningU2" Warner
+[4]Stephan "seZereth" Weiss
+[4]Frithjof "Nikolai" Wilborn
+[4]Xavier Wynns
+[N]
+[2]FIRAXIS 管理层
+[3]首席执行官/总裁
+[4]Steve Martin
+[3]创意总监
+[4]Sid Meier
+[3]工作室艺术指导
+[4]Seth Spaulding
+[4]Steve Ogden
+[3]软件开发主管
+[4]Steve Meyer
+[3]执行制作人
+[4]Barry Caudill
+[3]营销主管
+[4]Kelley Gilmore
+[3]营销助理
+[4]Peter Murray
+[3]人力资源主管
+[4]Shawn Kohn
+[3]办公室主管
+[4]Donna Milesky
+[3]信息技术经理
+[4]Josh Scanlan
+[3]信息技术总监
+[4]Matt Baros
+[3]特别项目主管
+[4]Susan Meier
+[3]AMD 技术支持
+[4]Steve Bell
+[4]Bill Bilodeau
+[4]Thomas Fortier
+[3]NVIDIA 技术支持
+[4]Evan Hart
+[4]Brian Harvey
+[3]INTEL 技术支持
+[4]Yannis Minadakis
+[4]Michael Katz
+[4]Aaron Davies
+[3]VALVE 技术支持
+[4]John Bartkiw
+[4]Chris Boyd
+[4]Neil Kaethler
+[4]Alfred Reynolds
+[4]Jason Ruymen
+[3]GAMESPY 技术支持
+[4]Drew Curby
+[4]Andrew Textor
+[4]Ryan Vance
+[4]Mike Ruangutai
+[4]Nursel Asikhan-Berlinguette
+[4]Matt Whithed
+[4]Kirk Gilmore
+[3]Fork 技术支持
+[4]VFX Powered by Fork Particle
+[3]Microsoft 技术支持
+[4]Chuck Walbourne
+[3]Aerial Photographer
+[4]Steve Lowther
+[2]特别感谢
+[4]Joanne Miller
+[4]Maxwell Randall
+[4]Anastasia Randall
+[4]Wyatt Randall
+[N]
+[N]
+[N]
+[4]献给我们家人和所爱的人! 感谢你们的耐心支持!
+[N]
+[N]
+[N]
+[N]
+[4]2K 游戏公司发行.
+[4]2K 游戏公司为 2K 旗下子公司, 2K 为 Take-Two 交互软件公司发行部门.
+[N]
+[N]
+[N]
+[N]
+[1]2K 发行部门
+[3]总裁
+[4]Christoph Hartmann
+[3]首席运营管
+[4]David Ismailer
+[3]产品开发副总裁
+[4]Greg Gobbi
+[3]产品开发主管
+[4]John Chowanec
+[3]产品运营主管
+[4]Kate Kellogg
+[3]创意产品主管
+[4]Jack Scalici
+[3]创意产品高级经理
+[4]Chad Rocco
+[3]音乐创意授权经理
+[4]Lydia Jenner
+[3]制作人
+[4]V. Garrett Bittner Jr.
+[3]副制作人
+[4]Tiffany Nagano
+[4]Ben Chang
+[3]产品助理
+[4]Casey Cameron
+[4]Andrew Dutra
+[4]Shawn Martin
+[3]产品营销高级副总裁
+[4]Sarah Anderson
+[3]营销副总裁
+[4]Matt Gorman
+[3]国际营销副总裁
+[4]Matthias Wehner
+[3]营销主管
+[4]Tom Bass
+[3]全球公关主管
+[4]Markus Wilding
+[3]高级公关经理
+[4]Charlie Sinhaseni
+[3]公关经理
+[4]Jennie Sue
+[3]国际公关与营销助理
+[4]Erica Denning
+[3]国际事务经理
+[4]Karl Unterholzner
+[3]艺术主管
+[4]Lesley Zinn
+[3]网站主管
+[4]Gabe Abarcar
+[3]网站设计师
+[4]Seth Jones
+[3]互动营销高级经理
+[4]Elizabeth Tobey
+[3]网络社区经理
+[4]Greg Laabs
+[3]产品营销主管
+[4]Jackie Truong
+[3]产品营销助理
+[4]Ham Nguyen
+[3]技术主管
+[4]Jacob Hawley
+[3]商业开发副总裁
+[4]Kris Severson
+[3]销售及授权副总裁
+[4]Steve Glickstein
+[3]战略营销及授权主管
+[4]Paul Crockett
+[3]法律副总裁
+[4]Peter Welch
+[3]运营主管
+[4]Dorian Rehfield
+[3]计划主管
+[4]Phil Shpilberg
+[3]视频产品经理
+[4]J. Mateo Baker
+[3]视频编辑
+[4]Kenny Crosbie
+[3]助理视频编辑
+[4]Michael Howard
+[3]授权/运营负责人
+[4]Xenia Mul
+[3]媒体促进主管
+[4]Shelby Cox
+[3]协作营销副经理
+[4]Dawn Burnell
+[N]
+[2]2K 质保团队
+[3]质保副总裁
+[4]Alex Plachowski
+[3]质保测试项目经理
+[4]Grant Bryson
+[3]执行经理
+[4]Alexis Ladd
+[3]首席测试员
+[4]Griffin Funk
+[3]首席测试员(支持团队)
+[4]Sean Manzano
+[4]Andrew Webster
+[3]Senior Tester
+[4]Ruben Gonzalez
+[4]Sara Lane
+[4]Justin Waller
+[3]质保团队
+[4]Rick Alvarez
+[4]Chad Bert
+[4]Skyler Bible
+[4]Vernon Cabreza
+[4]Steve Capri
+[4]Jason Carr
+[4]Ariel Ceballos
+[4]Alex Coleman
+[4]John Dickerson
+[4]Keith Doran
+[4]Anthony Franco
+[4]Andres Garcia
+[4]Scott Harris
+[4]Ricky Hernandez
+[4]Phi Huynh
+[4]Jeff Jaimes
+[4]Jonathan Keiser
+[4]Davis Krieghoff
+[4]Richard Medina
+[4]Jason Mitchell
+[4]Tyler Muelrath
+[4]Matthew Porter
+[4]Matt Priddy
+[4]Matt Proudfoot
+[4]Angie Ricci
+[4]Dio Rochino
+[4]Vivek Shrivastava
+[4]Jess Sparks
+[4]Dung Trinh
+[4]Luke Williams
+[3]特别鸣谢
+[4]Lori Durrant
+[4]Todd Ingram
+[4]Chris Jones
+[4]Jana Kubanski
+[4]Eric Lane
+[4]Merja Reed
+[4]Jay Ruiz
+[4]Rick Shawalker
+[4]Madeleine St. Marie
+[N]
+[2]2K 国际公司
+[3]总经理
+[4]Neil Ralley
+[3]国际营销经理
+[4]Lia Tsele
+[3]国际产品经理
+[4]Warner Guinée
+[3]国际公关经理
+[4]Emily Britt
+[3]国际公关主管
+[4]Matt Roche
+[3]授权主管
+[4]Claire Roberts
+[3]网站内容经理
+[4]Martin Moore
+[3]国际营销助理
+[4]Tom East
+[N]
+[2]2K 国际公司产品开发
+[3]国际制作人
+[4]Sajjad Majid
+[3]本地化经理
+[4]Jean-Sebastien Ferey
+[3]本地化经理助理
+[4]Arsenio Formoso
+[3]外部本地化团队
+[4]Around the Word
+[4]Effective Media
+[4]Synthesis International Srl
+[4]Synthesis Iberia
+[4]本地化工具提供方:  XLOC Inc.
+[N]
+[2]2K 国际公司质保团队
+[3]质保经理
+[4]Ghulam Khan
+[3]质保监督员
+[4]Sebastian Frank
+[4]Hugo Sieiro
+[3]主工程师
+[4]Wayne Boyce
+[3]本地化质保项目主管
+[4]Lena Brenk
+[3]本地化质保技术员
+[4]Anthony Busselier
+[4]Alba Loureiro
+[4]Andreas Strothmann
+[4]Antonio Grasso
+[4]Elmar Schubert
+[4]Fabrizio Mariani
+[4]Florian Genthon
+[4]Giovanni De Caro
+[4]Javier Vidal
+[4]Jose Minana
+[4]Karim Cherif
+[4]Luigi Di Domenico
+[4]Oscar Pereira
+[4]Stefan Rossi
+[4]Tirdad Nosrati
+[3]设计团队
+[4]James Crocker
+[4]Tom Baker
+[3]2K 国际公司团队
+[4]Agnès Rosique
+[4]Alex Bickham
+[4]Ben Seccombe
+[4]David Halse
+[4]Fabrice Poirie
+[4]Jan Sturm
+[4]Jean-Paul Hardy
+[4]Luis De La Camara Burditt
+[4]Olivier Troit
+[4]Sandra Melero
+[4]Simon Turner
+[4]Snezana Stojanovska
+[3]Take-Two 国际公司运营团队
+[4]Anthony Dodd
+[4]Martin Alway
+[4]Cat Findlay
+[4]Nisha Verma
+[4]Robert Willis
+[4]Denisa Polcerova
+[4]Stefan Eder
+[N]
+[N]
+[3]有关文明5音乐制作信息请访问: 
+[4]www.civilization5.com/musiccredits
+[N]
+[N]
+[2]原始音乐录制
+[3]布拉格爱乐乐团
+[3]指挥 - Andy Brick
+[N]
+[4]首席作曲家 - Rita Cepurcenko & Milos Jahoda
+[4]交响乐制作人 - Petr Pycha
+[4]音效工程师 - Jan Kotzmann
+[4]助理工程师 - Cenda Kotzmann
+[4]纪录员 - Tomas Kirschner
+[4]和声主管 - Stanislav Mistr
+[N]
+[3]第一小提琴
+[4]Rita Cepurcenko
+[4]Costin Anghelescu
+[4]Vaclav Dvorak
+[4]Frantisek Eret
+[4]Petr Typolt
+[4]Petr Hlavac
+[4]Anna Jirovcova
+[4]Pavel Kutman
+[4]David Sroubek
+[4]Jiri Skoda
+[4]Eva Rohanova
+[4]Vaclav Riedlbauch
+[4]Hana Simeckova
+[4]Hana Kutmanova
+[4]David Vorac
+[4]Lucie Hulova
+[N]
+[3]第二小提琴
+[4]Libor Kanka
+[4]Martin Pachner
+[4]Ludvik Sklenar
+[4]Jaroslav Koran
+[4]Miroslav Kosina
+[4]Vlastimil Zeman
+[4]Anna Vankova
+[4]JindrichVacha
+[4]Jilji Teringer
+[4]Milan Machacka
+[4]Katerina Gemrotova
+[4]Martin Sandera
+[4]Vlastimil Zeman
+[4]Martin Tupy
+[N]
+[3]中提琴
+[4]Zdenek Zindel
+[4]Vladimir Bazant
+[4]Tomas Duda
+[4]Oldrich Smola jun.
+[4]Alan Melkus
+[4]Jan Nykryn
+[4]Stanislav Kodad
+[4]Eduard Vanicek
+[4]Vladimir Zajacik
+[4]Jiri Zajic
+[4]Jindrich Moravec
+[4]Kamila Puteaney
+[N]
+[3]大提琴
+[4]Milos Jahoda
+[4]Jaroslav Matejka
+[4]Pavel Belousek
+[4]Richard Zemlicka
+[4]Petr Malisek
+[4]Marek Elznic
+[4]Vera Anyzova
+[4]Petr Sporcl
+[4]Roman Stehlik
+[4]David Havelik
+[N]
+[3]低音提琴
+[4]Martin Zelenka
+[4]Michal Novak
+[4]Jan Buble
+[4]Lukas Verner
+[4]Vaclav Hoskovec
+[4]Ales Benda
+[4]Radomir Zalud
+[4]Jan Prokop
+[N]
+[3]长笛
+[4]Robert Heger
+[4]Martin Klimanek
+[N]
+[3]短笛
+[4]Jiri Skuhra
+[N]
+[3]双簧管
+[4]Libena Sequardtova
+[4]Jan Hodanek
+[N]
+[3]英国号
+[4]Monika Bouskova
+[1]
+[3]黑管
+[4]Jan Mach
+[4]Vlastimil Mares
+[N]
+[3]单簧管
+[4]Miroslav Plechaty
+[N]
+[3]大管 
+[4]Svatopluk Cech
+[4]Lumir Vanek
+[N]
+[3]低音大管
+[4]Petr Nemecek
+[N]
+[3]圆号
+[4]Frantisek Langweil
+[4]Pavel Douba
+[4]Tomas Kirschner
+[4]Petr Hernych
+[N]
+[3]小号
+[4]Marek Zvolanek
+[4]Svatopluk Zaal
+[4]Jan Fiser
+[N]
+[3]长号
+[4]Jiri Novotony
+[4]Frantisek Zazvonil
+[N]
+[3]低音长号
+[4]Petr Cihak
+[N]
+[3]低音大号
+[4]Karel Malimanek
+[N]
+[3]竖琴
+[4]Stana Ramesova
+[N]
+[3]定音鼓
+[4]Svatopluk Cech ml.
+[N]
+[3]打击乐器
+[4]Miroslav Kejmar ml.
+[4]Jiri Svoboda
+[4]Ivan Hoznedr
+[N]
+[3]女高音
+[4]Grazina Biernot
+[4]Andrea Soukupova
+[4]Marie Matejkova
+[4]Martina Kritznerova
+[4]Vera Vachova
+[4]Romana Hyzova
+[4]Katerina Kotesovcova
+[4]Darina Glatzova
+[N]
+[3]女低音
+[4]Dana Sedmidubska
+[4]Stepanka Pychova
+[4]Michaela Stefackova
+[4]Marie Smaterova
+[4]Jana Dvorakova
+[4]Jana Drabkova
+[4]Ludmila Hudeckova
+[4]Romana Soukupova
+[N]
+[3]男高音
+[4]Petr Klima
+[4]Bronislav Palowski
+[4]Tomas Hinterholzinger
+[4]Lubos Moravec
+[4]Tomas Fiala
+[4]Dusan Ruzicka
+[4]Viktor Bycek
+[4]Michal Forst
+[N]
+[3]男低音
+[4]Michal Krusek
+[4]Tomas Hanzl
+[4]Miroslav Vacha
+[4]Martin Vacula
+[4]Wouter Tukker
+[4]Jan Socha
+[4]Vladimir Hambalek
+[4]Jiri Sejpal
+[N]
+[N]
+[2]配音演员
+[4]旁白 - Morgan Sheppard
+[4]酋长之子 - Rick Pasqualone
+[4]文化顾问 - Vanessa Aspillaga
+[4]经理顾问 - Nancy Linari
+[4]军事顾问 - RF Daley
+[4]科技顾问 - John Bentley 
+[4]亚历山大 - Miró de Monteseppia
+[4]阿斯吉亚 - Mori Majid
+[4]奥古斯都·恺撒 - Émile Khordoc
+[4]叶卡捷琳娜二世 - Svetlana Migdissova
+[4]大流士一世 - Yassin Alsalman
+[4]甘地 - Avtar Sandhu
+[4]乔治·华盛顿 - Marcel Jeanin
+[4]哈伦·拉希德 - Laith Marouf
+[4]海华沙 - Kanentokon Hemlock
+[4]蒙特祖玛 - Alfredo Camacho
+[4]拿破仑 - Greg Gobbi
+[4]织田信长 - Ryosuke Aoike
+[4]奥托·冯·俾斯麦 - Heinz Becker
+[4]伊丽莎白一世 - Julia Lenardon
+[4]拉美西斯二世 - George Saad
+[4]兰甘亨 - Thon Kongkaewpaisarn
+[4]苏莱曼一世 - Onur Aydemir
+[4]武则天 - Rachel Lei Xie
+[N]
+[3]Wave Generation, Inc.
+[3]当代北美长笛乐队
+[4]Ken Light
+[4]Amon Olorin 长笛乐队
+[3]音乐指导
+[4]Scott Metcalfe, Mind's Ear
+[3]原始对话混音组, POP Sound
+[4]Tim West
+[4]Tim Hoogenakker
+[4]Dante Fazio
+[3]原始对话录制组, POP Sound 
+[4]Brett Rothfeld
+[4]Anthony Vanchure
+[4]Stephen Selvaggio
+[3]对话编辑
+[4]Garrett Montgomery
+[3]原始对话混音组, Heavy Melody
+[4]Dave Fraser
+[3]Fox Studios
+[4]Rick Fox 
+[4]Michael Weber 
+[4]Tim Schmidt
+[4]Cal Halter
+[4]Keith Fox
+[4]Dustin Smith
+[4]Joe Schmidt
+[3]特别感谢 
+[4]Daniel Einzig
+[4]Christopher Fiumano
+[4]Jenn Kolbe 
+[4]David Boutry
+[4]Ryan Dixon
+[4]Michael Lightner
+[4]Gail Hamrick
+[4]Sharon Hunter
+[4]Kate Ryan
+[4]Michele Shadid
+[4]2K 信息服务团队
+[4]Jordan Katz
+[4]David Gershik
+[4]Take-Two 销售团队
+[4]Take-Two 销售渠道团队
+[4]Seth Krauss
+[4]Take-Two 法律团队
+[4]Jonathan Washburn
+[4]Cindi Buckwalter
+[4]Alan Lewis
+[4]Meg Maise
+[4]Siobhan Boes
+[4]Jason Bergman
+[4]Brooke Grabrian
+[4]-Access Communications
+[4]KD&E
+[4]VG Market
+[4]Rokkan 
+[4]Art Machine
+[4]RDA
+[4]CivAnon.org
+[4]Gwendoline Oliviero
+[N]
+[2]2K 上海公司
+[3]总经理
+[4]Julien Bares  
+[3]产品主管
+[4]Liu Jing
+[3]制作人
+[4]Liu Shan
+[4]Ren Ye Qing
+[3]美工主管
+[4]Yi Zheng
+[3]高级美工师
+[4]Li Ying Jun
+[3]主动画师
+[4]Xu Jie
+[3]动画师
+[4]Yin Ji
+[4]Shen Yi Xin
+[4]Wu Xiao
+[4]Tang Yi Fan
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[4]再次感谢你，文明5玩家!
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]
+[N]

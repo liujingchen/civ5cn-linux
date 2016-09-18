@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+    <!-- ETHIOPIA -->
+    <Row Tag="TXT_KEY_CITY_NAME_ADDISABABA">
+      <Text>亚的斯亚贝巴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HARAR">
+      <Text>哈勒尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ADWA">
+      <Text>阿杜瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LALIBELA">
+      <Text>拉利贝拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GONDAR">
+      <Text>贡德尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AXUM">
+      <Text>阿克苏姆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DIREDAWA">
+      <Text>德雷达瓦</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_BAHIRDAR">
+      <Text>巴赫达尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ADAMA">
+      <Text>阿达玛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_MEKELE">
+      <Text>默克莱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AWASA">
+      <Text>阿瓦萨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JIMMA">
+      <Text>季马</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_JIJIGA">
+      <Text>吉吉加</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DESSIE">
+      <Text>德赛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DEBREBERHAN">
+      <Text>德卜勒伯尔汉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHASHAMANE">
+      <Text>沙舍默内</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DEBREZEYIT">
+      <Text>德卜勒泽特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SODO">
+      <Text>索多</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_HOSAENA">
+      <Text>候塞纳</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEKEMTE">
+      <Text>内格默特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ASELLA">
+      <Text>阿塞拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DILA">
+      <Text>迪拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ADIGRAT">
+      <Text>阿迪格拉特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DEBREMARKOS">
+      <Text>德卜勒马科斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_KOMBOLCHA">
+      <Text>孔博勒查</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_DEBRETABOR">
+      <Text>德卜勒塔博尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SEBETA">
+      <Text>瑟伯塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SHIRE">
+      <Text>希雷</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_AMBO">
+      <Text>安波</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_NEGELEARSI">
+      <Text>讷格莱</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_GAMBELA">
+      <Text>甘贝拉</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_ZIWAY">
+      <Text>兹怀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_WELDIYA">
+      <Text>沃勒德亚</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

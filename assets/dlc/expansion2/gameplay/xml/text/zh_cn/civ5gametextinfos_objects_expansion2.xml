@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITYVIEW_GREAT_WORK_BUILDINGS_TEXT">
+			<Text>杰作展示建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ARTIFACTS">
+			<Text>历史遗址</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS">
+			<Text>隐藏历史遗址</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_NUTMEG">
+			<Text>肉豆蔻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CLOVES">
+			<Text>丁香</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEPPER">
+			<Text>胡椒</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG">
+			<Text>建立[LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]发掘现场[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP">
+			<Text>修建[LINK=IMPROVEMENT_BRAZILWOOD_CAMP]红木林场[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH">
+			<Text>修建[LINK=IMPROVEMENT_KASBAH]卡斯巴哈[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA">
+			<Text>修建[LINK=IMPROVEMENT_FEITORIA]商站[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU">
+			<Text>修建[LINK=IMPROVEMENT_CHATEAU]宫堡[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG">
+			<Text>发掘现场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP">
+			<Text>红木林场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KASBAH">
+			<Text>卡斯巴哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FEITORIA">
+			<Text>商站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHATEAU">
+			<Text>宫堡</Text>
+		</Row>
+		<!-- Archaeological Artifacts-->
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RUIN">
+			<Text>串珠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CAMP">
+			<Text>陶片</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_1">
+			<Text>斧头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_MELEE_2">
+			<Text>盾牌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_RANGED">
+			<Text>箭头</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_ANCIENT_CITY">
+			<Text>面具</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RUIN">
+			<Text>护身符</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CAMP">
+			<Text>古钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_1">
+			<Text>矛尖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_MELEE_2">
+			<Text>护胫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_RANGED">
+			<Text>标枪尖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_CLASSICAL_CITY">
+			<Text>项链</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RUIN">
+			<Text>吊坠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CAMP">
+			<Text>长船</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_1">
+			<Text>短剑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_MELEE_2">
+			<Text>胸甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_RANGED">
+			<Text>弩箭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_MEDIEVAL_CITY">
+			<Text>圣杯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RUIN">
+			<Text>塑像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CAMP">
+			<Text>金币</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_1">
+			<Text>双手剑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_MELEE_2">
+			<Text>板甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_RANGED">
+			<Text>弹丸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_RENAISSANCE_CITY">
+			<Text>王冠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RUIN">
+			<Text>小雕像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CAMP">
+			<Text>带扣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_1">
+			<Text>子弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_MELEE_2">
+			<Text>马刀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_RANGED">
+			<Text>炮弹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_OTHER_ERA_CITY">
+			<Text>耳环</Text>
+		</Row>
+		<!-- Processes-->
+		<Row Tag="TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION">
+			<Text>国际空间站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLD_FAIR">
+			<Text>世界博览会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLD_GAMES">
+			<Text>国际运动会</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="TXT_KEY_FEATURE_LAKE_VICTORIA">
+			<Text>维多利亚湖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_KILIMANJARO">
+			<Text>乞力马扎罗山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_SOLOMONS_MINES">
+			<Text>所罗门的宝藏</Text>
+		</Row>
+		<!-- Great Works -->
+		<Row Tag="TXT_KEY_GREAT_WORK_ODYSSEY">
+			<Text>奥德赛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FABLES">
+			<Text>伊索寓言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OEDIPUS">
+			<Text>俄狄浦斯王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LYSISTRATA">
+			<Text>利西翠妲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AENEID">
+			<Text>埃涅阿斯纪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_METAMORPHOSES">
+			<Text>变形记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TRUE_STORY">
+			<Text>真实的故事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUBAIYAT">
+			<Text>鲁拜集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MASNAVI">
+			<Text>玛斯纳维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RAMAYAMA">
+			<Text>罗摩衍那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAHABHARATA">
+			<Text>摩诃婆罗多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_URUBHANGA">
+			<Text>断股</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ABHIJNANASAKUTALAM">
+			<Text>沙恭达罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHU_CI">
+			<Text>楚辞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHUIHU_ZHUAN">
+			<Text>水浒传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JIN_PING_MEI">
+			<Text>金瓶梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HONG_LOU_MENG">
+			<Text>红楼梦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KOKIN_WAKASHU">
+			<Text>古今和歌集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GENJI_MONOGATARI">
+			<Text>源式物语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TSUREZUREGUSA">
+			<Text>徒然草</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHINJUTEN_NO_AMIJIMA">
+			<Text>情死天网岛（心中天网岛）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UGETSU_MONOGATARI">
+			<Text>雨月物语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAGAHAI_WA_NEKO">
+			<Text>我是猫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EL_INGENIOSO">
+			<Text>堂吉诃德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MARIA">
+			<Text>玛丽亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MARTIN_FIERRO">
+			<Text>马丁菲耶罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AZUL">
+			<Text>深蓝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GIRART_DE_VIENNE">
+			<Text>维埃纳的杰拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_VIE_DE_GARGANTUA">
+			<Text>巨人传（卡冈都亚和庞大固埃）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CANDIDE_OU_LOPTIMISME">
+			<Text>憨第德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_TROIS_MOUSQUETAIRES">
+			<Text>三个火枪手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_MISERABLES">
+			<Text>悲惨世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VIGNT_MILLE_LIEUES">
+			<Text>海底两万里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_LA_RECHERCHE">
+			<Text>追忆似水年华</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIVINA_COMMEDIA">
+			<Text>神曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IL_CANZONIERE">
+			<Text>歌本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORLANDO_FURIOSO">
+			<Text>疯狂的罗兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAUL">
+			<Text>扫罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_RAUBER">
+			<Text>强盗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FAUST">
+			<Text>浮士德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REVIZOR">
+			<Text>钦差大臣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PRESTIPLENIYE">
+			<Text>罪与罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VOYNA_I_MIR">
+			<Text>战争与和平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHAYKA">
+			<Text>海鸥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NA_DNE">
+			<Text>底层</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CANTERBURY_TALES">
+			<Text>坎特伯雷故事集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LE_MORTE_DARTHUR">
+			<Text>亚瑟之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_FAERIE_QUEENE">
+			<Text>仙后</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MACBETH">
+			<Text>麦克白</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PRIDE_AND_PREJUDICE">
+			<Text>傲慢与偏见</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRANKENSTEIN">
+			<Text>弗兰肯斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_CHRISTMAS_CAROL">
+			<Text>圣诞颂歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ALICES_ADVANTURES">
+			<Text>爱丽丝梦游仙境</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BARRACK_ROOM_BALLADS">
+			<Text>营房谣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TIME_MACHINE">
+			<Text>时间机器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SIGN_OF_THE_FOUR">
+			<Text>四签名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LADY_CHATTERLEYS_LOVER">
+			<Text>查泰莱夫人的情人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SKETCH_BOOK">
+			<Text>见闻札记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LAST_OF_THE_MOHICANS">
+			<Text>最后的莫希干人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_RAVEN">
+			<Text>乌鸦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TWICE_TOLD_TALE">
+			<Text>重讲一遍的故事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOBY_DICK">
+			<Text>白鲸（莫比·迪克）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNCLE_TOMS_CABIN">
+			<Text>汤姆叔叔的小屋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WALDEN">
+			<Text>瓦尔登湖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEAVES_OF_GRASS">
+			<Text>草叶集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ADVENTURES_OF_HUCKLEBERRY">
+			<Text>哈克贝利·费恩历险记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POEMS">
+			<Text>诗集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RED_BADGE_OF_COURAGE">
+			<Text>红色英勇勋章</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WONDERFUL_WIZARD_OF_OZ">
+			<Text>绿野仙踪（奥兹国的魔法师）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_GATSBY">
+			<Text>了不起的盖茨比</Text>
+		</Row>
+		<!-- GREAT ART -->
+		<Row Tag="TXT_KEY_GREAT_GIRL_WITH_PEARL_EARRING">
+			<Text>戴珍珠耳环的少女</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_HENRY_VIII">
+			<Text>亨利八世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNTERS_IN_THE_SNOW">
+			<Text>冬季捕鸟陷阱风景</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LES_DEMOISELLES">
+			<Text>亚维农的少女</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LUNCHEON">
+			<Text>船上的午宴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MONA_LISA">
+			<Text>蒙娜丽莎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUNDAY_AFTERNOON">
+			<Text>大碗岛的星期日下午</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VIEW_OF_TOLEDO">
+			<Text>托莱多风景</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WATER_LILIES">
+			<Text>睡莲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STARRY_NIGHT">
+			<Text>星夜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIRTH_OF_VENUS">
+			<Text>维纳斯的诞生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BINDO_ALTOVITI">
+			<Text>宾多·阿托维提的肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_DRAGON">
+			<Text>圣乔治和龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CREATION_OF_ADAM">
+			<Text>创造亚当</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GALLERY_OF_THE_LOUVRE">
+			<Text>卢浮宫的画廊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WASHINGTON_CROSSING">
+			<Text>华盛顿横渡特拉华河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ARRANGEMENT_IN_GREY">
+			<Text>灰色与黑色的交向：母亲的画像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BREEZING_UP">
+			<Text>乘风航行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_THOUSAND_LI">
+			<Text>千里江山图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DWELLING_IN_THE_FUCHUN">
+			<Text>富春山居图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ALONG_THE_RIVER">
+			<Text>清明上河图（塞爱维小提示：此处选用的其实是清代宫廷画家的仿作）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEAF_2">
+			<Text>仕女图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EMPEROR_TAIZONG">
+			<Text>步辇图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPRING_MORNING">
+			<Text>汉宫春晓图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GREAT_WAVE">
+			<Text>神奈川沖浪里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EVENING_SHOWER">
+			<Text>大桥安宅之夕立（名所江户百景之五十三）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_L_ABSINTHE">
+			<Text>苦艾酒馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UPAUPA_SCHNEKLUD">
+			<Text>大提琴手谢内克鲁德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_BAR_AT_THE_FOLIES">
+			<Text>女神游乐厅的吧台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BALL_AT_THE_MOULIN">
+			<Text>红磨坊的舞会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_KISS">
+			<Text>吻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AMERICAN_GOTHIC">
+			<Text>美国哥特式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SRI_SHANMUKAHA">
+			<Text>塞犍陀（至尊六面天）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAUD_RECEIVES_A_ROBE">
+			<Text>达乌德从穆宁汗处获得荣誉之袍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YUSEF_AND_ZULEYKHA">
+			<Text>尤素福与祖蕾卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ASCENT_OF_MUHAMMAD">
+			<Text>先知穆罕默德夜行登霄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LIBERTY_LEADING_THE_PEOPLE">
+			<Text>自由引导人民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_JEROME_IN_HIS_STUDY">
+			<Text>书房中的圣哲罗姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PARTHENON_FRIEZE">
+			<Text>菲迪亚斯向朋友展示帕特农神庙的浮雕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUE_DE_PARIS">
+			<Text>雨中的巴黎街道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIGHT_WATCH">
+			<Text>夜巡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEATH_OF_MARAT">
+			<Text>马拉之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ETIENNE_CHEVALIER">
+			<Text>埃蒂安纳·谢瓦利埃和圣司提反</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_FRANCIS">
+			<Text>圣方济的沉思</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HATAORI">
+			<Text>机织</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JANE_GREY">
+			<Text>简·格雷的处刑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WANDERER">
+			<Text>雾海漫游者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BABEL">
+			<Text>巴别塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_LADY">
+			<Text>年轻女人肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KINDRED">
+			<Text>志趣相投的人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BLUE_BOY">
+			<Text>蓝衣少年</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SECOND_OF_MAY">
+			<Text>一八〇八年五月三日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_CART">
+			<Text>最后的弹匣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EARLY_AUTUMN">
+			<Text>荷塘早秋图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_APPRECIATING_LOTUSES">
+			<Text>周茂叔爱莲图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EQUESTRIAN_PORTRAIT">
+			<Text>查理五世骑马像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ARMADA">
+			<Text>伊丽莎白一世无敌舰队肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRANCIS_I">
+			<Text>法国弗朗西斯一世国王肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SELF_PORTRAIT">
+			<Text>自画像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VERTUMNUS">
+			<Text>四季之神威耳廷努斯（鲁道夫二世画像）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_SUPPER">
+			<Text>最后的晚餐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_A_MAN">
+			<Text>戴头巾的男子（自画像）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRONT_OF_THE_MIRROR">
+			<Text>裸女照镜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ADORATION">
+			<Text>东方三博士的崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUBENS_AND_ISABELLA">
+			<Text>鲁本斯和伊莎贝拉·布兰特在金银花亭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHILDS_BATH">
+			<Text>为孩子洗浴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CARD_PLAYERS">
+			<Text>玩纸牌的人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SWING">
+			<Text>秋千</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GIANT_MAGNOLIAS">
+			<Text>蓝色天鹅绒布上的大玉兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_KILLING">
+			<Text>圣乔治屠龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JACQUES_AND_BERTHE">
+			<Text>雅克与贝尔特·里普希茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DASH_FOR_TIMBER">
+			<Text>冲向树林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GEORGE_WASHINGTON_PORTRAIT">
+			<Text>乔治·华盛顿（兰丝唐呢绒画像）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ATTACK_ON_BEIJING">
+			<Text>联合军皇城内敌兵击退之图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SUMO_WRESTLER">
+			<Text>相扑力士杣之花渕右卫门</Text>
+		</Row>
+		<!-- Music -->
+		<Row Tag="TXT_KEY_GREAT_WORK_NIN_ME_SCHARA">
+			<Text>至高的女神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HYMN_TO_THE_MUSE">
+			<Text>缪斯颂歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GUANGLING_SAN">
+			<Text>广陵散</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAMMA_BADA_YATATHANNA">
+			<Text>拉玛·芭达·雅塔莎娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WHIRLING_DERVISH">
+			<Text>跳回旋舞的苦行僧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UT_QUEANT_LAXIS">
+			<Text>轻柔之声（施洗约翰赞歌）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MESSE_DE_NOSTRE_DAME">
+			<Text>圣母弥撒曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NYMPHES_DES_BOIS">
+			<Text>木仙女</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PAYOJI_MAINE">
+			<Text>帕约吉·麦尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPEM_IN_ALIUM">
+			<Text>唯一的希望</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MISSA_PAPAE_MARCELLI">
+			<Text>马塞勒斯教皇弥撒曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XICOCHI">
+			<Text>安睡（经文歌）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ROKUDAN_NO_SHIRABE">
+			<Text>六段之调</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BRANDENBERG_CONCERTOS">
+			<Text>勃兰登堡协奏曲（G大调第三协奏曲）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GLORIA_LAUS_ET_HONOR">
+			<Text>荣耀的赞美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA">
+			<Text>救难的圣母</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_EINE_KLEINE_NACHTMUSIC">
+			<Text>弦乐小夜曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAKURAGARI">
+			<Text>樱狩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIFTH_SYMPHONY">
+			<Text>第五交响典（“命运”）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CAPRICE_NO_24">
+			<Text>A小调第二十四号随想曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TE_DEUM">
+			<Text>赞美神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ETUDE_OP_10">
+			<Text>前奏曲“雨滴”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_WALKURE">
+			<Text>女武神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_FORZA_DEL_DESTINO">
+			<Text>神啊，请赐我和平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CONTRADANZAS_CUBANAS">
+			<Text>古巴行列舞曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIE_FLEDERMAUS">
+			<Text>蝙蝠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_DANCES">
+			<Text>匈牙利舞曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIGHT_ON_BALD_MOUNTAIN">
+			<Text>荒山之夜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_1812_OVERTURE">
+			<Text>一八一二序曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FROM_THE_NEW_WORLD">
+			<Text>自新大陆（E小调第九交响曲）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAHA">
+			<Text>打波</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CATHEDRALE_ENGLOUTIE">
+			<Text>被淹没的大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAU_DUANG_DUEN">
+			<Text>老挝的月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ANA_HAWEET">
+			<Text>阿娜·哈维特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_VARIATIONS_ON_AMERICA">
+			<Text>亚美利加变奏曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SERMON_OF_SADNESS">
+			<Text>悲伤的布道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_I_GOT_RHYTHM">
+			<Text>我把住了节奏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SENSEMAYA">
+			<Text>动情的歌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SINFONIA_INDIA">
+			<Text>印地安人交响曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LADRANG_SRI_DUHITO">
+			<Text>杜希托山甘美朗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_IN_A_LANDSCAPE">
+			<Text>臆想的景色</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JHAPTAL">
+			<Text>加普塔尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DIDGERIDOO">
+			<Text>迪吉里杜管</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KATCINA_DANCES">
+			<Text>克奇纳舞曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ELECTRIC_COUNTERPOINT">
+			<Text>电子对位第三乐章“快”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AL_CAPONE">
+			<Text>艾尔·卡彭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MORNING_STAR">
+			<Text>晨星之歌</Text>
+		</Row>
+		<!-- Additional great musician works -->
+		<Row Tag="TXT_KEY_GREAT_WORK_ALSO_SPRACH_ZARATHUSTRA">
+			<Text>查拉图斯特拉如是说</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SATURN">
+			<Text>行星组曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CARAVAN">
+			<Text>商队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_1">
+			<Text>第一交响曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MBUBE">
+			<Text>姆布贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHAKER_LOOPS">
+			<Text>摇摆回环曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AVE_MARIS">
+			<Text>颂扬海之星</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_REQUIEM_KYRIE">
+			<Text>安魂弥撒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SALVE_REGINA_A_4">
+			<Text>救难的圣母</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BONJOUR_MON_COEUR">
+			<Text>日安，我的心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_O_MAGNUM_MYSTERIUM">
+			<Text>啊，伟大的神迹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_POICHE_LAVIDA">
+			<Text>无尽的渴求</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AGNUS_DEI">
+			<Text>上帝的羔羊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WATER_MUSIC">
+			<Text>水上音乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONE_NO_93">
+			<Text>第九十三交响曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HUNGARIAN_RHAPSODY">
+			<Text>匈牙利狂想曲第二号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DAS_VERLASSENE">
+			<Text>被遗弃的抹大拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_5">
+			<Text>第五交响典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SYMPHONY_NO_3">
+			<Text>第三交响曲“管风琴”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PARADE">
+			<Text>游行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LULU">
+			<Text>璐璐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STRING_QUARTET">
+			<Text>F大调弦乐四重奏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_YOUNG_PERSONS_GUIDE">
+			<Text>青少年管弦乐队指南</Text>
+		</Row>
+		<!-- Artifacts (Written)-->
+		<Row Tag="TXT_KEY_GREAT_WORK_ROSETTA">
+			<Text>罗塞塔石碑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MAWANGDUI">
+			<Text>马王堆帛书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEAD_SEA">
+			<Text>死海古卷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_GILGAMESH">
+			<Text>吉尔伽美什史诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NAG_HAMMADI">
+			<Text>拿戈玛第经集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LINEAR_B">
+			<Text>线形文字B残片</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PAPYRUS_ANI">
+			<Text>阿尼的纸草书卷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUNESTONE">
+			<Text>洛克卢尼石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HAMMURABI">
+			<Text>汉谟拉比法典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BAKHSHALI">
+			<Text>巴克沙里手稿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CODEX_PEREZ">
+			<Text>佩雷斯抄本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUSHICHIJO_KEMPO">
+			<Text>十七条宪法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KELLS">
+			<Text>凯尔经</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CODEX_BORGIA">
+			<Text>波吉亚抄本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KEDUKAN_BUKRIT">
+			<Text>格杜干·武吉石刻</Text>
+		</Row>
+		<!-- Patch Great Art Additions -->
+		<Row Tag="TXT_KEY_GREAT_WORK_TIGER_IN_TROPICAL_STORM">
+			<Text>热带飓风与虎（奇袭！）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_HOME_GUARD">
+			<Text>国民自卫军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CEREMONIAL_SITTING">
+			<Text>一九〇一年五月七日国会正式召开</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RUSSIAN_TSAR">
+			<Text>十六世纪的俄国沙皇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CRUCIFIXION_OF_SAINT_PETER">
+			<Text>圣彼得受难</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LANDSCAPE_WITH_ANT_BEAR">
+			<Text>食蚁兽和风景</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DUTCH_MEN_O_WAR">
+			<Text>平静海面上的荷兰战舰及其他船只</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HARBOR_IN_BALAKLAVA">
+			<Text>在巴拉克拉瓦港口装运伤病员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PEACEMAKERS">
+			<Text>和平缔造者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_CHITASEI">
+			<Text>智多星吴用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_LOUIS">
+			<Text>路易斯·弗朗索瓦·卢比里埃克肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRAIT_OF_NASSER">
+			<Text>纳赛尔丁·沙·卡扎尔肖像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIELD_WITH_SHEAFS">
+			<Text>有麦捆的田野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AT_THE_EDGE_OF_THE_BROOK">
+			<Text>小溪畔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_KISS_ALT">
+			<Text>亲吻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOVING_HOUSE">
+			<Text>迁居</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MEXICAN_EXPEDITION">
+			<Text>一八三八年远征墨西哥之役</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LAST_DAY_OF_POMPEII">
+			<Text>庞贝的末日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ACCOLADE">
+			<Text>册封</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON">
+			<Text>野牛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT">
+			<Text>过去驰骋于大平原地区，数量繁多的北美野牛（bison），曾是许多原住民部族赖以为生的肉、筋、皮、骨等资源的主要来源。19世纪晚期美国人的大规模猎捕活动导致野牛近乎灭绝，但最近数十年以来，由于联邦及各州野生动物保育计划的实施，野牛数量已有所回升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA">
+			<Text>可可</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_COCOA_TEXT">
+			<Text>可可豆采自原生于南美洲的可可树，在哥伦布时代之前的中美洲已是一种重要的商品，在文化族群的生活中都具有显要地位。西班牙人将其引进欧洲后，到了18世纪中叶，可可也成为欧洲人所追捧饮料、食材，甚至还被作为药材使用。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

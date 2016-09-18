@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TOP_PANEL_GOLD">
+			<Text>[ICON_GOLD][COLOR:255:235:0:255]{1_TotalGold: number "##"} {2_GoldPerTurn: number "'(+'##')';'[COLOR:255:60:60:255](-'##')'"}[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF">
+			<Text>禁用科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_SCIENCE_OFF_TOOLTIP">
+			<Text>本剧情中禁用了科技系统。不能获得新的科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF">
+			<Text>禁用快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_GOLDEN_AGES_OFF">
+			<Text>无黄金时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_HAPPINESS_OFF_TOOLTIP">
+			<Text>本剧情中禁用了快乐系统。不能进入黄金时代。与不满有关的所有惩罚也已取消。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF">
+			<Text>禁用政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_POLICIES_OFF_TOOLTIP">
+			<Text>本剧情中禁用了社会政策系统。不能获得新的政策，但文化仍会影响城市范围扩展。</Text>
+		</Row>
+		<!-- Military Overview -->
+		<Row Tag="TXT_KEY_UNIT_STATUS_FORTIFIED">
+			<Text>驻扎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STATUS_EMBARKED">
+			<Text>海运</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_TITLE">
+			<Text>单位补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_SUPPLY_TT">
+			<Text>来自难度设置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_SUPPLY">
+			<Text>基准补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_SUPPLY_TT">
+			<Text>来自城市数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_SUPPLY">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPULATION_SUPPLY_TT">
+			<Text>来自总人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPULATION_SUPPLY">
+			<Text>人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_CAP_TT">
+			<Text>累积的总补给上限</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_CAP">
+			<Text>总补给上限</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_USE_TT">
+			<Text>单位占用的补给额度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_USE">
+			<Text>现役单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_REMAINING_TT">
+			<Text>新建单位可用的补给额度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_REMAINING">
+			<Text>剩余补给额度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_DEFICIT_TT">
+			<Text>超出补给上限的单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_DEFICIT">
+			<Text>缺乏补给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY_TT">
+			<Text>缺乏补给导致的惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SUPPLY_DEFICIT_PENALTY">
+			<Text>产能惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_STRENGTH">
+			<Text>按战斗力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_NAME">
+			<Text>按名称排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_STATUS">
+			<Text>按状态排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_MOVEMENT">
+			<Text>按剩余移动力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_MAX_MOVES">
+			<Text>按最大移动力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_SORT_RANGED">
+			<Text>按远程攻击力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_GENERAL_TT">
+			<Text>{1_current}/{2_needed}[NEWLINE]获得下一位陆军统帅的进度(依据您的单位在战斗中获得的经验点数)。</Text>
+		</Row>
+		<!-- End Game Screen -->
+		<Row Tag="TXT_KEY_VICTORY_INFO">
+			<Text>胜利消息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_TECHNOLOGY">
+			<Text>你通过大力发展科技赢得了胜利！你征服了神秘的自然，引领你的人民开始了前往未来新世界的航程！人们将长久铭记你辉煌的功勋，直到夜空中的星辰不再闪烁！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DOMINATION">
+			<Text>整个世界在战火中颤抖。许多曾经强大的文明已经覆灭，但是你坚持到了最后的胜利！人们将长久铭记你辉煌的功勋！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_CULTURE">
+			<Text>你通过强大的文化影响力赢得了胜利。宏伟的纪念碑和艺术杰作证明着你的文明无与伦比的辉煌！无数心灵得到美的浇灌的人们将长久赞颂你的功勋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DIPLOMACY">
+			<Text>你通过精湛的外交艺术赢得了胜利！你用谋略和智慧结交强大的朋友——并使你的敌人分崩离析！你将作为给苦难的世界带来和平的领袖而永远被人们铭记！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_TIME">
+			<Text>整个世界在战火中颤抖。许多曾经强大的文明已经覆灭，但是你坚持到了最后的胜利！人们将长久铭记你辉煌的功勋！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_LOSS">
+			<Text>你遭到了失败。你的文明已经被众多的敌人压倒。但你的人民并未绝望，因为他们知道总有一天你会回来——并引领他们走向胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_FLAVOR_DEMO">
+			<Text>你强盛而伟大的文明颀颀向荣，你的时间却已经耗尽。但你的人民并未绝望，因为他们知道总有一天你会回来——并引领他们走向胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMO_BANG">
+			<Text>试玩结束！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_BANG">
+			<Text>胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEFEAT_BANG">
+			<Text>失败！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_TECHNOLOGY_BANG">
+			<Text>科技胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_DOMINATION_BANG">
+			<Text>支配胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CULTURE_BANG">
+			<Text>文化胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_ECONOMIC_BANG">
+			<Text>外交胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_TIME_BANG">
+			<Text>时间胜利！</Text>
+		</Row>
+		<!-- End Game Screen -->
+		<Row Tag="TXT_KEY_RANKING_TITLE">
+			<Text>排名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HALL_OF_FAME_EMPTY">
+			<Text>您还没有完成任何游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANKING_STATEMENT">
+			<Text>您达到了{1_GreatLeader}的统治水平</Text>
+		</Row>
+		<!-- Demographics -->
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_TITLE">
+			<Text>信息报表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS">
+			<Text>信息报表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_TYPE">
+			<Text>信息报表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_VALUE">
+			<Text>数值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_BEST">
+			<Text>最好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_AVERAGE">
+			<Text>平均</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_RIVAL_WORST">
+			<Text>最差</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_RANK">
+			<Text>排名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_POPULATION">
+			<Text>人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_POPULATION_MEASURE">
+			<Text>人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_FOOD">
+			<Text>粮食产量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_FOOD_MEASURE">
+			<Text>百万英担</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION">
+			<Text>工业产量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_PRODUCTION_MEASURE">
+			<Text>百万吨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_GOLD">
+			<Text>国民生产总值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_GOLD_MEASURE">
+			<Text>百万金币</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_LAND">
+			<Text>领土面积</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_LAND_MEASURE">
+			<Text>平方公里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_ARMY">
+			<Text>军事实力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_ARMY_MEASURE">
+			<Text>军事实力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_APPROVAL">
+			<Text>支持率</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEMOGRAPHICS_LITERACY">
+			<Text>识字率</Text>
+		</Row>
+		<!-- Victory Progress -->
+		<Row Tag="TXT_KEY_VP_TT">
+			<Text>胜利进程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TITLE">
+			<Text>胜利进程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TURNS">
+			<Text>游戏剩余回合数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_CITIES" >
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_POPULATION" >
+			<Text>人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_LAND" >
+			<Text>领土面积</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_WONDERS" >
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TECH" >
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_FUTURE_TECH" >
+			<Text>未来科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCORE">
+			<Text>积分</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TURNS_TT">
+			<Text>距离游戏结束剩余回合数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TECH_PROGRESS">
+			<Text>科技进程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TECH_SS">
+			<Text>飞船组件:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DOMINATION_PROGRESS">
+			<Text>保有初始首都的玩家:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_POLICIES_FINISHED">
+			<Text>社会政策分支的完成数:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_UTOPIA_PROGRESS">
+			<Text>乌托邦工程的进程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_VOTES_NEEDED">
+			<Text>外交胜利所需要的票数:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_VOTES">
+			<Text>所有可用的外交票数:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES">
+			<Text>投给你:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_PROJECT_BUILT_BY">
+			<Text>创立联合国: {1_player}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_PROJECT_PLAYERS_COMPLETE">
+			<Text>{1_NumPlayers}个文明完成了{2_apolloProgram}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CAPITALS_REMAINING">
+			<Text>{1_NumPlayers}个文明仍然保有他们的[ICON_CAPITAL]首都。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SOCIAL_POLICIES">
+			<Text>{1_player}已完成{2_completedNum}个社会政策分支(共{3_totalNum}个)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_DETAILS">
+			<Text>详细信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TITLE">
+			<Text>总票数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TITLE">
+			<Text>自投票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_TITLE">
+			<Text>解放</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE">
+			<Text>解放 [ICON_CAPITAL]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CIV_RANK">
+			<Text>文明排名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DOMINATION_VICTORY_DISABLED">
+			<Text>禁用支配胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_VICTORY_DISABLED">
+			<Text>禁用外交胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_SCIENCE_VICTORY_DISABLED">
+			<Text>禁用科技胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_CULTURE_VICTORY_DISABLED">
+			<Text>禁用文化胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_TIME_VICTORY_DISABLED">
+			<Text>禁用时间胜利。</Text>
+		</Row>
+		<!-- Diplo Overview -->
+		<Row Tag="TXT_KEY_NO_DIPLO_ACTIONS">
+			<Text>没有外交行动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PACT_OF_COOPERATION">
+			<Text>合作协议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PACT_OF_SECRECY">
+			<Text>和{1_ally}签署秘密协议共同对抗{2_enemy}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AT_WAR_WITH">
+			<Text>[COLOR_NEGATIVE_TEXT]和{1_enemy}开战[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLIED_WITH">
+			<Text>[COLOR_POSITIVE_TEXT]和{1_ally}结盟[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_INCOMING">
+			<Text>一项来自此文明的外交提议正在等待你的回复。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_OUTGOING">
+			<Text>此文明尚未回复你的外交提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_REQUEST_IN_PROGRESS">
+			<Text>你无法向此文明发出外交提议，因为还有其他文明的外交提议需要回复。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_NO_MAJORS">
+			<Text>您还未和其他文明碰面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_NO_MINORS">
+			<Text>您还没有遇到任何一个城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_NO_DEALS">
+			<Text>您还没有签署任何协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_NO_HISTORY">
+			<Text>您还没有任何文明进行外交接触。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_PACT">
+			<Text>防御条约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_AT_WAR">
+			<Text>交战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_RESEARCH_AGREEMENT">
+			<Text>合作研究</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_OPEN_BORDERS">
+			<Text>开放边境</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_WORKING_WITH">
+			<Text>合作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_WORKING_AGAINST">
+			<Text>对抗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_WE_PROVIDE">
+			<Text>我们提供 {1_misc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_THEY_PROVIDE">
+			<Text>他们提供 {1_misc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_TURNS">
+			<Text>回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_TURN">
+			<Text>回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_ON_TURN">
+			<Text>开始回合 {1_turn}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_ENDED_ON">
+			<Text>结束:[NEWLINE]第{1_turn}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_ENDS_ON">
+			<Text>到期:[NEWLINE]第{1_turn}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_DEAL_BEGAN">
+			<Text>交易开始回合 {1_turn}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_DEAL_LASTED">
+			<Text>交易持续回合数 {1_turn}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_DEAL_DURATION" >
+			<Text>交易持续: {1_turn}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_MAJORS">
+			<Text>大国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_CITY_STATES">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_YOUR_RELATIONS">
+			<Text>您的国际关系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_GLOBAL_RELATIONS">
+			<Text>全球政治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_DIPLO_LOG">
+			<Text>外交历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_DEAL_HISTORY">
+			<Text>过去交易信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_CURRENT_DEALS">
+			<Text>当前的交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DO_COMPLETE_DEALS">
+			<Text>完成的交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABSTAIN">
+			<Text>弃权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_STATUS_TT">
+			<Text>{1_cityName} 目前 {2_statusType} : {3_curNumber} / {4_maxNumber} [ICON_INFLUENCE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YOUR_SCORE">
+			<Text>您的积分</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_NAME">
+			<Text>游戏名称:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SORT_BY_SERVER_NAME">
+			<Text>以服务器名称排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SORT_BY_MEMBERS">
+			<Text>以成员排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CURRENT_ERA">
+			<Text>当前时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICIES_ADOPTED">
+			<Text>采用政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDERS_CONSTRUCTED">
+			<Text>建成奇观</Text>
+		</Row>
+		<!-- Economic Overview -->
+		<Row Tag="TXT_KEY_EO_GPT">
+			<Text>金钱[ICON_GOLD]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TOTAL_GOLD">
+			<Text>国库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_NET_PER_TURN">
+			<Text>净收入[ICON_GOLD]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_PENALTY">
+			<Text>科研损失/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_PENALTY_TT">
+			<Text>来自金钱短缺的惩罚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GROSS">
+			<Text>总收入[ICON_GOLD]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TOTAL_EXPENSE">
+			<Text>总支出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME">
+			<Text>收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITIES">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_CITIES">
+			<Text>[ICON_PLUS]城市收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_CITIES_COLLAPSE">
+			<Text>[ICON_MINUS]城市收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_DIPLOMACY">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_DIPLOMACY_AND_UN_VOTE">
+			<Text>外交[NEWLINE][NEWLINE]{1_Num}回合后举行联合国投票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_DIPLOMACY">
+			<Text>来自外交的收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE">
+			<Text>商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE">
+			<Text>来自商路的收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS">
+			<Text>[ICON_PLUS]商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_TRADE_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS]商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EXPENSES">
+			<Text>支出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_UNITS">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_UNITS">
+			<Text>你所有单位(包括军事单位和非战斗单位)的维护费。目前每个单位的维护费为{1_Num}[ICON_GOLD]，该数值将随单位数量和时代发展而增加(总计{2_Num}个单位)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_UNITS_NO_MAINT">
+			<Text>你拥有{1_NumUnits}个无需支出维护费的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_BUILDINGS">
+			<Text>[ICON_PLUS]建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_BUILDINGS_COLLAPSE">
+			<Text>[ICON_MINUS]建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_BUILDINGS">
+			<Text>你所有建筑的维护费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_BASE_BUILDINGS">
+			<Text>在更高难度等级下需要全额支付维护费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HANDICAP_MAINTENANCE_MOD">
+			<Text>由于所选难度等级，你只需支付基准值{1_Num}%的维护费。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_IMPROVEMENTS">
+			<Text>道路和铁路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_IMPROVEMENTS">
+			<Text>你所修建或负责维护的道路和铁路的维护费。道路1[ICON_GOLD]金钱/回合，铁路2[ICON_GOLD]金钱/回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_EX_DIPLOMACY">
+			<Text>外交支出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_RANGED">
+			<Text>以远程攻击力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_POPULATION">
+			<Text>以人口排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_NAME">
+			<Text>以名称排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_STRENGTH">
+			<Text>以战斗力排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_PRODUCTION">
+			<Text>以产量排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_GOLD">
+			<Text>以金钱排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_RESEARCH">
+			<Text>以科研排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_CULTURE">
+			<Text>以文化排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_FOOD">
+			<Text>以食物排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SORT_FAITH">
+			<Text>以信仰排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS">
+			<Text>不满</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOTAL">
+			<Text>总计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS">
+			<Text>[ICON_PLUS]奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LUXURY_HAPPINESS_COLLAPSE">
+			<Text>[ICON_MINUS]奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
+			<Text>[ICON_PLUS]城市建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
+			<Text>[ICON_MINUS]城市建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES">
+			<Text>[ICON_PLUS]商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TRADE_ROUTES_COLLAPSE">
+			<Text>[ICON_MINUS]商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GARRISON">
+			<Text>[ICON_PLUS]镇守单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_GARRISON_COLLAPSE">
+			<Text>[ICON_MINUS]镇守单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_VARIETY">
+			<Text>奢侈资源品种</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_BONUS">
+			<Text>每个奢侈资源的加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUXURY_MISC">
+			<Text>来自奢侈资源的杂项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FREE_HAPP_PER_CITY">
+			<Text>每座城市的免费[ICON_HAPPINESS_1]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES">
+			<Text>城市数量({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT">
+			<Text>每座(非占领状态)城市产出3[ICON_HAPPINESS_4]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_TT_NORMALLY">
+			<Text>每座(非占领状态)城市产出3[ICON_HAPPINESS_4]不满(通常)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORMALLY">
+			<Text>(通常)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_CITIES_HANDICAP_TT">
+			<Text>由于所选难度等级，产出低于基准值{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_MAP">
+			<Text>由于所选地图大小，产出低于基准值{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_CAPITAL">
+			<Text>由于当前社会政策，首都[ICON_CITIZEN]市民的产出为基准值的{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_TRAIT">
+			<Text>由于当前文明特质，产出为基准值的{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_PLAYER">
+			<Text>由于当前获得的奖励，产出为基准值的{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNHAPPINESS_MOD_SPECIALIST">
+			<Text>由于当前获得的奖励，专业人员产生的[ICON_HAPPINESS_4]不满减半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES">
+			<Text>占领状态城市数量({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NUMBER_OF_OCCUPIED_CITIES_TT">
+			<Text>每座[ICON_OCCUPIED]占领状态的城市产生5[ICON_HAPPINESS_4]不满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNHAPPINESS">
+			<Text>市民({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNHAPPINESS_TT">
+			<Text>非占领状态的城市每单位[ICON_CITIZEN]市民产生1[ICON_HAPPINESS_4]不满</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS">
+			<Text>占领状态的市民({1_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OCCUPIED_POP_UNHAPPINESS_TT">
+			<Text>[ICON_OCCUPIED]占领状态的城市每单位[ICON_CITIZEN]市民产生1.34[ICON_HAPPINESS_4]不满</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS">
+			<Text>[ICON_PLUS]城市分类</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_UNHAPPINESS_COLLAPSE">
+			<Text>[ICON_MINUS]城市分类</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_IS_OCCUPIED">
+			<Text>城市为[ICON_OCCUPIED]占领状态！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RESOURCES_AVAILBLE">
+			<Text>可用资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RESOURCES_TRADED">
+			<Text>交易的资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCAL_RESOURCES">
+			<Text>本地资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_IMPORTED" >
+			<Text>进口资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_EXPORTED" >
+			<Text>出口资源</Text>
+		</Row>
+		<!-- Civilopedia Screen-->
+		<Row Tag="TXT_KEY_PEDIA_TECHNOLOGY_NAME">
+			<Text>科技名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNLOCKED_UNIT_NAME">
+			<Text>解锁单位名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REQUIRED_BUILDING_NAME">
+			<Text>需要建筑名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESOURCE_NAME">
+			<Text>资源名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LOCAL_RESOURCE_NAME">
+			<Text>本地资源名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_WORKER_ACTION_NAME">
+			<Text>工人行动名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNLKED_PROJECT_NAME">
+			<Text>解锁工程名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_NAME">
+			<Text>晋升名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SPEC_NAME">
+			<Text>专业人员名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_POLICY_NAME">
+			<Text>政策名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LEADER_NAME">
+			<Text>领袖名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVILIZATION_NAME">
+			<Text>文明名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVILIZATION_SHORT_NAME">
+			<Text>文明简称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVILIZATION_ADJECTIVE">
+			<Text>文明形容词</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TRAIT_NAME">
+			<Text>特质名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEUNIT_NAME">
+			<Text>特色单位名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_NAME">
+			<Text>特色建筑名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEIMPR_NAME">
+			<Text>特色设施名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REPLACE_NAME">
+			<Text>替换名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_NAME">
+			<Text>设施名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FEATURE_NAME">
+			<Text>地貌名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_NAME">
+			<Text>地形名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TECH_SECTION">
+			<Text>科技部分</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEARCH_BUTTON">
+			<Text>搜索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEARCH_NOT_FOUND">
+			<Text>找不到文本: "{1_stringEntered}"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESEARCH_LABEL">
+			<Text>科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_BLURB_TEXT">
+			<Text>[NEWLINE][TAB][TAB]“这就是爱国者们所要宣扬的：无论我们走到哪里，在我们心目中最好的地方永远是我们的祖国。”[NEWLINE][TAB][TAB]　　　　——奥利弗· 高德史密斯（爱尔兰诗人）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_VERSION_TEXT">
+			<Text>您现在运行的文明5版本为1.0。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_VERSION_LABEL">
+			<Text>版本信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_TEXT">
+			<Text>欢迎来到文明百科！在这里您将了解到关于这个游戏各方面的细节。使用“搜索”框可查找特定主题的内容。点击屏幕顶端的选项卡将带您到文明百科的各主要部分。屏幕左边的导航条将会显示当前部分各个条目。点击条目直接查看详细信息。[NEWLINE][NEWLINE]在屏幕左上方区域，您可以看到“前进”和“后退”按钮，它们可以协助您进行页面间的切换。点击右上方“X”将会返回游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_HELP_LABEL">
+			<Text>文明百科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HOME_PAGE_LABEL">
+			<Text>文明百科主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL">
+			<Text>游戏概念主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_GAME_CONCEPT_HELP_TEXT">
+			<Text>文明5将会回顾所有的人类从古至今的历史。文明百科的“游戏概念”部分将会解释一些游戏中更为重要的部分——如何建造管理城市，如何征战四方，如何发展科技等等。屏幕左侧的导航条将会显示主要概念；点击进入观看游戏概念的详述。[NEWLINE][NEWLINE]您无论何时都可以阅读这些游戏概念。你没有必要从头到尾看完所有游戏概念，只有最爱这个百科编写者的人——他的母亲才会这样做。大多数人只在需要的时候阅读这些游戏概念即可。如果你是初学者，建议先进行我们制作的游戏教程，就能够掌握这个游戏的基本操作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TECHNOLOGIES_HELP_TEXT">
+			<Text>科技对于您的文明的存亡至关重要。在游戏中，有超过70种科技，每种科技对于游戏来说都会提供很大的优势。有些科技允许您去建造那些令人惊叹的新建筑以及奇观，其他的会增加您的工业产能，还有能够允许您建造铁路或者制造更先进的武器。[NEWLINE][NEWLINE]这对于您的文明在这场科技角逐中至关重要。如果您稍稍落后，您就会发现自己陷入了当年阿兹特克人使用黑曜石刃和弓箭对抗西班牙侵略者的火枪、大炮一样的困境。就像历史告诉我们的那样，落后就要挨打。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNITS_HELP_TEXT">
+			<Text>单位代表了您的文明动态的一面，有耕作的工人，有建立城市的移民，有用他们的天才与创造一手改变国家历史的伟人。当然，单位也代表了您的文明的军事力量。[NEWLINE][NEWLINE]大多数单位都在您的城市里组建。请合理地利用他们，一定要保证您有足够的军事单位去完成即将到来的军事任务和保卫您的城市，但是不要过量，他们所消耗的维护费可能会拖垮您的文明。请在您能够升级您的军事单位的时候升级他们，但是也不要过度纠结于解散那些因生产过量而带来负担的单位。和上面一样，要拥有足够的工人单位去改良地块，但是他们的花销也很大，所以要注意您的经济状况。[NEWLINE][NEWLINE]无论如何，您都要尽早派遣单位在游戏前期去探索这个世界！如果您不知道您周边的世界发生了什么，您将会面对来自您那贪婪对手的致命“惊喜”！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTIONS_HELP_TEXT">
+			<Text>您的单位将会通过战斗而晋升，他们来自于城市中建造的兵营和其他的军事建筑。晋升将会极大的增加一个单位的战斗力或机动性或者恢复速度。一个晋升多次的单位是非常珍贵的——在战场中巧妙地使用他们，并且总是要尽可能的加以升级。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BUILDINGS_HELP_TEXT">
+			<Text>建筑物可以极大地提升一个城市的金钱收入、人口、防御能力或者工业产能。可以肯定的是一些建筑会提升那里生产的军事单位的质量，其他一些建筑物可以允许沿海城市收获海上资源。[NEWLINE][NEWLINE]建造建筑物非常重要，如果您的文明深陷战争泥潭，并且诱使您投入资源用于军事，如果您持续下去，不久，您的城市对于其他文明的良好发展的城市来说就会变成下等城市，这将在游戏中成为您致命的软肋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_WONDERS_HELP_TEXT">
+			<Text>奇观是一种非凡的、可以保证文明得以流传万世的建筑物。奇观不仅引人入胜，并且使人得到精神上的升华。[NEWLINE][NEWLINE]金字塔、圣母院和巨石阵都是极有代表性的奇观。奇观的建造需要消耗大量的时间以及财力物力，但是一旦建成，将会为您的文明带来许多好处。[NEWLINE][NEWLINE]有三种类型的奇观：世界级奇观、国家级奇观和工程类奇观。在一个被指定的游戏中，每种世界级奇观在世界上是独一无二的。国家级奇观则是每个国家只能建造一个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SOCIAL_POL_HELP_TEXT">
+			<Text>社会政策代表着您统治您的人民的方式。您愿意成为一名为了军纪牺牲一些自由以及增加产量的独裁者？您愿意组织您的民众进行全民军事化，或者专注于他们为文化扩张所做的努力？您希望建立君主制还是民主制？[NEWLINE][NEWLINE]社会政策在游戏中有着很大的作用。有的可以使您的城市的产量增加，有的可以使您获得更多财富，还有的将会影响您的军事实力。[NEWLINE][NEWLINE]在游戏中无论选择哪种社会政策都不会完全正确，更不会完全错误。一种政策也许会在特定的环境中优于其他的（例如，如果您被一群好战的国家所包围，为了避免被孤立，你可能会选择与邻国类似的社会政策），试试看，总会有一种适合您。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SPEC_HELP_TEXT">
+			<Text>纵观历史长河，浮现出无数的具有远见的男男女女，改变了世界。使他们自己成为世界的焦点，其中有艺术家、科学家、军事家、商业家等等，他们的天赋使他们异于常人，并且高高在上。在游戏中，这样的人被称作“伟人”。[NEWLINE][NEWLINE]在游戏中，有5种不同的伟人：大商业家、大艺术家、大科学家、大工程师、陆军统帅。每一种都有一种特别的能力。[NEWLINE][NEWLINE]您的文明需要建造某种建筑或奇观来供养“专业人员”，专业人员不在指定的城市区块工作，而是负责催生伟人。需要产能还是需要伟人，这对于城市的管理是一个很大的挑战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVS_HELP_TEXT">
+			<Text>在游戏中，有许许多多的文明和领袖可供选择。每一个都有它独有的特殊单位、建筑和技能——美国有快速民兵和B-17“空中堡垒”，罗马有罗马军团和弩炮，俄国有哥萨克骑兵和俄罗斯营垒。学会去掌握每种文明的长处和短处，是游戏中最有意思的一部分，同时这也使得每次游戏都有新的体验。如果您不管是在选择埃及还是印度进行游戏时都采用相同的策略，您可能就领会不到各个文明的特色所在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CSTATES_HELP_TEXT">
+			<Text>城邦代表占据在世界中的许多小的文明。城邦是由一个中心城市构成的国家。他们无法组建移民，所以无法建立新的城市（只能扩张城市的边界）。不过城邦可以通过军事征服获得敌方的城市。[NEWLINE][NEWLINE]如果您亲近一个城邦，它将会为您提供食物、文化甚至军事力量。如果您攻击一个城邦，您将会获得一个新的城市来扩充您的帝国。（这样有可能会导致其他城邦向您宣战，所以三思而后行。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_HELP_TEXT">
+			<Text>在文明5中，世界是由六角形的“区块”所构成的（就像人类生活中的六边形和空间一样）。这些区块来自于不同的“地形”——荒漠、平原、草原、丘陵等等——其中许多都包含着“地貌”，就像森林和丛林。这些元素有利于决定这些区块对周边城市是否有用，同时还决定穿过这些区块的难易程度。一般来说，一个区块的地形和地貌对于发生在那里的战斗很有大的影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_HELP_TEXT">
+			<Text>地貌是显示在区块基本地形上的附加地形或者植物。（例如一块草原地形上可能会有森林或沼泽地貌。）地貌会改变一个区块上的生产力，而且常常也会改变一个单位在其上面的“移动点数”（MP），地貌往往会在战斗时提供给占领这个区块上的单位额外的防御奖励或惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_FEATURES_LABEL">
+			<Text>地貌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_LABEL">
+			<Text>地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESOURCES_HELP_TEXT">
+			<Text>世界充满了五花八门的“资源”，它们可以帮助文明成长与发展。其中包括牛群、小麦、煤、铁、鲸鱼和石油。在游戏中，尽可能的将您的城市建造到资源旁边，这样将会带来额外的资源奖励。一些资源——例如，黄金和鱼群——在游戏一开始便可以看见，然后其他的一些资源——例如铝、石油和铀——只有在你的文明掌握了合适的科技后才会出现。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPROVEMENT_HELP_TEXT">
+			<Text>在游戏中，您将会建造“工人”——一种非军事单位，他能够“改良”您城市周边的区域，增加地块的产出或者获取地块上的“资源”。区域设施包括农场、贸易站、锯木厂、采石场、矿井等等。在战争时期，您的敌人会“劫掠”（毁坏）您的区域设施。在您的工人“修复”区域设施之前，被劫掠的区域设施是没有任何用处的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TECH_PAGE_LABEL">
+			<Text>科技主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNITS_PAGE_LABEL">
+			<Text>单位主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL">
+			<Text>晋升主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL">
+			<Text>建筑主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_WONDERS_PAGE_LABEL">
+			<Text>奇观主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_POLICIES_PAGE_LABEL">
+			<Text>政策主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PEOPLE_PAGE_LABEL">
+			<Text>专业人员和伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL">
+			<Text>文明和领袖主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL">
+			<Text>城邦主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAIN_PAGE_LABEL">
+			<Text>地形主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESOURCES_PAGE_LABEL">
+			<Text>资源主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL">
+			<Text>地域设施主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_GCONCEPTS">
+			<Text>[NEWLINE][TAB][TAB]“荒谬是基本概念同时也是第一真理。”[NEWLINE][TAB][TAB]　　　　——阿尔贝·加缪（法国作家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TECHS">
+			<Text>[NEWLINE][TAB][TAB]“大脑就像肌肉一样，当我们使用时会感到愉悦。理解是充满欢乐的。”[NEWLINE][TAB][TAB]　　　　——卡尔·萨根（美国天文学家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_UNITS">
+			<Text>[NEWLINE][TAB][TAB]“苍天之下，我们这支军队的勇气和斗志将决定千百万我们后代的命运……我们自己决定着征服还是灭亡。”[NEWLINE][TAB][TAB]　　　　——乔治·华盛顿[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_PROMOTIONS">
+			<Text>[NEWLINE][TAB][TAB]“每位法国士兵的背包里都藏着一柄元帅杖。”[NEWLINE][TAB][TAB]　　　　——拿破仑·波拿巴[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_BUILDINGS">
+			<Text>[NEWLINE][TAB][TAB]“医生能埋葬掉他所犯的错误，但建筑师只能建议他的顾客种葡萄藤。”[NEWLINE][TAB][TAB]　　　　——弗兰克·劳埃德·赖特（美国建筑师）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_WONDERS">
+			<Text>[NEWLINE][TAB][TAB]“世界上的奇观不可胜数，但最美的那个奇观就是人本身。”[NEWLINE][TAB][TAB]　　　　——索福克勒斯（古希腊剧作家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_POLICIES">
+			<Text>[NEWLINE][TAB][TAB]“诚实是最好的政策。”[NEWLINE][TAB][TAB]　　　　——米格尔·德·塞万提斯[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_PEOPLE">
+			<Text>[NEWLINE][TAB][TAB]“不要惧怕伟大：有些人生来伟大，有些人赢得伟大，而有些人则被赠予伟大。”[NEWLINE][TAB][TAB]　　　　——威廉·莎士比亚[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CIVS">
+			<Text>[NEWLINE][TAB][TAB]“对文明的真正检验，不在于人口多寡，不在于城市规模，不在于庄稼产量，而在于看这个国家造就出了什么样的人。”[NEWLINE][TAB][TAB]　　　　——拉尔夫·沃尔多·爱默生[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_CITYSTATES">
+			<Text>[NEWLINE][TAB][TAB]“城市就是人类的老师。”[NEWLINE][TAB][TAB]　　　　——西蒙尼底斯（古希腊诗人）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_TERRAIN">
+			<Text>[NEWLINE][TAB][TAB]“坚守阵地。除非受到攻击，否则不要开火；但如果他们想要一场战争，那就让它从这里开始吧！”[NEWLINE][TAB][TAB]　　　　——约翰·帕克（列克星敦战役指挥者）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_RESOURCES">
+			<Text>[NEWLINE][TAB][TAB]“请不要追求虚幻的不朽生命，而应当享受现实的所有资源。”[NEWLINE][TAB][TAB]　　　　——品达（古希腊诗人）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_BLOCK_IMPROVEMENTS">
+			<Text>[NEWLINE][TAB][TAB]“如果我能以任何一种方式转变或改造我的所生活的国度，我都会去尝试……带着藏在心底的满足，感觉自己并没有白活一次。”[NEWLINE][TAB][TAB]　　　　——约瑟夫·艾迪生（英国散文家）[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- Pedia -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA">
+			<Text>文明百科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SEARCH">
+			<Text>搜索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_1_LABEL">
+			<Text>文明百科主页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_2_LABEL">
+			<Text>游戏概念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_3_LABEL">
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_4_LABEL">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_5_LABEL">
+			<Text>晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_6_LABEL">
+			<Text>建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_7_LABEL">
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_8_LABEL">
+			<Text>社会政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_9_LABEL">
+			<Text>专业人员和伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_10_LABEL">
+			<Text>文明和领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_11_LABEL">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_12_LABEL">
+			<Text>地形和地貌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_13_LABEL">
+			<Text>资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CATEGORY_14_LABEL">
+			<Text>地域设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_COST_LABEL">
+			<Text>花费:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPASSABLE">
+			<Text>无法通行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_YIELD_LABEL">
+			<Text>产出:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_MOUNTAINADJYIELD_LABEL">
+			<Text>邻近山脉奖励:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_COMBATMOD_LABEL">
+			<Text>战斗修正:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_NO_YIELD">
+			<Text>无产出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TITLES_LABEL">
+			<Text>头衔:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LIVED_LABEL">
+			<Text>生卒:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FACTOID">
+			<Text>逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_COMBAT_LABEL">
+			<Text>战斗力:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RANGEDCOMBAT_LABEL">
+			<Text>远程战斗力:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RANGE_LABEL">
+			<Text>攻击范围:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_MOVEMENT_LABEL">
+			<Text>移动力:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PREREQ_ERA_LABEL">
+			<Text>时代前提:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LEADERS_LABEL">
+			<Text>领袖:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CIVILIZATIONS_LABEL">
+			<Text>文明:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TRAITS_LABEL">
+			<Text>特质:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEUNIT_LABEL">
+			<Text>特色单位:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEBLDG_LABEL">
+			<Text>特色建筑:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIQUEIMPRV_LABEL">
+			<Text>特色设施:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_POLICYBRANCH_LABEL">
+			<Text>政策分支:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PREREQ_POLICY_LABEL">
+			<Text>前提政策:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FREEPROMOTIONS_LABEL">
+			<Text>能力:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REQ_PROMOTIONS_LABEL">
+			<Text>前提晋升:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PREREQ_TECH_LABEL">
+			<Text>前提科技:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_OBSOLETE_TECH_LABEL">
+			<Text>过时条件:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REVEAL_TECH_LABEL">
+			<Text>启用条件:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LEADS_TO_TECH_LABEL">
+			<Text>后继科技:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_UNIT_UNLOCK_LABEL">
+			<Text>启用单位:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_BLDG_UNLOCK_LABEL">
+			<Text>启用建筑:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROJ_UNLOCK_LABEL">
+			<Text>启用工程:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESRC_RVL_LABEL">
+			<Text>启用资源:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REQ_RESRC_LABEL">
+			<Text>需要资源:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPROVES_RESRC_LABEL">
+			<Text>开发资源:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_LOCAL_RESRC_LABEL">
+			<Text>需要本地资源:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REQ_BLDG_LABEL">
+			<Text>需要建筑:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_MAINT_LABEL">
+			<Text>维护费:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HAPPINESS_LABEL">
+			<Text>快乐:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_CULTURE_LABEL">
+			<Text>文化:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_DEFENSE_LABEL">
+			<Text>防御:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FOOD_LABEL">
+			<Text>食物:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_GOLD_LABEL">
+			<Text>金钱:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SCIENCE_LABEL">
+			<Text>科研:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PRODUCTION_LABEL">
+			<Text>产能:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_GP_LABEL">
+			<Text>伟人:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_COMBATTYPE_LABEL">
+			<Text>战斗类型:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_WORKER_ACTION_LABEL">
+			<Text>启用工人行动:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_REPLACES_LABEL">
+			<Text>替代:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ALWAYS_VISIBLE">
+			<Text>总是可见:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FEATURES_LABEL">
+			<Text>可出现地貌:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_IMPROVEMENTS_LABEL">
+			<Text>开发设施:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_TERRAINS_LABEL">
+			<Text>可出现地形:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RESOURCESFOUND_LABEL">
+			<Text>可出现资源:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_FOUNDON_LABEL">
+			<Text>可建造于:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SPEC_LABEL">
+			<Text>专业人员:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RELATED_ARTICLES_LABEL">
+			<Text>相关详情:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_GAME_INFO_LABEL">
+			<Text>游戏信息:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_QUOTE_LABEL">
+			<Text>引言:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SOUND_BITE_LABEL">
+			<Text>播放声音</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_ABILITIES_LABEL">
+			<Text>特殊能力:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_HISTORICAL_LABEL">
+			<Text>历史信息:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_STRATEGY_LABEL">
+			<Text>策略提示:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_SUMMARY_LABEL">
+			<Text>摘要:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EXTENDED_LABEL">
+			<Text>扩展信息:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_DNOTES_LABEL">
+			<Text>设计师提示:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_MOVECOST_LABEL">
+			<Text>移动力消耗:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_RELATED_IMAGES_LABEL">
+			<Text>相关图片:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SECTION_1">
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SECTION_2">
+			<Text>国家级奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SECTION_3">
+			<Text>工程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEOPLE_SECTION_1">
+			<Text>专业人员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEOPLE_SECTION_2">
+			<Text>伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_1">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATIONS_SECTION_2">
+			<Text>领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_CULTURED">
+			<Text>文化型城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_MILITARISTIC">
+			<Text>军事型城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_MARITIME">
+			<Text>航海型城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SECTION_1">
+			<Text>地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SECTION_2">
+			<Text>地貌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_SECTION_0">
+			<Text>奖励资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_SECTION_1">
+			<Text>战略资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCES_SECTION_2">
+			<Text>奢侈资源</Text>
+		</Row>
+		<!-- Misc Pedia help text-->
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_1">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_2">
+			<Text>战斗规则</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_3">
+			<Text>地形和地貌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_4">
+			<Text>资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_5">
+			<Text>建造区域设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_6">
+			<Text>食物与城市成长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_7">
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_8">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_9">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_10">
+			<Text>快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_11">
+			<Text>战争迷雾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_12">
+			<Text>社会政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_13">
+			<Text>金钱与经济</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_14">
+			<Text>顾问</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_15">
+			<Text>伟人和专业人员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_16">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_17">
+			<Text>单位移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_18">
+			<Text>空战规则</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_19">
+			<Text>废墟和蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_20">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_21">
+			<Text>胜利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_1">
+			<Text>近战晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_2">
+			<Text>远程晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_3">
+			<Text>海军晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_4">
+			<Text>医疗晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_5">
+			<Text>侦查晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_6">
+			<Text>空军晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_7">
+			<Text>通用晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTIONS_SECTION_8">
+			<Text>单位属性</Text>
+		</Row>
+		<!-- Options Menu-->
+		<Row Tag="TXT_KEY_INTERFACE_OPTIONS">
+			<Text>界面选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VIDEO_OPTIONS">
+			<Text>视频选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUDIO_OPTIONS">
+			<Text>音频选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MULTIPLAYER_OPTIONS">
+			<Text>多人游戏选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTIONS">
+			<Text>游戏选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUTO_UNIT_CYCLE">
+			<Text>自动单位循环</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUTO_UNIT_CYCLE_TT">
+			<Text>命令下达后自动选定下一个单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIND_MOUSE">
+			<Text>绑定鼠标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BIND_MOUSE_TT">
+			<Text>绑定鼠标到游戏窗口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALWAYS">
+			<Text>永远</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEVER">
+			<Text>决不</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FULLSCREEN_ONLY">
+			<Text>仅全屏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ONE_UNIT">
+			<Text>显示独体单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ONE_UNIT_TT">
+			<Text>只显示独体单位而非群组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL">
+			<Text>弹出建议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ADVISOR_COUNSEL_TT">
+			<Text>顾问定期提出建议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_COMBAT">
+			<Text>快速战斗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_COMBAT_TT">
+			<Text>无战斗动画</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT">
+			<Text>快速移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_MOVEMENT_TT">
+			<Text>单位瞬间移动到目标位置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL">
+			<Text>顾问等级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LEVEL_TT">
+			<Text>你所收到的顾问建议的数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL">
+			<Text>复位顾问系统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RESET_TUTORIAL_TT">
+			<Text>复位顾问系统，重置所有建议信息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUDIO_QUALITY">
+			<Text>音频质量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REPLACE">
+			<Text>自动工作的工人不改建区域设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REPLACE_TT">
+			<Text>自动工作的工人不改建已有的区域设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES">
+			<Text>自动工作的工人不清除地貌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTO_WORKERS_DONT_REMOVE_FEATURES_TT">
+			<Text>自动工作的工人开发战略资源或奢侈资源时不清除森林、丛林或沼泽等地貌。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_CITIZEN_WARNING">
+			<Text>无城市界面市民警告</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS">
+			<Text>不弹出奖励消息框</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_REWARD_POPUPS_TT">
+			<Text>不弹出奖励消息框（科技，远古遗迹等）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS">
+			<Text>不提示推荐地块</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_TILE_RECOMMENDATIONS_TT">
+			<Text>当移民和工人被选中的时候，不提示推荐地块。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_CIVILIAN_YIELDS">
+			<Text>为非战斗单位显示产出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_CIVILIAN_YIELDS_TT">
+			<Text>当非战斗单位被选中的时候，在地图上显示产出信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_BASIC_HELP">
+			<Text>无基本浮动提示信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_NO_BASIC_HELP_TT">
+			<Text>缩减游戏浮动提示信息，去掉解释说明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN">
+			<Text>多人玩家自动结束回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_AUTO_END_TURN_TT">
+			<Text>在多人游戏中开启自动回合循环功能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN">
+			<Text>单人玩家自动结束回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_AUTO_END_TURN_TT">
+			<Text>在单人游戏中开启自动回合循环功能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT">
+			<Text>多人游戏快速战斗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_COMBAT_TT">
+			<Text>在多人游戏中启用快速战斗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT">
+			<Text>多人游戏快速移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MULTIPLAYER_QUICK_MOVEMENT_TT">
+			<Text>在多人游戏中启用单位快速移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT">
+			<Text>单人游戏快速战斗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_COMBAT_TT">
+			<Text>在单人游戏中启用快速战斗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT">
+			<Text>单人游戏快速移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPLAYER_QUICK_MOVEMENT_TT">
+			<Text>在单人游戏中启用单位快速移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_LENGTH">
+			<Text>回合结束计时: 10秒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH">
+			<Text>浮动提示延时: {1_Num}秒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_1_TIMER_LENGTH_TT">
+			<Text>浮动提示出现的持续时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH">
+			<Text>二级浮动提示延时: {1_Num}秒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TOOLTIP_2_TIMER_LENGTH_TT">
+			<Text>二级浮动提示出现的持续时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES">
+			<Text>自动存档间隔回合:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURNS_FOR_AUTOSAVES_TT">
+			<Text>游戏间隔多少回合自动保存一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT">
+			<Text>自动存档最大数量:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MAX_AUTOSAVES_KEPT_TT">
+			<Text>游戏自动存档达到多少个时系统将删除旧自动存档。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI">
+			<Text>自动调整界面大小</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AUTOSIZE_UI_TT">
+			<Text>游戏界面将采用最适合您屏幕的分辨率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI">
+			<Text>使用小尺寸界面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_USE_SMALL_UI_TT">
+			<Text>强制游戏使用更小尺寸的界面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI">
+			<Text>重载界面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RELOAD_UI_TT">
+			<Text>应用界面大小的改变</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW">
+			<Text>高细节战略视图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_HIGH_DETAIL_STRAT_VIEW_TT">
+			<Text>战略视图将使用更高分辨率的纹理，允许进一步放大。这要求更高的硬件配置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE">
+			<Text>显卡处理器纹理解码</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_GPU_TEXTURE_DECODE_TT">
+			<Text>允许使用显卡处理器(GPU)解码纹理贴图。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST">
+			<Text>单人游戏积分列表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SCORE_LIST_TT">
+			<Text>在单人游戏时显示简单的积分列表。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST">
+			<Text>多人游戏积分列表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MP_SCORE_LIST_TT">
+			<Text>在多人游戏时显示简单的积分列表。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM">
+			<Text>动态光标缩放模式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_CAMERA_ZOOM_TT">
+			<Text>当拉远视点时，镜头直接拉回而不保持于光标位置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO">
+			<Text>显示所有政策信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SHOW_ALL_POLICY_INFO_TT">
+			<Text>所有政策都会在社会政策界面中显示，无论时代和政策分支是否解锁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_LEADER_QUALITY">
+			<Text>领袖场景质量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RESOLUTION">
+			<Text>屏幕分辨率</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_FULLSCREEN">
+			<Text>全屏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RESTART_REQ_TT">
+			<Text>您必须重新启动以使更改生效</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_VSYNC">
+			<Text>垂直同步</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES">
+			<Text>缩减灰格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MINIMIZE_GRAY_TILES_TT">
+			<Text>滚动地图时将显示的灰色区块最小化。这会增加系统开销。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS">
+			<Text>启用阴影淡出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_FADE_SHADOWS_TT">
+			<Text>视点拉远时不再显示阴影以提升运行效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_BLOCK_LOAD">
+			<Text>整体加载地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_BLOCK_LOAD_TT">
+			<Text>等到所有的世界地形和地理信息完全生成才会进入游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_BORDERS">
+			<Text>高级文化边界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DYNAMIC_BORDERS_TT">
+			<Text>开启高级文化边界，这要求更高的硬件配置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MSAA">
+			<Text>抗锯齿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MSAA_OFF">
+			<Text>关闭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MSAA_2X">
+			<Text>2倍抗锯齿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MSAA_4X">
+			<Text>4倍抗锯齿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MSAA_8X">
+			<Text>8倍抗锯齿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA">
+			<Text>启用地图惯性效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_ENABLE_MAP_INERTIA_TT">
+			<Text>拖动地图时启用惯性效果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO">
+			<Text>跳过开场视频</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SKIP_INTRO_VIDEO_TT">
+			<Text>跳过播放开场视频</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_OVERLAY_DETAIL">
+			<Text>附加层细节</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SHADOW_QUALITY">
+			<Text>阴影质量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_FOW_QUALITY">
+			<Text>战争迷雾质量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TERRAIN_DETAIL_LEVEL">
+			<Text>地形详细程度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TERRAIN_TESS_LEVEL">
+			<Text>地形镶嵌程度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TERRAIN_SHADOW_QUALITY">
+			<Text>地形阴影质量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_WATER_QUALITY">
+			<Text>水面效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TEXTURE_QUALITY">
+			<Text>材质效果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_VDOP_DISABLED">
+			<Text>在游戏中改变视频选项将不会生效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_VDOP_RESTART">
+			<Text>在重启游戏前视频选项将不会生效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_APPLY_RESOLUTION">
+			<Text>应用分辨率</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_APPLY_RESOLUTION_TT">
+			<Text>应用分辨率设置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON">
+			<Text>默认值</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_VIDEO_VERIFY">
+			<Text>您想保留这些设置吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_CONFIRM">
+			<Text>您确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_DEFAULTS_BUTTON_TT">
+			<Text>重置所有设置为默认值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON">
+			<Text>取消</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_CANCEL_BUTTON_TT">
+			<Text>返回到主菜单</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_APPLY_BUTTON">
+			<Text>应用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_APPLY_BUTTON_TT">
+			<Text>保存选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SAVE_BUTTON">
+			<Text>接受</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SAVE_BUTTON_TT">
+			<Text>保存选项并返回到菜单。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_RESOLUTION_TIMER">
+			<Text>您想保持这个分辨率吗？(稍后将自动恢复)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_LANGUAGE_TIMER">
+			<Text>即将改变界面语言，你确定吗？(Changing languages will cause the interface to reload. Is this okay? )</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_MUSIC_SLIDER">
+			<Text>音乐音量: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SF_SLIDER">
+			<Text>音效音量: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SPEECH_SLIDER">
+			<Text>语音音量: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_AMBIANCE_SLIDER">
+			<Text>环境音量: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_END_TURN_TIMER_SET">
+			<Text>结束该回合所剩余的时间:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SETTINGS_OFF">
+			<Text>关闭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SETTINGS_LOW">
+			<Text>低</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SETTINGS_MEDIUM">
+			<Text>中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SETTINGS_HIGH">
+			<Text>高</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SETTINGS_MINIMUM">
+			<Text>最低</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_HIGH">
+			<Text>经验丰富的玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_MEDIUM">
+			<Text>文明5的新手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_LOW">
+			<Text>文明游戏的新手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TUTORIAL_OFF">
+			<Text>没有提示</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SELECT_LANG">
+			<Text>文本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_SELECT_SPOKEN_LANG">
+			<Text>语音</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE">
+			<Text>快进选择</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_QUICK_SELECTION_ADVANCE_TT">
+			<Text>下达命令后不等动画完成立即选择下一个单位。</Text>
+		</Row>
+		<!-- Multiplayer Options Text -->
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_OPTIONS">
+			<Text>Pitboss回合通知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_HOST_OPTIONS">
+			<Text>Pitboss主机回合通知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE">
+			<Text>Steam邀请</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_STEAM_INVITE_TT">
+			<Text>当Pitboss游戏进行到你的回合时会收到Steam游戏邀请。此通知仅当游戏在因特网上进行并且你是游戏创建者的好友时才会发出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL">
+			<Text>电子邮件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_TT">
+			<Text>当Pitboss游戏进行到你的回合时会收到电子邮件通知。此通知仅当游戏创建者选择了电子邮件通知时才会发出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS">
+			<Text>电子邮件地址</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_EMAIL_ADDRESS_TT">
+			<Text>接收Pitboss回合通知的电子邮件地址。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST">
+			<Text>电子邮件服务器(SMTP)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_HOST_TT">
+			<Text>主机用以发送电子邮件通知的服务器(SMTP)地址。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME">
+			<Text>用户名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_USERNAME_TT">
+			<Text>电子邮件服务器(SMTP)用户名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORD">
+			<Text>密码</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORD_TT">
+			<Text>电子邮件服务器(SMTP)密码。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD">
+			<Text>重输密码</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_RETYPE_PASSWORD_TT">
+			<Text>重复输入密码</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH">
+			<Text>密码匹配</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_MATCH_TT">
+			<Text>输入的邮件服务器密码匹配。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH">
+			<Text>密码不匹配</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PASSWORDS_NOT_MATCH_TT">
+			<Text>输入的邮件服务器密码不匹配。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_TLS">
+			<Text>使用加密</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_TLS_TT">
+			<Text>为此邮件服务器使用使用传输层安全加密(TLS)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PORT">
+			<Text>端口:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPSCREEN_TURN_NOTIFY_SMTP_PORT_TT">
+			<Text>邮件服务器(SMTP)使用的网络端口。</Text>
+		</Row>
+		<!-- Confirm kick player popup -->
+		<Row Tag="TXT_KEY_CONFIRM_KICK_PLAYER_TITLE">
+			<Text>确认踢出玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_KICK_PLAYER_DESC">
+			<Text>你确定要将{1_player}踢出游戏吗？</Text>
+		</Row>
+		<!-- Turn Notification Emails -->
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SUBJECT">
+			<Text>文明5回合通知：“{1_GameName}”游戏第{2_Turn}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_GENERIC_RECIPENT">
+			<Text>Pitboss玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_SENDER">
+			<Text>文明5(Pitboss)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_BODY_HEADER">
+			<Text>你好！&lt;br&gt;&lt;br&gt;“{1_GameName}”轮到你来进行回合了。&lt;br&gt;&lt;br&gt;</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_STEAM_LINK">
+			<Text>&lt;a href="{1_SteamURL}"&gt;点此加入游戏。&lt;/a&gt;</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_START_CIV5">
+			<Text>&lt;a href="{1_SteamURL}"&gt;点此启动文明5&lt;/a&gt;</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_REMINDER_EMAIL_MANUAL_LINK">
+			<Text>&lt;br&gt;&lt;br&gt;如果以上链接无效，请复制以下地址到浏览器地址栏：&lt;br&gt;{1_SteamURL}</Text>
+		</Row>
+		<!--Misc UI Text Overlay and  Help text-->
+		<Row Tag="TXT_KEY_RESEARCH_ONGOING">
+			<Text>研究中:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESEARCH_FINISHED">
+			<Text>完成:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESEARCH_HALTED">
+			<Text>暂停: {1_Name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENABLE_PRODUCITON_CONVERSION">
+			<Text>可以转换产能为{1_ResourceName:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FASTER_MOVEMENT">
+			<Text>在{1_TerrainName:textkey}上具有更高移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_IMPROVED">
+			<Text>{1_ImprovementName:textkey}+{3_Num}{2_YieldType:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_FRESH_WATER">
+			<Text>无淡水时，{1_ImprovementName:textkey}+{3_Num}{2_YieldType:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FRESH_WATER">
+			<Text>有淡水时，{1_ImprovementName:textkey}+{3_Num}{2_YieldType:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FASTER_EMBARKED_MOVEMENT">
+			<Text>更快的海运单位移动速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_EMBARKING">
+			<Text>允许陆地单位以海运状态进入水域。进入己方领土的单位将自动获得此能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_CROSSING_OCEANS">
+			<Text>允许海运的单位进入大洋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_OPEN_BORDERS">
+			<Text>允许开放边境条约。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_DEFENSIVE_PACTS">
+			<Text>允许共同防御条约。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_RESEARCH_AGREEMENTS">
+			<Text>允许合作研究。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_TRADE_AGREEMENTS">
+			<Text>允许贸易合作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_BRIDGES">
+			<Text>允许跨河桥梁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVEALS_ENTIRE_MAP">
+			<Text>揭示整个地图。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVEALS_RESOURCE_ON_MAP">
+			<Text>在地图上显示{@1_ResourceName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NOT_YET_AVAILABLE">
+			<Text>不可研究项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AVAILABLE">
+			<Text>可研究项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CURR_RESEARCH">
+			<Text>当前研究项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RESEARCHED">
+			<Text>已完成项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROGRESS_TOWARDS">
+			<Text>{1_name}研究进度</Text>
+		</Row>
+		<!--In Game Strategic Options -->
+		<Row Tag="TXT_KEY_STRAT_ICON_MODE">
+			<Text>图标模式:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRAT_OVERLAY">
+			<Text>启用附加层:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRAT_FEATURES">
+			<Text>显示特征</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRAT_FOW">
+			<Text>显示战争迷雾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRAT_MAP_OPTIONS_TT">
+			<Text>切换地图选项菜单开/关</Text>
+		</Row>
+		<!--In Game Menu Buttons -->
+		<Row Tag="TXT_KEY_MENU_RESTART_GAME_BUTTON">
+			<Text>重新开始游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_QUICK_SAVE_BUTTON">
+			<Text>快速保存</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_SAVE_BUTTON">
+			<Text>保存进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_LOAD_GAME_BUTTON">
+			<Text>读取进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_SAVE_MAP_LOWER">
+			<Text>保存地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_SAVE_MAP_BUTTON">
+			<Text>保存地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_OPTIONS_BUTTON">
+			<Text>游戏选项</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_EXIT_TO_MAIN">
+			<Text>返回主菜单</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_EXIT_TO_WINDOWS">
+			<Text>退出到桌面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_RETURN_TO_GAME">
+			<Text>返回游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_RETURN_MM_WARN">
+			<Text>这将返回到主菜单，并且不保存你当前的进度。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_RETURN_EXIT_WARN">
+			<Text>这将退出游戏，并且不保存你当前的进度。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_EXIT_WARN">
+			<Text>这将退出游戏。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_SAVE">
+			<Text>保存</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MENU_SAVE_MAP_DESC">
+			<Text>保存地图会将你正在运行的这一局的地形数据保存为可以被世界创建器所读取的格式。这将允许你将它作为模板来创造一个属于你的地图，或者在以后读取这个地图。</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="TXT_KEY_ADVANCED_VIEW">
+			<Text>进阶视图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_AVAILALBE">
+			<Text>启用时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_ADOPT_BUTTON">
+			<Text>采用</Text>
+		</Row>
+		<!-- Choose Free Item Screen -->
+		<Row Tag="TXT_KEY_CHOOSE_FROM_FOLLOWING">
+			<Text>请选择{1 : spellout}项：</Text>
+		</Row>
+		<!-- Replay Viewer  -->
+		<Row Tag="TXT_KEY_REPLAY_TITLE">
+			<Text>回放</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_PLAYPAUSE">
+			<Text>播放/暂停</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_NOGRAPHDATA">
+			<Text>无图表数据</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MESSAGES_TITLE">
+			<Text>消息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MESSAGES_TT">
+			<Text>查看游戏进程中所有重要消息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHS_TITLE">
+			<Text>图表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHS_TT">
+			<Text>查看各方的详细数据图表数据。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MAP_TITLE">
+			<Text>地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_MAP_TT">
+			<Text>查看世界地图及各方的领土变化情况。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_VIEWER_GRAPHBY_SCORE">
+			<Text>积分</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_PRODUCTIONPERTURN">
+			<Text>产能[ICON_PRODUCTION]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALGOLD">
+			<Text>金钱[ICON_GOLD]总计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDPERTURN">
+			<Text>金钱[ICON_GOLD]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_CITYCOUNT">
+			<Text>城市数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TECHSKNOWN">
+			<Text>获得科技数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_SCIENCEPERTURN">
+			<Text>科研[ICON_RESEARCH]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALCULTURE">
+			<Text>文化[ICON_CULTURE]总计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_CULTUREPERTURN">
+			<Text>文化[ICON_CULTURE]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_EXCESSHAPPINESS">
+			<Text>富余快乐[ICON_HAPPINESS_1]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_HAPPINESS">
+			<Text>快乐[ICON_HAPPINESS_1]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_UNHAPPINESS">
+			<Text>不满[ICON_HAPPINESS_3]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GOLDAGETURNS">
+			<Text>黄金时代[ICON_GOLDEN_AGE]回合数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALPOPULATION">
+			<Text>人口[ICON_CITIZEN]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_FOODPERTURN">
+			<Text>食物[ICON_FOOD]/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_TOTALLAND">
+			<Text>领土总计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GPTCITYCONNECTIONS">
+			<Text>金钱[ICON_GOLD]/回合：商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_GPTDEALS">
+			<Text>金钱[ICON_GOLD]/回合：交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_UNITMAINTENANCE">
+			<Text>单位维护费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_BUILDINGMAINTENANCE">
+			<Text>建筑维护费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_IMPROVEMENTMAINTENANCE">
+			<Text>设施维护费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_NUMBEROFPOLICIES">
+			<Text>政策数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_NUMBEROFWORKERS">
+			<Text>工人数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_IMPROVEDTILES">
+			<Text>改造区块</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_WORKEDTILES">
+			<Text>工作区块</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPLAY_DATA_MILITARYMIGHT">
+			<Text>军事实力</Text>
+		</Row>
+		<!-- Player List  -->
+		<Row Tag="TXT_KEY_MP_PLAYER_CONNECTED">
+			<Text>玩家正在进行游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_PLAYER_NOTCONNECTED">
+			<Text>玩家目前未连接。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_PLAYER_CONNECTING">
+			<Text>玩家正在加入游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_HOT_JOIN_NOTICE">
+			<Text>玩家正在加入游戏。游戏已暂停。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

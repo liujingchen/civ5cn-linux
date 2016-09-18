@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR">
+			<Text>毛利勇士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKA_WAR_DANCE">
+			<Text>哈卡战舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKA_WAR_DANCE_HELP">
+			<Text>与拥有该晋升的单位相邻的敌方单位-10%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT">
+			<Text>有关“青春之泉”传说的最早记载来自古希腊的希罗多德，据说喝了这种“生命之水”就能使人长生不老。类似的故事也在加勒比海和南美地区流传，在西班牙殖民时代盛行一时。根据广泛流传的说法，西班牙征服者胡安·庞塞·德莱昂1513年时在波多黎各听到了青春之泉的传说，随即开始四处找寻。他搜寻青春之泉毫无结果，却在中途发现了佛多里达（因此成为最早踏足北美的欧洲人）。青春之泉的传说至今流传不衰——无数电影、书籍、漫画和游戏都在讲述人们如何寻找青春之泉，追求永恒的生命。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_HELP">
+			<Text>接近该自然奇观的单位此后的恢复速率加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_POTOSI_TEXT">
+			<Text>“富饶山”指位于玻利维亚南部的波多西山，殖民时代西班牙几乎所有的白银都出产在那里。波多西山出产的白银先由羊驼和骡子运到海滨，然后用大帆船运往欧洲。两百年间的开采总量高达4.1万吨纯银，其中8200吨成为西班牙王室的财产。1800年后，波多西山银矿的主矿脉濒于枯竭，但直到今天当地的矿井还在继续开采——一部分是白银，但大部分则是锡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_EL_DORADO_TEXT">
+			<Text>传说中“失落的黄金国”吸引着无数梦想发现巨大财富的西班牙征服者前往新大陆。在将近三个世纪的时间里，探险者在南美洲各处反复搜寻这个神秘的宝藏，顺便劫掠途中遇到的许多城市。直到1804年，还有探险队在追寻先驱者的足迹，试图确定黄金国的所在。然而，现在人们相信有关这个神秘国度传说的来源是穆伊斯卡族酋长的统治仪式，据记载新任酋长要在自己身上涂一层金粉，然后跳入瓜达维塔圣湖以取悦神灵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_EL_DORADO_HELP">
+			<Text>率先发现者获得500[ICON_GOLD]金钱。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Language_zh_CN>
+    <!--General phrases -->
+    <!--Greeting (first time meeting) -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_1">
+      <Text>向你致意。我是帕查库提，这个星球上最高贵、最强大、最美丽的国度——印加的统治者。我很乐意接见后进文明的代表！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_2">
+      <Text>向你致意，陌生人！我是帕查库提，印加的统治者。见到我你应该感到荣幸。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_FIRSTGREETING_3">
+      <Text>向你致意，陌生人。我是帕查库提，无与伦比的印加的统治者。如果我能够帮助你们这个后进的文明，请随时提出来。</Text>
+    </Row>
+    <!--Reacts to his bluff being called -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_1">
+      <Text>很好。我们将仁慈对对待你。至少在目前。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_2">
+      <Text>很好。下次我可不会这么客气了！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_WARBLUFF_3">
+      <Text>真的？我确信你活不到为自己的短视而后悔那一天了。</Text>
+    </Row>
+    <!--Gloats after winning a war -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_WINWAR_1">
+      <Text>你真以为你能打败强大的印加帝国吗？你这可怜的傻瓜，我为你感到遗憾。</Text>
+    </Row> 
+    <!--Submissive after losing a war -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LOSEWAR_1">
+      <Text>你干得确实漂亮。你一定从我这里学到了很多。</Text>
+    </Row>
+    <!--Defeated and removed from game -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_1">
+      <Text>真难以置信！这不可能发生！我一定是在做梦！我很快就会从恶梦中醒来，这一切都将结束。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_2">
+      <Text>我被打败了？这是怎么回事？我一定是遭到了背叛！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEFEATED_3">
+      <Text>这不可能。我的伟大和光荣全毁在你手里了？你必须给我解释清楚！</Text>
+    </Row>
+    <!--Neutral -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_1">
+      <Text>欢迎。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_2">
+      <Text>你好。</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_1">
+      <Text>再会。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_2">
+      <Text>再见。</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_NEUTRAL">
+      <Text>当然。我们很乐意同后进文明开展贸易。</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>你想欺骗我们，是吗？那将是巨大的错误。你必须改善你的提议。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>你能做得更好一点吗？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>这还不够好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>差不多了……</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_NEUTRAL">
+      <Text>你真的以为你们文明能向我们提供什么东西吗？</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_NEUTRAL">
+      <Text>我们很乐意帮助后进文明！</Text>
+    </Row> 
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_NEUTRAL">
+      <Text>你的贪婪程度和骄傲程度一样惊人。我们拒绝你可笑的要求。</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_NEUTRAL">
+      <Text>印加人民向你提出这笔非常公道的交易。</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_NEUTRAL">
+      <Text>是时候报答印加的友谊和保护了。不要让我们失望。</Text>
+    </Row>  
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_1">
+      <Text>好吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_2">
+      <Text>很好。</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_1">
+      <Text>当然不。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_2">
+      <Text>不。</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_1">
+      <Text>我听着呢。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_2">
+      <Text>什么？</Text>
+    </Row>
+    <!--Happy -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_3">
+      <Text>向你致意。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_4">
+      <Text>你好。</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_3">
+      <Text>再会。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_4">
+      <Text>再见。</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_HAPPY">
+      <Text>真是个好主意！你真是个称职的领袖。</Text>
+    </Row>
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_1">
+      <Text>我知道数学对你来说太难了，我的朋友，但这笔交易不公平。你需要改善你的提议。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_2">
+      <Text>这就是你能做到的吗？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_HAPPY_3">
+      <Text>你就快成功了……</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_HAPPY">
+      <Text>恐怕你的提议是不可接受的，朋友。</Text>
+    </Row>
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_HAPPY">
+      <Text>当然，我的朋友！没有我们的帮助你显然活不下去。</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_HAPPY">
+      <Text>唉！恐怕我们不能接受你的要求。这次你必须自力更生了。</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_HAPPY">
+      <Text>我的朋友，真是令人难以置信，印加人民需要你的帮助。我相信你不会拒绝我们吧？</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_HAPPY">
+      <Text>我的朋友，我相信这笔交易对双方都有利。</Text>
+    </Row> 
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_3">
+      <Text>当然。</Text>
+    </Row> 
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_3">
+      <Text>我们拒绝。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_4">
+      <Text>当然不行。</Text>
+    </Row> 
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_3">
+      <Text>请说吧。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_4">
+      <Text>你说什么？</Text>
+    </Row>
+    <!--Angry -->
+    <!--Greetings (subsequent meetings) -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_5">
+      <Text>噢，是你呀。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GREETING_6">
+      <Text>你想要什么？</Text>
+    </Row>
+    <!--Goodbye -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_5">
+      <Text>就这样了。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_GOODBYE_6">
+      <Text>我们到此为止吧。</Text>
+    </Row>
+    <!--Trade offer from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_YES_ANGRY">
+      <Text>这看来很合理。你倒是挺聪明的。</Text>
+    </Row> 
+    <!--Trade offer from player - sweeten the deal -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_1">
+      <Text>你知道什么叫“公平交易”吗？你的提议不够好，需要加以改善。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_2">
+      <Text>这还不够好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NEEDMORE_ANGRY_3">
+      <Text>你可以做得更好。</Text>
+    </Row>
+    <!--Trade offer from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADE_NO_ANGRY">
+      <Text>你的提议和你本人一样讨厌。</Text>
+    </Row>  
+    <!--Demand for tribute from player - yes -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_YES_ANGRY">
+      <Text>好吧。希望你别噎着！</Text>
+    </Row>
+    <!--Demand for tribute from player - no -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRIBUTE_NO_ANGRY">
+      <Text>你疯了吗？</Text>
+    </Row>
+    <!--Demands tribute -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DEMANDTRIBUTE_ANGRY">
+      <Text>给我想要的东西，也许你们这弱小的文明能继续存活下去。</Text>
+    </Row>
+    <!--Requests a trade -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_TRADEREQUEST_ANGRY">
+      <Text>印加人民慷慨地向你们提出这笔交易。</Text>
+    </Row> 
+    <!--Agrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_AGREE_SHORT_4">
+      <Text>哦，好吧。</Text>
+    </Row>
+    <!--Disagrees -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_5">
+      <Text>你说什么？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_6">
+      <Text>这不可接受。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DISAGREE_SHORT_7">
+      <Text>你开玩笑吧！</Text>
+    </Row>
+    <!--Let's hear it -->
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_LETSHEARIT_5">
+      <Text>什么？</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_1">
+      <Text>你们太落后太原始了。应该更换统治者了。准备打仗吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_2">
+      <Text>我想帮落后的你们一个忙，让你们加入印加帝国。准备打仗吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_DECLAREWAR_3">
+      <Text>抵抗是徒劳的！你不可能阻止强大的印加帝国。如果不想立即投降，那就准备打仗吧！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_1">
+      <Text>我早就预料到了。你别想偷袭得手。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_2">
+      <Text>对我们宣战？！？不行，我要先对你们宣战！</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_PACHACUTI_ATTACKED_3">
+      <Text>你这没希望的爬虫。你竟敢威胁无与伦比的印加帝国！</Text>
+    </Row>
+  </Language_zh_CN>
+</GameData>

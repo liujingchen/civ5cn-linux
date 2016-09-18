@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_ADJECTIVE">
+			<Text>印加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_DESC">
+			<Text>印加文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_INCA_SHORT_DESC">
+			<Text>印加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_ADJECTIVE">
+			<Text>西班牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_DESC">
+			<Text>西班牙文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_SPAIN_SHORT_DESC">
+			<Text>西班牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_ADJECTIVE">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_DESC">
+			<Text>玛雅文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_MAYA_SHORT_DESC">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_ADJECTIVE">
+			<Text>荷兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_DESC">
+			<Text>荷兰文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_NETHERLANDS_SHORT_DESC">
+			<Text>荷兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_ADJECTIVE">
+			<Text>旧大陆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_DESC">
+			<Text>旧大陆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV_JAPAN_SHORT_DESC">
+			<Text>旧大陆</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

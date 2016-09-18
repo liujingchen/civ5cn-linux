@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_0">
+			<Text>提基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_1">
+			<Text>霍图·玛图亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_2">
+			<Text>荣哥-玛-坦尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_3">
+			<Text>库佩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_4">
+			<Text>哈洛提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_5">
+			<Text>德盖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_6">
+			<Text>芭芭米克</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_7">
+			<Text>库露·劳</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_8">
+			<Text>娜甘南加</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYNESIA_9">
+			<Text>图卢娅</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

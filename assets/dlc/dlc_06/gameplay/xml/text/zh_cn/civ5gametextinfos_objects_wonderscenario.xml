@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+        <Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_GIBRALTAR">
+            <Text>奥林匹斯山</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_VOLCANO">
+            <Text>锡拉火山</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_MESA">
+            <Text>卡帕多西亚高地</Text>
+        </Row>
+        <Row Tag="TXT_KEY_WONDER_SCENARIO_FEATURE_MT_FUJI">
+            <Text>亚拉腊山</Text>
+        </Row>
+	</Language_zh_CN>
+</GameData>

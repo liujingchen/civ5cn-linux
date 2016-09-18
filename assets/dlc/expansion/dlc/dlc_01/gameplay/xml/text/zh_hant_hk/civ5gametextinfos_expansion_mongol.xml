@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_CIV5_MONGOLIA_KHAN_STRATEGY">
+      <Text>汗作為蒙古的特色偉人，代替了標準的大將軍。其戰鬥加成與大將軍一樣，但卻擁有與怯薛相同的移動力（每回合5點），每回合能夠治療相鄰單位15點額外的生命值。這個加強版的大將軍保證其騎乘單位始終保持在最佳的備戰狀態。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+      <Text>本單位及所有相鄰單位每回合[COLOR_POSITIVE_TEXT]回復15點額外的生命值[ENDCOLOR]。</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

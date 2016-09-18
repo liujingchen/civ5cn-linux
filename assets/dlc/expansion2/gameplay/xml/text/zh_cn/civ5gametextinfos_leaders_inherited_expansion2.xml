@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_SELASSIE">
+			<Text>海尔·塞拉西</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

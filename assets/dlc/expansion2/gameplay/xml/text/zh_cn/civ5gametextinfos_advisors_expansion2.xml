@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
+			<Text>我是你的经济顾问。在这一课里我将教你如何使用工人改造你的国土。在你的指派下工人将修建道路连接城市以增加[ICON_GOLD]金钱，修建设施帮助你的城市加速扩张、提升产能，并获取资源以使你的人民更快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
+			<Text>我们拥有多座沿海城市，建造港口可以通过水路连接沿海城市，以获得更多[ICON_GOLD]金钱！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

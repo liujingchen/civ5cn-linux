@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_ZH_Hant_HK>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_0">
+      <Text>阿馬魯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_1">
+      <Text>阿皮丘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_2">
+      <Text>帕里亞皮丘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_3">
+      <Text>布馬</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_4">
+      <Text>昆堤</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_5">
+      <Text>蘇揚突</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_6">
+      <Text>烏圖倫古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_7">
+      <Text>烏圖倫古</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_8">
+      <Text>普魯土</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_INCA_9">
+      <Text>歐茲克洛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_0">
+      <Text>羅德利果</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_1">
+      <Text>阿美瑞爾達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_2">
+      <Text>雷昂</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_3">
+      <Text>馬希爾達</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_4">
+      <Text>拉蒙納</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_5">
+      <Text>沙納艾克斯</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_6">
+      <Text>托波里諾</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_7">
+      <Text>塞平提</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_8">
+      <Text>嘉西雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SPAIN_9">
+      <Text>艾樂洛波</Text>
+    </Row>
+  </Language_ZH_Hant_HK>
+</GameData>

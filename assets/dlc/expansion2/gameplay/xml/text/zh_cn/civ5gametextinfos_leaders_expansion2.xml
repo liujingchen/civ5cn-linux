@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL">
+			<Text>亚述巴尼拔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR">
+			<Text>艾哈迈德·曼苏尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CASIMIR">
+			<Text>卡齐米日三世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO">
+			<Text>恩里科·丹多洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GAJAH_MADA">
+			<Text>加查·玛达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I">
+			<Text>玛丽亚一世</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO">
+			<Text>佩德罗二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO">
+			<Text>波卡特洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA">
+			<Text>沙卡</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

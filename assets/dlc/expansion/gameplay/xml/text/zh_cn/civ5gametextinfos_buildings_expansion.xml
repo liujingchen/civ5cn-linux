@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_zh_CN>
+		<!-- WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_ALHAMBRA">
+			<Text>阿尔罕布拉宫</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CN_TOWER">
+			<Text>西恩塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HUBBLE">
+			<Text>哈勃太空望远镜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEANING_TOWER">
+			<Text>比萨斜塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOSQUE_OF_DJENNE">
+			<Text>杰内大清真寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEUSCHWANSTEIN">
+			<Text>新天鹅堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PETRA">
+			<Text>佩特拉城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TERRACOTTA_ARMY">
+			<Text>兵马俑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL">
+			<Text>网络防火长城</Text>
+		</Row>
+		<!-- NATIONAL WONDERS -->
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY">
+			<Text>国家情报局</Text>
+		</Row>
+    <Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE">
+      <Text>圣殿</Text>
+    </Row>
+    <!-- BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER">
+			<Text>露天剧场</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHRINE">
+			<Text>神祠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER">
+			<Text>回收中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER">
+			<Text>防空洞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSTABLE">
+			<Text>治安署</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION">
+			<Text>警察局</Text>
+		</Row>
+		<!--RELIGION BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_CATHEDRAL">
+			<Text>大教堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MOSQUE">
+			<Text>清真寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAGODA">
+			<Text>佛塔</Text>
+		</Row>
+		<!-- UNIQUE BUILDINGS -->
+		<Row Tag="TXT_KEY_BUILDING_CEILIDH_HALL">
+			<Text>同乐会厅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COFFEE_HOUSE">
+			<Text>咖啡馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STELE">
+			<Text>纪念石柱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAYA_PYRAMID">
+			<Text>金字塔神庙</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Objects -->
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_TATARS">
+			<Text>塔塔儿部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_KEREIT">
+			<Text>克烈惕部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_MERKITS">
+			<Text>蔑尔乞部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_NAIMANS">
+			<Text>乃蛮部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_MONGOLS">
+			<Text>乞颜部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_GENGHIS">
+			<Text>成吉思</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

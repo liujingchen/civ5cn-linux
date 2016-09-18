@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV5_HINT_13">
+			<Text>当你的文明遭到攻击时，良好的道路网络将会发挥重要作用。例如在合适的状况下，拥有2格移动力的远程单位能够在一回合内赶到前线攻击敌军然后撤回后方休整——如果我方单位有道路可以通行得话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_14">
+			<Text>三个中等力量的任意类型单位能够攻占任何城市——无论它多么坚固——除非城外还有其他单位进行防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_2">
+			<Text>想要启用更先进的社会政策，你应该建造神庙、剧场和其他文化型建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_3">
+			<Text>一旦某区域被纳入某文明的边界，它将一直作为该文明的领土。想要夺取该区域的唯一办法就是占领或摧毁控制该区域的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_6">
+			<Text>侦察兵的视野相比其他早期单位拥有一格额外视野，除了适于探索世界，也适于看家。你可以考虑在帝国边境的丘陵上部署一些侦察兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_7">
+			<Text>绝不要在拿火枪的对手面前耍刀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_8">
+			<Text>注意让你的帝国保持快乐。如果整个帝国处于对你不满的状态，你的城市将停止成长，直到你获得新的快乐来源。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

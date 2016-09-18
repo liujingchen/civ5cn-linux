@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION">
+			<Text>每种奢侈资源即使全部交易出去仍可保留50%的[ICON_HAPPINESS_1]快乐奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LUXURY_RETENTION_SHORT">
+			<Text>商业特权</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE">
+			<Text>邻近未开发森林地块的城市+1[ICON_PEACE]信仰。邻近3处以上未开发森林地块的城市+2[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT">
+			<Text>德鲁伊教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
+			<Text>创立宗教时额外选择一项信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT">
+			<Text>普世牧首</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE">
+			<Text>将伟人赠送给城邦可获得90[ICON_INFLUENCE]影响力。在声明友谊后双方伟人产生速率均+10%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT">
+			<Text>诺贝尔奖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES">
+			<Text>夷平城市的速度加倍。城市的命名从其他文明借用。自动获得家畜驯养科技，每处牧场可提供+1[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT">
+			<Text>上帝之鞭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE">
+			<Text>可花费[ICON_GOLD]金钱合并或傀儡已同盟5回合以上的城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT">
+			<Text>外交联姻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
+			<Text>所有海滨城市免费获得港口。获得首个陆军统帅后单位可以跨越山脉，如在山脉上结束回合将消耗50生命点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT">
+			<Text>航海传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT">
+			<Text>获得神学科技后在每个长计历周期（394年）结束时额外产生一位伟人。额外的伟人每种只能选择一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LONG_COUNT_SHORT">
+			<Text>长计历</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH">
+			<Text>与拥有更多城市的文明的单位交战时可获得20%的战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT">
+			<Text>以弱胜强</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
+			<Text>摧毁蛮族营地及劫掠城市时获得三倍[ICON_GOLD]金钱。陆军单位获得战斗快艇和两栖作战晋升以提升海运状态时的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES_SHORT">
+			<Text>黄金七城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SEVEN_CITIES">
+			<Text>发现自然奇观时获得[ICON_GOLD]金钱奖励（首先发现则可获得更多）。自然奇观提供的[ICON_CULTURE]文化、[ICON_HAPPINESS_1]快乐和地块产出加倍。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

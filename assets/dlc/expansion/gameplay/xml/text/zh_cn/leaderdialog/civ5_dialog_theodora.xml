@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_1">
+			<Text>啊，真是惊喜——神秘的陌生人啊，请问您如何称呼？我乃拜占庭的宠儿，我乃提奥多拉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_2">
+			<Text>我乃提奥多拉，世间一切奇伟瑰丽之物的女主人。你令我印象深刻，陌生人，我将会在我的收藏中为你找到一个合适的位置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_FIRSTGREETING_3">
+			<Text>虽然我的仰慕者不可胜数，但你却是最受尊重的宾客之一。你可以称呼我为提奥多拉，全民拥戴的拜占庭皇后。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_1">
+			<Text>我乐见有骨气的人。这很振奋人心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_2">
+			<Text>我以前低估你了。我有点……兴奋起来了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_WARBLUFF_3">
+			<Text>不要紧。你不会永远对我的魅力无动于衷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_1">
+			<Text>我得说这场仗乐趣十足，你同意吗？我真的很喜欢胜利的感觉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_WINWAR_2">
+			<Text>希望你已经得到了教训。我真的不愿意把你教训得这么惨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LOSEWAR_1">
+			<Text>你是赢了这一轮，但是我怀疑你是否真的明白游戏规则……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LOSEWAR_2">
+			<Text>啧啧，要是你一直得胜，这生活未免也太无聊了。让我们瞧瞧你会如何把握这个小机会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_1">
+			<Text>凛冬的寒风摧残了最美丽的花朵。你毁灭了这个国家最贵重的珍宝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_2">
+			<Text>你就跟拿着玩具的孩童一样幼稚。我的人民永远不会爱戴你，更不会就此逆来顺受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEFEATED_3">
+			<Text>明天的太阳升起时它也会为所见而哭泣。拜占庭文明的命脉系于我身，而我失败了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_1">
+			<Text>你好，亲爱的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_2">
+			<Text>再次向你问好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_1">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_NEUTRAL">
+			<Text>我们成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我被你的甜言蜜语迷住了，但我想听的可不止这些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你的条件不能再好一点了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>条件不是很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>还差一点点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_NEUTRAL">
+			<Text>我对此不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_NEUTRAL">
+			<Text>你取悦了我。看来我没有拒绝你的理由了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_NEUTRAL">
+			<Text>哈，你以为你的地位要比实际上还重要？我可不这么想。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_NEUTRAL">
+			<Text>我听说你很擅长某种……合作。让我瞧瞧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我的所有追求者和廷臣都希望他们的礼物能使我颜面增光。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_1">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_2">
+			<Text>很遗憾，不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_1">
+			<Text>啊？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_3">
+			<Text>欢迎回来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_4">
+			<Text>亲爱的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_3">
+			<Text>下次见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_4">
+			<Text>再会，亲爱的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_HAPPY">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>嗯……我沉浸在你动听的嗓音中了。再说一遍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能提供的最好条件吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>就差一点点了，小猫咪。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_HAPPY">
+			<Text>我要感谢你，但不是这次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_HAPPY">
+			<Text>啊，你与之前不一样了。也许你应该得到奖赏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_HAPPY">
+			<Text>哎呀，我无法给你提供这个。或许你可以……换一个？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_HAPPY">
+			<Text>亲爱的，我的礼物呢？你来看我时总会带来的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_HAPPY">
+			<Text>也许你也想分享下其他活动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_3">
+			<Text>当然，亲爱的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_3">
+			<Text>不可能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_4">
+			<Text>我无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_3">
+			<Text>嗯，亲爱的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_4">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_5">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GREETING_6">
+			<Text>你想怎么样？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_5">
+			<Text>到此为止。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_GOODBYE_6">
+			<Text>从我眼前消失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_YES_ANGRY">
+			<Text>好。同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>啧啧，我觉得你古怪又无聊。要么提高你的提供量，要么马上离开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须提出更好的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>还差一点点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADE_NO_ANGRY">
+			<Text>够了。我再也无法忍受你的存在了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_YES_ANGRY">
+			<Text>我居然得同意这种荒谬的条约，真是让人恼火。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRIBUTE_NO_ANGRY">
+			<Text>你忘了你已不受欢迎了吗？这是我第一千次说不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DEMANDTRIBUTE_ANGRY">
+			<Text>如果我必须服从你的愚蠢的话，但愿这是值得的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_TRADEREQUEST_ANGRY">
+			<Text>但愿你能拒绝，这样我就可以把这些提供给更值得提供的人了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_AGREE_SHORT_4">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_5">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_6">
+			<Text>我无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_LETSHEARIT_5">
+			<Text>有话快说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_1">
+			<Text>你欺骗了我脆弱的感情。我会沉浸在悲伤里，但毁灭你我会得到更大的乐趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_2">
+			<Text>破坏美丽的事物是一大憾事。幸好，你不算。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_DECLAREWAR_3">
+			<Text>你拒绝给我回礼，让我的信使空手而回。现在我要用武力讨回本属于我的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_1">
+			<Text>你的本性最终还是暴露无遗。你竟敢这么对我？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_2">
+			<Text>亲爱的，暴怒与你不相称。让我来给你上一课。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEODORA_ATTACKED_3">
+			<Text>什么，你以为你是我唯一的追求者？他们马上就要来帮助我了——你才是孤家寡人。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

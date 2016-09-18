@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Scott Lewis (Firaxis Games) -->
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MODDING_EULA_ACCEPT">
+			<Text>确认</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_BODY">
+			<Text>您将进入文明5模组数据库。模组(MOD)是玩家们自主创作的内容包，它将给你带来新的游戏体验。[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]如果你使用模组，请自主承担风险[ENDCOLOR]。我们不会对用户自主的创作提供任何检查、监测、支持或保障。在使用模组前，请认真阅读服务条款。请阅读您的游戏手册或登录 www.take2games.com/eula 查看详细文本。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_DECLINE">
+			<Text>拒绝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_TITLE">
+			<Text>用户许可协议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOAD_AGREEMENT">
+			<Text>您正在下载一个用户自主创作的软件包或模组。您如果需要使用请自主承担风险。[NEWLINE][NEWLINE]文明5的发行方2K游戏公司和制作方Firaxis游戏公司并非此模组的创作者，它可能包含病毒、蠕虫、木马、恶意软件或其他恶意代码。[NEWLINE][NEWLINE]如果继续下载表示您愿意承担相关风险，造成的风险责任与2K游戏公司、Firaxis游戏公司以及他们的分支机构和代理商无关。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SELECT_CUSTOM_GAME">
+			<Text>选择一个自定义游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_CUSTOM_GAMES">
+			<Text>没有自定义游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SELECT_SCENARIO">
+			<Text>选择一个剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER">
+			<Text>单人游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER_TT">
+			<Text>开始一个单人模组游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CUSTOMGAME">
+			<Text>自定义游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CUSTOMGAME_TT">
+			<Text>创建一个自定义模组游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIOS">
+			<Text>剧情模式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIOS_TT">
+			<Text>开始剧情模式。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MAPS">
+			<Text>设置游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MAPS_TT">
+			<Text>开始一个自定义地图。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LOADGAME">
+			<Text>载入游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SAVEDGAMES_TT">
+			<Text>读取一个之前储存的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MULTIPLAYER">
+			<Text>多人游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MULTIPLAYER_TT">
+			<Text>开始一个多人模组游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER">
+			<Text>浏览模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER_TT">
+			<Text>浏览安装和未安装的所有模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MAINMENU">
+			<Text>主菜单</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MENU_BACK">
+			<Text>返回</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SETUP_TITLE">
+			<Text>模组游戏设置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIO_TITLE">
+			<Text>模组剧情设置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLED">
+			<Text>安装模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ONLINE">
+			<Text>在线列表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADS">
+			<Text>下载列表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_BACK">
+			<Text>返回</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FILTER_LATEST_VERSION">
+			<Text>只显示最新版本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DESCRIPTION">
+			<Text>描述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FIRSTPAGE">
+			<Text>第一页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_PREVPAGE">
+			<Text>前一页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_NEXTPAGE">
+			<Text>下一页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LASTPAGE">
+			<Text>最后一页</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ENABLEMOD">
+			<Text>启用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DISABLEMOD">
+			<Text>禁用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATEMOD">
+			<Text>更新</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADMOD">
+			<Text>下载</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DELETEMOD">
+			<Text>删除</Text>
+		</Row>
+    <Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_MOD">
+      <Text>退订</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_CONFIRM">
+      <Text>你确定要退订此模组吗？该模组将从本机移除。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NEXT">
+      <Text>继续</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_WORKSHOP">
+      <Text>获取模组</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_WORKSHOP_TT">
+      <Text>点击打开Steam附加层并浏览现有模组。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_ENABLEINSTRUCTIONS">
+      <Text>要启用模组，请点击列表项右侧的选择框。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_OPTIONS">
+      <Text>选项...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_AUTOUPDATEMODS">
+      <Text>自动更新模组</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SHOWDLCMODS">
+      <Text>显示内容包(DLC)模组</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_SHOW_SCREENSHOT">
+			<Text>显示截图查看器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SCREENSHOT">
+			<Text>截图查看器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT">
+			<Text>报告违规</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_TITLE">
+			<Text>违规报告来自</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_REASON">
+			<Text>请选择报告的原因：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ADD_COMMENT">
+			<Text>附加说明：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SUBMIT">
+			<Text>提交中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_SUBMITED">
+			<Text>感谢您提交的报告。我们将尽快处理这一问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELAUTHOR">
+			<Text>作者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSPECIALTHANKS">
+			<Text>鸣谢：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELDOWNLOADS">
+			<Text>下载：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELRATING">
+			<Text>好评：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELUPDATED">
+			<Text>最后更新：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELVERSION">
+			<Text>版本：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELCATEGORIES">
+			<Text>分类：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSTATUS">
+			<Text>状态：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELTAGS">
+			<Text>标签：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSIZE">
+			<Text>大小：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELUPLOADEDBY">
+			<Text>上传者：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSUPPORTSSINGLEPLAYER">
+			<Text>单人游戏？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSUPPORTSMULTIPLAYER">
+			<Text>多人游戏？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELAFFECTSSAVEDGAMES">
+			<Text>影响现有存档？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELYES">
+			<Text>[COLOR_GREEN]是[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LABELNO">
+			<Text>[COLOR_RED]否[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_NOMODSINSTALLED">
+			<Text>没有安装模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_NOACTIVEDOWNLOADS">
+			<Text>没有下载项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_RESULTS_EMPTY">
+			<Text>没有找到模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LIKE_IT">
+			<Text>给予好评</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_LIKE_IT_TOOLTIP">
+			<Text>给予积极的评价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT">
+			<Text>你喜欢它</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT_TOOLTIP">
+			<Text>你和其他{1}个人喜欢它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_MODERATION">
+			<Text>报告</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_MODERATION_TOOLTIP">
+			<Text>报告包含攻击性的内容，或内容违反服务条款。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_RATING">
+			<Text>{1_Rating}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MODSTATUS">
+			<Text>Alpha|Beta|Pre-Release|Demo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_DESCRIPTION">
+			<Text>使用本表单报告违反我们的服务条款（TOS）的模组。请阅读相关说明，并从下拉菜单中选择适当的理由。要了解更多关于什么是不允许的内容，请参阅我们的服务条款。违反使用条款的模组将被删除。提交申请表单必须遵循服务条款。各种形式的滥用（群发、造假、骚扰）可能会导致您的帐户被永久禁止。所有本表单所提交的资料都会被记录。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_NOREASON">
+			<Text>没有选择理由</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_1">
+			<Text>侵犯版权或商标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_2">
+			<Text>恶意文件（病毒或木马）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_3">
+			<Text>攻击性语言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_4">
+			<Text>其他</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_MODS">
+			<Text>安装模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_MODS_TT">
+			<Text>有模组正等待安装。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD">
+			<Text>更新模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD_TT">
+			<Text>更新模组至版本{1_Version}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD_LATEST_TT">
+			<Text>更新模组至最新版本。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_EXCLUSIVE">
+			<Text>这是一个独立模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_PARTIALLY_EXCLUSIVE">
+			<Text>这是一个半独立模组。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_MODS_IN_USE">
+      <Text>启用模组:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DEPENDENCIES_HEADER">
+      <Text>依赖/引用/禁用</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_DEPENDSON">
+      <Text>依赖 {1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_REFERENCES">
+      <Text>引用 {1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BLOCKS">
+      <Text>禁用 {1_ModName}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_GAMEVERSION">
+      <Text>游戏版本限制: {1_LowVersion} - {2_HighVersion}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_BLOCKS_ALL_OTHER_DLC">
+      <Text>所有其他内容包(DLC)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_NOASSOCIATIONS">
+      <Text>无</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS">
+			<Text>更新所有模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS_TT">
+			<Text>将所有已安装模组更新到最新的版本。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_INSTALLING">
+			<Text>安装模组中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_EXTRACTING">
+			<Text>提取文件中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_COPYING">
+			<Text>复制文件中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_VERIFYING">
+			<Text>验证文件中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_FINISHED">
+			<Text>完成!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_VALIDATING">
+			<Text>验证模组中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_ERROR">
+			<Text>模组安装时发生错误。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADER_NOTINITIALIZED">
+			<Text>无法下载，因为后台智能传输服务 (Background Intelligent Transfer Service) 未启动。请在操作系统的 控制面板 > 管理工具 > 服务 中启动此服务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_NAME">
+			<Text>名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_DATESTARTED">
+			<Text>时间</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_STATE">
+			<Text>状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_PROGRESS">
+			<Text>进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_PAUSEDOWNLOAD">
+			<Text>暂停</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_RESUMEDOWNLOAD">
+			<Text>继续</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CANCELDOWNLOAD">
+			<Text>取消</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CLOSEDOWNLOAD">
+			<Text>清除记录</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_0">
+			<Text>排队中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_1">
+			<Text>连接中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_2">
+			<Text>传输中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_3">
+			<Text>挂起</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_4">
+			<Text>连接错误</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_5">
+			<Text>警告</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_6">
+			<Text>传输完成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_7">
+			<Text>完成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_8">
+			<Text>取消</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_HOVERFORDETAILS">
+			<Text>{1_DownloadStatus} (鼠标悬停时详细信息)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_PROGRESSNA">
+			<Text>n/a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ALREADY_INSTALLED">
+			<Text>准备安装</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADING">
+			<Text>下载中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_INVALIDURL">
+			<Text>无效的URL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_ENABLED">
+			<Text>启用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_TITLE">
+			<Text>模组名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_RECENTLY_INSTALLED">
+			<Text>最近安装</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORIES_HEADER">
+			<Text>分类</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORIES_ALL">
+			<Text>全部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SEARCH_TOOLTIP">
+			<Text>搜索模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_TITLE">
+			<Text>模组名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_NEWEST">
+			<Text>最新</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_DOWNLOADS">
+			<Text>下载</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_RATING">
+			<Text>评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER_TITLE">
+			<Text>模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_PRIVACYPOLICY">
+			<Text>隐私</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_PROGRESS">
+			<Text>{1_ProcessedFiles}/{2_TotalFiles}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_COPYRIGHT">
+			<Text>Copyright(c) 2010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_GB">
+			<Text>gb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_MB">
+			<Text>mb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_KB">
+			<Text>kb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_B">
+			<Text>b</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DETAILS_NOTHINGSELECTED">
+			<Text>没有选择项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_GENERIC">
+			<Text>发生错误。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SERVICE_DISABLED">
+			<Text>服务被禁用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION_TIMEOUT">
+			<Text>连接已超时。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION">
+			<Text>发生连接错误。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DATABASE_UNAVAILABLE">
+			<Text>模组数据库暂时无法连接。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_ALREADY_RATED">
+			<Text>您已经评价了这个模组。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_REQUEST_CANCELLED">
+			<Text>请求被取消。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_UNAUTHORIZED">
+			<Text>HTTP 401 错误 - 未经授权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FORBIDDEN">
+			<Text>HTTP 403 错误 - 已被禁止。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FILE_NOT_FOUND">
+			<Text>HTTP 404 错误 - 文件未找到。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_REQUEST_REJECTED">
+			<Text>HTTP 4XX 错误 - 要求被拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_SERVER_ERROR">
+			<Text>HTTP 5XX 错误 - 服务器错误。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_INCOMPATIBLE_MODS">
+			<Text>[COLOR_RED]目前启用的模组与此存档不兼容。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_MODS">
+			<Text>[COLOR_RED]没有安装所需的模组。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_DLC">
+			<Text>[COLOR_RED]没有安装所需的内容包(DLC)。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_DLC_NOT_PURCHASED">
+			<Text>[COLOR_RED]没有购买所需的内容包(DLC)。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_VERSION_ALREADY_ENABLED">
+			<Text>[COLOR_RED]已经启用了此模组的另一个版本。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_BLOCKED_BY_OTHER_MOD">
+			<Text>[COLOR_RED]该模组不能兼容已经启用的其他模组。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_MISSING_DEPENDENCIES">
+			<Text>[COLOR_RED]该模组缺少必要的支持文件。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+			<Text>[COLOR_RED]该模组为独占使用。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_BAD_GAMEVERSION">
+			<Text>[COLOR_RED]当前游戏版本不兼容该模组。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INVALID_MAP_TITLE">
+			<Text>[COLOR_RED]{1_MapName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INVALID_MAP_DESC">
+			<Text>无效地图文件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_1">
+			<Text>全面更改</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_5">
+			<Text>游戏规则</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_6">
+			<Text>领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_7">
+			<Text>用户界面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_11">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_12">
+			<Text>图像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_20">
+			<Text>地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_23">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_32">
+			<Text>剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_41">
+			<Text>地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_45">
+			<Text>地图脚本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_53">
+			<Text>城市建设</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_57">
+			<Text>其他</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_2">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_3">
+			<Text>科幻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_4">
+			<Text>奇幻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_49">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_50">
+			<Text>虚构</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_8">
+			<Text>皮肤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_9">
+			<Text>小工具</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_10">
+			<Text>其他</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_51">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_52">
+			<Text>虚构</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_13">
+			<Text>地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_14">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_15">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_16">
+			<Text>资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_17">
+			<Text>设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_18">
+			<Text>领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_21">
+			<Text>设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_22">
+			<Text>资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_24">
+			<Text>远古时代单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_25">
+			<Text>中古时代单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_26">
+			<Text>启蒙时代单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_27">
+			<Text>工业时代单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_28">
+			<Text>电气时代单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_29">
+			<Text>科幻单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_30">
+			<Text>奇幻单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_31">
+			<Text>其他单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_33">
+			<Text>远古时代剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_34">
+			<Text>中古时代剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_35">
+			<Text>启蒙时代剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_36">
+			<Text>工业时代剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_37">
+			<Text>电气时代剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_38">
+			<Text>科幻剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_39">
+			<Text>奇幻剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_40">
+			<Text>其他剧情</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_42">
+			<Text>历史地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_43">
+			<Text>虚构地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_44">
+			<Text>多人地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_46">
+			<Text>历史地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_47">
+			<Text>虚构地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_48">
+			<Text>多人地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_54">
+			<Text>建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_55">
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_56">
+			<Text>工程</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

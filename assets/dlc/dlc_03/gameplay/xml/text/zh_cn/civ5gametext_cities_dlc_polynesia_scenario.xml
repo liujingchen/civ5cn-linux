@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKU_HIVA">
+			<Text>努库希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIVA_OA">
+			<Text>希瓦欧阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EIAO">
+			<Text>埃奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HATUTU">
+			<Text>哈图图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_ONE">
+			<Text>摩图欧尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_ITI">
+			<Text>摩图伊提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UA_PU">
+			<Text>乌阿普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_OA">
+			<Text>摩图欧阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UA_HUKA">
+			<Text>乌阿胡卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FATU_UKU">
+			<Text>法图乌库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAHUATA">
+			<Text>塔胡阿塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOHO_TANI">
+			<Text>摩霍塔尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERIHI">
+			<Text>特利希</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FATU_HIVA">
+			<Text>法图希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOTU_NAO">
+			<Text>摩图纳欧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKU_ALOFA">
+			<Text>努库阿洛法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEIAFU">
+			<Text>内亚弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAVELULOTO">
+			<Text>哈维鲁洛托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HA_ATEIHO">
+			<Text>哈亚泰霍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANGAI_HIHIFO">
+			<Text>潘盖-希希弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PEA">
+			<Text>皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOFOA_KOLOUA">
+			<Text>托弗阿-科洛瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAINI">
+			<Text>凡尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUA_AMOTU">
+			<Text>弗亚阿莫图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOUMA">
+			<Text>霍乌马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOLONGA">
+			<Text>科隆加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAPAHA">
+			<Text>拉帕哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEIMATU_A">
+			<Text>雷马图阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NUKUNUKU">
+			<Text>努库努库</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_POPUA">
+			<Text>波普阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TATAKAMOTONGA">
+			<Text>塔塔卡摩通加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APIA">
+			<Text>阿皮亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAGO_PAGO">
+			<Text>帕哥帕哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAFUNA">
+			<Text>塔弗那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NU_UULI">
+			<Text>努乌利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALELOLOGA">
+			<Text>沙列洛洛加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAITELE">
+			<Text>凡伊特列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FALEASI_U">
+			<Text>法列西乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAILELE">
+			<Text>凡伊列列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LE_AUVA_A">
+			<Text>列奥瓦阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FALE_ULA">
+			<Text>法列乌拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALIE">
+			<Text>马利耶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIUSEGA">
+			<Text>西乌塞加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEONE">
+			<Text>列欧尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ILI_ILI">
+			<Text>伊利伊利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAVA_IA_I">
+			<Text>帕瓦亚阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUA">
+			<Text>阿乌阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAPEETE">
+			<Text>帕皮特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FAA_A">
+			<Text>法阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEHETIA">
+			<Text>梅赫提亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TETIAROA">
+			<Text>特提亚洛阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOOREA">
+			<Text>穆瑞亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAIAO">
+			<Text>麦奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUAHINE">
+			<Text>华西尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAHAA">
+			<Text>塔哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUPAI">
+			<Text>图帕伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAUPITI">
+			<Text>茂皮提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOPELIA">
+			<Text>摩佩利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MANUAE">
+			<Text>马努埃</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

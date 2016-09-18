@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- freesand leo-->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_CUSCO">
+			<Text>库斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU">
+			<Text>蒂亚瓦纳科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MACHU">
+			<Text>马丘比丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OLLANTAYTAMBO">
+			<Text>奥扬泰坦博</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORIHUAYACHINA">
+			<Text>科利怀拉奇纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUAMANGA">
+			<Text>瓦曼加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VILCAS">
+			<Text>比尔卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VILCABAMBA">
+			<Text>比尔卡班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VITCOS">
+			<Text>维特科斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANDAHUAYLAS">
+			<Text>安达韦拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ICA">
+			<Text>伊卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AREQUIPA">
+			<Text>阿雷基帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NASCA">
+			<Text>纳斯卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ATICO">
+			<Text>阿蒂科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JULI">
+			<Text>胡利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHUITO">
+			<Text>丘奎托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHUQUIAPO">
+			<Text>丘基亚普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUANUCOPAMPA">
+			<Text>瓦努科潘帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAMBOCCOCHA">
+			<Text>塔博科查</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUARAS">
+			<Text>瓦拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RIOBAMBA">
+			<Text>里奥班巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAXAMALCA">
+			<Text>卡哈马卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAUSA">
+			<Text>绍萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAMBOCOLORADO">
+			<Text>坦博科罗拉多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUACA">
+			<Text>瓦卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUMBES">
+			<Text>通贝斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAN_CHAN">
+			<Text>昌昌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIPAN">
+			<Text>西潘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PACHACAMAC">
+			<Text>帕查卡马克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LLACTAPATA">
+			<Text>雅克塔帕特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PISAC">
+			<Text>皮萨克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUELAP">
+			<Text>库埃拉普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAJATEN">
+			<Text>帕亚腾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHUCUITO">
+			<Text>丘依托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MADRID">
+			<Text>马德里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BARCELONA">
+			<Text>巴塞罗那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SEVILLE">
+			<Text>塞维利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CORDOBA">
+			<Text>科尔多瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOLEDO">
+			<Text>托莱多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTIAGO">
+			<Text>圣地亚哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALAMANCA">
+			<Text>萨拉曼卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALENCIA">
+			<Text>巴伦西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZARAGOZA">
+			<Text>萨拉戈萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PAMPLONA">
+			<Text>潘普洛那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANTANDER">
+			<Text>桑坦德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALLADOLID">
+			<Text>巴利亚多利德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PALMA">
+			<Text>帕尔马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEON">
+			<Text>莱昂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BILBAO">
+			<Text>毕尔巴鄂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LA_CORUNA">
+			<Text>拉科鲁尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VITORIA">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ASTURIAS">
+			<Text>阿斯图里亚斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MURCIA">
+			<Text>穆尔西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JAEN">
+			<Text>哈恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOGRONO">
+			<Text>洛格罗尼奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TERUEL">
+			<Text>特鲁埃尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALMERIA">
+			<Text>阿尔梅里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ZAMORA">
+			<Text>萨莫拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MIDA">
+			<Text>米达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUGO">
+			<Text>卢戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALICANTE">
+			<Text>阿利坎特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CADIZ">
+			<Text>加的斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELCHE">
+			<Text>埃尔切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ALCORCON">
+			<Text>阿尔科孔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BURGOS">
+			<Text>布尔戈斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIGO">
+			<Text>维戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BADAJOZ">
+			<Text>巴达霍斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OVIEDO">
+			<Text>奥维耶多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAN_SEBASTIAN">
+			<Text>圣塞瓦斯蒂安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANADA">
+			<Text>格拉纳达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MERIDA">
+			<Text>梅里达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HUELVA">
+			<Text>韦尔瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IBIZA">
+			<Text>伊维萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LAS_PALMAS">
+			<Text>拉斯帕尔马斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TENERIFE">
+			<Text>特内里费</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

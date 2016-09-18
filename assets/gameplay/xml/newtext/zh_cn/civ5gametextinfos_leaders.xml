@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER">
+			<Text>亚历山大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA">
+			<Text>阿斯吉亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS">
+			<Text>奥古斯都·恺撒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BARBARIAN">
+			<Text>蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK">
+			<Text>俾斯麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CATHERINE">
+			<Text>叶卡捷琳娜</Text>
+      <Gender>feminine</Gender>
+    </Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS">
+			<Text>大流士一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ELIZABETH">
+			<Text>伊丽莎白</Text>
+      <Gender>feminine</Gender>
+    </Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI">
+			<Text>甘地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN">
+			<Text>哈伦·拉希德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA">
+			<Text>海华沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA">
+			<Text>蒙特祖玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON">
+			<Text>拿破仑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ODA_NOBUNAGA">
+			<Text>织田信长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES">
+			<Text>拉美西斯二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG">
+			<Text>兰甘亨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SULEIMAN">
+			<Text>苏莱曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WASHINGTON">
+			<Text>华盛顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WU_ZETIAN">
+			<Text>武则天</Text>
+      <Gender>feminine</Gender>
+    </Row>
+	</Language_zh_CN>
+</GameData>

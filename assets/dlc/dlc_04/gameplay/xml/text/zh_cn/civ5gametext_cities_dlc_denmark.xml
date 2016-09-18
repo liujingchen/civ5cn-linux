@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Cities Denmark-->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_RIBE">
+			<Text>里伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VIBORG">
+			<Text>维堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ROSKILDE">
+			<Text>罗斯基勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAUPANG">
+			<Text>考庞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TONSBERG">
+			<Text>滕斯贝格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRONDHEIM">
+			<Text>特隆赫姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARPSBORG">
+			<Text>萨尔普斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HEDEBY">
+			<Text>海泽比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JELLING">
+			<Text>耶灵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TRUSO">
+			<Text>特鲁索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FAEROERNE">
+			<Text>法罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REYKJAVIK">
+			<Text>雷克雅未克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GODTHAB">
+			<Text>戈特霍布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HELLULAND">
+			<Text>赫鲁兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARKLAND">
+			<Text>马克兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ELSINORE">
+			<Text>赫尔辛格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ODENSE">
+			<Text>欧登塞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AALBORG">
+			<Text>奥尔堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VORBASSE">
+			<Text>沃尔瑟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SCHLESWIG">
+			<Text>石勒苏益格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALOGALAND">
+			<Text>哈洛加兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RANDERS">
+			<Text>兰讷斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOLDING">
+			<Text>科灵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HORSENS">
+			<Text>霍森斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VEJLE">
+			<Text>瓦埃勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOGE">
+			<Text>克厄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOLSTEBRO">
+			<Text>霍尔斯特布罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SLAGELSE">
+			<Text>斯拉厄尔瑟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HILLEROD">
+			<Text>希勒勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SONDERBORG">
+			<Text>森讷堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SVENDBORG">
+			<Text>斯文堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HOLBAEK">
+			<Text>霍尔拜克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HJORRING">
+			<Text>约灵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLADSTRAND">
+			<Text>腓特烈港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HADERSLEV">
+			<Text>海泽斯莱乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RINGSTED">
+			<Text>灵斯泰兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SKIVE">
+			<Text>斯基沃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LILLEHAMMER">
+			<Text>利勒哈默尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STAVANGER">
+			<Text>斯塔万格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KRISTIANSAND">
+			<Text>克里斯蒂安桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FREDRIKSTAD">
+			<Text>腓特烈斯塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TROMSOE">
+			<Text>特罗姆瑟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANDNES">
+			<Text>桑内斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DRAMMEN">
+			<Text>德拉门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SKIEN">
+			<Text>希恩</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

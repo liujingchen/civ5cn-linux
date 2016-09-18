@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Processes -->
+		<Row Tag="TXT_KEY_PROCESS_INTERNATIONAL_SPACE_STATION_HELP">
+			<Text>将这座城市的[ICON_PRODUCTION]产能贡献于国际空间站项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLD_FAIR_HELP">
+			<Text>将这座城市的[ICON_PRODUCTION]产能贡献于世界博览会项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_WORLD_GAMES_HELP">
+			<Text>将这座城市的[ICON_PRODUCTION]产能贡献于国际运动会项目。</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_RELIGION">
+			<Text>[COLOR_WARNING_TEXT]这个政策树在没有宗教的情况不能开启。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]传统政策[ENDCOLOR]此政策最适宜较小帝国。[NEWLINE][NEWLINE]启用传统政策将极大提升城市边界扩张速率，并使[ICON_CAPITAL]首都+3[ICON_CULTURE]文化。允许建造空中花园。[NEWLINE][NEWLINE]推行所有传统政策后将使每座城市+15%[ICON_FOOD]食物积累速率，并使前4座城市免费获得一个引水渠，并且在工业时代后可以用[ICON_PEACE]信仰购买大工程师。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]自主政策[ENDCOLOR]适合渴求快速扩张的文明。[NEWLINE][NEWLINE]启用自主政策能使每座城市+1[ICON_CULTURE]文化。允许建造大金字塔。[NEWLINE][NEWLINE]推行所有自主政策后将在首都[ICON_CAPITAL]附近免费获得一位伟人（类型可选）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]荣誉政策[ENDCOLOR]通过多种途径提高国家军队实力。[NEWLINE][NEWLINE]启用该项政策将使所有军事单位对蛮族的攻击力提升33%，同时已探索区域内产生新的蛮族营地时会出现提示消息。当消灭蛮族单位时可获得[ICON_CULTURE]文化奖励。允许建造宙斯神像。[NEWLINE][NEWLINE]推行所有荣誉政策后消灭敌方单位时可获得[ICON_GOLD]金钱奖励，并且在工业时代后可以用[ICON_PEACE]信仰购买陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]尚武精神[ENDCOLOR][NEWLINE]组建肉搏单位时+15%[ICON_PRODUCTION]产能，在[ICON_CAPITAL]首都附近出现一位陆军统帅。获得陆军统帅的速度+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]职业军队[ENDCOLOR][NEWLINE]升级单位所需[ICON_GOLD]金钱减少33%，建造军营、军械所和军事学院的速度加快50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]虔信政策[ENDCOLOR]能增加国家的[ICON_PEACE]信仰。[NEWLINE][NEWLINE]启用虔信政策可使建造神祠和神庙的时间减少一半。允许建造杰内大清真寺。[NEWLINE][NEWLINE]推行所有虔信政策后可获得一个大先知，宗教圣地提供+3[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]神权政治[ENDCOLOR][NEWLINE]神庙可使城市的[ICON_GOLD]金钱产出增加25%，宗教圣地提供+3[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]天命观念[ENDCOLOR][NEWLINE]购买宗教单位以及宗教建筑所需的[ICON_PEACE]信仰减少20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]信仰自由[ENDCOLOR][NEWLINE]拥有主流宗教的城市也可获得流行度居第二位的宗教的神系信条所提供的奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]宗教改革[ENDCOLOR][NEWLINE]如果你已经创立了宗教，立刻获得一项改革信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]赞助政策[ENDCOLOR]增强城邦关系带来的好处。[NEWLINE][NEWLINE][ICON_INFLUENCE]启用赞助政策能使对城邦影响力的下降速率减慢25%。允许建造紫禁城。[NEWLINE][NEWLINE]推行所有赞助政策后将使结盟城邦不定期地赠送[ICON_GREAT_PEOPLE]伟人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONSULATES">
+			<Text>领事制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CONSULATES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]领事制度[ENDCOLOR][NEWLINE]对所有城邦的[ICON_INFLUENCE]影响力的基准值提高20。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_CAP">
+			<Text>美学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AESTHETICS_TITLE">
+			<Text>{2_CivName:textkey}大师，杰出的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS">
+			<Text>美学政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]美学政策[ENDCOLOR]能增加国家的[ICON_CULTURE]文化。[NEWLINE][NEWLINE]启用美学政策能使获得大音乐家、大美术家和大文学家的速度+25%。允许建造乌菲兹美术馆。[NEWLINE][NEWLINE]推行所有美学政策后将使博物馆和奇观中杰作主题展示的奖励效果翻倍，并且在工业时代后可以用[ICON_PEACE]信仰购买大音乐家、大美术家和大文学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS">
+			<Text>文化中心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]文化中心[ENDCOLOR][NEWLINE]建造纪念碑、露天剧场、歌剧院、博物馆和广播塔的速度+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FINE_ARTS">
+			<Text>美术创作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FINE_ARTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]美术创作[ENDCOLOR][NEWLINE]每回合增加相当于50%多余[ICON_HAPPINESS_1]快乐度的[ICON_CULTURE]文化以加快推行社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS">
+			<Text>艺术天才</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]艺术天才[ENDCOLOR][NEWLINE]立刻获得一位大美术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS">
+			<Text>艺术繁荣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]艺术繁荣[ENDCOLOR][NEWLINE]所有建造了世界级奇观的城市+33%[ICON_CULTURE]文化，并立即开启一次[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ETHICS">
+			<Text>文化交流</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ETHICS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]文化交流[ENDCOLOR][NEWLINE]相同宗教、连接商路和开放边境所带来的魅力输出加成各提升15%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]商业政策[ENDCOLOR]给予国家[ICON_GOLD]金钱方面的奖励。[NEWLINE][NEWLINE]启用商业政策能使[ICON_CAPITAL]首都增加25%[ICON_GOLD]金钱产出。允许建造大本钟。[NEWLINE][NEWLINE]推行所有商业政策后可使每个贸易站+1[ICON_GOLD]金钱，并且在工业时代以后可以用[ICON_PEACE]信仰购买大商业家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP">
+			<Text>创业精神</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]创业精神[ENDCOLOR][NEWLINE]大商业家的诞生速率+25%。大商业家拓展贸易事业获得双倍[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CARAVANS">
+			<Text>大篷车队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CARAVANS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]大篷车队[ENDCOLOR][NEWLINE]所有陆路商路+2[ICON_GOLD]金钱。道路和铁路的维护费减少50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS">
+			<Text>雇佣军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]雇佣军[ENDCOLOR][NEWLINE]允许购买自由佣兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_CAP">
+			<Text>探索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPLORATION_TITLE">
+			<Text>{2_CivName:textkey}领袖，英勇的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION">
+			<Text>探索政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]探索政策[ENDCOLOR]增强你的文明在海上的扩张能力。[NEWLINE][NEWLINE]启用探索政策能使所有海军单位+1[ICON_MOVES]移动力，所有海军战斗单位+1视野。允许建造卢浮宫。[NEWLINE][NEWLINE]推行所有探索政策后可使你看到隐藏的历史遗迹，并且在工业时代后可以用[ICON_PEACE]信仰购买海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE">
+			<Text>海上设施</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]海上设施[ENDCOLOR][NEWLINE]沿海城市+3[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]海军传统[ENDCOLOR][NEWLINE]每处港口、海运码头和灯塔+1[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]商船舰队[ENDCOLOR][NEWLINE]每处港口、海运码头和灯塔+1[ICON_GOLD]金钱。东印度公司所在市场+4[ICON_PRODUCTION]产能，+4[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL">
+			<Text>航海学校</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]航海学校[ENDCOLOR][NEWLINE]立刻获得一位海军统帅。所有海军统帅+2[ICON_MOVES]移动力。海军统帅的产生速率+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS">
+			<Text>宝藏船队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]宝藏船队[ENDCOLOR][NEWLINE]所有海上商路+4[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]理性政策[ENDCOLOR]能提升国家的[ICON_RESEARCH]科研能力。[NEWLINE][NEWLINE]启用理性政策可在文明保持[ICON_HAPPINESS_1]快乐状态时+10%[ICON_RESEARCH]科研。允许建造大报恩寺塔。[NEWLINE][NEWLINE]推行所有理性政策后可免费获得一项科技，并且在工业时代后可以用[ICON_PEACE]信仰购买大科学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]人文主义[ENDCOLOR][NEWLINE]大科学家诞生速度+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY">
+			<Text>前卫艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_OPEN_SOCIETY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]前卫艺术[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE]伟人诞生速度+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION">
+			<Text>创意表达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]创意表达[ENDCOLOR][NEWLINE]所有杰作+1[ICON_CULTURE]文化产出（但魅力产出不变）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_VOLUNTEER_ARMY">
+			<Text>志愿军</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_VOLUNTEER_ARMY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]志愿军[ENDCOLOR][NEWLINE]6个单位免维护费。立刻获得6个外籍军团。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_COVERT_ACTION">
+			<Text>隐秘行动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_COVERT_ACTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]隐秘行动[ENDCOLOR][NEWLINE]操纵城邦选举的成功率翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_URBANIZATION">
+			<Text>城市化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_URBANIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]城市化[ENDCOLOR][NEWLINE]每处水磨坊、医院和医学实验室+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CAPITALISM">
+			<Text>资本主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CAPITALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]资本主义[ENDCOLOR][NEWLINE]每处铸币厂、银行和证券交易所+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION">
+			<Text>经济联盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]经济联盟[ENDCOLOR][NEWLINE]与所有其他自由意识形态下的文明的国际商路+3[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_THEIR_FINEST_HOUR">
+			<Text>光辉时刻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_THEIR_FINEST_HOUR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]光辉时刻[ENDCOLOR][NEWLINE]城市的[ICON_STRENGTH]战斗力+33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]普选制度[ENDCOLOR][NEWLINE]城市人口中专业人员的[ICON_HAPPINESS_4]不满减半。[ICON_GOLDEN_AGE]黄金时代持续时间+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NEW_DEAL">
+			<Text>经济新政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NEW_DEAL_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]经济新政[ENDCOLOR][NEWLINE]风景地标和伟人区域设施对应的产出+4。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY">
+			<Text>民主兵工厂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARSENAL_DEMOCRACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]民主兵工厂[ENDCOLOR][NEWLINE]建造军事单位时+15%[ICON_PRODUCTION]产能。送给城邦的军事单位+15[ICON_INFLUENCE]影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MEDIA_CULTURE">
+			<Text>媒体文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MEDIA_CULTURE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]媒体文化[ENDCOLOR][NEWLINE]所有拥有广播塔的城市+34%[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TREATY_ORGANIZATION">
+			<Text>条约组织</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TREATY_ORGANIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]条约组织[ENDCOLOR][NEWLINE]与每条有商路相连的城邦每回合+4[ICON_INFLUENCE]影响力（标准速度下）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SPACE_PROCUREMENTS">
+			<Text>航天采购</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SPACE_PROCUREMENTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]航天采购[ENDCOLOR][NEWLINE]允许用[ICON_GOLD]金钱购买太空飞船组件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HERO_OF_THE_PEOPLE">
+			<Text>人民英雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HERO_OF_THE_PEOPLE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]人民英雄[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE]伟人诞生速度+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SOCIALIST_REALISM">
+			<Text>革命现实主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SOCIALIST_REALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]革命现实主义[ENDCOLOR][NEWLINE]纪念碑+2[ICON_HAPPINESS_1]本地快乐且建造时间减半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SKYSCRAPERS">
+			<Text>摩天大楼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SKYSCRAPERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]摩天大楼[ENDCOLOR][NEWLINE]购买建筑花费的[ICON_GOLD]金钱-33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PATRIOTIC_WAR">
+			<Text>卫国战争</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PATRIOTIC_WAR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]卫国战争[ENDCOLOR][NEWLINE]在友方领土上作战+15%攻击力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOUBLE_AGENTS">
+			<Text>双重间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOUBLE_AGENTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]双重间谍[ENDCOLOR][NEWLINE]己方间谍阻止敌方窃取科技的概率加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_YOUNG_PIONEERS">
+			<Text>少年先锋队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_YOUNG_PIONEERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]少年先锋队[ENDCOLOR][NEWLINE]所有工坊、工厂和太阳能/核能/水力发电站+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES">
+			<Text>科研院所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ACADEMY_SCIENCES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]科研院所[ENDCOLOR][NEWLINE]所有天文台、公立学校和研发实验室+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP">
+			<Text>一党执政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]一党执政[ENDCOLOR][NEWLINE]所有城市+1[ICON_FOOD]食物，[ICON_PRODUCTION]产能，[ICON_RESEARCH]科研，[ICON_GOLD]金钱和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_RESETTLEMENT">
+			<Text>移民安置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_RESETTLEMENT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]移民安置[ENDCOLOR][NEWLINE]新建城市直接获得3[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION">
+			<Text>文化大革命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]文化大革命[ENDCOLOR][NEWLINE]向所有秩序意识形态国家输出的[ICON_TOURISM]魅力+34%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES">
+			<Text>工人社区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_WORKERS_FACULTIES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]工人社区[ENDCOLOR][NEWLINE]工厂可使城市的[ICON_RESEARCH]科研产出+25%。建造工厂所需的时间减半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN">
+			<Text>五年计划</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FIVE_YEAR_PLAN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]五年计划[ENDCOLOR][NEWLINE]每座城市+2[ICON_PRODUCTION]产能，所有矿井和采石场+1[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT">
+			<Text>无产阶级专政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]无产阶级专政[ENDCOLOR][NEWLINE]对所有[ICON_HAPPINESS_1]快乐度低于我方的文明+34%[ICON_TOURISM]魅力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_IRON_CURTAIN">
+			<Text>铁幕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_IRON_CURTAIN_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]铁幕[ENDCOLOR][NEWLINE]占领城市时免费获得法庭。国内商路额外+50%[ICON_FOOD]食物或[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS">
+			<Text>航天先驱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]航天先驱[ENDCOLOR][NEWLINE]可以用大工程师加速建造太空部件。[ICON_CAPITAL]首都旁出现一位大工程师和一位大科学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ELITE_FORCES">
+			<Text>精英部队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ELITE_FORCES_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]精英部队[ENDCOLOR][NEWLINE]受伤军事单位对敌军造成的伤害增加25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MOBILIZATION">
+			<Text>总动员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MOBILIZATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]总动员[ENDCOLOR][NEWLINE]购买军事单位花费的[ICON_GOLD]金钱-33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNITED_FRONT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]统一战线[ENDCOLOR][NEWLINE]当共同对敌作战时军事城邦提供单位的频率加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FUTURISM">
+			<Text>未来主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FUTURISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]未来主义[ENDCOLOR][NEWLINE]当有大文学家、大美术家或大音乐家产生时，对所有文明+250[ICON_TOURISM]魅力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE">
+			<Text>工业间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]工业间谍[ENDCOLOR][NEWLINE]间谍窃取科技的速度翻倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MILITARISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]军国主义[ENDCOLOR][NEWLINE]每座兵营、军械所和军事学院+2[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FORTIFIED_BORDERS">
+			<Text>边境工事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FORTIFIED_BORDERS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]边境工事[ENDCOLOR][NEWLINE]每处城堡、兵工厂和军事基地+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LIGHTNING_WARFARE">
+			<Text>闪电战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LIGHTNING_WARFARE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]闪电战[ENDCOLOR][NEWLINE]陆军统帅+3[ICON_MOVES]移动力。装甲单位+15%攻击，+1[ICON_MOVES]移动力并无视敌方单位的控制区域（ZOC）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_POLICE_STATE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]警察国家[ENDCOLOR][NEWLINE]每处法庭+3[ICON_HAPPINESS_1]快乐。建造法庭所需的时间减半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_THIRD_ALTERNATIVE">
+			<Text>第三选择</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_THIRD_ALTERNATIVE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]第三选择[ENDCOLOR][NEWLINE]战略资源产量增加100%。[ICON_CAPITAL]首都+5[ICON_FOOD]食物，+5[ICON_RESEARCH]科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NATIONALISM_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]民族主义[ENDCOLOR][NEWLINE]单位维护费-33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY">
+			<Text>个人崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]个人崇拜[ENDCOLOR][NEWLINE]与拥有共同作战中的敌人的友方文明+50%[ICON_TOURISM]魅力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY">
+			<Text>炮舰外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GUNBOAT_DIPLOMACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]炮舰外交[ENDCOLOR][NEWLINE]对于所有你可以勒索的城邦，每回合获得+6[ICON_INFLUENCE]影响力（标准速度下）。派遣军队威胁城邦的效果+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NEW_ORDER">
+			<Text>战争论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NEW_ORDER_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]战争论[ENDCOLOR][NEWLINE]所有军事单位攻击时的战斗力+25%，效果持续50回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE">
+			<Text>全民医保</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]全民医保[ENDCOLOR][NEWLINE]所有国家奇观+1[ICON_HAPPINESS_1]本地快乐。</Text>
+		</Row>
+		<!-- Policy Screen-->
+		<Row Tag="TXT_KEY_POLICYSCREEN_TENETS">
+			<Text>意识形态理念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_NOT_STARTED">
+			<Text>你只有选择了一种意识形态之后才能推行理念。选择意识形态的前提是以下两者之一：建成三座工厂，或者是进入电气时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_DISABLED">
+			<Text>本剧情禁用意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_NEED_L1_TENETS_TOOLTIP">
+			<Text>[COLOR_NEGATIVE_TEXT]还需要开启一个一级理念才能开启二级理念[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_NEED_L2_TENETS_TOOLTIP">
+			<Text>[COLOR_NEGATIVE_TEXT]还需要开启一个二级理念才能开启三级理念[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_ADD_TENET">
+			<Text>点击增加理念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_L1_TENET">
+			<Text>一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_L2_TENET">
+			<Text>二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_L3_TENET">
+			<Text>三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_SOCIAL_POLICIES_TAB">
+			<Text>社会政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGYPANEL_TITLE">
+			<Text>意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGIES_TAB">
+			<Text>意识形态理念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_TO_IDEOLOGY_BUTTON">
+			<Text>进入意识形态界面[ICON_ARROW_RIGHT]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_TITLE">
+			<Text>{1_CivAdjective}{2_IdeologyName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL1">
+			<Text>一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL2">
+			<Text>二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_LEVEL3">
+			<Text>三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L1TENETS">
+			<Text>一级理念：[COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L2TENETS">
+			<Text>二级理念：[COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_IDEOLOGY_L3TENETS">
+			<Text>三级理念：[COLOR_GREEN]{1_NumTenets}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CHOOSE_TENET">
+			<Text>选择理念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_TENET">
+			<Text>你确定你想采用[COLOR_GREEN]{1_TenetName}[ENDCOLOR]吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY">
+			<Text>改变意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY_TT">
+			<Text>点击此按钮将使你的意识形态转变为人民最喜欢的意识形态：[COLOR_POSITIVE_TEXT]{1_IdeologyName}[ENDCOLOR]。[NEWLINE][NEWLINE]你会获得{2_HappinessGain}[ICON_HAPPINESS_1]快乐，代价是失去这个意识形态里已采用的{3_TenetLoss}项理念。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CHANGE_IDEOLOGY_DISABLED_TT">
+			<Text>当你的人民[COLOR_POSITIVE_TEXT]心满意足[ENDCOLOR]时你无法改变意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICYSCREEN_CONFIRM_CHANGE_IDEOLOGY">
+			<Text>改变意识形态将导致{1_AnarchyTurns}回合无政府状态。在此期间，你的城市将无法产出[ICON_PRODUCTION]产能，[ICON_GOLD]金钱，[ICON_RESEARCH]科研，[ICON_CULTURE]文化和[ICON_PEACE]信仰。同时你还将失去{3_CurrentIdeologyTree}里已采纳的{2_CurrentIdeologyTenets}项理念，你获得的是{5_NewIdeologyTree}里的{4_NewIdeologyTenets}项理念。[NEWLINE][NEWLINE]但是你将获得{6_HappinessGain}[ICON_HAPPINESS_1]快乐度[NEWLINE]（注意：你将失去由{3_CurrentIdeologyTree}的理念带来的[ICON_HAPPINESS_1]快乐）[NEWLINE][NEWLINE]你确定你将要转变到[COLOR_GREEN]{5_NewIdeologyName}[ENDCOLOR]意识形态吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY">
+			<Text>你可以选择一项免费的社会政策或意识形态理念！</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="TXT_KEY_CSTATE_INFLUENCE_RATE">
+			<Text>每回合你的[ICON_INFLUENCE]影响力将变化{1_InfluenceRate}。基准值为{2_InfluenceAnchor}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT">
+			<Text>赠送单位——获得{1_Influence}[ICON_INFLUENCE]影响力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT_TT">
+			<Text>你可以将地图上任意一个你的军事单位送给这个城邦。{1_TurnsUntilArrival}回合后这个单位将到达城邦，这期间你不能再送别的单位。单位到达时，你将获得{2_Influence}[ICON_INFLUENCE]影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER">
+			<Text>我们正在搜索与{1_CivName:textkey}的城市连接，或许你可以帮助我们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE">
+			<Text>我们希望连上商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_TRADE_ROUTE">
+			<Text>{@1_MinorCivName}的市民相信一条商路的连接有助于我们的共同繁荣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_TRADE_ROUTE">
+			<Text>{@1_MinorCivName}渴望商路连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>{@1_MinorCivName}的市民很高兴见到商路连接。你对他们的[ICON_INFLUENCE]影响力上升了[COLOR_POSITIVE_TEXT]{2_InfluenceReward}[ENDCOLOR]！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_TRADE_ROUTE">
+			<Text>为{@1_MinorCivName}连上了商路！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_TRADE_ROUTE_FORMAL">
+			<Text>他们希望你连接一条陆路或水路商路到他们的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GIFT_TILE_IMPROVEMENT_TT">
+			<Text>你可以花费[ICON_GOLD]金钱来连接上这个城邦的一个奢侈或战略资源。该城邦将获得这项资源并将其提供给盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_GOLD_TT">
+			<Text>如果城邦对你的[COLOR_POSITIVE_TEXT]恐惧[ENDCOLOR]胜过他们的[COLOR_WARNING_TEXT]抵抗[ENDCOLOR]。你可以勒索这个城邦[ICON_GOLD]金钱，你会损失[ICON_INFLUENCE]影响力。{1_FearLevel}{2_FactorDetails}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_UNIT_TT">
+			<Text>如果城邦对你的[COLOR_POSITIVE_TEXT]恐惧[ENDCOLOR]胜过他们的[COLOR_WARNING_TEXT]抵抗[ENDCOLOR]。你可以勒索这个城邦{@3_Unit}，你会损失[ICON_INFLUENCE]影响力。{1_FearLevel}{2_FactorDetails}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_AFRAID">
+			<Text>他们现在[COLOR_POSITIVE_TEXT]害怕你[ENDCOLOR](+{1_FactorScore}):</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_RESILIENT">
+			<Text>他们现在[COLOR_WARNING_TEXT]不害怕你[ENDCOLOR]({1_FactorScore}):</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_POSITIVE">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT](+{1_FactorScore}){@2_FactorDescription}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_NEGATIVE">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT]({1_FactorScore}){@2_FactorDescription}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BASE_RELUCTANCE">
+			<Text>基础抵抗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_UNIT_RELUCTANCE">
+			<Text>赠送单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_GLOBAL_MILITARY">
+			<Text>总体军事力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_MILITARY_PRESENCE">
+			<Text>城邦周边的军事力量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BULLIED_VERY_RECENTLY">
+			<Text>刚交过贡品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_BULLIED_RECENTLY">
+			<Text>不久前交过贡品</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_LOW_POPULATION">
+			<Text>低人口数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_LOW_INFLUENCE">
+			<Text>极低[ICON_INFLUENCE]影响力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_ALLIES">
+			<Text>拥有同盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_PLEDGES_TO_PROTECT">
+			<Text>已宣称保护</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_MILITARISTIC">
+			<Text>军事型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_HOSTILE">
+			<Text>排外特质</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_BULLY_FACTOR_GUNBOAT_DIPLOMACY">
+			<Text>炮舰外交理念</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
+			<Text>{@1_MinorCivName}正试图寻求一些帮助来使得他们可以对抗{@2_CivName}。向他们赠送单位可以获得更多的[ICON_INFLUENCE]影响力。你可以远距离通过城邦外交界面赠送单位，也可以将单位走到城邦境内然后赠送给他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
+			<Text>{@1_MinorCivName}希望获得单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIFT_UNIT">
+			<Text>我们希望你们能赠送我们一些单位来帮助我们作战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_STATE_QUEST_GIFT_UNIT_FORMAL">
+			<Text>他们希望我们能赠送一些单位来帮助他们作战。</Text>
+		</Row>
+		<!-- Notifications -->
+		<Row Tag="TXT_KEY_DIPLO_SAME_LATE_POLICY_TREES">
+			<Text>[COLOR_POSITIVE_TEXT]你们都采用了{1_PolicyTree}意识形态[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DIFFERENT_LATE_POLICY_TREES">
+			<Text>[COLOR_NEGATIVE_TEXT]你采用了{1_YourPolicyTree}意识形态，而他们采用了{2_TheirPolicyTree}。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_ACTIVE_PLAYER">
+			<Text>你已经为{@1_ReligionName}添加了一项改革信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED">
+			<Text>{1_CivName}已经为他们所信仰的{@2_ReligionName}添加了一项改革信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_UNKNOWN">
+			<Text>一个未知的文明已经为他们所信仰的{@1_ReligionName}添加了一项改革信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REFORMATION_BELIEF_ADDED_S">
+			<Text>改革信条已添加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HEATHEN_CONVERTS">
+			<Text>一个蛮族单位加入了你的军队！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_HEATHEN_CONVERTS">
+			<Text>异教徒被转化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_ARCHAEOLOGY">
+			<Text>一个考古发掘已经完成，你现在可以选择一项结果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_ARCHAEOLOGY">
+			<Text>选择考古结果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_FACTORIES">
+			<Text>你已经拥有了3座工厂。工业革命的浪潮已经在你的文明掀起，你的人民要求你选择一项意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_ERA">
+			<Text>你已经跨越了工业时代，工业革命的思想已经深入人心，你的人民要求你选择一项意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CHOOSE_IDEOLOGY">
+			<Text>选择意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN">
+			<Text>{1_CivName}采用了{2_TheirPolicyTree}意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHOSEN_UNMET">
+			<Text>一个未知文明采用了{1_TheirPolicyTree}意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHOSEN">
+			<Text>已经选择意识形态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE">
+			<Text>{1_CivName}民众发起抗争，迫使他们的领袖采用{2_TheirPolicyTree}意识形态！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_IDEOLOGY_CHANGE_UNMET">
+			<Text>一个未知文明的民众发起抗争，迫使他们的领袖采用{1_TheirPolicyTree}意识形态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_IDEOLOGY_CHANGE">
+			<Text>革命！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED">
+			<Text>外交疏散！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DIPLOMAT_EJECTED_TT">
+			<Text>由于爆发战争，{1_SpyRank}{2_SpyName}从{3_CityName}逃到了隐藏处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD">
+			<Text>{2_ResourceName:textkey}现在已经被连入{1_CityName:textkey}！这将增加{3_Num}%古代和古典时代奇观建造[ICON_PRODUCTION]产能！</Text>
+		</Row>
+		<!-- Other-->
+		<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_HELP">
+			<Text>劫掠这条商路可以获得[ICON_GOLD]金钱。[NEWLINE][NEWLINE]如果你没有与商路的主人宣战，那么你需要宣战后才能劫掠。如果你与这条商路通向的文明不处于战争状态的话，劫掠这条商路也会激怒他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_PLUNDER_TRADE_ROUTE_DISABLED_HELP">
+			<Text>要劫掠这条商路，你需要能够对该文明宣战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
+			<Text>这项指令将消耗掉伟人，在最近的城市里创造一个对应类型的杰作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_RESULT">
+			<Text>这个杰作将被放置在{2_CityName}的{1_BuildingName}里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_DISABLED_HELP">
+			<Text>单位必须处于你的某个城市或邻接城市的区域中。你的国家里必须有能够收藏该类作品的场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_HELP">
+			<Text>这个单位将与邻接的外国地块进行一次性的贸易来获取[ICON_GOLD]金钱和经验，数量多少由该地区到首都的距离决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_SELL_EXOTIC_GOODS_DISABLED_HELP">
+			<Text>单位必须处于邻接其他文明或是城邦的地块上。单位之前不能使用过这项指令。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_GIVE_POLICIES_HELP">
+			<Text>这项指令将消耗掉伟人并获得大量[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_HELP">
+			<Text>这项指令将消耗掉伟人并对大音乐家所处的文明输出大量[ICON_TOURISM]魅力。其余的文明也被输出20%的[ICON_TOURISM]魅力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_DISABLED_HELP">
+			<Text>单位必须处于外国地块上</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTERFACEMODE_AIRLIFT_HELP">
+			<Text>这项指令将允许这个单位被空运到一个有飞机场的城市周边一格范围内。目标地块上不能有敌军。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AMPHITHEATER_STRATEGY">
+			<Text>露天剧场可以增加一个城市的[ICON_CULTURE]文化产出，加速城市的领土扩张和社会政策的开启速度。建造此建筑的前提条件是所在城市必须有一个纪念碑（或纪念石柱）。拥有一个文学杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
+			<Text>研究航空后+2[ICON_TOURISM]魅力。[NEWLINE][NEWLINE]城市必须已有城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_HELP">
+			<Text>将一个历史遗迹转化为考古发掘现场，之后可以变为一项文物或者一个地标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ARCHAEOLOGY_DIG_REC">
+			<Text>可以产出一项文物或者变为一个地标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
+			<Text>修建巴西红木林场，不会清除原有的丛林地貌。提供额外的[ICON_GOLD]金钱产出。研究声学科技后还能提供[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_REC">
+			<Text>不摧毁原有的丛林地貌。提供额外的[ICON_GOLD]金钱产出。研究声学科技后还能提供[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
+			<Text>提供额外的1[ICON_FOOD]食物、[ICON_PRODUCTION]产能和[ICON_GOLD]金钱。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_REC">
+			<Text>提供额外的1[ICON_FOOD]食物、[ICON_PRODUCTION]产能和[ICON_GOLD]金钱。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_HELP">
+			<Text>向你提供一份该城邦连接的每一种奢侈资源，不管你与城邦关系如何，但该资源无法被交易。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_REC">
+			<Text>向你提供一份该城邦连接的每一种奢侈资源，不管你与城邦关系如何，但该资源无法被交易。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
+			<Text>建造宫堡可以提供文化和金钱收入。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
+			<Text>宫堡只能建造在邻接奢侈资源的地块上，且不能邻接其他的宫堡。[NEWLINE][NEWLINE]可以提供文化和金钱收入。还能提供防御加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
+			<Text>单位将被消耗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ARTIFACTS_HELP">
+			<Text>被考古发掘后，历史遗迹将转化为一件文物或者一处风景地标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
+			<Text>被考古发掘后，隐藏历史遗迹将转化为一件文物或者一处风景地标。只有完成了探索政策树的文明才能看到隐藏历史遗迹。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_NUTMEG_HELP">
+			<Text>印尼文明独有的一种奢侈资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CLOVES_HELP">
+			<Text>印尼文明独有的一种奢侈资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEPPER_HELP">
+			<Text>印尼文明独有的一种奢侈资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OPERA_HOUSE_STRATEGY">
+			<Text>歌剧院是启蒙时代的建筑，它可以提高城市的[ICON_CULTURE]文化。城市在建造歌剧院前必须拥有露天剧场。拥有一个音乐杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MUSEUM_STRATEGY">
+			<Text>博物馆是游戏中期的建筑，它能提高城市的[ICON_CULTURE]文化产出。城市在建造博物馆前必须先拥有歌剧院或同乐会厅。拥有2个杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_HELP">
+			<Text>标示该城市是文明的[ICON_CAPITAL]首都。拥有一个美术杰作展位。[NEWLINE][NEWLINE]用道路将其他城市[ICON_CONNECTED]连接到[ICON_CAPITAL]首都将获得额外的[ICON_GOLD]金钱。[NEWLINE][NEWLINE]+3[ICON_PRODUCTION]产能，+3[ICON_RESEARCH]科研，+3[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC_HELP">
+			<Text>这个国家奇观能使所有该城市建造的单位获得[COLOR_POSITIVE_TEXT]强化士气[ENDCOLOR]晋升，使他们的[ICON_STRENGTH]战斗力+15%。拥有一个文学杰作展位。只有在文明的所有城市都拥有军营时，英雄史诗才能被建造。建造价格随城市数量增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
+			<Text>这个国家奇观能使城市中[ICON_GREAT_PEOPLE]伟人的出现率提高25%。拥有一个文学杰作展位。[NEWLINE][NEWLINE]文明建造民族史诗前必须先在所有城市建造纪念碑。建造价格随城市数量增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP">
+			<Text>这个国家奇观可以使所在城市的[ICON_CULTURE]文化产出+50%。拥有3个美术杰作展位。[NEWLINE][NEWLINE]在建造它之前，必须在文明的所有城市中建造歌剧院。建造价格随城市数量增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP">
+			<Text>免费获得一项科技。拥有2个文学杰作展位。[NEWLINE][NEWLINE]所有城市都需要有大学。文明的城市数量越多建造成本越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EIFFEL_TOWER_HELP">
+			<Text>除了提供[ICON_HAPPINESS_1]快乐和[ICON_CULTURE]文化，埃菲尔铁塔还提供12点[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
+			<Text>大图书馆能提供一项免费的科技，向所在城市赠送一个图书馆。拥有2个文学杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
+			<Text>需要开启探索政策树。免费获得一位大美术家。拥有4个美术杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UFFIZI_HELP">
+			<Text>需要开启美学政策树。免费获得一位大美术家。拥有3个美术杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_GLOBE_THEATER_HELP">
+			<Text>免费获得一位大文学家。拥有2个文学杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BROADWAY_HELP">
+			<Text>立刻获得一个免费的大音乐家。拥有3个音乐杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SISTINE_CHAPEL_HELP">
+			<Text>所有城市+25%[ICON_CULTURE]文化产出。拥有2个美术杰作展位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SYDNEY_OPERA_HOUSE_HELP">
+			<Text>免费获得一项社会政策，所在城市+50%[ICON_CULTURE]文化。拥有2个音乐杰作展位。必须在沿海城市建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HELP">
+			<Text>世界议会将转变为联合国，开启外交胜利。联合国的所有者+3代表。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CHICHEN_ITZA_HELP">
+			<Text>需要开启自主政策树。区域设施修建速度增加25%，所在城市附近获得两个工人单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HANGING_GARDEN_HELP">
+			<Text>需要开启传统政策树。向所在城市赠送一个花园。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP">
+			<Text>需要开启虔信政策树。所在城市诞生的传教士能有三次传教机会。向所在城市赠送一个清真寺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP">
+			<Text>需要开启赞助政策树。非占领城市的[ICON_CITIZEN]市民导致的[ICON_HAPPINESS_4]不满-10%。在世界议会中获得额外2个代表。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
+			<Text>需要开启商业政策树。所有城市购买建造项目所需的[ICON_GOLD]金钱减少15%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
+			<Text>需要开启理性政策树。建成奇观的城市附近出现一位大科学家。合作研究产出的[ICON_RESEARCH]科研+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION_HELP">
+			<Text>科研专业人员+1[ICON_PRODUCTION]产能，工程师专业人员+1[ICON_RESEARCH]科研。大科学家研究科技时产出+33%[ICON_RESEARCH]科研。仅能通过世界议会联合建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_ARE_YOU_SURE_FOUND_ON_DIG_SITE">
+			<Text>你确定你想{@1_ActionName}吗？[NEWLINE]当前这个历史遗迹将被移除</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+			<Text>单位在己方森林和丛林地块移动视同道路。此类地块在获得轮子科技后可建立[ICON_CONNECTED]城市连接。商队在森林和丛林地块移动视同道路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
+			<Text>建立了[ICON_CONNECTED]城市连接！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED">
+			<Text>连接{1_CityName:textkey}与你的首都{2_CityName:textkey}的[ICON_CONNECTED]城市连接建立了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN">
+			<Text>[ICON_CONNECTED]城市连接中断！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_BROKEN">
+			<Text>连接{1_CityName:textkey}与你的首都{2_CityName:textkey}的[ICON_CONNECTED]城市连接中断了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_WORK_SWAP">
+			<Text>交换杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_WRITING_SWAP">
+			<Text>{1_LeaderName}用“{3_Work2Name}”交换了你的文学杰作“{2_Work1Name}”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_ART_SWAP">
+			<Text>{1_LeaderName}用“{3_Work2Name}”交换了你的美术杰作“{2_Work1Name}”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_GREAT_WORK_MUSIC_SWAP">
+			<Text>{1_LeaderName}用“{3_Work2Name}"交换了你的音乐杰作"{2_Work1Name}”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ARTIFACT_SWAP">
+			<Text>{1_LeaderName}用他的文物“{3_Work2Name}”交换了你的“{2_Work1Name}”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
+			<Text>[ICON_CONNECTED]城市连接+25%[ICON_GOLD]金钱。[NEWLINE][NEWLINE]城市2格内的本国领土上必须有山脉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD">
+			<Text>每条[ICON_CONNECTED]城市连接+1[ICON_GOLD]金钱，每处[ICON_RES_OIL]石油资源储量加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_LIKED_OUR_PROPOSAL">
+			<Text>[COLOR_POSITIVE_TEXT]他们喜欢我们在世界议会上的提案。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISLIKED_OUR_PROPOSAL">
+			<Text>[COLOR_WARNING_TEXT]他们讨厌我们在世界议会上的提案。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_PROPOSAL">
+			<Text>[COLOR_POSITIVE_TEXT]我们帮助他们的提案获得通过。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_FOILED_THEIR_PROPOSAL">
+			<Text>[COLOR_WARNING_TEXT]我们阻挠他们的提案获得通过。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SUPPORTED_THEIR_HOSTING">
+			<Text>[COLOR_POSITIVE_TEXT]我们帮助他们获得世界议会的主办权。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_DIG_PROMISE_BROKEN">
+			<Text>[COLOR_NEGATIVE_TEXT]你在他们的领土上发掘文物！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NO_DIG_PROMISE_IGNORED">
+			<Text>[COLOR_NEGATIVE_TEXT]他们要求你停止发掘他们的文物，你拒绝了他们！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_LANDMARKS_BUILT">
+			<Text>[COLOR_POSITIVE_TEXT]你在他们的领土上建造风景地标。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_PLUNDERING_OUR_TRADE_ROUTES">
+			<Text>[COLOR_NEGATIVE_TEXT]你劫掠了他们的商路！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY">
+			<Text>商人公会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_TEXT">
+			<Text>商人公会是为了保护商人在城市或国家里拥有的商路的经济利益和政治地位而组建的，更普遍的称呼是贸易商会。虽然商人公会的商人们通常没有正式的职位，但有些商人公会依然在很长的一段历史期内发挥过重要的商业影响，比如成立于1407年的伦敦商业冒险者特许公司和更为出名的、成立于1356年左右的汉萨同盟。在文艺复兴早期，威尼斯和热那亚等一些城邦也有商人公会的存在，这些商人公会保护着贸易者在进出口某些特定商品时的利益。商人公会在15到16世纪走向顶峰，之后开始慢慢衰落。衰落的主因是政府和王室开始特许给一些公司管理市场和进行外交的权力，挤占了商人公会原本的生存空间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]商人公会[ENDCOLOR][NEWLINE]所有与城邦的商路+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FREE_TENETS_LABEL">
+			<Text>免费理念数量：{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_STOP_DIGGING">
+			<Text>停止挖掘我国境内的文物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]集体统治[ENDCOLOR][NEWLINE]在[ICON_CAPITAL]首都组建[COLOR_POSITIVE_TEXT]移民[ENDCOLOR]的速度提升50%，[ICON_CAPITAL]首都附近免费获得一个移民单位。（威尼斯则是获得一个威尼斯商人）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_HEAL_DISABLED_HELP">
+			<Text>这个单位在海运状态或是在其他势力境内都无法治疗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_HIGH">
+			<Text>(他们憎恨战争狂！)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_MID">
+			<Text>(他们讨厌战争狂！)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_HATE_LOW">
+			<Text>(他们漠视战争狂。)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MINOR">
+			<Text>[COLOR_WARNING_TEXT]他们对你的战争狂倾向有所关注。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_MAJOR">
+			<Text>[COLOR_NEGATIVE_TEXT]他们将你的战争狂倾向视为明显的威胁。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_SEVERE">
+			<Text>[COLOR_NEGATIVE_TEXT]他们认为你的战争狂行为已成为全球的热点问题。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT_CRITICAL">
+			<Text>[COLOR_NEGATIVE_TEXT]他们害怕你的战争狂行为会使世界陷入黑暗时代！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_MINOR">
+			<Text>如果攻占这座城市你将承受[COLOR_YELLOW]轻微[ENDCOLOR]战狂惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_MAJOR">
+			<Text>如果攻占这座城市你将承受[COLOR_NEGATIVE_TEXT]严重[ENDCOLOR]战狂惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WARMONGER_PREVIEW_EXTREME">
+			<Text>如果攻占这座城市你将承受[COLOR_NEGATIVE_TEXT]极端[ENDCOLOR]战狂惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATION_PREVIEW_MINOR">
+			<Text>如果解放这座城市你将获得[COLOR_PLAYER_DARK_GREEN]轻度[ENDCOLOR]解放奖励（以消解之前的战狂惩罚）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATION_PREVIEW_MAJOR">
+			<Text>如果解放这座城市你将获得[COLOR_POSITIVE_TEXT]重大[ENDCOLOR]解放奖励（以消解之前的战狂惩罚）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERATION_PREVIEW_EXTREME">
+			<Text>如果解放这座城市你将获得[COLOR_POSITIVE_TEXT]顶级[ENDCOLOR]解放奖励（以消解之前的战狂惩罚）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_ARTIFACTS">
+			<Text>你发现了一处[COLOR_HIGHLIGHT_TEXT]历史遗迹[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_HIDDEN_ARTIFACTS">
+			<Text>你发现了一处[COLOR_HIGHLIGHT_TEXT]隐藏历史遗迹[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_DISCOVERED_ARTIFACTS_NEAR">
+			<Text>在{@1_CityName}附近你发现了一处[COLOR_HIGHLIGHT_TEXT]历史遗迹[ENDCOLOR]！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_DISCOVERED_HIDDEN_ARTIFACTS_NEAR">
+			<Text>在{@1_CityName}附近你发现了一处[COLOR_HIGHLIGHT_TEXT]隐藏历史遗迹[ENDCOLOR]！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

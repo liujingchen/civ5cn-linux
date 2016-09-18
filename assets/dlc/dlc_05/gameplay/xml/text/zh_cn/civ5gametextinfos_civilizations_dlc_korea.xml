@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_KOREA_ADJECTIVE">
+			<Text>朝鲜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KOREA_DESC">
+			<Text>朝鲜文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KOREA_SHORT_DESC">
+			<Text>朝鲜</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

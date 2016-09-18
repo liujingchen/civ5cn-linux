@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_MARIA_FIRSTGREETING_1">
+			<Text>罗马帝国皇太后、匈牙利女王暨奥地利女大公，向你问好。请问，你喜欢……戏剧吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_FIRSTGREETING_2">
+			<Text>那么，你就是刚才那个在我庭院里闲逛的人吧。我想我应该欢迎你来到奥地利，不过我认为你不会在这呆多久。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_FIRSTGREETING_3">
+			<Text>德文边区的女主人欢迎你驾临——呃，我们还是跳过这些吧。我在4点有个宴会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_WARBLUFF_1">
+			<Text>荒谬。实在是荒谬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_WARBLUFF_2">
+			<Text>这就是你在一个皇后面前的举止吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_WARBLUFF_3">
+			<Text>你真是愚蠢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_WINWAR_1">
+			<Text>我得说这是个伟大的胜利。我想我应该请一家剧院来详细地记载下录你失败的经历。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_WINWAR_2">
+			<Text>我希望你还能开心得起来，看起来你的那些愚蠢行径没有留下什么痕迹。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LOSEWAR_1">
+			<Text>你，你……邪恶的畜生！你和那些普鲁士叛徒一样野蛮！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LOSEWAR_2">
+			<Text>一个小小的失败而已，没什么好烦恼的。我遇到过更糟糕的情况，也挺过来了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEFEATED_1">
+			<Text>这成了一个多么凄惨的世界啊！岁月累积下的只是金钱而不是智慧与美。我差不多可以高兴地离开了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEFEATED_2">
+			<Text>你这肮脏而残暴的野兽，是你带来了悲伤和痛苦。我的帷幕已经落下，舞台正变得昏暗。当灯光已经黯淡，谁还能继续表演下去？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEFEATED_3">
+			<Text>哈布斯堡家族今天灭亡了。一个荣耀而高贵的王朝倒下了，被永远地摧毁了。只有那些无情的人，才能在知道自己就是罪魁祸首的情况下，依然于夜晚安睡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_1">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_YES_NEUTRAL">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>也许吧，不过我想我要再考虑一下。除非你有更好的建议。如何，我亲爱的朋友？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好一些吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就差那么一点了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NO_NEUTRAL">
+			<Text>我不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_YES_NEUTRAL">
+			<Text>你太自以为是了，但我发现我还挺喜欢你的——就刚才。给你吧，但是不要再跟我讨要了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_NO_NEUTRAL">
+			<Text>亲爱的朋友，你最好说得更清楚些——我的听力不是太好。我刚才一定听错了什么。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADEREQUEST_NEUTRAL">
+			<Text>我看到你盯着我的新绸缎呢。我可不想被人说是一个不公平的人——就这么定了吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>好的，现在开始吧。皇家剧院正需要新的屋顶，而医院也需要新的疫苗呢。你刚才说你还能捐助多少来着？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_2">
+			<Text>不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_4">
+			<Text>真高兴又见到你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_3">
+			<Text>一路平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_YES_HAPPY">
+			<Text>赞成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我亲爱的朋友，这样确实不行。由于我的性别，我的统治已经受到了质疑。而像这样条款对此没有任何帮助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你最好的提议了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NO_HAPPY">
+			<Text>感谢你的建议，但不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_YES_HAPPY">
+			<Text>哦，我想我可以省出一些给我最喜欢的小侍从。现在开始吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_NO_HAPPY">
+			<Text>亲爱的朋友，我已经收到了你写的那封糊涂信。你一定是不小心弄错了才把它寄给我的吧。据我所知，你是绝不会提出这样的建议的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADEREQUEST_HAPPY">
+			<Text>我知道你正期盼着这个呢，在你那落后的国家里这是最时髦的东西！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEMANDTRIBUTE_HAPPY">
+			<Text>来吧，请帮助一个正处在贫困危难中的可怜贵族遗孀吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_4">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LETSHEARIT_3">
+			<Text>快说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LETSHEARIT_4">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_5">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_GOODBYE_6">
+			<Text>退下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_YES_ANGRY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>孩子，我当统治者的时间比你呼吸空气的时间还长。我不会接受如此荒谬的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你应该能做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>就差那么一点了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADE_NO_ANGRY">
+			<Text>这是什么样的无稽之谈啊？你在浪费我的时间，同时也在考验我的耐心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_YES_ANGRY">
+			<Text>你总有一天会为此付出代价的，你这个鼠目寸光的小偷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRIBUTE_NO_ANGRY">
+			<Text>当面拒绝你真是太令我愉快了。出去的时候别让议事厅的门给砸了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_TRADEREQUEST_ANGRY">
+			<Text>我的顾问们坚持让我跟你要这个。告诉我，你贿赂我的王公大臣是不是成了习惯了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你付出足够的代价，奥地利将会把她的大部分注意力转向别处。你看过科林那边的最新战报了没？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_AGREE_SHORT_4">
+			<Text>我觉得这是必然的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_5">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_6">
+			<Text>这真是难以接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_LETSHEARIT_5">
+			<Text>你在说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DECLAREWAR_1">
+			<Text>奥地利无法继续容忍这样的侵犯了！拿起你的武器，捍卫你的荣耀，然后准备品尝全面溃败的滋味吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DECLAREWAR_2">
+			<Text>很遗憾会走到这一步，但是你让我别无选择。下一次，我希望你的言辞能更加明智些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_DECLAREWAR_3">
+			<Text>什么，很惊讶？那你认为我的头衔和领地是怎么来的？从我的丈夫那里？没关系，你很快就会发现自己错在哪里。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_ATTACKED_1">
+			<Text>你这个大傻瓜！我的军队超过十万人，而且个个训练有素，装备精良。你很快就要完蛋了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_ATTACKED_2">
+			<Text>你太小看我了，这将是你失败的原因。我是神圣罗马帝国的皇后——我的权威和气概源于数百年累积下来的勇气和才智。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_ATTACKED_3">
+			<Text>你选择了一条多么不可理喻的道路啊？我才不会陪你一起虚度年华呢。我是手握大权的统治者，你很快就会了解这一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_QUOTE_1">
+			<Text>我要清醒地迎接我的上帝。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

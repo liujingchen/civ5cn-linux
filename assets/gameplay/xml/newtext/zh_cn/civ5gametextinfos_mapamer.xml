@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MAP_AMER_TITLE">
+			<Text>美洲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_AMER_HELP">
+			<Text>包括秘鲁以北的美洲大陆的较大尺寸地图</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT">
+			<Text>集聚群贤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
+			<Text>所有专业人员和所有伟人设施+2[ICON_RESEARCH]科研。朝鲜的首都完成科技型建筑/奇观时获得科研奖励。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

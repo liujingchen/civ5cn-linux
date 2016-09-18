@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<!-- READ ME -->
+		<!-- DLC Package Names and Descriptions should only go here after they have been announced.-->
+    <Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_NAME">
+      <Text>升级1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_8871E74829A449108C578C99E32D0167_DESCRIPTION">
+      <Text>升级数据1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_NAME">
+			<Text>巴比伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_7459BA32576444AE8E9501AD0E0EFD48_DESCRIPTION">
+			<Text>尼布甲尼撒二世的巴比伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_NAME">
+			<Text>蒙古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_293C1EE3117644F6AC1F59663826DE74_DESCRIPTION">
+			<Text>成吉思汗铁木真的蒙古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_NAME">
+			<Text>西班牙与印加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B685D5DE7CCA4E7581B42F60754E6330_DESCRIPTION">
+			<Text>伊莎贝拉的西班牙与帕查库提的印加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_NAME">
+			<Text>波利尼西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ECF7C605BA114CAC8D80D71306AAC471_DESCRIPTION">
+			<Text>卡美哈梅哈的波利尼西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIA_DLC_AVAILABLE">
+			<Text>内容包：波利尼西亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_NAME">
+			<Text>丹麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_B3030D39C0D84BC791B17AD1CAF585AB_DESCRIPTION">
+			<Text>蓝牙哈拉德的丹麦</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_NAME">
+			<Text>朝鲜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_112C22B2530842B6B734171CCAB3037B_DESCRIPTION">
+			<Text>世宗大王(李裪)的朝鲜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_NAME">
+			<Text>远古奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BBB0D085A0B14475B0073E549CF3ADC3_DESCRIPTION">
+			<Text>远古世界的奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_NAME">
+			<Text>资料片：神佑君王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_0E3751A1F8404E1B9706519BF484E59D_DESCRIPTION">
+			<Text>神佑君王资料片</Text>
+		</Row>
+    <Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_NAME">
+      <Text>资料片：新奇世界</Text>
+    </Row>
+    <Row Tag="TXT_KEY_6DA0763641234018B6436575B4EC336B_DESCRIPTION">
+      <Text>新奇世界资料片</Text>
+    </Row>
+		<Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_NAME">
+			<Text>内容包：纷乱大陆地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_46EAEFFC7B1D443DBFC8F825DFEFB094_DESCRIPTION">
+			<Text>纷乱大陆地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_NAME">
+			<Text>内容包：纷乱国度地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_4255F5F7D3AB4E55ACEE4670082040ED_DESCRIPTION">
+			<Text>纷乱国度地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_NAME">
+			<Text>内容包：探险家地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_3F49DF5468B644D1A930A168628FAA59_DESCRIPTION">
+			<Text>探险家地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_NAME">
+			<Text>内容包：新大陆豪华版</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EA67AED558594875BF3A360FE9E55D1B_DESCRIPTION">
+			<Text>征服新大陆剧情豪华版</Text>
+		</Row>
+    <Row Tag="TXT_KEY_DENMARK_DLC_AVAILABLE">
+			<Text>内容包：丹麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPMAPPACK_DLC_AVAILABLE">
+			<Text>内容包：地图集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_WONDERS_AVAILABLE">
+			<Text>内容包：朝鲜与远古奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_WONDERS_SHORT_AVAILABLE">
+			<Text>朝鲜与远古奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DLC_AVAILABLE">
+			<Text>新地图集已发布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVWORLD">
+			<Text>进入“文明世界”！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACE_PATROL_PROMO">
+			<Text>查看“王牌编队”！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DLC_MAP_PACK_2_AVAILABLE">
+			<Text>纷乱大陆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DLC_MAP_PACK_3_AVAILABLE">
+			<Text>纷乱国度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOW_AVAILABLE">
+			<Text>现已发布</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

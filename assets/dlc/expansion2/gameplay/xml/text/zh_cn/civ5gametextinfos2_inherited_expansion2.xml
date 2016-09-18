@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+    <Row Tag="TXT_KEY_MISSION_FOUND_RELIGION">
+			<Text>创立宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_SPREAD_RELIGION">
+			<Text>传播宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_ENHANCE_RELIGION">
+			<Text>强化宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_REMOVE_HERESY">
+			<Text>清除异教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISSION_REPAIR_FLEET">
+			<Text>修整舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MINOR_ALLIES_DECLARED_WAR_ON_YOU">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey}的盟邦向你宣战！[ENDCOLOR][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MINOR_ALLIES_DECLARED_WAR_ON_YOU_SUMMARY">
+			<Text>城邦向你宣战！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_DECLARED_WAR">
+			<Text>你的盟邦向{1_CivName:textkey}宣战：[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_DECLARED_WAR_SUMMARY">
+			<Text>你的盟邦宣战了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MADE_PEACE_WITH_MINOR_ALLIES">
+			<Text>{1_CivName:textkey}与城邦和谈：[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_MADE_PEACE_WITH_MINOR_ALLIES_SUMMARY">
+			<Text>{1_CivName:textkey}与城邦和谈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_MADE_PEACE">
+			<Text>你的盟邦与{1_CivName:textkey}和谈：[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_YOUR_MINOR_ALLIES_MADE_PEACE_SUMMARY">
+			<Text>你的盟邦停战了</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTERFACEMODE_GIFT_TILE_IMPROVEMENT">
+			<Text>区块奖励提升模式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_DISPLAY">
+			<Text>这是宗教概览窗口！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_OVERVIEW_BODY">
+			<Text>窗口分为三个部分。第一部分用于显示你的宗教信息。你可以在这里查看你的宗教状态，选择信条，甚至如果你想的话还能自动消费[ICON_PEACE]信仰。第二部分将会向你展示地图上的其他文明的宗教情况，而第三部分则会向你展示哪些信条已被选用和选用者是谁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_OVERVIEW_DISPLAY">
+			<Text>这是谍报概览窗口！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_OVERVIEW_BODY">
+			<Text>在这里你能全方位的查看你的情报网络。比如查看你的间谍的当前状态。同时，[COLOR_ADVISOR_HIGHLIGHT_TEXT]这里也是你向间谍们发送命令的地方[/COLOR]：命令间谍移动到不同的城市，监视对方动向，或是偷取科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_DISPLAY">
+			<Text>选择一个神系！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_PANTHEON_BODY">
+			<Text>你的人民在欢呼！你积累了足够的[ICON_PEACE]信仰来[COLOR_ADVISOR_HIGHLIGHT_TEXT]开启一个神系[/COLOR]，这是创立宗教的第一步。[NEWLINE][NEWLINE]在点击了下方的通知按钮以后，你就会看到一个可供选择的神系列表。他们是通常都和地形有关，因此参考一下你周围的环境以选择一个更适合你的神系吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_DISPLAY">
+			<Text>你可以创立一个宗教！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RELIGION_FOUND_RELIGION_BODY">
+			<Text>你的大先知已经开始布道，现在，你可以[COLOR_ADVISOR_HIGHLIGHT_TEXT]创立一个宗教[/COLOR]了。请为你的宗教起名并选择宗教标志。在这之后，你可以为你的宗教选择两个信条：创立者信条（玩家级加成：只对创立宗教的玩家起效）和追随者信条（城市级加成：可以作用于你的宗教所传播到的所有城市）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_TECH_TO_STEAL_DISPLAY">
+			<Text>你可以偷取一个科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_CHOOSE_TECH_TO_STEAL_BODY">
+			<Text>你的间谍向你报告说他们已经取得了足够的情报，可以[COLOR_ADVISOR_HIGHLIGHT_TEXT]偷取一个科技[/COLOR]了。而要偷取哪个科技，则有待于你的决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PROPHET_SPAWN_DISPLAY">
+			<Text>大先知诞生了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PROPHET_SPAWN_BODY">
+			<Text>大先知通常有以下几个作用：创立一个宗教（如果你已经开启了一个神系的话）；强化一个现有的宗教；将宗教传播到其他的城市；或是建设一个区域设施来增加[ICON_PEACE]信仰的产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SPY_SPAWN_DISPLAY">
+			<Text>你获得了一个间谍！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SPY_SPAWN_BODY">
+			<Text>使用谍报窗口（可以在屏幕右上方的附加信息按钮里找到它），你就能设置你的间谍是处于进攻倾向模式（渗透并潜入到敌方领土）还是防御倾向模式（保护你的城市和科技）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_BODY">
+			<Text>你获得了一点[ICON_PEACE]信仰。[ICON_PEACE]信仰可以用来开启一个神系，催生大先知，或是在你创立宗教之后，用来购买传教士，宗教裁判官和宗教建筑。你可以把鼠标移到顶部菜单栏的[ICON_PEACE]信仰图标上，来查看你还需要多少[ICON_PEACE]信仰以达到下一个临界值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_FAITH_POINT_DISPLAY">
+			<Text>你获得了一点信仰！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_BODY">
+			<Text>间谍的作用可谓是攻守兼备。打开谍报窗口（可以在屏幕右上方的附加信息按钮里找到它），在这里你可以向间谍们发送命令。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_DISPLAY">
+			<Text>你获得了一个间谍！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_BODY">
+			<Text>你的人民的坚定信仰，催生了大先知的诞生！[NEWLINE][NEWLINE]这是你的第一个大先知，我强烈推荐你用他来[COLOR_ADVISOR_HIGHLIGHT_TEXT]创立一个宗教[/COLOR]。这样一来，你可以获得宗教赋予你的信条。在每场游戏中，只允许存在有限的宗教，因此尽可能早的建立你的宗教吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_GREAT_PROPHET_DISPLAY">
+			<Text>大先知诞生了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ALHAMBRA_HELP">
+			<Text>当前城市新建非飞行单位获得[COLOR_POSITIVE_TEXT]操练一级[ENDCOLOR]晋升，提高单位在[COLOR_POSITIVE_TEXT]复杂地形[ENDCOLOR]上的[ICON_STRENGTH]战斗力。奇观所在的城市赠送一座城堡。所在城市增加20%的[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_CN_TOWER_HELP">
+			<Text>所有城市赠送一座广播塔。所有城市+1[ICON_CITIZEN]人口，+1[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HUBBLE_HELP">
+			<Text>城市周围出现2位大科学家。所在城市获得一座太空船工厂。建造太空船部件时+25%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEANING_TOWER_HELP">
+			<Text>所有城市+25%[ICON_GREAT_PEOPLE]伟人产生速率。[ICON_CAPITAL]首都附近出现一位伟人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_NEUSCHWANSTEIN_HELP">
+			<Text>每一座城堡+3[ICON_GOLD]金钱，+2[ICON_CULTURE]文化，+1[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]城市2格内的本国领土上必须有山脉方能建造本奇观。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
+			<Text>诞生一位大先知。所在城市赠送一座神庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GREAT_FIREWALL_HELP">
+			<Text>敌方间谍对所在城市的影响减少99.9%，对所在文明内的其他城市减少25%。消除来自其他文明掌握因特网科技所带来的[ICON_TOURISM]魅力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_STRATEGY">
+			<Text>对于想要科技胜利的文明来说，这是重要的防御性国家奇观。国家情报局额外提供一名间谍，并使全部现有间谍晋升一级，同时减少15%敌方间谍的影响。建造此奇观要求所在文明的所有城市都拥有警察局。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP">
+			<Text>额外提供一名间谍，并使全部现有间谍晋升一级。同时减少15%敌方间谍的影响。建造此奇观的前提条件是所有城市必须拥有警察局。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_STRATEGY">
+      <Text>对致力于向世界传播宗教的文明来说非常重要的奇观。必须在圣城中建造。来自该城市的宗教压力加倍。建造此奇观的前提条件是所有城市必须拥有神庙。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GRAND_TEMPLE_HELP">
+      <Text>来自该城市的宗教压力加倍。[NEWLINE][NEWLINE]必须在圣城中建造。所有城市必须拥有神庙。城市越多建造费用越高。</Text>
+    </Row>
+		<Row Tag="TXT_KEY_BUILDING_SHRINE_STRATEGY">
+			<Text>神祠是城市早期用来产出[ICON_PEACE]信仰的建筑，是建立和传播宗教的必要建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY">
+			<Text>每座回收中心提供2单位[ICON_RES_ALUMINUM]铝。本文明只能拥有5座此建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RECYCLING_CENTER_HELP">
+			<Text>提供2单位[ICON_RES_ALUMINUM]铝。本文明只能拥有5座此建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_STRATEGY">
+			<Text>防空洞可以让所在城市受核弹打击后的人口损失减少75%。快卧倒！找掩护！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOMB_SHELTER_HELP">
+			<Text>受核弹打击后的人口损失减少75%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_STRATEGY">
+			<Text>治安署可以减慢敌方间谍从你的城市窃取科技的速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSTABLE_HELP">
+			<Text>敌方间谍窃取科技的速度减慢25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_STRATEGY">
+			<Text>警察局可以减慢敌方间谍从你的城市窃取科技的速度。建造此建筑的前提条件是所在城市必须有治安署。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_POLICE_STATION_HELP">
+			<Text>敌方间谍窃取科技的速度减慢25%。[NEWLINE][NEWLINE]建造此建筑的前提条件是所在城市必须有治安署。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_HELP">
+			<Text>所在城市有市民工作的[ICON_RES_INCENSE]薰香和[ICON_RES_WINE]红酒提供额外的1点[ICON_PEACE]信仰和1点[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MONASTERY_STRATEGY">
+			<Text>修道院能增加城市的[ICON_PEACE]信仰和[ICON_CULTURE]文化产出，特别是在城市已经开发了薰香和红酒资源的情况下。此建筑只能在信仰有修道院信条的宗教的城市才能建造。你能够用[ICON_PEACE]信仰购买此建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLE_STRATEGY">
+			<Text>神庙可以增加一个城市的[ICON_PEACE]信仰产出，加速你建立和传播宗教的速度。建造此建筑的前提条件是所在城市必须有一个神祠（或金字塔神庙）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WALLS_STRATEGY">
+			<Text>城墙可以为一个城市增加5点防御力和50点生命值，使敌方攻城更为困难。对于一个文明的边疆城市来说，城墙尤为重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MILITARY_BASE_STRATEGY">
+			<Text>军事基地是游戏中期才能建造的建筑，可以为城市增加12点防御力和25点生命值。建造此建筑的前提条件是所在城市必须有兵工厂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CASTLE_STRATEGY">
+			<Text>城堡是中古时代的建筑，可以为城市增加7点防御力和25点生命值。建造此建筑的前提条件是所在城市必须有城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARSENAL_STRATEGY">
+			<Text>兵工厂是游戏中期的军事建筑，可以为城市提升9点防御力和25点生命值，使敌方攻城更为困难。建造此建筑的前提条件是所在城市必须有城堡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BABYLON_WALLS_STRATEGY">
+			<Text>巴比伦城墙是巴比伦的特殊建筑，替代一般城市的标准城墙。巴比伦城墙可以为一个城市增加6点防御力和100点生命值（比之标准城墙有显著提高）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STELE_STRATEGY">
+			<Text>纪念石柱是埃塞俄比亚文明在远古时代的特殊建筑，取代了纪念碑。它可以增加城市的[ICON_CULTURE]文化和[ICON_PEACE]信仰产出，加速城市的领土扩张和社会政策与宗教的开启速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET_STRATEGY">
+			<Text>大先知是一种特殊单位，可以用来建立和强化宗教。他也能用于建造特殊的区域设施：宗教圣地，当有市民在上面工作时，可以提供大量的[ICON_PEACE]信仰产出。同样的，大先知也可以用来传播宗教，一共可以传播4次（取代这些城市之前存在的宗教）。用以上任何一种方式使用大先知后，大先知都会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSIONARY_STRATEGY">
+			<Text>可以在有信仰的城市内用[ICON_PEACE]信仰购买当前城市主要信仰的宗教的传教士。当他靠近一个城市的时候，就可以把他代表的宗教传播到这座城市（在第二次使用之后，传教士就会被消耗掉）。如果传教士进入一个没有开放边界的文明境内，他们的宗教力量会随着回合数的增加而减少。当其宗教力量减到0的时候，他们就会消失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MISSIONARY">
+			<Text>用于向其他城市传播宗教。只能通过[ICON_PEACE]信仰购买来获得。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INQUISITOR_STRATEGY">
+			<Text>只能在以强化的宗教作为主流信仰的城市使用[ICON_PEACE]信仰来购买宗教裁判官。他们可以从你的城市内清除其他宗教（会消耗掉宗教裁判官）或是放置在某一城市以保护其不被其他宗教的传教士和大先知传教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INQUISITOR">
+			<Text>用来清除城市内的异教。只能使用[ICON_PEACE]信仰来购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI_STRATEGY">
+			<Text>皇家卫队是埃塞俄比亚军队的中流砥柱。他们天生在崎岖地形和首都附近作战时拥有加成。他们取代了来复枪兵并略为廉价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MEHAL_SEFARI">
+			<Text>战斗力强大的一线陆军单位，擅长在崎岖地形作战和拱卫埃塞俄比亚首都的附近区域。只有埃塞俄比亚能够训练他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COMPOSITE_BOWMAN">
+			<Text>古典远程步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN_STRATEGY">
+			<Text>复合弓手比弓手更为强大。作为远程单位，他们能够给两格以外的敌军单位造成大量伤害，但面对近战攻击十分脆弱。把复合弓手放置在你的城市里进行防御，或者在进军时用近战单位保卫他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GATLINGGUN">
+			<Text>游戏中期的远程步兵单位，必须接触敌军单位来发动攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GATLINGGUN_STRATEGY">
+			<Text>多管机枪是一种游戏中期的非压制远程单位，与弩兵等较早的远程单位相比更为强力。它只有一格的射程，但在对其他单位造成大量伤害的同时能保证自身的安全。把多管机枪放置在你的城市里进行防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GALLEASS">
+			<Text>中古时代海军单位，用它们的远程攻击能力来争夺海域控制权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEASS_STRATEGY">
+			<Text>桨帆战舰是游戏中第一种具有远程攻击能力的海军单位。它与较早的海军单位相比攻击能力更强，但速度较慢，也无法进行近战。桨帆战船在将敌军船只驱逐出近海区域时作用明显。除波利尼西亚外，其他文明的桨帆战舰均无法进入大洋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GREAT_WAR_INFANTRY">
+			<Text>电气时代的基础步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MARINE">
+			<Text>原子时代单位，尤其擅长从海上直接登陆作战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE_STRATEGY">
+			<Text>海军陆战队是步兵的一个分支。他们的花费稍微高于步兵，但获得了从海上登陆进攻时能够得到视野和攻击力加强的晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TRIPLANE">
+			<Text>早期空军单位，用于拦截来袭的敌军飞机。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIPLANE_STRATEGY">
+			<Text>三翼机是一种早期空军单位，能够以你的任何一座城市作为基地或者装载在航空母舰上。它能够在城市（或航空母舰）间移动，执行5格范围内的“任务”。用它们来攻击敌方飞机与地面单位、侦察敌军位置、以及防御敌方的空中打击。参考飞机条目以了解更多信息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WWI_BOMBER">
+			<Text>早期空军单位，能够从空中轰击敌军单位和城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER_STRATEGY">
+			<Text>早期轰炸机是一种早期空军单位，攻击地面目标时十分有效，而攻击海军目标的能力则相对较弱，并且在敌军飞机面前毫无抵抗能力。早期轰炸机能够以玩家的城市为基地或者装载在航空母舰上。它们能够在基地间移动并在自身6格范围内执行任务，使用它们来攻击敌方单位和城市。尽可能地先派出三翼机或战斗机以消耗敌方在该回合的对空防御。参考飞机条目以了解更多信息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WWI_TANK">
+			<Text>最先出现的坦克兵种，这种强大的游戏晚期单位能够在攻击后继续移动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_TANK_STRATEGY">
+			<Text>履带战车是一种拥有强大战斗力与机动性的陆军单位。它们可以在战斗后继续移动，以此突破敌军的防线并进入原来由敌军占据的位置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MACHINE_GUN">
+			<Text>游戏晚期远程单位，必须邻接敌军进行攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PRIVATEER">
+			<Text>海军单位，擅长攻击海岸城市以掠取金钱和俘虏敌方船只。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRIVATEER_STRATEGY">
+			<Text>进行近战攻击的海军单位。出生带有“海岸劫掠”晋升，能够通过攻击海岸城市掠夺金钱，有一定几率俘获所击败的船只作为战利品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SEA_BEGGAR">
+			<Text>海军单位，擅长攻击海岸城市以掠取金钱和俘虏敌方船只。只有荷兰能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR_STRATEGY">
+			<Text>擅长攻击海岸城市掠取金钱和俘虏敌方船只的海军单位，只有荷兰能够建造。能够在己方领土外进行恢复。自动获得“海岸劫掠”晋升，允许它们通过进攻海岸城市掠夺金钱，有一定几率俘获所击败的船只作为战利品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL_STRATEGY">
+			<Text>海军统帅能够立即修复在同一区块和邻近区块内的海军单位及海运单位。使用后海军统帅将会被消耗掉。海军统帅还能为周围两格区块内的所有我方单位提供15%的战斗力加成。提供此加成不会消耗掉海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_GENERAL_STRATEGY">
+			<Text>陆军统帅能够建造军事要塞，为任何处于该区块的单位提供防御加成，攻击处于临近区块的敌方单位，并将临近区块并入你的领土。建造军事要塞后陆军统帅会被消耗掉。陆军统帅还能为周围两格区块内的所有我方单位提供15%的战斗力加成。提供此加成不会消耗掉陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ENGINEER_STRATEGY">
+			<Text>大工程师能够建造制造中心，当市民在制造中心工作时将会为该城市提供大量的[ICON_PRODUCTION]产能产出。大工程师还能够加速建造。使用任意一种能力后大工程师会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_MERCHANT_STRATEGY">
+			<Text>大商业家能够建造海关，当市民在海关工作时将会为该城市提供大量的[ICON_GOLD]金币产出。大商业家还能前往城邦国家“拓展贸易事业”，获得大量[ICON_GOLD]金币，同时还能提升对该城邦国家的影响力。使用后大商业家会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_SCIENTIST_STRATEGY">
+			<Text>大科学家能够建造学园，当市民在学园工作时将会为该城市提供大量的[ICON_RESEARCH]科研产出。此外，大科学家可以使你立刻获得大量的科研点数，获得的点数取决于你的文明现有的科研产出。使用后大科学家会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
+			<Text>早期现代步兵是电气时代最基本的战斗单位。它比自己的前任——来复枪兵强大得多。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MISSILE_CRUISER">
+			<Text>适用于克制敌方空军单位的海军单位。能够运载3个导弹单位。常用于搜索及摧毁敌方潜艇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NUCLEAR_SUBMARINE">
+			<Text>对除驱逐舰、导弹巡洋舰和潜艇之外的所有单位不可见，直到它发动攻击或与另一个单位相邻。能够运载2个导弹单位，适用于攻击敌方海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SUBMARINE">
+			<Text>对除驱逐舰、导弹巡洋舰和潜艇之外的所有单位不可见，直到它发动攻击或与另一个单位相邻。能够秘密接近敌方舰船对其造成严重杀伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MECH">
+			<Text>无防御加成，但却比游戏中其他军事单位更加强大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MODERN_ARMOR">
+			<Text>游戏后期快速而强大的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TANK">
+			<Text>游戏后期快速而强大的单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
+			<Text>游戏后期快速而强大的单位。[NEWLINE][NEWLINE]德国特色单位，替代坦克。相比普通坦克移动力额外加1。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAVALRY">
+			<Text>能够与同时代步兵单位正面交锋的骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COSSACK">
+			<Text>能够与同时代步兵单位正面交锋的骑乘单位。[NEWLINE][NEWLINE]俄国特色单位，替代近代骑兵，对受伤单位有战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LANCER">
+			<Text>适用于攻击敌方骑乘单位的骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SIPAHI">
+			<Text>适用于攻击敌方骑乘单位的骑乘单位。奥斯曼特色单位，替代枪骑兵。相比枪骑兵速度更快且视野更远。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MUSLIM_CAVALRY">
+			<Text>中古时代强大的骑乘单位，对长枪兵战斗力较弱。桑海特色单位，替代骑士。相比骑士在攻击城市时没有攻击惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHARIOR_ARCHER">
+			<Text>适用于开阔地形的快速远程单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_EGYPTIAN_WAR_CHARIOT">
+			<Text>快速远程单位。埃及特色单位，替代战车射手。该单位与战车射手的不同之处为不需要[ICON_RES_HORSE]马资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CROSSBOWMAN_STRATEGY">
+			<Text>弩兵比复合弓手更加强大。作为远程单位，弩兵能够在两格外对中世纪时代的单位造成可观的伤害，但是易受近战攻击的伤害。派你的弩兵驻守城市，移动时则需要近战单位的保护。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INFANTRY">
+			<Text>机械化步兵出现之前最强大的步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INFANTRY_STRATEGY">
+			<Text>现代步兵是工业时代最基本的战斗单位。现代步兵比自己的前任——早期现代步兵强大得多。现代战争越来越趋向多兵种混合作战，而现代步兵在面对空军、火炮和坦克时都处于劣势。所以，现代步兵出战时最好拥有火炮、坦克和空军单位（或者防空单位）的支持。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIREME_STRATEGY">
+			<Text>三列桨战船是每个文明都可以建造的最早的海军单位。作为一种近程单位，它可以攻击海上和城中的单位（但不能远程攻击）。三列桨战船在清扫己方城市附近水域的蛮族船只和有限地探索时可以派上用场（他们无法进入城市范围以外的深水区域，除非是属于波利尼西亚文明）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TRIREME">
+			<Text>远古时代的海军单位，通过近程攻击海上和城市中的单位争夺制海权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEY_STRATEGY">
+			<Text>桨帆船是只能在海滨区块移动的蛮族单位，伺机攻击海运单位。它们远比其他海军单位弱得多，但一旦数量多，还是有威胁的。作为一种近程单位，它可以攻击海上和城中的单位（但不能远程攻击）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARAVEL_STRATEGY">
+			<Text>轻帆船的出现对一个文明的海军而言是革命性的提升。作为近程单位，轻帆船比三列桨战船更强大，速度也更快，而且它也能进入大洋区块。由于它的速度非常快，因此它有一个自带晋升，该晋升使其能以一定几率在敌人发动近程攻击前撤退。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CARAVEL">
+			<Text>启蒙时代快速的海军单位，具备超远视野，适用于海洋探索。近程攻击单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DESTROYER_STRATEGY">
+			<Text>驱逐舰作为近程攻击单位，它的作用包括发现并消灭潜艇和提供防空火力支持。驱逐舰通常为处于敌方空军和潜艇攻击范围内的海运单位、战列舰和航空母舰提供保护。由于它的速度非常快，因此它有一个自带晋升，该晋升使其能以一定几率在敌人发动近程攻击前撤退。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DESTROYER">
+			<Text>游戏后期特别适用于侦察任务的快速战舰。也可用于猎杀敌方潜艇。近程攻击单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IRONCLAD_STRATEGY">
+			<Text>铁甲舰是第一种使用蒸汽动力的战舰。作为近程攻击单位，想击败它们要付出比击败帆船更多的代价，而且它们的攻击力也比帆船要高。最好将它们用于近海防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_IRONCLAD">
+			<Text>比巡航舰更强大的海军单位，代价是在大洋区块速度较慢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HELICOPTER_GUNSHIP">
+			<Text>适用于克制坦克和主战坦克的单位。能够飞越山脉，但如果它在回合结束时处于山脉区块将会受到伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_INSTANTLY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]本单位恢复50生命力[ENDCOLOR]。这将[COLOR_POSITIVE_TEXT]放弃本次晋升机会[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_1_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_2_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHOCK_3_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中) (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_1_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_2_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DRILL_3_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 (在[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中) (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_1_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_2_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ACCURACY_3_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]开阔[ENDCOLOR]地形中的单位 (非丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_1_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_2_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BARRAGE_3_HELP">
+			<Text>+15%[ICON_RANGE_STRENGTH]远程战斗力 对[COLOR_POSITIVE_TEXT]复杂[ENDCOLOR]地形中的单位 (丘陵/森林/丛林)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_1_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_2_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TARGETING_3_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIEGE_HELP">
+			<Text>+50%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SENTRY_HELP">
+			<Text>+1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_HELP">
+			<Text>相邻的所有单位每回合[COLOR_POSITIVE_TEXT]额外恢复5生命力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_II_HELP">
+			<Text>相邻的所有单位每回合[COLOR_POSITIVE_TEXT]额外恢复5生命力[ENDCOLOR]。该单位[COLOR_POSITIVE_TEXT]在己方领土以外[ENDCOLOR]每回合[COLOR_POSITIVE_TEXT]额外恢复5生命力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHARGE_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]受伤单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VOLLEY_HELP">
+			<Text>+50%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]驻扎单位[ENDCOLOR]和[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_1_HELP">
+			<Text>+33%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR] 对[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COVER_2_HELP">
+			<Text>+33%[COLOR_POSITIVE_TEXT]防御[ENDCOLOR] 对[COLOR_POSITIVE_TEXT]远程攻击[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]骑乘[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FORMATION_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]骑乘[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]装甲[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]装甲[ENDCOLOR]单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLITZ_HELP">
+			<Text>每回合有一次额外的攻击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUPPLY_HELP">
+			<Text>可恢复损伤([COLOR_POSITIVE_TEXT]包括境外[ENDCOLOR]) 每回合15生命力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INTERCEPTION_3_HELP">
+			<Text>+34%[ICON_STRENGTH]战斗力 (拦截敌方飞机时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOGFIGHTING_3_HELP">
+			<Text>+34%[ICON_STRENGTH]战斗力 (进行[COLOR_POSITIVE_TEXT]空中游猎[ENDCOLOR]时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SIEGE_3_HELP">
+			<Text>+34%[ICON_STRENGTH]战斗力 对 [COLOR_POSITIVE_TEXT]城市[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_2_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOMBARDMENT_3_HELP">
+			<Text>+34%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]陆军单位[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_2_HELP">
+			<Text>+1视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SCOUTING_3_HELP">
+			<Text>+1移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_1_HELP">
+			<Text>+25%防御，单位在己方领土之外每回合额外恢复+5生命力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_2_HELP">
+			<Text>+25%防御，单位在己方领土之外每回合额外恢复+5生命力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURVIVALISM_3_HELP">
+			<Text>单位在执行行动时也可以[COLOR_POSITIVE_TEXT]每回合恢复生命[ENDCOLOR]。单位在面临近战攻击时可以尝试撤退。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
+			<Text>+15%[ICON_STRENGTH]战斗力(邻近友军时)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONALISM_HELP">
+			<Text>+15%进攻加成(在己方领土)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_HELP">
+			<Text>+200%加成(对城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT_HELP">
+			<Text>+300%加成(对城市)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY_HELP">
+			<Text>消灭非蛮族单位后恢复50点损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
+			<Text>能够以海运模式进入[COLOR_POSITIVE_TEXT]水域[ENDCOLOR]。海运模式下有防御能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_BONUS_HELP">
+			<Text>对海军加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_ELEPHANT_HELP">
+			<Text>敌对单位临近任何带有此晋升的单位时受到-10%的[ICON_STRENGTH]战斗力影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_ATTACK_BONUS_HELP">
+			<Text>+50%夹击加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFEND_NEAR_CAPITAL_HELP">
+			<Text>在首都战斗时增加30%战斗力，此项奖励在单位远离首都时失效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKED_SIGHT_HELP">
+			<Text>增加海运模式下的单位的视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL_HELP">
+			<Text>如果陆军统帅与这个单位回合开始时堆叠在一起，陆军统帅将以该单位的速度前进。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GENERAL_STACKING_HELP">
+			<Text>有陆军统帅时，同一地块单位获得15%战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_ATTACKS_CITIES_HELP">
+			<Text>单位只能攻击城市，不能攻击单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_1_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]。获取相当于33%对城市损害的金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_2_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]。获取相当于33%对城市损害的金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_3_HELP">
+			<Text>+20%[ICON_STRENGTH]战斗力 对[COLOR_POSITIVE_TEXT]城市[ENDCOLOR]。获取相当于34%对城市损害的金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_1_HELP">
+			<Text>与[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]近战时+15%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_2_HELP">
+			<Text>与[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]近战时+15%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_3_HELP">
+			<Text>与[COLOR_POSITIVE_TEXT]海军单位[ENDCOLOR]近战时+15%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WAR_CANOES_HELP">
+			<Text>海运的单位获得双倍防御力以及额外视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIZE_SHIPS_HELP">
+			<Text>击败的敌方海军单位有一定几率加入己方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_ADMIRAL_HELP">
+			<Text>提升邻近海军单位战斗效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL_HELP">
+			<Text>+2[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST_HELP">
+			<Text>可以不需要开放边境协议进入敌方领土，每在这样的地块度过一回合，该单位的信仰力量将衰减25%。当单位信仰力量为0时将会死亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BATTLESHIP">
+			<Text>游戏中导弹巡洋舰之前的最强大海军远程单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
+			<Text>可进入[COLOR_POSITIVE_TEXT]水域[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_1">
+			<Text>定位一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力对[COLOR_POSITIVE_TEXT]海军[ENDCOLOR]单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_TARGETING_2">
+			<Text>定位二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_1">
+			<Text>伏击一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_1_HELP">
+			<Text>+33%[ICON_STRENGTH]战斗力对[COLOR_POSITIVE_TEXT]装甲[ENDCOLOR]单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_AMBUSH_2">
+			<Text>伏击二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_1">
+			<Text>对装甲单位加成(25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HELI_AMBUSH_2">
+      <Text>对装甲单位加成(25)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_MEDIC_II">
+			<Text>医疗二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_REPAIR">
+			<Text>空中维修</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE">
+			<Text>对城市加成(200)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_ASSUALT">
+			<Text>对城市加成(300)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY">
+			<Text>防御战斗力惩罚 (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSE_PENALTY_HELP">
+			<Text>防御时战斗力减33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOUNTED_PENALTY">
+			<Text>对骑乘单位加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR">
+			<Text>对飞行器/直升机加成(150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_AIR_II">
+			<Text>对轰炸机/直升机加成(150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_FIGHTER">
+			<Text>对战斗机加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I">
+			<Text>对潜艇加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II">
+			<Text>对潜艇加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
+			<Text>对坦克加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_PENALTY">
+			<Text>对海军单位战斗力惩罚(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAVY_PAYLOAD">
+			<Text>对城市加成(50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIRE_SUPPORT">
+			<Text>对城市加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SILENT_HUNTER">
+			<Text>进攻加成(75)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEAM_POWERED">
+			<Text>海滨双倍移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY">
+			<Text>消灭敌方单位后治疗50点伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY">
+			<Text>消灭敌方单位后治疗25点伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOHAWK">
+			<Text>森林/丛林战斗加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOHAWK_HELP">
+			<Text>森林/丛林战斗加成+33%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JAGUAR">
+			<Text>森林/丛林战斗加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JAGUAR_HELP">
+			<Text>森林/丛林战斗加成+33%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED">
+			<Text>对受伤单位加成(33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_GENERAL_HELP">
+			<Text>提升邻近陆军单位战斗效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVAL_BONUS">
+			<Text>对海军加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FEARED_ELEPHANT">
+			<Text>恐怖象群</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FLANK_ATTACK_BONUS">
+			<Text>强力夹击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFEND_NEAR_CAPITAL">
+			<Text>首都加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKED_SIGHT">
+			<Text>海运时获得额外视野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL">
+			<Text>转移行动力给陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GENERAL_STACKING">
+			<Text>陆军统帅战斗加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_ATTACKS_CITIES">
+			<Text>只能攻击城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_1">
+			<Text>海掠一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_2">
+			<Text>海掠二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COASTAL_RAIDER_3">
+			<Text>海掠三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_1">
+			<Text>接舷一级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_2">
+			<Text>接舷二级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOARDING_PARTY_3">
+			<Text>接舷三级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WAR_CANOES">
+			<Text>战斗快艇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRIZE_SHIPS">
+			<Text>俘虏船只</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_ADMIRAL">
+			<Text>海军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_GENERAL">
+			<Text>陆军前线指挥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FAST_ADMIRAL">
+			<Text>海军前线指挥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST">
+			<Text>不受欢迎的传道者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVERING_UNIT_HELP">
+			<Text>该单位可以跨越山峰，但单位在山峰上时结束回合会受到伤害。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC">
+			<Text>间谍与外交官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_SUMMARY">
+			<Text>当有任意文明进入启蒙时代后你将自动获得你的第一个间谍。你可以在其他文明的城市指派间谍用以盗取科技或者获得情报。您也可以在己方城市布置间谍从而阻止、发现甚至杀死敌方间谍。[NEWLINE][NEWLINE]向其他文明的首都派遣间谍的时候，你可以选择以外交官的身份派遣他。外交官不能窃取科技，只能搜集情报。此外，如果目标文明信奉不同的意识形态，你的外交官还会执行宣传任务，提升你方对该文明[ICON_TOURISM]魅力加成。外交官不受其他间谍的威胁。当世界议会创立后外交官将发挥更大作用，能够提供其他文明的投票意向，并能通过外交活动拉票。[NEWLINE][NEWLINE]要部署你的间谍或外交官，你可以通过在“附加信息”菜单中选择“谍报总览”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SPIES_ADVISOR_QUESTION">
+			<Text>间谍是什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC">
+			<Text>移动间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_SUMMARY">
+			<Text>你可以通过打开“谍报总览”，点击间谍旁边的“移动”按钮来移动间谍。当你选择“移动”按钮后，在屏幕右侧列表中选择目标城市的名字（任意文明的城市）。该间谍的“行动”栏将变成“旅行”并显示到达目的地需要消耗的时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_ADVISOR_QUESTION">
+			<Text>如何移动间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_TOPIC">
+			<Text>落后文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_DISPLAY">
+			<Text>他们没有我们需要的科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_BODY">
+			<Text>我们的间谍报告称该目标文明并没有我们需要的科技。或许我们应该将移动间谍至更好的目标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_QUESTION">
+			<Text>若此处已经没有科技可以盗取怎么办？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_SUMMARY">
+			<Text>当你的间谍在目标城市建立监视以后，他们将会自动开始“收集情报”。如果他们发现此处没有你需要的科技，那么你将收到通知。你可以选择移动你的间谍至其他目标，或者将这个间谍留在该文明以窥探阴谋，阴谋是你截获的可以传递给其他文明的信息。比如说，你在阿拉伯有一个间谍，他发现阿拉伯人正打算入侵埃及。你可以将这个阴谋告诉埃及人，从而改善你们之间的外交关系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC">
+			<Text>窃取科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_DISPLAY">
+			<Text>背信弃义！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_ACTIVATE_BUTTON">
+			<Text>{TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_BODY">
+			<Text>一个间谍成功从你处盗取了科技！您需要考虑建造反情报建筑如治安署或者警察局，或者用您自己的间谍来阻止他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_QUESTION">
+			<Text>怎样操纵间谍来盗取科技？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_SUMMARY">
+			<Text>你可以用间谍从其他先进文明盗取科技。首先，移动间谍至其他文明的目标城市。当你的间谍到达后，他们会需要一段时间来“建立监视”（显示于“行动”栏上）。一旦监视建立，你就能知道目标文明有没有你能盗取的科技。如果他们有，盗取科技的时间取决于该城市的科研产出以及间谍等级。间谍的等级越高，你就能越快的获得科技。城市的科研产出越高，你的间谍就越有效率。[NEWLINE][NEWLINE]还有其他可以影响盗取科技所需时间的因素。如反情报建筑如警察局和网络放火长城，后者能完全阻止间谍。另外，如果目标城市有防御性间谍，你的间谍可能被抓住甚至被杀死（该目标将在数回合能无法行动）。当然，这样的行为会给你和目标文明之间的外交关系造成恶劣影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_STEALING_TECHS_SUMMARY">
+			<Text>你的间谍可以从更加先进的文明那里窃取科技。想要窃取科技的话，首先让间谍移动到目标文明的一个城市。间谍到达后，需要等待一段时间让该间谍“建立情报站”（在“任务”栏可以看到）。情报站建立后，你就可以看到目标是否拥有你可以窃取的科技。如果有可以窃取的科技的话，窃取所花费的时间取决于该城市的科研产出以及你间谍的等级。间谍等级越高，你需要等待的时间就越短；该城市科研产出越高，你的间谍就越早可以行动。[NEWLINE][NEWLINE]城内的防御设施也会影响窃取时间，比如警察局和网络防火长城——后者有可能完全阻止间谍的行动。另外，如果对方在城内有防御的间谍的话，你的间谍有可能被抓住甚至杀掉（他在数个回合内将无法行动）——间谍被抓或者被杀显然会对两国关系产生不良影响。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC">
+			<Text>间谍和城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_SUMMARY">
+			<Text>间谍通过操纵选举甚至策动政变，可以用来提高你和城邦的关系。想要影响一个城邦的话，首先让间谍移动到目标城邦。间谍到达后，需要等待一段时间让该间谍“建立情报站”（在“任务”栏可以看到）。情报站建立后，你就可以进行相应的谍报活动了。操纵选举是被动技能，当你的间谍在城邦内时，每15个回合触发一次。如果你是唯一一个在该城邦有间谍驻扎的文明，则你的影响力上升，其他文明影响力下降。如果该城邦内有其他文明的间谍，尤其等级还比你高的话，则任务有可能会失败。不过不用担心的是，操作选举失败不会对你的间谍的安全构成威胁。[NEWLINE][NEWLINE]策动政变相比操纵选举来说，是一个更有效果不过也更加危险的任务。一个成功的政变可以让你从其他文明手中直接“偷到”这个城邦的同盟状态。想要策动政变的话，首先选择一个与其他文明处于同盟状态的城邦，然后用和操纵选举同样的方法配置你的间谍到该城邦。情报站建立后，会多出一个“政变”按钮。点击这个按钮会弹出一个包含成功率的对话框。你和目标文明之间的影响力差距越小，则你的成功率越高。注意事项？如果你失败了的话，你的间谍会被处死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_ADVISOR_QUESTION">
+			<Text>我对城邦怎样使用间谍呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC">
+			<Text>建立情报站</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_SUMMARY">
+			<Text>想要建立情报站的话，把一个间谍移动到目标城市。间谍到达后，需要等待一段时间让该间谍“建立情报站”（注意“活动”栏可以看到）。情报站建立后，你就可以看到目标是否拥有你可以窃取的科技；同时你还可以进入敌人的城市内观察城市，还有一定几率获得敌人的机密（比如战争计划）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_ADVISOR_QUESTION">
+			<Text>我怎样建立情报站？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC">
+			<Text>反间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_SUMMARY">
+			<Text>你可以通过反间谍行动来防御敌对的间谍。把你的间谍移动到你自己的一个城市中（一般是高科研产出的城市），当他们到位后，就会有一定概率发现敌对间谍。间谍的等级越高，发现敌对间谍的概率越大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_ADVISOR_QUESTION">
+			<Text>我怎么阻止敌方间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC">
+			<Text>治安署和警察局</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_SUMMARY">
+			<Text>通过建造治安署和警察局，你可以减缓敌对间谍的行动。如果一个城市内有治安署或者警察局的话，每一个建筑都会使敌对间谍多花费25%的时间才能窃取到科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_ADVISOR_QUESTION">
+			<Text>我怎样减缓敌对间谍的行动？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC">
+			<Text>国家情报局</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_SUMMARY">
+			<Text>国家情报局国家奇观可以为你的文明提供一个额外的间谍，并且可以提升所有存活间谍的等级。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_ADVISOR_QUESTION">
+			<Text>我怎样获得更多的间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC">
+			<Text>网络防火长城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_SUMMARY">
+			<Text>网络防火长城奇观可以降低敌对间谍的效率：在奇观所在城市降低99.9%，在你文明的其他城市降低25%。它还能减少来自其他玩家因特网科技的[ICON_TOURISM]魅力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_ADVISOR_QUESTION">
+			<Text>我怎样减缓敌对间谍的行动？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC">
+			<Text>发现间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_SUMMARY">
+			<Text>间谍在窃取科技时会有小概率被抓住。如果目标城市没有间谍在反间谍的话，可能的结果有：没有被发现、发现但无法确认身份、以及身份暴露。如果城市有反间谍的话，可能的结果有：发现但无法确认身份、身份暴露、以及身份暴露并死亡。身份暴露的话会使两国关系恶化。如果你的间谍被杀，几个回合后你会获得一个新间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_ADVISOR_QUESTION">
+			<Text>我怎样发现其他文明对我使用了间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC">
+			<Text>获得更多间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_SUMMARY">
+			<Text>虽然开局时你只有一个间谍，你每进入一个新时代都会增加一个间谍。另外国家情报局国家奇观可以让你额外再获得一个间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_MORE_ADVISOR_QUESTION">
+			<Text>我怎样获得更多的间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC">
+			<Text>间谍经验</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_SUMMARY">
+			<Text>每次成功的行动都会让你的间谍获得经验，当获得足够的经验后，间谍可以“升级”。随着间谍等级的提高，任务执行速度和可靠度都会提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_ADVISOR_QUESTION">
+			<Text>我的间谍能获得经验吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC">
+			<Text>获得信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_SUMMARY">
+			<Text>[ICON_PEACE]信仰是让你创立神系、获得大先知、以及购买宗教单位和建筑的“货币”。[NEWLINE][NEWLINE]有以下几种方法可以让你获得[ICON_PEACE]信仰点数：有些建筑和奇观在建造后会每回合奖励你一定的[ICON_PEACE]信仰。有些自然奇观在有人工作时会产出[ICON_PEACE]信仰。探查远古遗迹可获得[ICON_PEACE]信仰。你如果和宗教型城邦关系好的话也会获得[ICON_PEACE]信仰奖励。另外，大先知建造的圣地设施是最后一种获得[ICON_PEACE]信仰的方法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_ADVISOR_QUESTION">
+			<Text>我怎样获得信仰？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC">
+			<Text>神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_SUMMARY">
+			<Text>神系是创立一支完整宗教的第一步。只要你累积了一定点数的[ICON_PEACE]信仰你就能够遴选一项神系信条。你选取的神系信条将为你之后可能创立的宗教作奠基，它会伴你度过整盘游戏，所以可得细心地挑选。整个地图上每有一项神系被创立，继而创立神系所需的[ICON_PEACE]信仰点数皆随之提升。[NEWLINE][NEWLINE]神系是宗教的前提步骤。因此在较早的时代里要依据你身边宗教的发展情况而定，毕竟它仅仅是创立一个神系。一旦你选择了你的神系信条，它将立刻全面作用于你的文明，并会自动向新城市扩展直到你创立完整的宗教。[NEWLINE][NEWLINE]注意如果有另外的玩家已经强化了他的宗教，并且激活的神系数量等同或超过当前游戏中允许的宗教数量，其余玩家便不可再创立新的神系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEONS_ADVISOR_QUESTION">
+			<Text>什么是神系？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC">
+			<Text>创立一支宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_SUMMARY">
+			<Text>当你拥有一位大先知且之前已创立一项神系你就可以用大先知去创立一支完整的宗教。这需要点选大先知（确保他位于城市中），并点击单位面板上的“创立宗教”图标。你可以在眼前出现的选项里为你的文明挑一个你喜欢的宗教类型。为你的宗教挑一个标志和名字，创立者信条和追随者信条则同样地，决定了其授予的具体奖励。你在选择界面右下角的[ICON_RELIGION]创立宗教面板上可以点击确定那些选项。[NEWLINE][NEWLINE]每局游戏都有一个可创立多少支宗教的限度，以地图尺寸为基准。限度总是比该局游戏中默认文明的数量少一些，所以并非每个人都能够创立他们自己的宗教哦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_ADVISOR_QUESTION">
+			<Text>我怎样才能创立一支宗教？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC">
+			<Text>使用信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_SUMMARY">
+			<Text>[ICON_PEACE]信仰可以用于很多方面，购买宗教单位或建筑，攒着培育一位大先知，当你进入工业时代后，也可以换取其他种类的伟人。[NEWLINE][NEWLINE]只要你累积的[ICON_PEACE]信仰达到一个界限（在状态栏里可以了解到）就会自动培育出一位大先知。随着你进入工业时代，你也可以在另一种伟人身上花费信仰，这取决于你解锁的社会政策分支。[NEWLINE][NEWLINE]你还可以选择将你积攒的[ICON_PEACE]信仰花在单位或者建筑上。可以在城市界面的购买菜单里面完成这步。传教士和宗教裁判官可以在每座追随宗教的城市中建造，然而各类建筑只能在占多数的宗教解锁购买宗教建筑的信条后兴建。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_ADVISOR_QUESTION">
+			<Text>我可以用信仰点数干什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC">
+			<Text>信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_SUMMARY">
+			<Text>当你创立神系亦或是在稍晚的游戏里创立或强化了一个宗教，就会有一定数量的空位让你选择信条。你可以选择的信条类型有神系信条，创立者信条，追随者信条和强化信条。某些文明由于它们独有的特性，得以选择一项附加奖励信条。[NEWLINE][NEWLINE]信条先选先得。某一信条被选取后其他文明就不能再创立或强化到他们之后创立的宗教。这使抢占先机尤其宝贵。[NEWLINE][NEWLINE]各个信条的完整列表可以在文明百科的宗教一节中找到。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BELIEFS_ADVISOR_QUESTION">
+			<Text>什么是信条？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC">
+			<Text>神系信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_SUMMARY">
+			<Text>这种特定类别的追随者优势在游戏早期格外有用（通常是提升产出）。它会在每座大多数市民都奉行该神系或宗教的城市中发挥效应。当一些文明不愿仅局限于神系而选择创立宗教后这些信条会融入游戏内的主要宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_ADVISOR_QUESTION">
+			<Text>什么是神系信条？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC">
+			<Text>追随者信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_SUMMARY">
+			<Text>这些特质对城市层面有积极作用。它会在每座大多数市民都奉行该教的城市中发挥效应。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOLLOWER_ADVISOR_QUESTION">
+			<Text>什么是追随者信条？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC">
+			<Text>创立者信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_SUMMARY">
+			<Text>这些是给玩家层面的奖励。只要玩家创立宗教并始终控制着宗教发源的圣城，就可一直受到实际的游戏影响。多数创立者信条和辗转地图间的宗教传播事业切实相关，它们赋予宗教的创立者一个强有力的动机去令他的教派能推而广之源远流长。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_FOUNDER_ADVISOR_QUESTION">
+			<Text>什么是创立者信条？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC">
+			<Text>强化信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_SUMMARY">
+			<Text>这些信条能增益宗教的传播。依靠选取个别信条能造就更给力的宗教单位亦或使宗教的自然传播提效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCER_ADVISOR_QUESTION">
+			<Text>什么是强化信条？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC">
+			<Text>传播宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_SUMMARY">
+			<Text>宗教有两种传播途径：圣城和有主流宗教的城市会自然传播对应的宗教；玩家还可以用过一些特定的行动来转化其他城市。[NEWLINE][NEWLINE]宗教的自然传播比较好理解。任何一个有主流宗教的城市（半数以上市民信仰同一个宗教）都会对城市周围10格范围内产生宗教压力。如果此范围内有其他没有主流宗教的城市，那么宗教压力会缓慢地转化这个城市里的市民。如果这个城市有自己的主流宗教的话，则需要两个或者更多的城市共同施加压力才会开始转化城市里的市民。施加压力的城市越多，转化速度越快。如果一个城市有宗教或者神系的话，你可以把鼠标停在城市名称栏的宗教图标上，查看你自己的对外压力以及受到的他国压力。[NEWLINE][NEWLINE]以下方法可以加速宗教的传播速度：你可以在任何一个有主流宗教的城市，花费[ICON_PEACE]信仰来购买一个对应宗教的传教士（打开城市页面，点击左下方的购买按钮会弹出购买菜单。如果[ICON_PEACE]信仰不足的话，购买传教士选项会变成灰色）。当你获得一个传教士后，你可以将他移动到你要转化的城市旁边，点击“传播宗教”按钮来传播对应的宗教。一般执行两次任务之后这个传教士会消失。[NEWLINE][NEWLINE]大先知传播宗教的方法和传教士类似，不过他们可以同时消灭掉目标城市里的所有其他宗教。他们可以多次使用这个技能直到消失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_ADVISOR_QUESTION">
+			<Text>宗教是怎样转播的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_TOPIC">
+			<Text>强化宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_SUMMARY">
+			<Text>当你创立一个宗教后，你可以用你的下一个大先知强化它。具体操作和创立宗教时相同，不过这里你可以额外选择一个追随者信条和一个强化信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_ADVISOR_QUESTION">
+			<Text>我怎样加强我的宗教？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_TOPIC">
+			<Text>宗教建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_BUILDINGS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_SUMMARY">
+			<Text>有两类建筑对宗教有影响。一种类型的建筑提供[ICON_PEACE]信仰，这些建筑和普通建筑相同，你可以在获得对应科技后在城市界面建造。另外一种建筑则需要追随者信条解锁后才可以建造。这类建筑可以通过在任何一个该宗教为主流宗教的城市中花费[ICON_PEACE]信仰来建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_BUILDINGS_ADVISOR_QUESTION">
+			<Text>建筑对于宗教有影响吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_TOPIC">
+			<Text>宗教单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_UNITS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_SUMMARY">
+			<Text>有3种单位会宗教产生影响：大先知、传教士以及宗教裁判官。大先知和传教士可以强化和传播一个宗教，宗教裁判官可以防御敌对宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_UNITS_ADVISOR_QUESTION">
+			<Text>单位对于宗教有影响吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_TOPIC">
+			<Text>主流宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_MAJORITY_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_SUMMARY">
+			<Text>每个城市中的每个市民要么是无神论者，要么会信仰一个宗教。被动或者主动转播宗教会转化这些市民。当一个城市里超过半数市民信仰同一个宗教时，则认定该城市信仰这个宗教，此城市可以开始建造对应宗教的宗教建筑和宗教单位。[NEWLINE][NEWLINE]如果超过半数的市民信仰同一个宗教，该宗教的图标会显示在城市的名称栏上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_MAJORITY_ADVISOR_QUESTION">
+			<Text>怎样使一个宗教成为主流宗教？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_TOPIC">
+			<Text>防御敌对宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_RELIGION_DEFENDING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_SUMMARY">
+			<Text>想防御敌对的传教士和大先知的话，请买宗教裁判官。宗教裁判官可以选择在一个城市里驻扎，则该城市市民不会被其他宗教转化。此外，宗教裁判官还可以在你自己的城市旁边主动使用（单位消失），使用后移除该城市里所有的敌对宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_RELIGION_DEFENDING_ADVISOR_QUESTION">
+			<Text>我怎样防御其他宗教？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC">
+			<Text>要求进贡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_SUMMARY">
+			<Text>你可以选择恐吓一个城邦来得到贡品。贡品的形式可以是一个工人，或者是一笔现金。恐吓的方法可以是让你自己的军力总数超过其他的文明，或者是在城邦周围布置军事单位。[NEWLINE][NEWLINE]如果你想要求城邦进贡的话，打开城邦的外交界面，点击“要求进贡”选项。如果该选项是红色的，则说明这个城邦并不惧怕你，所以不会向你进贡。如果要求成功，你会得要相应的贡品，同时损失一些对城邦的影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_BULLYING_ADVISOR_QUESTION">
+			<Text>怎样要求城邦进贡？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC">
+			<Text>宗教和城邦影响</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_SUMMARY">
+			<Text>如果你创立的宗教成为了一个城邦的主流宗教的话，你对该城邦的影响力减少速率会降低25%。类似的，如果你的影响力是负数的话，恢复速率会增加50%。[NEWLINE][NEWLINE]另外，有些时候城邦会要求你将某个特定宗教传播给他们。如果你能完成这个任务的话，将会得到非常多的影响力奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_ADVISOR_QUESTION">
+			<Text>将我自己的宗教传播给城邦会带来好处吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_TITLE">
+			<Text>大先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_ADV_QUEST">
+			<Text>大先知是什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATES_GREATPROPHET_BODY">
+			<Text>大先知通过积攒[ICON_PEACE]信仰获得，只有大先知才可以创立和强化宗教。当你积攒了足够多的[ICON_PEACE]信仰之后（标准速度下至少200点），你就有机会获得一个大先知。当一个大先知出现后，你可以使用他的“创立宗教”能力来创建由你自己定制的宗教。和其他伟人一样，大先知还具备开启黄金时代等其他的能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_TOPIC">
+			<Text>宗教型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_SUMMARY">
+			<Text>宗教型城邦为你的文明提供信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_RELIGIOUS_ADVISOR_QUESTION">
+			<Text>宗教型城邦是什么意思？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC">
+			<Text>商业型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_SUMMARY">
+			<Text>一个商业型城邦可以向你的文明提供一个特殊的奢侈资源，帮助你增进快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_CITY_STATE_MERCANTILE_ADVISOR_QUESTION">
+			<Text>商业型城邦是什么意思？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_SPY_ACTIVATE_BUTTON">
+			<Text>谍报总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_ISLANDS_HELP">
+			<Text>由大小岛屿混合组成的世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TYPES_HEADING2_BODY">
+			<Text>城邦共有五种“风格”。与不同种类的城邦保持友好关系或者结盟，可得到不同的奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_HITPOINTS_HEADING3_BODY">
+			<Text>一个单位的生命力由“生命值”进行衡量。所有战斗单位在完全健康的状况下都拥有100点生命值。生命值会随着单位受到伤害而减少。当单位的生命值等于0时，这个单位就被消灭了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_COMBATDAMAGE_HEADING2_BODY">
+			<Text>一个完全健康的单位拥有100点“生命值”。单位在战斗中受到伤害会损失生命值，若生命值等于0，则该单位就被消灭了。[NEWLINE][NEWLINE]受了伤害的单位弱于完全健康的单位，更容易被摧毁。若有可能，可尽量将受损的单位“轮替”至后方，待其修整恢复后再派上前线。当然，这并非时时都是可行的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_CITYHITPOINTS_HEADING4_BODY">
+			<Text>一座生命力完全的城市具有200点生命值。若城市受到打击，则其生命值会下降。当城市的生命值等于0时，它会被进入其所在地块的敌方单位占领。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_HEALTINGDAMAGE_HEADING3_BODY">
+			<Text> 单位原地不动一回合可恢复受损的生命值。恢复量取决于该单位所处的位置。[NEWLINE][NEWLINE]在城市中：单位每回合恢复25点生命值。[NEWLINE]在己方领土内：每回合20点生命值。[NEWLINE]在中立或敌方领土内：每回合10点生命值。[NEWLINE]请注意，有些特定的晋升可加快单位的恢复速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_NAVALDAMAGE_HEADING3_BODY">
+			<Text>海军单位只能在己方领土内进行恢复，每回合可恢复20点生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_BODY">
+			<Text>陆军统帅可为临近两格内的所有己方的陆上单位提供15%的战斗加成。这个战斗加成适用于所有类型的陆上战斗：近战、远程、防御，等等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_TITLE">
+			<Text>海军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ADV_QUEST">
+			<Text>什么是海军统帅？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_BODY">
+			<Text>海军统帅与陆军统帅的诞生原理相同。海军统帅产生自海战，而非城市中专家的工作。每当你的海军单位获得了经验值，你的文明就会积累海军统帅点数。当你积累到足够的点数时，就可得到一个海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_TITLE">
+			<Text>特殊能力：战斗加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_BODY">
+			<Text>海军统帅可为临近两格内的所有己方的海军单位提供15%的战斗加成。这个战斗加成适用于所有类型的海上战斗：近战、远程、防御等等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST">
+			<Text>海军统帅具有什么能力？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_TITLE">
+			<Text>特殊能力：修整舰队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_BODY">
+			<Text>{TXT_KEY_MISSION_REPAIR_FLEET_HELP}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_ADV_QUEST">
+			<Text>{TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_ADV_QUEST}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_TITLE">
+			<Text>大先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ADV_QUEST">
+			<Text>什么是大先知？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_BODY">
+			<Text>大先知是通过积累 [ICON_PEACE] 信仰而获得的，是唯一一种可以创立并增强宗教的单位。当你积累了足够的 [ICON_PEACE] 信仰时（在标准速度的游戏中为至少200点），大先知便有机会诞生。大先知出现后，你可以利用他们的“创立宗教”技能开创你自己的宗教。与其他类型的伟人相同，大先知也具备其他能力，比如建立特殊的地块设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC">
+			<Text>建立大使馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_DESCRIPTION">
+			<Text>{TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_SUMMARY">
+			<Text>与其他文明相遇后，建立大使馆是最初的几个外交选项之一，研发完成文字后即可实施。大使馆是商议开放边界、签署防御协定、合作研究的必备机构；大使馆的建立也使你能够看到对方玩家首都的所在位置。如果只有你拥有文字科技而其他文明没有，你仍然可以在其境内设立大使馆而不必与其交换这一科技，不过他们可能会要求少量的金钱以作补偿。与对方开战将使其大使馆立即关闭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_ADVISOR_QUESTION">
+			<Text>如何建立大使馆？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_TITLE">
+			<Text>特殊能力：传播宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_BODY">
+			<Text>大先知可以传教四次，每次都可以完全替代目标城市中既有的其他宗教。这样做会使大先知被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_ADV_QUEST">
+			<Text>大先知具有什么能力？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_TITLE">
+			<Text>特色设施：圣地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_BODY">
+			<Text>大先知可以建造特殊的地块设施：圣地；如果有市民在其上工作，圣地将产生额外的[ICON_PEACE]信仰。这样做会使大先知被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_ADV_QUEST">
+			<Text>大先知能建造地块设施吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_ABILITIES_HEADING3_BODY">
+			<Text>每种伟人都有两种能力（海军统帅除外，下详）。[NEWLINE]- 你可以将他们消耗掉以建造地块设施。[NEWLINE]- 他们还有其他特殊能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_BODY">
+			<Text>设立军事要塞可使你获得其所有邻接地块的管辖权，你的文化边界将扩展至军事要塞周围。而且，军事要塞可为占据其中的任何单位提供大量的防御加成。此外，回合结束时处于军事要塞周围一格内的敌对单位都会受到伤害（伤害不与其他军事要塞叠加）。注意，军事要塞只有处于你的领土内时才能起作用。若其因附近城市被攻陷而易主，则其只对新主人起作用。如果军事要塞的设立使得文化边界扩展至本来属于其他文明的地块，你将受到外交关系的惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_BODY">
+			<Text>大美术家可以开启“黄金时代”。这是一个文明可以具有特殊生产率的时期。在黄金时代期间，每个产出黄金的地块多生产1单位黄金，城市的工业（锤子）增加20%，全国范围内 [ICON_CULTURE] 文化增加20%。黄金时代的持续时间取决于游戏的难度和速度。开创黄金时代会消耗掉大美术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_TITLE">
+			<Text>特殊能力：黄金时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAPPINESS_CAUSES_HEADING2_BODY">
+			<Text>下列几种方式可以增加你的人民的快乐度：[NEWLINE][NEWLINE]自然奇观：你所发现的每一个自然奇观都会永久的增加你的人民的快乐度。[NEWLINE][NEWLINE]奢侈资源：开发在你的国境内的奢侈资源或者与其他文明交换奢侈资源。每一种不同类型的资源都会增加你的人民的快乐度（但你并不会因为有多个同一种奢侈资源而获得额外的快乐）。[NEWLINE][NEWLINE]建筑：某些特定的建筑，如竞技场、马戏场、剧场等，会增加你的人民的快乐度。每个在你的任何一个城市建造完成的建筑都能增加你的总体快乐（所以两个竞技场提供双倍的快乐，而奢侈资源不会）。[NEWLINE][NEWLINE]奇观：某些特定的奇观，如圣母院和埃菲尔铁塔，可以极大地增加快乐度。[NEWLINE][NEWLINE]社会政策：虽然没有专注于快乐的社会政策分支，但是每一个分支中仍有一些政策可以增加快乐或降低不满。[NEWLINE][NEWLINE]科技：科技本身不增加快乐，但是他们可以解锁那些可以增加快乐的建筑，奇观，资源和社会政策。[NEWLINE][NEWLINE]宗教：某些特定的宗教信条提供快乐，而且某些特定的宗教建筑可以使用[ICON_PEACE]信仰购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
+			<Text>猎场+1[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>[ICON_FOOD]食物积累速率提高10%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN">
+			<Text>人口大于等于3的城市+1[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
+			<Text>渔船+1[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_OPEN_SKY">
+			<Text>牧场+1[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONE_WITH_NATURE">
+			<Text>自然奇观+4[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD">
+			<Text>城市中的每座神祠和神庙+1[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORMAL_LITURGY">
+			<Text>每一个黄金和白银资源+1[ICON_CULTURE]文化并+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
+			<Text>采石场+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
+			<Text>在你的城市4格以内战斗胜利时获得[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
+			<Text>和平时期[ICON_FOOD]食物积累速率提高15%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_ANIMALS">
+			<Text>占位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HARVEST_FESTIVAL">
+			<Text>占位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS">
+			<Text>沿河城市+1[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE">
+			<Text>人口大于等于6的城市+1[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS">
+			<Text>边界扩张速度+15%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GOD_FESTIVALS">
+			<Text>每一处红酒和熏香+1[ICON_CULTURE]文化并+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
+			<Text>种植园+1[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
+			<Text>神祠+1[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DESERT_FOLKLORE">
+			<Text>荒漠地块+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SACRED_PATH">
+			<Text>丛林地块+1[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
+			<Text>城市[ICON_RANGE_STRENGTH]远程战斗力+30%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS">
+			<Text>临近己方城市时+30每回合的生命值恢复速度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS">
+			<Text>建造远古时代和古典时代的奇观时+15%[ICON_PRODUCTION]产能积累</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIQUARY">
+			<Text>每次伟人被消耗掉时获得50[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
+			<Text>每8个在非敌对的别国城市中该宗教的信徒贡献1[ICON_HAPPINESS_1]快乐（全国）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FLOURISHING_OF_ARTS">
+			<Text>和平时期+10%[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL">
+			<Text>每两座信仰该宗教的城市贡献1[ICON_HAPPINESS_1]快乐（全国）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHURCH_PROPERTY">
+			<Text>每座信仰该宗教的城市贡献2[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TITHE">
+			<Text>每4个该宗教的信徒贡献1[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INITIATION_RITES">
+			<Text>每座城市首次皈依该宗教时贡献100[ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_JUST_WAR">
+			<Text>在信仰该宗教的敌方城市附近+20%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH">
+			<Text>在信仰该宗教的己方城市附近+20%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS">
+			<Text>宗教传播距离增加30%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSIAH">
+			<Text>大先知的能力增强25%，催生大先知所需[ICON_PEACE]信仰减少25%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MISSIONARY_ZEAL">
+			<Text>传教士传教能力+25%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_ORDER">
+			<Text>传教士和宗教裁判官降低30%[ICON_PEACE]信仰需求</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_UNITY">
+			<Text>宗教以双倍的速度传播至友好的城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MOSQUES">
+			<Text>允许使用[ICON_PEACE]信仰购买清真寺（+3[ICON_PEACE]信仰，+2[ICON_CULTURE]文化，+1[ICON_HAPPINESS_1]快乐）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAGODAS">
+			<Text>允许使用[ICON_PEACE]信仰购买佛塔（+2[ICON_PEACE]信仰，+2[ICON_CULTURE]文化，+2[ICON_HAPPINESS_1]快乐）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MONASTERIES">
+			<Text>允许使用[ICON_PEACE]信仰购买修道院（+2[ICON_PEACE]信仰，+2[ICON_CULTURE]文化，[ICON_RES_WINE]红酒和[ICON_RES_INCENSE]熏香可额外增加奖励）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PEACE_GARDENS">
+			<Text>城市中的花园+2[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CHORAL_MUSIC">
+			<Text>信众规模达到5的城市中神庙+2[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
+			<Text>信众规模达到3的城市中露天剧场+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ASCETISM">
+			<Text>信众规模达到3的城市中神祠+1[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER">
+			<Text>信众规模达到5的城市中神庙+2[ICON_HAPPINESS_1]快乐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PAPAL_PRIMACY">
+			<Text>对信仰此宗教的城邦的[ICON_INFLUENCE]影响力下限值+15</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
+			<Text>无森林的冻土地块+1[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
+			<Text>每5个其他文明中该宗教的信徒贡献1[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_PILGRIMAGE">
+			<Text>每座信仰该宗教的外国城市提供+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INTERFAITH_DIALOGUE">
+			<Text>当传教士或大先知传播该宗教到信仰其他宗教的城市时获得[ICON_RESEARCH]科研点数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_WARRIORS">
+			<Text>允许使用[ICON_PEACE]信仰购买工业时代前的陆地单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY">
+			<Text>每个信徒+1%[ICON_PRODUCTION]产能（最大+15%）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DIVINE_INSPIRATION">
+			<Text>每个世界奇观+2[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP">
+			<Text>城市中有专业人员时+2[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>你现在有足够的信仰可以创立一个神系！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>创立神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>你已经积累了足够购买单位或者建筑的[ICON_PEACE]信仰。在对应宗教的城市里可以购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_FAITH_FOR_MISSIONARY">
+			<Text>可以用信仰购买</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>你之前选择的信仰自动购买对象（{1_SelectionText}）已经无效。请在宗教总览里重新选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEED_NEW_AUTOMATIC_FAITH_SELECTION">
+			<Text>需要选择新的信仰自动购买对象</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_AUTOMATIC_FAITH_PURCHASE">
+			<Text>在{2_City}购买了{1_Name}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_AUTOMATIC_FAITH_PURCHASE">
+			<Text>信仰自动购买</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_FOUND_RELIGION">
+			<Text>你现在可以创立一个宗教！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_RELIGION">
+			<Text>创立宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENHANCE_RELIGION">
+			<Text>你现在可以强化你的宗教！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCE_RELIGION">
+			<Text>强化宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_PANTHEON_BELIEF_IN_USE">
+			<Text>你选择的信条已经被其他玩家所信奉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PANTHEON_BELIEF_IN_USE">
+			<Text>信条已存在</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_IN_USE">
+			<Text>你选择的宗教已经被其他玩家所创立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_IN_USE">
+			<Text>宗教已存在</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>你不再拥有足够创立神系的信仰点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NOT_ENOUGH_FAITH_FOR_PANTHEON">
+			<Text>没有足够的信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_NO_RELIGIONS_AVAILABLE">
+			<Text>本局游戏无法再创立更多的宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NO_RELIGIONS_AVAILABLE">
+			<Text>没有有效的宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_RELIGION">
+			<Text>你已经创立过一个宗教了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_RELIGION">
+			<Text>宗教已创立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ALREADY_CREATED_PANTHEON">
+			<Text>你已经创立过一个神系了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ALREADY_CREATED_PANTHEON">
+			<Text>神系已创立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RELIGION_NAME_IN_USE">
+			<Text>已经存在一个叫做该名称的宗教了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RELIGION_NAME_IN_USE">
+			<Text>宗教名称已被使用</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENHANCED_RELIGION_IN_USE">
+			<Text>一个宗教被其他玩家强化了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENHANCED_RELIGION_IN_USE">
+			<Text>强化宗教已存在</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_DISCOVER_FREE_TECH">
+			<Text>你现在可以免费获得一个科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DISCOVER_FREE_TECH">
+			<Text>获得免费科技</Text>
+		</Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED">
+      <Text>{1_PlayerName}占领{2_CityName}后重新恢复了{3_CivAdj}政权。一度熄灭的{4_CivName}文明之火再次燃烧起来。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CIV_RESURRECTED_SHORT">
+      <Text>{1_PlayerName}被{2_PlayerName}解放了</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_LIBERATED">
+      <Text>{1_PlayerName}占领{2_CityName}后重新恢复了{3_CivAdj}政权。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CIV_LIBERATED_SHORT">
+      <Text>{1_CityName}重归{2_PlayerName}的统治</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CONFIRM_PANTHEON">
+			<Text>你确定要选择[COLOR_GREEN]{1_BeliefName}[ENDCOLOR]吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREATPROPHETS_TEXT">
+			<Text>大先知拓展宗教信仰的疆域，向世人传达一个文明对道德和伦理的独到见解。他们创立宗教以传达神的福音，并将美好的信仰带给世人。即使在一个民族最为衰落的时期，他们也能给人以无限的希望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TOOLTIP_LINE">
+			<Text>{1_ReligionIcon}信众规模: {2_NumFollowers} {3_PressureString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGIOUS_PRESSURE_STRING">
+			<Text>(宗教压力: +{1_Pressure}压力)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOLY_CITY_TOOLTIP_LINE">
+			<Text>{1_ReligionIcon}{2_ReligionName}圣城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_NO_FOLLOWERS">
+			<Text>城内没有信众。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GREATSCIENTIST_HEADING4_BODY">
+			<Text>大科学家可以迅速推进当前的科研项目，或者可以用来建造一处学园设施（会消耗掉这个大科学家），市民在学园设施上工作会来带来科研产出。更多信息请查看“伟人”部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMBAT_RANGESTAT_HEADING3_BODY">
+			<Text>单位的“射程”属性决定这个单位可以在多远的距离进行远程攻击。射程为“2”表示这个单位可以对临近或者相隔一个格子的目标实施打击。射程为“1”表示攻击目标和攻击方只能在相邻的格子上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_DESERT_HEADING3_BODY">
+			<Text>一般来说，荒漠格子没有任何作用。他们不会为城市带来任何好处（当然如果这个荒漠上有绿洲或者资源，又或者提供淡水源的话，还是有用处的）。[NEWLINE][NEWLINE]城市产出：无[NEWLINE]移动力耗费：1[NEWLINE]战斗力修正：0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_GRASSLAND_HEADING3_BODY">
+			<Text>一般来说，草原是各种地形中产出最多食物的。在草原附近建立的城市一般会比在其他地形上建立的城市成长地更快。[NEWLINE][NEWLINE]城市产出：2食物[NEWLINE]移动力耗费：1[NEWLINE]战斗力修正：0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_PLAINS_HEADING3_BODY">
+			<Text>平原为附近的城市同时提供食物和产能。在平原附近建立的城市会比草原城市成长地慢得多，但是会提供多得多的产能。[NEWLINE][NEWLINE]城市产出：1食物,1产能[NEWLINE]移动力耗费：1[NEWLINE]战斗力修正：0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_SNOW_HEADING3_BODY">
+			<Text>雪原非常的无用，不会为附近的城市带来任何食物和产能。当然雪原格子上可能会有很有用的资源，不过除此之外这些地方就只是寒冷的不毛之地。[NEWLINE][NEWLINE]城市产出：无[NEWLINE]移动力耗费：1[NEWLINE]战斗力修正：0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_TUNDRA_HEADING3_BODY">
+			<Text>冻土是在世界寒冷地区的半冰冻地带。它们的产出比草原和平原低，但是比荒漠还是要好一些。没有人会在冻土上建立城市，除非他们迫切地需要资源——又或者他们没有其他的地方可去。[NEWLINE][NEWLINE]城市产出：1食物[NEWLINE]移动力耗费：1[NEWLINE]战斗力修正：0%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_NONCOMBAT_HEADING2_BODY">
+			<Text>游戏里有六种非战斗单位：移民、工人、工船、伟人、太空飞船组件、和宗教单位。每种单位对一个文明的成败都有重大作用。如其名称所示，这些单位无法战斗。如果他们单独在一个格子里被敌对单位攻击的话，他们会被自动消灭或被敌方捕获。所以一般情况下，当把这些单位送到野外时，应该派遣军事单位进行护送。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_NARROW_CONTINENTS_HELP">
+			<Text>由狭长的大洲构成的世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_WIDE_CONTINENTS_HELP">
+			<Text>由宽阔的大洲构成的世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAP_SMALL_ISLANDS_HELP">
+			<Text>这个世界由小型岛屿组成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GA_PROGRESS">
+			<Text>海军统帅进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_BODY">
+			<Text>当你或者其它文明研究出了文官制度之后，你就可以和任意你已经在其境内修建了大使馆的文明签订开放边境协议。（城邦是不能签订开放边境协议的。）当开放边境协议生效之后，其它文明的单位进入你的领土时就不会自动引发战争。如果条约是双向的，那么两个文明的单位可以随意进入对方的领土；当然，条约可以不是双向的：一个文明可以单方面向对方开放边境，而对方不用同样开放。[NEWLINE][NEWLINE]一份开放边境协议有效期是20个回合。当20回合过去之后，协议必须重新签订，否则就会失效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITS_MOVEMENT_HEADING2_BODY">
+			<Text>一般来说，单位从一个地块移动到另一个地块时，必须付出进入新地块所要求的“移动力”。单位受到“堆叠”限制——两个军事单位不能在同一地块内结束他们的回合，两个非军事单位也一样不行。但是一个军事单位和一个非军事单位可以堆叠在同一个地块内结束他们的回合。注意，处于船运状态的军事单位，以及陆军统帅和海军统帅也算是非军事单位，所以他们可以和某个军事单位堆叠在一起以防危险。[NEWLINE][NEWLINE]大多数单位都限制了他们可以移动的地方——陆军单位不能进入山脉地块而海军单位则不能进入陆地地块（除了港口城市）。像道路和铁路这样的设施可以提高一个单位在陆地地块的移动速度。[NEWLINE][NEWLINE]详细信息可以查看百科的移动力部分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVEMENT_EMBARKING_HEADING3_BODY">
+			<Text>在游戏开始的时候，你的陆军单位不能进入任何水域地块。不过，当你学到了光学科技，你就会得到一个晋升，它可以让你的单位“上船”然后就可以进入沿岸的水域地块。要让一个单位上船，只要把它移动到水边的地块，然后点击“上船”即可。但单位处于船运状态时，它就只能在水中移动。（光学只允许在海滨水域移动。更后面的天文学科技则可以让船运的单位进入大洋地块。）[NEWLINE][NEWLINE]船运状态的单位在水中移动非常慢而且几乎没有战斗力。它可以在一定程度上保护自己，但是不能用来攻击，也不能在广阔的大洋上单独停留太久时间。因此给船运状态的陆地单位配备强大的海上护航力量是非常关键的。[NEWLINE][NEWLINE]当单位邻靠着陆地地块时，你可以点击“上岸”。这个单位就会回到干燥的陆地上。或者你也可以右键点击陆地地块，该单位会自动上岸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_BODY">
+			<Text>你彻底激怒了一个城邦，它已经提高了对你的防备。如果你曾向自己周围的很多城邦宣战就会发生这种情况——流言将会传播开来，而你在大批城邦的影响力下限的等级将会掉到0至-20（这意味着你的影响力可能降到负值）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_TITLE">
+			<Text>防备</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAR_HEADING4_BODY">
+			<Text>当你和某个城邦开战时，你的影响力将会保持在负数，这当然不会给你带来任何好处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WAROFTHE_HEADING2_BODY">
+			<Text>你可以随时向某个城邦宣战。这你可以通过外交面板或者直接命令你的单位去攻击城邦的单位或城市来做。你可以通过外交面板或者点击对方的城市来跟城邦进行和谈。[NEWLINE][NEWLINE]你一定要记住，如果你攻击了太多城邦，它们会提高对你的防备，这将导致你的影响力下限的等级掉到0至-20。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_TITLE">
+			<Text>特殊能力：免费的科技点数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_BODY">
+			<Text>你可以消耗你的大科学家来马上获得大量科技点数，相当于你的文明之前八个回合的平均科技产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
+			<Text>我们没有任何{1_ResourceName:textkey}，但是在{2_CityName:textkey}附近有一些。派出一个工人（陆地）或者一艘工船（海上）去那里建造设施，这样我们就能获得那个资源了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_BODY">
+			<Text>点击此按钮会打开一个对话框，涉及各个方面的话题。这取决于你所做出的不同选择。而对方领袖的反应则取决于同你的关系及其自身的利益。[NEWLINE]- 请求对方与你签署友谊声明。[NEWLINE]- 请求对方向其它文明开战。[NEWLINE]- 与对方领袖进行密谋。[NEWLINE]- 要求对方以后不要在你的边界附近建立新的城市。[NEWLINE]- 谴责你讨厌的领袖。[NEWLINE]- 要求对方停止对你的间谍活动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_BODY">
+			<Text>山脉是高大险峻的山地地形，非飞行单位是无法通过的（迦太基是个例外）。它们对一个文明来说没有什么特别的用处，除了当做抵抗入侵的屏障。[NEWLINE][NEWLINE]城市产出：无[NEWLINE]移动力消耗：无法通行（除了飞行单位和迦太基人）[NEWLINE]战斗力修正：25%防御加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITIES_CITYBANNER_HEADING2_BODY">
+			<Text>城市信息栏出现在小地图上。它提供了一个很有帮助的城市概览。[NEWLINE][TAB][TAB][TAB][TAB] 城市的名字[NEWLINE][TAB][TAB][TAB][TAB] 防御力[NEWLINE][TAB][TAB][TAB][TAB] 守城的单位[NEWLINE][TAB][TAB][TAB][TAB] 城市建造中的项目*[NEWLINE][TAB][TAB][TAB][TAB] 建造完工需要的回合数*[NEWLINE][TAB][TAB][TAB][TAB] 城市规模[NEWLINE][TAB][TAB][TAB][TAB] 城市扩张需要的回合数*[NEWLINE][TAB][TAB][TAB][TAB] 城市的宗教信仰**[NEWLINE][TAB][TAB][TAB][TAB] *不会出现在别国的城市上。[NEWLINE][TAB][TAB][TAB][TAB] **在城市出现神系或者宗教之前不会显示。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_BUILDINGS_PREREQUISITES_HEADING2_BODY">
+      <Text>纪念碑没有任何前提条件，游戏初始时即可建造，其他建筑都有特定的科技前提。例如建造军营的前提科技是青铜器。[NEWLINE][NEWLINE]某些建筑还有资源前提——例如城市附近必须有已开发的马匹或象牙资源才能建造马戏场。[NEWLINE][NEWLINE]此外，某些建筑还有建筑前提。例如一座城市必须先建造神祠才能建造神庙。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITIES_SPECIALISTS_HEADING2_BODY">
+      <Text>专业人员是被分派到城市建筑中工作的市民。在文明5中有四种专业人员：科学家，商业家，艺术家和工程师。以博物馆为例，它可以让一至两个市民作为艺术家在里面工作。并不是所有的建筑都可以让专业人员在里面工作。详细信息请参看各种建筑的相应条目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPECIALISTSANDGP_MOVINGGREATPEOPLE_HEADING2_BODY">
+			<Text>伟人可以像其它单位一样移动。他们是非战斗单位。这意味着他们不能和其它非战斗单位（工人，移民者）堆叠在一起，但是他们可以和军事单位堆叠在一起。如果一个敌方的单位进入了伟人所在的地块，该伟人将会自动摧毁。（敌人不能得到他。）这条规则有一个例外，那就是大先知，他是可以被俘虏的。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_COMBAT_GARRISONINCITIES_HEADING3_BODY">
+      <Text>城市的所有者能够让一支军事部队在城市里镇守以增强防御。单位的一部分战斗力将附加到城市的战斗力上面。镇守单位在城市受攻击时不会受到伤害；但是，一旦城市被占领，镇守单位也会被消灭。[NEWLINE][NEWLINE]在城市里镇守的单位可以攻击周围的敌军单位，同时城市本身仍可保有镇守单位的加成。</Text>
+    </Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE">
+			<Text>遭遇近战时撤退</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+			<Text>单位在遭遇近战攻击时将会撤退。如敌方单位移动力较高或本单位身后开阔地块较少则撤退几率会下降。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

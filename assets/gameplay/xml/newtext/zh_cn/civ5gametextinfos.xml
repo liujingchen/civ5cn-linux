@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_EMPTY">
+			<Text>空</Text>
+		</Row>
+		<Row Tag="TXT_KEY_START_ERA">
+			<Text>开始时代: {1_era}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAX_TURNS">
+			<Text>最多回合: {1_maxTurns}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_TURNS_FORMAT">
+			<Text>{2_number}回合 - 初始时代: {1_era}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CUR_ERA_TURNS_FORMAT">
+			<Text>{2_number}回合 - 当前时代: {1_era}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAVE_DATE_FORMAT_UTC">
+			<Text>{3_year}年{1_month}{2_day}日 {4_hour}:{5_minute} {6_amPm} UTC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH1">
+			<Text>1月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH2">
+			<Text>2月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH3">
+			<Text>3月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH4">
+			<Text>4月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH5">
+			<Text>5月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH6">
+			<Text>6月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH7">
+			<Text>7月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH8">
+			<Text>8月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH9">
+			<Text>9月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH10">
+			<Text>10月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH11">
+			<Text>11月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONTH12">
+			<Text>12月</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YOU">
+			<Text>你</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNMET_PLAYER">
+			<Text>未知势力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CURRENTLY_SELECTED_UNIT">
+			<Text>这是当前选择的单位。[NEWLINE][NEWLINE]（点击使之处于画面中央）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPERIENCE_INFO">
+			<Text>等级: [COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR][NEWLINE]经验: [COLOR_POSITIVE_TEXT]{2_Num}/{3_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GREAT_PERSON">
+			<Text>一位{@1_UnitName}在{1_CityName:textkey}诞生！[NEWLINE]你可以用他换取两个文明点数，或者使他成为一个单位，[NEWLINE]这样你就可以在城市中使用他的特殊能力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GREAT_PERSON_UNIT">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GREAT_PERSON_VPS">
+			<Text>文明点数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT">
+			<Text>你可以向{1_CivName:textkey}馈赠金钱作为礼物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_AMOUNT">
+			<Text>{1_NumGold}[ICON_GOLD]金钱——将会增加{2_NumFriendship}[ICON_INFLUENCE]影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_MINOR_GOLD_GIFT_CANT">
+			<Text>你至少要馈赠{1_NumGold}金钱给{2_CivName:textkey}作为礼物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANSOM_POPUP_ABANDON">
+			<Text>不值这么多钱。不管他们了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANSOM_POPUP_INFO">
+			<Text>野蛮人俘虏了你的一个平民单位！他们向你索要{1_Num}金钱来换取俘虏。你要如何应对？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RANSOM_POPUP_PAY">
+			<Text>支付赎金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_BUDDHISM">
+			<Text>佛教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_CHRISTIANITY">
+			<Text>基督教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HINDUISM">
+			<Text>印度教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ISLAM">
+			<Text>伊斯兰教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_POLYTHEISM">
+			<Text>多神论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SHINTOISM">
+			<Text>神道教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SPIRITUALISM">
+			<Text>唯灵论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ZOROASTRIANISM">
+			<Text>祆教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_CITY">
+			<Text>城市奖励！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_CITY_NOTIFICATION">
+			<Text>你的国家已拥有{1_Num}座城市！完成这项成就使你得到了{2_Num}文明点数！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_CITY_TEAM_NOTIFICATION">
+			<Text>你的组队已拥有{1_Num}座城市！完成这项成就使你得到了{2_Num}文明点数！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_POPULATION">
+			<Text>人口奖励！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_POPULATION_NOTIFICATION">
+			<Text>你拥有了一个人口达{1_Num}的城市！完成这项成就使你得到了{2_Num}文明点数！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SMALL_AWARD_POPULATION_TEAM_NOTIFICATION">
+			<Text>你的组队拥有了一个人口达{1_Num}的城市！完成这项成就使你得到了{2_Num}文明点数！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CATEGORY_CULTURE">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CATEGORY_GOLD">
+			<Text>金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CATEGORY_PRODUCTION">
+			<Text>产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VICTORY_CATEGORY_TECHNOLOGIES">
+			<Text>科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLEASE_WAIT">
+			<Text>请等待</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLEASE_WAIT_TT">
+			<Text>游戏正在处理其他玩家的回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_POLICY">
+			<Text>采用社会政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_POLICY_TT">
+			<Text>你可以采用一项新的社会政策！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RESEARCH">
+			<Text>选择科研项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RESEARCH_TT">
+			<Text>你可以为你的国家选择一项新的科研项目！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FREE_TECH">
+			<Text>选择免费科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FREE_TECH_TT">
+			<Text>你可以免费选择一项新的科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON">
+			<Text>选择免费伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_FREE_GREAT_PERSON_TT">
+			<Text>你可以免费选择一位历史伟人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_PRODUCTION">
+			<Text>选择建造项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_PRODUCTION_TT">
+			<Text>你可以为城市选择新的建造项目！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SKIP_TURN">
+			<Text>跳过单位回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SKIP_TURN_TT">
+			<Text>所选单位在本回合内将不会有任何动作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_STACKED_UNIT">
+			<Text>移开堆叠单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_STACKED_UNIT_TT">
+			<Text>需要将堆叠在一起的同类型单位移开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEEDS_ORDERS">
+			<Text>单位正在待命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEEDS_ORDERS_TT">
+			<Text>需要给待命单位下达指令才能结束本回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION">
+			<Text>单位等待晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PROMOTION_TT">
+			<Text>选择等待晋升的单位。需要晋升全部可以晋升的单位才能结束本回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_RANGE_ATTACK">
+			<Text>城市可以攻击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_RANGE_ATTACK_TT">
+			<Text>可以远程攻击一个附近的敌方单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE">
+			<Text>联合国投票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_VOTE_TT">
+			<Text>你必须在联合国进行投票！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_QUEST_BLOCKING">
+			<Text>城邦消息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_QUEST_BLOCKING_TT">
+			<Text>[COLOR_POSITIVE_TEXT]右键点击[ENDCOLOR]以取消。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAITING_FOR_PLAYERS">
+			<Text>等待其他玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WAITING_FOR_PLAYERS_TT">
+			<Text>游戏正在等待其他玩家结束回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEXT_TURN">
+			<Text>下一回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEXT_TURN_TT">
+			<Text>结束你的回合，让其他玩家操作。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENEMY">
+			<Text>在我国境内发现一个敌方单位！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENEMY_SUMMARY">
+			<Text>一支敌军正在靠近！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REBELS">
+			<Text>由于全国已经达到20[ICON_HAPPINESS_4]不满，一场叛乱爆发了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REBELS_SUMMARY">
+			<Text>发生叛乱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SEQUENTIAL">
+			<Text>你正与某个人类玩家交战。你将与其他处于战争状态的文明顺次执行回合，直到冲突结束。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SEQUENTIAL_SUMMARY">
+			<Text>顺次回合！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SIMULTANEOUS">
+			<Text>你与某个人类玩家的战争结束了。你将与其他处于和平状态的文明同步执行回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TURN_MODE_SIMULTANEOUS_SUMMARY">
+			<Text>同步回合！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LOST">
+			<Text>一个单位被消灭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAPTURED">
+			<Text>一个平民单位被俘虏！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAPTURED_BARBS">
+			<Text>一个平民单位被蛮族俘虏！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAPTURED_DETAILED">
+			<Text>一个{@1_UnitName}单位被{2_CivName:textkey}俘虏！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAPTURED_BARBS_DETAILED">
+			<Text>一个{@1_UnitName}单位被蛮族俘虏！他们会将其带回最近的营地。如果你想救回你的单位就要立即派兵追踪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FREE">
+			<Text>免费</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIAN">
+			<Text>平民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AWARD_TITLE">
+			<Text>你获得了一项新的科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AWARD_BUTTON">
+			<Text>继续</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SELECT_CIVILIZATION">
+			<Text>选择文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OPEN_TECH_TREE">
+			<Text>打开科技树</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_POPUP_HEADER">
+			<Text>请为你的文明选择一项新科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_POPUP_CLOSE_RESEARCH">
+			<Text>关闭研发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_GREAT_PERSON_CHOOSE_TECH">
+			<Text>一位伟人给你的文明带来了一项新科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_UNKNOWN">
+			<Text>未知势力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAZED_CITY">
+			<Text>被夷平的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ITEMS_OTHER_PLAYERS">
+			<Text>其他势力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ITEMS_STRATEGIC_RESOURCES">
+			<Text>战略资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ITEMS_LUXURY_RESOURCES">
+			<Text>奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_CITY_TITLE">
+			<Text>为你的城市命名！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_UNIT_TITLE">
+			<Text>为你的单位命名！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORKERACTION_TEXT">
+			<Text>建造行动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECONDARY_O_TEXT">
+			<Text>隐藏你的单位可以进行的其他行动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SECONDARY_C_TEXT">
+			<Text>展示你的单位可以进行的其他行动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_FASTER_MOVEMENT_STRING">
+			<Text>加快移动速度:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_YIELD_IMPRVD_STRING">
+			<Text>产出增加:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_NO_FRESH_WATER_STRING">
+			<Text>没有淡水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_FRESH_WATER_STRING">
+			<Text>淡水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_FAST_EMBARK_STRING">
+			<Text>加快海运速度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_OCEAN_EMBARK_STRING">
+			<Text>允许海运跨越大洋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_OPEN_BORDER_STRING">
+			<Text>允许开放边境条约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_D_PACT_STRING">
+			<Text>允许共同防御条约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_R_PACT_STRING">
+			<Text>允许合作研究</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_T_PACT_STRING">
+			<Text>允许贸易协定</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_BRIDGE_STRING">
+			<Text>允许修建跨河桥梁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ABLTY_DEFENSIVE_EMBARK_STRING">
+			<Text>允许海运单位自我防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ITEMS_LABEL">
+			<Text>{1_PlayerName}的项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_YOUR_ITEMS_LABEL">
+			<Text>你的项目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ITEM_OTHER_PLAYERS">
+			<Text>其他势力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ITEM_STRATEGIC_RESOURCES">
+			<Text>战略资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_ITEM_LUXURY_RESOURCES">
+			<Text>奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_OFFERED">
+			<Text>提出交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_OFFERED_BY_YOU">
+			<Text>你向{1_Player}发出了提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_OFFERED_BY_THEM">
+			<Text>{1_Player}发出了提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_EXPIRED">
+			<Text>交易已经失效</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_EXPIRED_FROM_THEM">
+			<Text>你向{1_Player}发出的提议已经失效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_EXPIRED_FROM_YOU">
+			<Text>{1_Player}发出的提议已经失效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_ACCEPTED">
+			<Text>接受交易</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_ACCEPTED_BY_YOU">
+			<Text>你接受了{1_Player}的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_ACCEPTED_BY_THEM">
+			<Text>你的提议被{1_Player}接受了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_REJECTED">
+			<Text>提议被拒绝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_REJECTED_BY_YOU">
+			<Text>你拒绝了{1_Player}的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_REJECTED_BY_THEM">
+			<Text>{1_Player}拒绝了你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_WITHDRAWN">
+			<Text>提议被撤销</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_WITHDRAWN_BY_YOU">
+			<Text>你撤销了对{1_Player}的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_WITHDRAWN_BY_THEM">
+			<Text>来自{1_Player}的提议已被撤销。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_COUNTER_RECIEVED">
+			<Text>收到修正提议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_COUNTER_BY_YOU">
+			<Text>你向{1_Player}发出了修正提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_COUNTER_SENT">
+			<Text>发出修正提议</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEAL_COUNTER_BY_THEM">
+			<Text>{1_Player}向你发出了修正提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPPLY_REACHED">
+			<Text>[COLOR_WARNING_TEXT]达到维持上限！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUPPLY_REACHED_TOOLTIP">
+			<Text>你的国家可以维持{1_Num}个单位。你超限{2_Num}个单位，你的城市的[ICON_PRODUCTION]产能因此减少了{3_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWITCH_POLICY_BRANCHES">
+			<Text>你想要推行{1_NewBranchName:textkey}吗？这会废除{2_OldBranches}及其相关的所有利益。这也会让你的文明陷入1个回合的[COLOR_WARNING_TEXT]无政府状态[ENDCOLOR]，在此期间整个国家无法积累[ICON_PRODUCTION]产能、[ICON_RESEARCH]科研或[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LIBERTY_TITLE">
+			<Text>{2_CivName:textkey}执政 仁慈的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADITION_TITLE">
+			<Text>{2_CivName:textkey}国君 高贵的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HONOR_TITLE">
+			<Text>{2_CivName:textkey}统帅 伟大的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PIETY_TITLE">
+			<Text>{2_CivName:textkey}导师 虔诚的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PATRONAGE_TITLE">
+			<Text>{2_CivName:textkey}国主 开明的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COMMERCE_TITLE">
+			<Text>{2_CivName:textkey}总督 尊贵的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RATIONALISM_TITLE">
+			<Text>{2_CivName:textkey}统领 睿智的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FREEDOM_TITLE">
+			<Text>{2_CivName:textkey}总统 尊敬的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ORDER_TITLE">
+			<Text>{2_CivName:textkey}主席 敬爱的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AUTOCRACY_TITLE">
+			<Text>{2_CivName:textkey}元首 可畏的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEW_GAME">
+			<Text>新游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_TURN_ENDED">
+			<Text>{1_PlayerName:textkey}回合结束</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_DISCONNECTED">
+			<Text>{1_PlayerName:textkey}已断线，由电脑接管。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_DISCONNECTED_PITBOSS">
+			<Text>{1_PlayerName:textkey}已断线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_RECONNECTED">
+			<Text>{1_PlayerName:textkey}已连线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_CONNECTING">
+			<Text>{1_PlayerName:textkey}已加入游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_KICKED">
+			<Text>{1_PlayerName:textkey}被踢出游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOST_MIGRATED">
+			<Text>{1_PlayerName:textkey}已成为主机。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPERIENCE_POPUP">
+			<Text>[COLOR_XP_BLUE]+{1_Num}经验[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TALK_TO_PLAYER">
+			<Text>点击此处，与城市的拥有者对话！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HAVENT_MET">
+			<Text>你还没有联系到这个势力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALWAYS_AT_WAR_WITH_CITY">
+			<Text>你与这座城市的拥有者处于永久战争状态！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_VERY_UNHAPPY_SETTLERS">
+			<Text>[NEWLINE]不能建造，因为国民处于[ICON_HAPPINESS_4]极度不满的状态。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_UNIT_PROJECT_REQUIRED">
+			<Text>[NEWLINE]需要有{1_ProjectName:textkey}才能建造该单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_UNIT_LACKS_RESOURCES">
+			<Text>[NEWLINE]需要有{1_Num}{2_ResourceIcon}{3_ResourceName:textkey}才能建造该单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_LACKS_RESOURCES">
+			<Text>[NEWLINE]需要有{1_Num}{2_ResourceIcon}{3_ResourceName:textkey}才能建造该建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_GAME_COUNT_MAX">
+			<Text>[NEWLINE]整个世界只允许{1_Num}个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_TEAM_COUNT_MAX">
+			<Text>[NEWLINE]每个组队只允许{1_Num}个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_PLAYER_COUNT_MAX">
+			<Text>[NEWLINE]每位玩家只允许{1_Num}个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_NUKES">
+			<Text>[NEWLINE]不能建造核武器。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_SPECIAL_UNIT">
+			<Text>[NEWLINE]不能建造特殊单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT">
+			<Text>[NEWLINE]城市至少要有{1_Num}[ICON_CITIZEN]市民才能组建移民单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED">
+			<Text>[NEWLINE]城市至少要有2[ICON_CITIZEN]市民才能组建移民单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_UNIT_REQUIRES_BUILDING">
+			<Text>[NEWLINE]城市需要有{1_BuildingName:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_LOCAL_RESOURCE">
+			<Text>[NEWLINE]城市附近需要已开发{2_ResourceIcon}{1_ResourceName:textkey}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_BUILDING_COUNT_NEEDED">
+			<Text>[NEWLINE]{2_BuildingName:textkey}缺少数量: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEATURE_PRODUCTION">
+			<Text>，提供{1_Num}[ICON_PRODUCTION]产能给最近的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FOOD_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PRODUCTION_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GOLD_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_GOLD]金钱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SCIENCE_STRING">
+			<Text>{1_Num}[ENDCOLOR][ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_COST">
+			<Text>[ICON_PRODUCTION]花费: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_MOVEMENT">
+			<Text>[ICON_MOVES]移动力: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_RANGE">
+			<Text>[ICON_BULLET]攻击范围: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_RANGED_STRENGTH">
+			<Text>[ICON_RANGE_STRENGTH]远程攻击力: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_STRENGTH">
+			<Text>[ICON_STRENGTH]战斗力: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_MAINTENANCE">
+			<Text>[ICON_GOLD]维护费: {1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_HAPPINESS">
+			<Text>[ICON_HAPPINESS_1]快乐: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_CULTURE">
+			<Text>[ICON_CULTURE]文化: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_DEFENSE">
+			<Text>[ICON_STRENGTH]防御: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_FOOD">
+			<Text>[ICON_FOOD]食物: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION_CHANGE">
+			<Text>[ICON_PRODUCTION]产能: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SCIENCE_CHANGE">
+			<Text>[ICON_RESEARCH]科研: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GOLD">
+			<Text>[ICON_GOLD]金钱: +{1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_GOLD_CHANGE">
+			<Text>[ICON_GOLD]金钱: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_SCIENCE">
+			<Text>[ICON_RESEARCH]科研: +{1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_PRODUCTION">
+			<Text>[ICON_PRODUCTION]产能: +{1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_RESOURCES_REQUIRED">
+			<Text>[ICON_BULLET]需要:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_BASE">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}{2_IconString} 基准[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_TOTAL">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}{2_IconString} 总计[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_TOTAL_NEGATIVE">
+			<Text>[COLOR_WARNING_TEXT]{1_Num}{2_IconString} 总计[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_TERRAIN">
+			<Text>{1_Num}{2_IconString} 来自地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_BUILDINGS">
+			<Text>{1_Num}{2_IconString} 来自建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_SPECIALISTS">
+			<Text>{1_Num}{2_IconString} 来自专业人员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_MISC">
+			<Text>{1_Num}{2_IconString} 来自其它渠道</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_POP">
+			<Text>{1_Num}{2_IconString} 来自[ICON_CITIZEN]人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_POP_EXTRA">
+			<Text>{1_Num}额外{2_IconString} 来自[ICON_CITIZEN]人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_RELIGION">
+			<Text>{1_Num} {2_IconString} 来自宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_EATEN_BY_POP">
+			<Text>-{1_Num}{2_IconString} 市民消耗（2/[ICON_CITIZEN]）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_AFTER_EATEN">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}{2_IconString} 市民节余[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_AFTER_EATEN_NEGATIVE">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_Num}{2_IconString} 市民节余[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOOD_PROGRESS">
+			<Text>积累: {1_Num}/{2_Num} [ICON_FOOD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOOD_HELP_INFO">
+			<Text>[ICON_FOOD]食物决定了你的城市新增[ICON_CITIZEN]市民的速度。市民工作并为城市产出[ICON_FOOD]、[ICON_PRODUCTION]和[ICON_GOLD]。城市几乎总是越大越好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_INFO">
+			<Text>[ICON_PRODUCTION]产能决定了城市建造单位和建筑等的速度。产能的来源有地形和建筑等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOLD_HELP_INFO">
+			<Text>[ICON_GOLD]金钱作为国库储备，可以用于拓展你的领土，购买城市建造项目以及进行外交赠礼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCIENCE_HELP_INFO">
+			<Text>[ICON_RESEARCH]科研点数用于研发科技，启用新的单位和建筑等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_HELP_INFO">
+			<Text>[ICON_CULTURE]文化点数可以把新的区块纳入城市辖区，提高其生产力。积累文化还可让国家推行新的[COLOR_POSITIVE_TEXT]社会政策[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_INFO">
+			<Text>[COLOR_POSITIVE_TEXT]边界扩展进度: {1_Num}/{2_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_TURNS">
+			<Text>({1_Num}回合)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_BUILDINGS">
+			<Text>{1_Num}[ICON_CULTURE] 来自建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_POLICIES">
+			<Text>{1_Num}[ICON_CULTURE] 来自政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_SPECIALISTS">
+			<Text>{1_Num}[ICON_CULTURE] 来自专业人员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_TERRAIN">
+			<Text>{1_Num}[ICON_CULTURE] 来自地形</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_TRAITS">
+			<Text>{1_Num}[ICON_CULTURE] 来自特质</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_WONDER_BONUS">
+			<Text>+{1_Num}%[ICON_CULTURE] 来自世界级奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_CITY_MOD">
+			<Text>+{1_Num}%[ICON_CULTURE] 来自城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_PLAYER_MOD">
+			<Text>+{1_Num}%[ICON_CULTURE] 来自文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_NOTHING">
+			<Text>目前没有在建的项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_SCREEN_PROD_PER_TURN">
+			<Text>{1_Num}[ICON_PRODUCTION]产能/回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_NUM_TURNS">
+			<Text>{1_Num}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_99PLUS_TURNS">
+			<Text>99+回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_INFINITE_TURNS">
+			<Text>???回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_PROGRESS">
+			<Text>进度: {1_Num}/{2_Num}[ICON_PRODUCTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_HELP_TEXT">
+			<Text>{1_BuildItem:textkey}预计{2_NumTurnsString}内完成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOOD_USAGE">
+			<Text>([COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR] - [COLOR_NEGATIVE_TEXT]{2_Num}[ENDCOLOR][ICON_CITIZEN]市民消耗)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOODMOD_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOODMOD_CAPITAL">
+			<Text>[NEWLINE][ICON_BULLET][ICON_CAPITAL]首都修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOODMOD_RELIGION">
+			<Text>[NEWLINE][ICON_BULLET]宗教信条修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOODMOD_UNHAPPY">
+			<Text>[NEWLINE][ICON_BULLET][COLOR_WARNING_TEXT][ICON_HAPPINESS_4]不满修正: {1_Num}%[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOODMOD_WLTKD">
+			<Text>[NEWLINE][ICON_BULLET]我们爱领袖日修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_FOOD_CONVERSION">
+			<Text>[NEWLINE][ICON_BULLET]来自额外的[ICON_FOOD]食物: +{1_Num}[ICON_PRODUCTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_RAILROAD_CONNECTION">
+			<Text>[NEWLINE][ICON_BULLET]铁路连接修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_DOMAIN">
+			<Text>[NEWLINE][ICON_BULLET]单位领域修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_COMBAT_TYPE">
+			<Text>[NEWLINE][ICON_BULLET]单位战斗类型修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_MILITARY">
+			<Text>[NEWLINE][ICON_BULLET]军事单位修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_WITH_BUILDING">
+			<Text>[NEWLINE][ICON_BULLET]{2_BuildingName}修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_CITY">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正(奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_LOCAL_RES">
+			<Text>[NEWLINE][ICON_BULLET]奇观修正({2_ResourceName}): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_RELIGION">
+			<Text>[NEWLINE][ICON_BULLET]宗教信条对奇观修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_BUILDING_CITY">
+			<Text>[NEWLINE][ICON_BULLET]建筑修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_CAPITAL_BUILDING_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]特质修正([ICON_CAPITAL]首都建筑): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_SPACE">
+			<Text>[NEWLINE][ICON_BULLET]太空飞船修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_SUPPLY">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(单位维持): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_MILITARY_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(军事单位): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_SETTLER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(移民): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_CAPITAL_SETTLER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]首都修正(移民): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_RELIGION_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(宗教建筑): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_COBMAT_CLASS_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(单位战斗类型): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_UNIT_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]特质修正(单位类型): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_BUILDING_TRAIT">
+			<Text>[NEWLINE][ICON_BULLET]特质修正(建筑): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WONDER_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]政策修正(奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_BUILDING_POLICY">
+			<Text>[NEWLINE][ICON_BULLET]政策修正(建筑): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_WORLD_WONDER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(世界级奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_TEAM_WONDER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(组队级奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_NATIONAL_WONDER_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(国家级奇观): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_BUILDING_POLICY_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]政策全文明修正(建筑): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_SPACE_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(太空飞船): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_SPECIALIST_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]全文明修正(专业人员): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_RESOURCES">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正(资源): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_HAPPINESS">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正(快乐): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_AREA">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正(地域): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_PLAYER">
+			<Text>[NEWLINE][ICON_BULLET]杂项玩家修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_CAPITAL">
+			<Text>[NEWLINE][ICON_BULLET]城市级修正([ICON_CAPITAL]首都): {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODMOD_YIELD_GOLDEN_AGE">
+			<Text>[NEWLINE][ICON_BULLET]黄金时代修正: {1_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ADD_TO_BUILDING">
+			<Text>增派{1_SpecialistName}到{2_BuildingName} ({3_Num}/{4_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_REMOVE_FROM_BUILDING">
+			<Text>移除{1_SpecialistName}从{2_BuildingName} ({3_Num}/{4_Num})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_NOT_AVAILABLE">
+			<Text>无可用的专业人员！[NEWLINE][NEWLINE][NEWLINE][NEWLINE]请建造更多专业建筑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_MANAGEMENT">
+			<Text>城市专业人员管理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_BARBARIAN_CLEARED">
+			<Text>摧毁蛮族营地！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNITS">
+			<Text>单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_BUILDINGS">
+			<Text>建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_WONDERS">
+			<Text>奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UNITED_NATIONS_VOTE">
+			<Text>联合国投票！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
+			<Text>恭喜！国民在你的统治下感到非常快乐，国家进入了一个黄金时代！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_GOLDEN_AGE_BEGIN">
+			<Text>黄金时代来临！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RUINS_EXPLORED">
+			<Text>探索远古遗迹！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_GREAT_PERSON_BORN">
+			<Text>伟人诞生！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATES">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NORMAL_VIEW">
+			<Text>正常视图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_STRATEGIC_VIEW">
+			<Text>战略视图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_STRATEGIC_VIEW_TT">
+			<Text>在正常视图与战略视图之间切换。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_QUEST_DESTROY_BARBARIANS_NEAR">
+			<Text>任务：消灭{1_Name}附近的蛮族。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_QUEST_DEFEAT_UNITS">
+			<Text>任务：击败{1_Num}个{2_PlayerName}的单位。[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_COMPLETE">
+			<Text>任务完成：道路已连接！[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_QUEST_ROAD_ACTIVE">
+			<Text>任务：连接道路以获得[ICON_INFLUENCE]影响力奖励！[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GET_HAPPINESS">
+			<Text>+{1_Num}快乐(最受欢迎的文明！)[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GET_SCIENCE">
+			<Text>+{1_Num}科研[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CSTATE_GET_CULTURE">
+			<Text>+{1_Num}文化[NEWLINE]+开放边境[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND">
+			<Text>发现自然奇观！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_TT">
+			<Text>恭喜！{@1_NWName}的发现为你的国家增加了[ICON_HAPPINESS_1]快乐。[NEWLINE][NEWLINE]进行开发可提供的产出: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_HAPPY">
+			<Text>[NEWLINE]获得{1_Num}[ICON_HAPPINESS_1]，如果将其纳入国境</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FOUND_PROMOTE">
+			<Text>[NEWLINE]相邻单位免费晋升:[NEWLINE]{1_PromoteString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_FIRST_FOUND_GOLD">
+			<Text>[NEWLINE]率先发现该奇观使你获得{1_Num}[ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NATURAL_WONDER_SUBSEQUENT_FOUND_GOLD">
+			<Text>[NEWLINE]发现该奇观使你获得{1_Num}[ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NEW_ERA_TITLE">
+			<Text>新时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_NEW_ERA_DESCRIPTION">
+			<Text>欢迎来到{@1_EraDescription}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_YOU">
+			<Text>你</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_YOUR_TEAM">
+			<Text>玩家组队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_UNMET_PLAYER">
+			<Text>未知玩家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_VOTE_RESULTS_UNMET_TEAM">
+			<Text>未知组队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_ELEC_RESULTS">
+			<Text>联合国选举结果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_VOTES_TO_WIN">
+			<Text>胜选所需的票数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_PLAYER">
+			<Text>成员国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_TEAM">
+			<Text>组队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_TEAM_LABEL">
+			<Text>组队 {1_TeamNum}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_VOTED_FOR">
+			<Text>投票给</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_UN_VOTES">
+			<Text>票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_WHOS_WINNING">
+			<Text>领先者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_SCORE">
+			<Text>分数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOF_RESULTS">
+			<Text>结果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOF_SETTINGS">
+			<Text>设置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_CITY_PLOT_MANAGEMENT">
+			<Text>你想要分配你的市民到不同区块吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_GIVE_UNIT_CONFIRMATION">
+			<Text>你想要向{1_CivName}赠送你的{2_UnitName}单位吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION">
+			<Text>你俘虏了一个{1_CivName}的平民单位。你可以归还给对方，或者让其成为你属下的{@2_NewUnitName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CITY_STATE">
+			<Text>归还单位会让你获得{1_Num}[ICON_INFLUENCE]影响力！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_AI">
+			<Text>如果你归还，他们将会非常感激！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION_RETURN">
+			<Text>归还该单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POP_RETURN_CIVILIAN_CONFIRMATION_TAKE">
+			<Text>自己留下</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STR_TURNS">
+			<Text>{1_Num}回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_THANK_YOU">
+			<Text>多谢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCIENCE_TITLE">
+			<Text>科技顾问</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_ECON_TITLE">
+			<Text>经济顾问</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_FOREIGN_TITLE">
+			<Text>外交顾问</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_TITLE">
+			<Text>军事顾问</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESET_TITLE">
+			<Text>你做的太棒了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESET_TEXT">
+			<Text>我的研究显示你的人民信赖你的统治。未雨绸缪，继续探索与发现其他文明吧。早晚有一天，我们会梦想成真的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISOR_TY_TT">
+			<Text>让顾问退下</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_ADDITIONAL">
+			<Text>附加信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CLOSE_CHAT">
+			<Text>停止聊天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CLOSE_CHAT_TT">
+			<Text>切换聊天面板。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_OPEN_CHAT">
+			<Text>开始聊天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_OPEN_CHAT_TT">
+			<Text>切换聊天大视图。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CSTATE_SPEAK_WITH">
+			<Text>与一座城邦对话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NUM_CSTATE_MET">
+			<Text>遇见{1_Num}个城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_WAR">
+			<Text>[COLOR_WARNING_TEXT]战争！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_DENOUNCING">
+			<Text>[COLOR_WARNING_TEXT]谴责！[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_LIBERATED">
+			<Text>重生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_HOSTILE">
+			<Text>敌对</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_FRIENDLY">
+			<Text>友好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_AFRAID">
+			<Text>畏惧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_GUARDED">
+			<Text>提防</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MAJOR_CIV_DIPLO_STATE_NEUTRAL">
+			<Text>中立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CITIES">
+			<Text>城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALWAYS_WAR_TT">
+			<Text>目前所有的文明都在相互交战。[NEWLINE]你现在不应考虑外交手段。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_TRADE_CITY_TT">
+			<Text>交易城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_TRADE_CITY_NO_TT">
+			<Text>我们没有可交易的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_TRADE_CITY_NO_THEM">
+			<Text>他们没有可交易的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_ALL">
+			<Text>对所有人:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_TEAM">
+			<Text>对组队:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_TO_PLAYER">
+			<Text>对{1_player}:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_OPEN_ADVISORS_TT">
+			<Text>向你的顾问咨询现在的形势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NOTIFICATION_LOG_TT">
+			<Text>你的历史消息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_OPEN_SOCIAL_POLICY_TT">
+			<Text>你的社会政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_INFO">
+			<Text>你的信息:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE">
+			<Text>你的积分</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_CITIES">
+			<Text>{1_Num} 来自城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_POPULATION">
+			<Text>{1_Num} 来自人口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_LAND">
+			<Text>{1_Num} 来自陆地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_WONDERS">
+			<Text>{1_Num} 来自奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_TECH">
+			<Text>{1_Num} 来自科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_MY_SCORE_FUTURE_TECH">
+			<Text>{1_Num} 来自未来科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_DIPLOMACY_BUTTON">
+			<Text>外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_LEADER_NAME">
+			<Text>领袖名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CIVILIZATION_NAME">
+			<Text>文明名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_STATUS">
+			<Text>外交状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_NAME">
+			<Text>名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_CSTATE_GIVE_UNIT_TT">
+			<Text>向该城邦赠送单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DIPLO_SPEAK_TO">
+			<Text>选择一位领袖进行交谈……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TUTORIAL_TITLE_BAR">
+			<Text>游戏教程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_START_TUTORIAL_BUTTON">
+			<Text>开始所选教程</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TUTORIAL_INSTRUCT">
+			<Text>游戏教程——边玩边学！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BACK_BUTTON">
+			<Text>返回</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FORWARD_BUTTON">
+			<Text>前进</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CANCEL_BUTTON">
+			<Text>取消</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORT_BUTTON">
+			<Text>报告</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EDIT_BUTTON">
+			<Text>编辑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ACCEPT_BUTTON">
+			<Text>接受</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YES_BUTTON">
+			<Text>是</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_BUTTON">
+			<Text>否</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OK_BUTTON">
+			<Text>确定</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DEFAULT_BUTTON">
+			<Text>默认</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_TXT">
+			<Text>这将永久删除你的存档。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OVERWRITE_TXT">
+			<Text>这将覆盖之前的存档。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DELETE_MOD_TXT">
+			<Text>这将永久删除该模组(MOD)。你确定吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_DISABLE_MOD">
+			<Text>你确定要禁用该模组(MOD)吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WILL_ALSO_DISABLE_MODS">
+			<Text>这将会同时禁用以下模组(MOD)：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_ENABLE_MOD">
+			<Text>你确定要启用该模组(MOD)吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WILL_ALSO_ENABLE_MODS">
+			<Text>这将会同时启用以下模组(MOD)：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EFFECTED_MODS_TXT">
+			<Text>受影响的模组(MOD):</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_VERSION_AVAILABLE">
+			<Text>已有更新的版本({1_VersionNumber})。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DELETE_BUTTON">
+			<Text>删除</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOODBYE_BUTTON">
+			<Text>再见</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_DENOUNCE">
+			<Text>你确定要公开谴责{@1_LeaderName}吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_WAR">
+			<Text>你确定要宣战吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_WAR_PROTECTED_CITY_STATE">
+			<Text>你确定要对{1_CivName:textkey}宣战吗？目前他们的保护者是：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_POLICY">
+			<Text>你确定要推行这项社会政策吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CONFIRM_KICK">
+			<Text>你确定要将{1_PlayerName:textkey}踢出游戏吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESEARCHED">
+			<Text>已研发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_COST">
+			<Text>[ICON_BULLET]花费: {1_Num}[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_COST_WITH_PROGRESS">
+			<Text>[ICON_BULLET]进度: {1_Num}/{2_Num}[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HELP_LEADS_TO">
+			<Text>[ICON_BULLET]通向: {1_TechsString}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OF_CIV">
+			<Text>{@2_CivName} {@1_LeaderName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MULTIPLAYER_UNIT_TT">
+			<Text>{1_PlayerHandle}: {@2_Adjective} {@3_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODPANEL_CITY_NAME">
+			<Text>城市名称</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CANNOT_PURCHASE_UNIT_HERE">
+			<Text>[NEWLINE]该城市中有其他单位停驻，不能购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CANNOT_PURCHASE_NO_GOLD">
+			<Text>[NEWLINE]你没有足够的[ICON_GOLD]金钱进行支付。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_CIVILOPEDIA">
+			<Text>文明百科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_BACK">
+			<Text>后退</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ADVISORINFOPOPUP_FORWARD">
+			<Text>前进</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STATIONED_AIRCRAFT">
+			<Text>{1_number}个飞机单位停驻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QUICKSAVING">
+			<Text>快速存档中……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IC_RESOURCE">
+			<Text>资源列表</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRADE_INFO">
+			<Text>交易信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SORT_NAME">
+			<Text>按名称排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SORT_TRADE">
+			<Text>按资源量排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_USED">
+			<Text>[COLOR_WARNING_TEXT]{1_Num} 已使用[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_IMPORTS">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num} 进口[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_EXPORTS">
+			<Text>[COLOR_NEGATIVE_TEXT]{1_Num} 出口[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LUXURY_DETAILS">
+			<Text>[ICON_PLUS] 奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LUXURY_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] 奢侈资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STRATEGIC_DETAILS">
+			<Text>[ICON_PLUS] 战略资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STRATEGIC_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] 战略资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BONUS_DETAILS">
+			<Text>[ICON_PLUS] 奖励资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BONUS_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] 奖励资源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MISC_PLAYERS_SIGN_RESEARCH_AGREEMENT">
+			<Text>玩家签署合作研究协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOTSEAT_NEXT_PLAYER">
+			<Text>下一位玩家的回合！</Text>
+		</Row>
+		<!-- Turn Timer -->
+		<Row Tag="TXT_KEY_TURN_TIMER_ACTIVE_TT">
+			<Text>你的回合剩余时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TURN_TIMER_WAITING_TT">
+			<Text>你的回合开始时间。</Text>
+		</Row>
+		<!-- Turn Timer END -->
+	</Language_zh_CN>
+</GameData>

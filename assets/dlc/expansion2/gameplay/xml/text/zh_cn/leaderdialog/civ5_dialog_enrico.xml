@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_1">
+			<Text>欢迎来到威尼斯！我乃威尼斯的督治恩里克·丹多洛……今日我等可有要事共商？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_2">
+			<Text>欢迎旅行者，我是威尼斯的恩里克·丹多洛。什么风把你带到我这昌明的城市？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_FIRSTGREETING_3">
+			<Text>我是督治恩里克·丹多洛……你来做生意的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_1">
+			<Text>如此浅薄的唬吓我恕不奉陪。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_2">
+			<Text>我的经验告诉我你并不如显露得那么自信。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WARBLUFF_3">
+			<Text>你正在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WINWAR_1">
+			<Text>大略终成幸甚至哉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_WINWAR_2">
+			<Text>大略终成幸甚至哉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LOSEWAR_1">
+			<Text>这不过是我众多方略中的一个！一个！你还没见识到我最后的手段！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LOSEWAR_2">
+			<Text>这不过是我众多方略中的一个！一个！你还没见识到我最后的手段！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEFEATED_1">
+			<Text>千虑一失……必不覆之。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEFEATED_2">
+			<Text>偶尔我也会被我的野心所支配。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEFEATED_3">
+			<Text>言何以堪……些许黄粱，几多泡影。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_2">
+			<Text>向你致意！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_1">
+			<Text>请便。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_2">
+			<Text>此致。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_YES_NEUTRAL">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>恐怕这价码还不够合理。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能多做些让步吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>大抵相当了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>美中不足。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NO_NEUTRAL">
+			<Text>那并不符合我的最佳利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_YES_NEUTRAL">
+			<Text>说定了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_NO_NEUTRAL">
+			<Text>我没功夫考虑此类事情。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADEREQUEST_NEUTRAL">
+			<Text>提议机不可失……待请熟虑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>一则合理公道的请求……留我慎思。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_AGREE_SHORT_1">
+			<Text>一切顺利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_AGREE_SHORT_2">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_1">
+			<Text>我必须回绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_2">
+			<Text>不，行不通。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_1">
+			<Text>洗耳恭听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_2">
+			<Text>说下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_3">
+			<Text>聊表问候。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_4">
+			<Text>安好?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_3">
+			<Text>我们的生意成交了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_YES_HAPPY">
+			<Text>当然行!我一向乐见公平的交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>你的条款可以再优惠分毫嘛。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你倾其所能的付出？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你所差不多……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NO_HAPPY">
+			<Text>即便是朋友相处，我的慷慨也已到极限。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_YES_HAPPY">
+			<Text>我始终惠顾我的伙伴们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_NO_HAPPY">
+			<Text>我难以负担过大的手笔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADEREQUEST_HAPPY">
+			<Text>取汝之信投我之长……好一个有利可图的提案。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEMANDTRIBUTE_HAPPY">
+			<Text>本着友谊的精神，你能否给予我这份恩惠？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_AGREE_SHORT_3">
+			<Text>毫无异议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_AGREE_SHORT_4">
+			<Text>达成一致。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_AGREE_SHORT_5">
+			<Text>真知灼见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_3">
+			<Text>完全不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_4">
+			<Text>我等不得不婉拒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_3">
+			<Text>愿闻其详。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_4">
+			<Text>是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_5">
+			<Text>你有何索求？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GREETING_6">
+			<Text>你有何索求？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_5">
+			<Text>此致。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_GOODBYE_6">
+			<Text>谈妥了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_YES_ANGRY">
+			<Text>和你这号人作买卖令我痛心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>荒谬！你忘了在和谁谈话吗?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这可不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你得拿出些更好的货色。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NEEDMORE_ANGRY_4">
+			<Text>何其无礼的苛求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADE_NO_ANGRY">
+			<Text>我不和卑贱的可怜虫作交易！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_YES_ANGRY">
+			<Text>你还敢提这样的要求……不过这一次，我会答应。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRIBUTE_NO_ANGRY">
+			<Text>你大错特错，我何尝会考虑过呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_TRADEREQUEST_ANGRY">
+			<Text>和我通商兴许会提升你在世上那可悲的地位……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DEMANDTRIBUTE_ANGRY">
+			<Text>相信我……否绝我的要求将成为你的失策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_5">
+			<Text>请再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_6">
+			<Text>无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_LETSHEARIT_5">
+			<Text>你说什么来着？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_1">
+			<Text>我仔细斟酌了我的选择……而讨伐你回报颇丰！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_2">
+			<Text>我心藏百端计略……但值此之例，战争开道直通终点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_DECLAREWAR_3">
+			<Text>随着你的离去，大片所得会归我占有！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_ATTACKED_1">
+			<Text>你太急于掀开手牌了，我的朋友！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_ATTACKED_2">
+			<Text>你觉得这次出人意料之举会令我措手不及？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ENRICO_DANDOLO_ATTACKED_3">
+			<Text>你的鲁莽将使你自取灭亡！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_zh_CN>
+		<!-- Buildings-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_TEXT">
+			<Text>优秀的绘图师、造船师和船长都不是天生的——这些人才大都经过航海学校的系统教育。有经验的船长和其他专业人员在航海学校中分享他们的航海知识，并将其传授给新进的学员。航海学校运用最新最好的设备绘制新航路的气象图、航海图，并设计和建造新型的船只。[NEWLINE][NEWLINE]许多人认为葡萄牙的航海家亨利在萨格里什庄园中建立了最早的航海学校。他确实雇佣了大批绘图师来绘制非洲沿海的海图，但并没有可靠的证据表明他曾经建立过汇集航海专业人士的学校。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_CASTLE_STRATEGY">
+			<Text>城堡是中古时代的建筑，可以为城市增加12点防御力和25点生命值。建造此建筑的前提条件是所在城市必须有城墙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_HELP">
+			<Text>本城市所开发的每处种植园+1[ICON_GOLD]金钱，可可种植园则可+3[ICON_GOLD]金钱。[NEWLINE][NEWLINE]城市周边必须至少有一处种植园。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHOCOLATE_HOUSE_STRATEGY">
+			<Text>巧克力馆只能建造于附近有种植园的城市中。巧克力馆能使城市所属的每处种植园+1[ICON_GOLD]金钱，如开发了可可资源还可额外+2[ICON_GOLD]金钱产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CHOCOLATE_HOUSE_TEXT">
+			<Text>西班牙人在1585年首次将巧克力是由新大陆引入欧洲，到1643年时在法国宫廷大受欢迎，自此蔚为风行，在往后的十年间席卷了整个欧洲。第一家巧克力馆于1657年在伦敦开张，提供巧克力饮品与甜点，巧克力馆很快就成为欧洲大陆上流社会热衷的聚会场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_HELP">
+			<Text>组建火器单位时+15%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GUNSMITH_SHOP_STRATEGY">
+			<Text>枪炮工房可提升城市组建火器单位的速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GUNSMITH_SHOP_TEXT">
+			<Text>枪炮工匠是专职于设计、改造、制作及修理火器的工匠。在18世纪90年代伊莱•惠特尼的米尔河军械所、以及19世纪中叶塞缪尔•柯尔特在哈特福（美国）及伦敦（英国）建立工厂规模化生产手枪以前，枪炮工房一直是任何“文明开化的”殖民点所不可或缺的设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_HELP">
+			<Text>每处已开发的森林区块+1[ICON_PRODUCTION]产能并+1[ICON_PEACE]信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_LONGHOUSE_STRATEGY">
+			<Text>长屋是易洛魁文明的特色建筑，替代工坊出现。它能够增加位于城市范围内的森林区块的[ICON_PRODUCTION]产能和[ICON_PEACE]信仰产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_HELP">
+			<Text>本文明与城邦之间的每条商路+5%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEETING_HOUSE_STRATEGY">
+			<Text>议事厅可使本文明与城邦之间的每条商路增加额外的[ICON_PRODUCTION]产能。商路可以连接任意城市，即使是没有建造议事厅的城市。该建筑只能在信奉施行了“议事厅”信条的宗教的城市中通过花费[ICON_PEACE]信仰点数来购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEETING_HOUSE_TEXT">
+			<Text>在新大陆，议事厅是大多数新教徒殖民地的社交与文化中心。议事厅既是殖民者的宗教活动场所，也是公众集会交流的地点。对于许多早期的辉格派、孟诺派、唯一神教派、清教派、浸信派及其他教派定居点而言，议事厅也是实质上的市政厅，用于进行政治辩论、投票及决策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MONASTERY_STRATEGY">
+			<Text>修道院能增加城市的[ICON_CULTURE]文化产出，加快城市边界拓展和文明推行社会政策的速度。修道院可使城市文化边界的扩张速度为原先的四倍。此建筑只能在信奉拥有修道院信条的宗教的城市通过花费[ICON_PEACE]信仰来购买。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_STRATEGY">
+			<Text>每座马厩提供2单位[ICON_RES_HORSE]马资源。全国最多能建造5座马厩。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_STABLE_HELP">
+			<Text>提供2单位[ICON_RES_HORSE]马资源。全国最多能拥有5座马厩。</Text>
+		</Row>
+		<!-- National Wonder-->
+		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_STRATEGY">
+			<Text>布莱斯巨画对于城市较少而人口稠密并且希望将自己的宗教传遍全大陆的美洲文明来说十分重要。此奇观还能加快所在城市的边界扩张速度。建造此奇观要求所在文明的所有城市都拥有神庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BLYTHE_INTAGLIOS_HELP">
+			<Text>所在城市边界扩张耗费的[ICON_CULTURE]文化与[ICON_GOLD]金钱减少25%。[NEWLINE][NEWLINE]要求所有城市都拥有神庙且必须属于美洲文明。文明的城市数量越多建造成本越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BLYTHE_INTAGLIOS_TEXT">
+			<Text>布莱斯巨画是位于大马利亚山脉东面科罗拉多沙漠当中的数十处巨大的图画，年代至少可以追溯至公元前1000年，其作画方式是挖开地表，露出颜色较浅的岩层。巨画直到1930年代才被发现，其中最大的一幅长达171英尺。这些巨画据信是奇楚与莫哈韦部族为祭祀神灵而制作的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_STRATEGY">
+			<Text>对于城市较少而人口稠密并且希望向世界传播本国宗教的欧洲文明来说非常重要的奇观。必须在首都建造。可使来自该城市的传教士可以传教三次。建造此奇观的前提条件是所有城市必须拥有神庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_GRAND_TEMPLE_HELP">
+			<Text>该城市组建的传教士可以传教三次。[NEWLINE][NEWLINE]必须在[ICON_CAPITAL]首都建造。要求所有城市都拥有神庙且必须属于欧洲文明。文明的城市数量越多建造成本越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_HELP">
+			<Text>消除本国组建的海军单位的败血症。回合开始时处于航海学校所在城市的单位的“败血症”晋升将被去除。城市建成此奇观后将获得一位海军统帅。要求所有城市都拥有大学。[NEWLINE]仅欧洲文明可建造。城市必须沿海。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_NAVIGATION_SCHOOL_STRATEGY">
+			<Text>建造航海学校国家奇观以确保今后海军单位不再受到败血症的困扰，回合开始时处于该奇观所在城市的单位的“败血症”晋升将被去除。</Text>
+		</Row>
+		<!-- World Wonders-->
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_DESC">
+			<Text>公元2005年发现于俄亥俄州西南部的穆尔赫之圈（或称”巨木阵”）是建于大约2000年以前（公元前40年到公元130年之间），建造者可能是霍普威尔文化的部族之一。穆尔赫之圈是由三道呈同心圆状排列的木柱所组成，每根高约15英尺，外圈的木柱有200根左右，分布直径约200英尺，可能是用于宗教仪式，但实际状况已无从知晓。最近，该处又挖掘出一个装有红土的中央祭坛，以及相邻的一处长40英尺宽50英尺的长方形建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_HELP">
+			<Text>仅美洲文明可建造。城市中出现一个商队单位并可额外建立一条商路。城市被占领时将被摧毁。[NEWLINE][NEWLINE]城市必须位于或邻近草原地块。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MOOREHEAD_CIRCLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“这个木圈可能是他们祭祀活动的中心……也是人们长途跋涉前来此地的原因之一。”[NEWLINE][TAB][TAB]——罗伯特·莱尔顿[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_MACHU_PICHU_HELP">
+			<Text>仅美洲文明可建造。来自[ICON_CONNECTED]商路的[ICON_GOLD]金钱+25%。城市被占领时将被摧毁。[NEWLINE][NEWLINE]城市2格内的本国领土上必须有山脉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_WONDER_CHICHEN_ITZA_HELP">
+			<Text>仅美洲文明可建造。[ICON_GOLDEN_AGE]黄金时代长度增加50%。丛林地块+2[ICON_PEACE]信仰。城市被占领时将被摧毁。[NEWLINE][NEWLINE]城市必须位于丘陵地块。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_DESC">
+			<Text>特斯科金哥的年代可以追溯至阿兹特克帝国的后古典时期，邻近首都特斯科科，是皇室的避暑花园。它是在公元15世纪由当时的君主内萨瓦尔科约所建，敬奉对象为雨神特拉洛柯。特斯科金哥拥有精巧而先进的灌溉系统，使其成为贵族的休闲天堂、展示帝国各处植物的展览场、药草种植园兼宗教圣地。这座花园占地122公顷，被认为是世界上第一座植物园，也是令西班牙征服者叹服不已的一处奇观。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_HELP">
+			<Text>仅美洲文明可建造。所在城市赠送一座花园。城市被占领时将被摧毁。[NEWLINE][NEWLINE]城市必须邻近河流或湖泊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TEXCOTZINGO_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“以他们对花鸟宝石之美的欣赏，以及宗教意识的强度来看……这些古代墨西哥人拥有相当程度的文明。”[NEWLINE][TAB][TAB]——雅克•苏斯泰尔[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TITLE">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_HEADING">
+			<Text>逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_FACTOID_TEXT">
+			<Text>玛雅的祭司同时也承担着医疗方面的职责，他们的药方包括从各种草本植物到“发汗浴”，类似于今天的桑拿。[NEWLINE][NEWLINE]现代玛雅女性传统上会穿着一种叫做“惠皮尔”的女式长衫。惠皮尔有着明亮的颜色和独特的设计，每个村落都有其不同的织法、色调和花纹。根据惠皮尔可以判断出穿着者的家乡。[NEWLINE][NEWLINE]玛雅被认为是热巧克力的发源地。可可豆产自玛雅领土，它们被晒干以后，混合上当地出产的其他香料，泡在热水里饮用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_2">
+			<Text>地理与气候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_3">
+			<Text>玛雅历史的时期</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_4">
+			<Text>玛雅文明的重镇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_5">
+			<Text>古典玛雅的衰落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_6">
+			<Text>社会阶层</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_7">
+			<Text>农业与狩猎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_8">
+			<Text>祭祀活动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_9">
+			<Text>玛雅文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_10">
+			<Text>玛雅历法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_11">
+			<Text>殖民入侵与衰落</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_HEADING_12">
+			<Text>当代玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_1">
+			<Text>玛雅人最初在公元3至10世纪期间定居于现今墨西哥、危地马拉和伯利兹境内，由拥有共同文化与共同信仰的许多独立小王国组成。玛雅文明的确切起源已经无人知晓，有据可查的第一个玛雅定居点建立于公元前2000年左右。玛雅诸城邦由农业文化前的小部落逐步发展为大范围的城市体系，依靠完善的农耕技术生产大量粮食用于自身消耗和贸易。尽管一部分定居点出于未知原因，在公元1000年左右纷纷衰落了，剩下的许多城市依然继续繁荣发展，直到16世纪遇上西班牙征服者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_2">
+			<Text>玛雅定居点主要集中于今天的危地马拉和伯利兹，以及墨西哥境内的尤卡坦半岛——包括坎佩切州、尤卡坦州和金塔纳罗奥州。玛雅人居住的地形变化极大：既有山峦叠嶂的高地、苍翠繁茂的湿地，又有干旱少雨的低地，地貌的多样性自然也包括了从繁密的热带雨林直到空旷的大平原。[NEWLINE][NEWLINE]玛雅领土内的热带雨林区不仅给玛雅农业提供了多样的植物和动物种群，也带来了对别的地方来说很稀缺的充沛雨水。在雨林中，超过100英寸的年降雨量一点也不稀罕。被雨水充分侵润过的土地，可以将降雨集中到由石灰石堆砌而成的储水池中，当地人称为天然井。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_3">
+			<Text>关于玛雅人的起源有很多理论，但直到最近50年以来，才由考古学界的中美洲史研究者们拼凑出一条早期文明发展的时间线。由于缺乏文献资料，早期对玛雅的研究局限于猜测之中。20世纪60年代到70年代之间，对玛雅文献的解密工作有了突破性进展，对玛雅文明史的研究才重新活跃起来。[NEWLINE][NEWLINE]玛雅文明的发展历程可以被分为几个截然不同的阶段：前古典时期，古典时期，以及后古典时期。在前古典时期，第一个聚落被认为是在公元前2000-1500年之间形成。那时玛雅人的祖先刚从狩猎民族转化为定居的农业民族。随着时间的推进，这些早期聚居点组建演化为更加复杂的社会。新的社会不仅仅包括了更加精密的农业生产和贸易活动，也包括了艺术和建筑上的伟大成就。[NEWLINE][NEWLINE]玛雅文明的高峰期大约是在公元250-900年之间，亦即古典时期。在古典时期中，玛雅产生了许多现在被认为是玛雅标志的制度，开始向独立的城邦演变，每一个城邦都拥有祭祀他们的神和国王的巨型城市。[NEWLINE][NEWLINE]在后古典时期，玛雅南部的一些重要城市开始衰落，并且出于某种未知原因，一些最伟大的城市被抛弃了。但是玛雅北部的一些城市依然继续繁荣，直到下一个千年。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_4">
+			<Text>虽然玛雅各城邦共享统一的文化，这些巨大的玛雅城市都是强悍的独立政权，相互之间因领土、贸易和政治争端而不断爆发战争。但虽然在政治上处于分裂状态，所有玛雅城邦又都致力于向周边地区扩展他们彼此融合而又各具特色的文化。[NEWLINE][NEWLINE]玛雅的卡米纳尔胡尤被认为是美洲最古老的城市，从公元前1500年起到公元1200年，卡米纳尔胡尤一直是为数众多的玛雅民众的家园。上个世纪在这个城市的遗址附近进行了数十次考古发掘，显示出这座城市可能是这个地区黑曜石和玉器的主要产地，同时还有超过100座坟墩和各式建筑遗迹出土。遗憾的是，由于19世纪到20世纪中附近地区的商业发展，这个城市的遗址已经被彻底摧毁，目前只剩下部分残桓。[NEWLINE][NEWLINE]埃尔米拉多则是另一个玛雅大城市的典型。这座城市繁荣与公元前600年到公元100年左右。埃尔米拉多不仅有众多人口，更出名的是它的古代高速公路系统，在玛雅语里被称为“白道”。白道是玛雅贸易网络中不可缺少的一个部分，它负责连接起定居点内的各建筑以及城外的贸易中心。犹如今日的公路系统，白道四通八达，不仅仅建立在大城市之间，也延伸到一些不稳定地区；最长的一条白道将古城市科巴和60英里（96公里）外的一座稍小的城市雅旭纳连接起来。[NEWLINE][NEWLINE]提卡大概是古典时期的最著名城市，它是强大的提卡城邦的首府。在提卡城邦的极盛期，提卡人时常对周边城邦发起激烈的攻击。提卡的历史大概有2000年，拥有大约10万人口。提卡还有一个比较不为人知的创新之处，城市里有一个天才的储水系统，即“浅洼地”，可以在下雨时候收集从城市建筑墙壁上流下的雨水。[NEWLINE][NEWLINE]奇琴伊察是玛雅现存的最后一个大型聚居地，同时也是保存得最完好的一个。奇琴伊察占地大约2.5平方英里（6.5平方公里），包含有各种风格的玛雅建筑，包括大型的阶梯形金字塔、数个球场、以及装饰精美的寺庙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_5">
+			<Text>在接近9世纪左右的时候，出于不明的原因，许多玛雅最南部的聚居点进入了一个快速衰落的阶段，这段时期被命名为后古典时期目前对于抛弃这些城市的原因存有很大的争议。比较流行的说法包括人口密度过大、环境破坏、战争和疾病。他们中间的每一个看起来都是合理的，但目前看来更可能是二种或多种原因共同起作用促使了人民的迁移。[NEWLINE][NEWLINE]在南部的城市纷纷被抛弃的同时，玛雅北部的城邦依然在继续成长。奇琴伊察是大衰落之后的受益人之一，它在后古典时期迅速发展强大起来。奇琴伊察的繁荣持续了数百年，直到它在1300年左右，陷入了一场与近邻玛雅潘城邦的可怕的战争中。玛雅潘城邦和乌克马尔、科巴城邦一起构成了后古典时期的玛雅城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_6">
+			<Text>玛雅从未被统一为一个帝国，而是像希腊城邦那样，作为许多独立小城邦的集合体存在。玛雅城邦之间的社会阶层是相似的，大约从公元前3世纪起，玛雅建立了世袭制度，直到没有合格的继承人为止。国王与王亲还有其余高层人士一起组成了社会的最上层——贵族。贵族之下是祭司阶层，他们负责教导国王、引导人民和主持各种祭祀。在这些统治阶层下是占绝大多数人的“普通人”——农夫、手工业者和一般劳工。最底层的则是奴隶阶层，主要来源于战争和囚犯。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_7">
+			<Text>在缺乏新鲜水源的情况下，玛雅人学会使用了数种利用肥沃土地进行种植的技术。一种叫做“栽培地”的植物轮作系统在多个中美洲文明中都被采用，但对玛雅人来说尤其起效。栽培地体系是一种间隔种植几种不同的作物的轮作体系。一般来说，在这个轮作系统内，耕地连续耕种了两到三年后，需要六到八年的休耕来进行恢复。耕地上种植的作物主要包括玉米、南瓜和豆科——它们被合称为“美洲作物三姊妹”。[NEWLINE][NEWLINE]玛雅人不仅是能干的农夫，同时也是技艺高超的猎人和渔夫。玛雅人依靠一些工具就可以杀死驯鹿、野兔乃至一种雨林中特有的野猪。玛雅人还会使用一种新颖的投矛工具——按玛雅语发音为“阿特拉特”——玛雅人在战争和狩猎中都使用它们。“阿特拉特”的本体是一只木质的柄，一端有一个机关。这只长矛（或者说标枪）首先被平放，依靠投掷者的自然运动，机关的弹力就会使长矛就会以很高的速度被投掷出去。据说“阿特拉特”射出的长矛能达到100英里（160公里）的时速，这无疑让玛雅人更有信心对付更大和更快的猎物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_8">
+			<Text>和其它所有多神教主宰的社会一样，玛雅人祭祀的神系众多，为首的是造物主伊察。祭祀的重点是天空神系，尤其是天空之神阿皋和月亮女神伊其谢尔。玛雅人也有主宰天气、作物以及社会各个方面的神。当文明发展到后期，农作物变为生存关键的时候，玉米之神变得尤其重要。[NEWLINE][NEWLINE]根据他们掌握的天文学和历法知识，玛雅人每年举行数次祭祀活动。玛雅也和其它美洲文明一样使用活人献祭，但他们的做法要轻微得多，活人献祭仅在特别重要的仪式上使用。玛雅人认为活人献祭可以提高人口的繁衍能力，他们的做法是将祭品扔入活水水渠中去祭祀雨神察阿克。奇琴伊察有一个著名的浅洼地，在这里无数活人被献祭于古典时代。[NEWLINE][NEWLINE]玛雅人也和其它中美洲文明一样玩一种宗教仪式式的球类比赛。比赛用的是一种实心橡胶球，重大约5到10磅，参赛者试图用臀部将球击入一个垂直利于上空的篮圈中。这种比赛分为娱乐型和仪式型，有时也被用来解决领土争端，当然失败一方的下场很可能就是死亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_9">
+			<Text>在玛雅文明的巅峰期，玛雅艺术家们创造了许多伟大的艺术作品，主要类型是在石头或是玉上留下的复杂雕刻，而且每个城市的工匠还在他们的作品里留下了自己地区的独特印记。玛雅人还用热带雨林中的独特产物调制出了一系列的色素和颜料，其中最著名的当属“玛雅蓝”。玛雅蓝是一种靛蓝燃料的衍生物，十分鲜活生动，在玛雅衰落、欧洲殖民者来到美洲大陆的时期传入了欧洲。[NEWLINE][NEWLINE]玛雅建筑中最出名的当属阶梯金字塔，即使在玛雅文明的末期，也有一批阶梯金字塔被建起。正如名字所言，阶梯金字塔由多层递进式平台构成，最顶端是平的，便于举行宗教仪式。一般认为阶梯金字塔是建造在事先垒好的土堆之上的，或者是自寺庙改建而来，并且根据玛雅的日历周期，每个金字塔都可能被重修多次。位于尤卡塔半岛的奇琴伊察的那座阶梯金字塔是目前保存最为完好的，它代表了玛雅政府当年的高超内政水准。[NEWLINE][NEWLINE]玛雅的书写系统经常被认为和古埃及的象形文字类似。玛雅文字在玛雅境内许多地方出土，对玛雅文字的破解也在上个世纪逐渐成功，从中可以窥见玛雅文化的方方面面。虽然有证据表明玛雅人曾经用树皮或者兽皮把装订成册，但绝大部分这样的书册都在西班牙殖民者入侵的时候被烧毁，因为西班牙人认为这是异端书籍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_10">
+			<Text>玛雅文化里有许多值得大书特书的方面，但最有名的成就大概是他们独特的历法系统，玛雅历法的用途也是长期以来学术界争论的对象。长计历就是这个复杂的历法系统中的一员，除长计历外，还有两种历法系统也同时被采用，分别是哈布历和卓尔金历。[NEWLINE][NEWLINE]2012世界末日的说法就来自于长计历。玛雅人用长计历来作为记载人类历史的历法。根据长计历，人类社会起源于公元前3114年8月11日，终结于——按某些末日论者的说法，是毁灭于——2012年12月21日。末日论者认为这个历法是玛雅人用来预言世界末日的，但是大多数学者认为这只不过是长计历一个周期的结束和下一个周期开始的日子，与世界末日毫无关系。[NEWLINE][NEWLINE]虽然知名度更低，但哈布历和卓尔金历都是和长计历一起使用的历法。哈布历是一个365天的历法，代表一个完整的太阳年。卓尔金历则是260天为一循环，主要用在农业和祭祀上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_11">
+			<Text>西班牙人的到来迅速摧毁了剩下的玛雅北部城邦，虽然在今天的墨西哥和中南美洲还仍有许多玛雅人存在，但他们的文化和历史没有在西班牙征服者的侵略中保存下来。从16世纪初期开始，西班牙人开始往尤卡坦半岛派遣探险家，试图在那里建立一个永久定居点。但是玛雅人分散的城邦社会给西班牙人造成了很大的困难，因为西班牙人无法一次性击败玛雅人，而必须逐步征服每一个城邦。西班牙人最终花费了近200年才完成征服玛雅的计划。[NEWLINE][NEWLINE]征服玛雅地区后，西班牙人多次尝试将玛雅人转化为天主教信徒。其中最为臭名昭著的一次是由尤卡坦主教区的西班牙大主教蒂亚戈·德·兰达主持的。德·兰达进行了一次异端审问，将玛尼城邦中的玛雅神像和全部玛雅典籍都付之一炬，以根除玛雅人自己的信仰。虽然德·兰达的这次行为在现代遭到普遍指责，还是有一些历史学家试图为他辩护，因为他自己存有一份手稿，里面详细记载了他亲身经历的玛雅宗教仪式和语言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MAYA_TEXT_12">
+			<Text>现存的当代玛雅人大约有700万，生活在今天的墨西哥、危地马拉、伯利兹、洪都拉斯和萨尔瓦多境内，大部分人都保留有部分独特的文化遗产。虽然他们操持着20多种不同的语言，当代玛雅人依然共享同样的文化和传统，同时也共享着古代玛雅人的遗产。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TITLE">
+			<Text>荷兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_HEADING">
+			<Text>逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_FACTOID_TEXT">
+			<Text>荷兰最大的出口商品之一，郁金香，在整个国家都有生产。在十七世纪荷兰的经济力量处于巅峰时，一次被称为“郁金香狂热”的事件，激发了郁金香贸易中广泛的投机和价格操纵，使稀有的郁金香品种的价格在最终回落前到达了一个天文数字。[NEWLINE][NEWLINE]全球都在消费的喜力啤酒，最早于1873年在阿姆斯特丹创建。如今和它标志性的红色和绿色商标一起已经成为一个被广泛认同的荷兰的标志产品。[NEWLINE][NEWLINE]荷兰这个名字据说来源于荷兰语的词汇“holtland”，意思是长满树的土地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_2">
+			<Text>地理和气候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_3">
+			<Text>史前时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_4">
+			<Text>罗马占领时期</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_5">
+			<Text>弗里斯兰和法兰克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_6">
+			<Text>帝国变迁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_7">
+			<Text>权力的转移</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_8">
+			<Text>新教革命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_9">
+			<Text>对西班牙的起义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_10">
+			<Text>贸易霸主</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_11">
+			<Text>海洋争霸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_12">
+			<Text>王国的建立</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_13">
+			<Text>世界大战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_14">
+			<Text>现代荷兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_HEADING_15">
+			<Text>文化标志</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_1">
+			<Text>（塞爱维小提示：荷兰是个约定俗成的称谓，其正式名称是“尼德兰”，意为“低地之国”，“荷兰”仅是当初尼德兰的七省之一。中文史籍通常在其独立前称“尼德兰”，独立后称“荷兰”以作区分。）[NEWLINE]荷兰或称“尼德兰”，从欧洲北方海岸线上处在多个强大帝国的势力范围之内的小小行省崛起为世界最重要的贸易中心之一。从罗马的征服开始，其后的法兰克的崛起，以及最后的神圣罗马帝国，荷兰频繁的成为扩张的欧洲王国的目标。然而，他们留下的印迹都无法超越西班牙哈布斯堡家族——腓力国王对荷兰新教徒的迫害直接导致了八十年战争的爆发。将荷兰的人民推上了反抗西班牙宗主追求独立的长达一个世纪的斗争。自从建立了在政治上独立自主的国家之后，荷兰人民一直不知疲倦地努力发展自己的民族特色。而在这个新生的共和制国家逐步成为世界经济的主导力量的历史进程中，也诞生了不计其数的文化和科技伟人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_2">
+			<Text>荷兰王国处在欧洲北部的海岸，同时也管理着加勒比海中的阿鲁巴，库拉索和圣马丁岛。荷兰在欧洲的省份海拔非常的低，许多的土地是通过扩展大堤从海里获得的。尽管荷兰的土地相对较小，大约只有美国的新泽西面积的两倍，那里却居住着超过一千六百万的人民。由于可用的土地非常的小，荷兰有着悠久的城市规划和建设的历史，许多荷兰人也居住在包括首都阿姆斯特丹在内的高密度的城市中心里。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_3">
+			<Text>在罗马人于公元前一世纪到来之前，现今的荷兰地区居住着许多的日耳曼部落。这些部落来自于周边地区，尤其是斯堪的纳维亚地区。他们同时也是发源于德国和奥地利地区的塞尔特人的早期后裔。在这些部落中，居住在莱茵河上的一个岛屿上的巴达维人，是最强大和令人恐惧的。尽管巴达维人并不被认为在贸易和工艺上特别成功，但仅仅是他们在战斗中的声望就足以另他们在周边部落里取得统治地位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_4">
+			<Text>荷兰最南部的区域，即罗马人的下日耳曼尼亚省，在公元1世纪时被罗马人以武力占领。根据恺撒大帝的《高卢战记》记载，巴达维部落曾经作为雇佣军协助罗马人在欧洲作战。然而，巴达维部落最终由于罗马人越来越紧密的控制发生了叛乱，导致了对他们的镇压。罗马的军队控制了这个区域长达接近400年没有受到任何挑战，直到帝国整体的崩溃。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_5">
+			<Text>尽管这个时期的文字记录非常罕见，在罗马帝国衰弱后，荷兰境内的帝国领土迅速被法兰克人和弗里斯兰人取得。尽管这些部落在这个地区居住了数个世纪，只有在一度强大的罗马帝国的缺席下，他们扩张的机会才大大增加。法兰克帝国最终取得了几乎整个荷兰和德国，仅留下处于北部海岸的弗里斯兰。由于居住的如此接近，法兰克和弗里斯兰最终成为了苦涩的对手，通过一系列的战争来解决领土的争端。在734年，法兰克在伯尔南之战胜利宣告了弗里斯兰王国的终结并将这些土地吸收入法兰克帝国。法兰克随后对意大利的征服和在查理曼大帝时期的扩张奠定了一些未来出现的王国的基础，包括法国和德国。在随后的几个世纪里，荷兰的土地处于他们的统治之下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_6">
+			<Text>在查理曼大帝于814年去世后，法兰克帝国分成了三个部分，中法兰克，东法兰克和西法兰克王国。荷兰的大部分成为了洛泰尔一世治下的中法兰克帝国的一部分。这个曾经庞大的帝国的分裂同时也导致了许多王国在德国地区（后来成为了神圣罗马帝国）和法国地区诞生，他们都曾经为了在荷兰地区的影响和土地而战。当这个地区的许多部分最终在公元15世纪被神圣罗马帝国控制时，勃艮第公爵这个法国王室的旁枝，开始觊觎这片土地。[NEWLINE][NEWLINE]同时也在这个时期，许多可怕的洪水第一次袭击了荷兰，造成了千百人的死亡和基础设施的大量毁坏。在1287年，灾难性的圣卢西亚洪水袭击了荷兰，造成了超过50000人的死亡并把一个小湖泊直接变成了北海的一部分，即须德海。须德海直到20世纪才被从北海分离，恢复了它曾经淡水湖的情况。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_7">
+			<Text>在14和15世纪，荷兰以及邻近的比利时几乎完全被勃艮第公爵控制。整个十五世纪，这些法国公爵持续的通过联姻继承，精心计算的购买以及直接吞并持续不断的从低地国家获取了越来越多的土地。[NEWLINE][NEWLINE]勃艮第在荷兰的土地最终通过勃艮第女公爵玛丽和奥地利的马克西米利安一世的联姻被哈布斯堡家族获得。尽管马克西米利安一世对勃艮第的继承权受到法国国王的反对，这些土地最终还是被玛丽的儿子，腓力一世继承，确保了权力向哈布斯堡的转移。[NEWLINE][NEWLINE]1521年，哈布斯堡家族分裂为西班牙哈布斯堡和奥地利哈布斯堡。西班牙哈布斯堡继续控制着荷兰的土地，而奥地利哈布斯堡则通过数任神圣罗马帝国皇帝控制了德国和周边区域。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_8">
+			<Text>在欧洲新教改革期间，当罗马天主教的传统权威受到质疑时，新教运动在荷兰境内留下了深刻的印记。荷兰的天主教统治者对荷兰境内新教信仰的传播感到非常不安，起先是查理五世，随后是更重要的他的儿子，西班牙国王腓力二世。腓力国王对荷兰新教徒越来越残酷的镇压最终在其后的几年里造成了荷兰人民不满的爆发。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_9">
+			<Text>在对腓力国王政策的不满在荷兰传播时，荷兰革命最显著的标志，奥兰治的威廉成为了宗教容忍的大胆支持者。威廉自己是作为新教徒长大的，但是作为他贵族教育的一部分，他改宗了天主教。尽管他的信仰不同，他坚定地相信所有人都有实践自己信仰的权力。威廉是荷兰的贵族，是西班牙忠诚的下属，他最初对反抗国王的命令感到犹豫。然而，当腓力丝毫不试图安抚荷兰人民的不安时，威廉被迫作出抉择。到1567年时，小规模的叛乱已经开始行动，威廉由于选择背弃腓力国王并资助起义被西班牙方面宣布为罪犯。[NEWLINE][NEWLINE]当威廉领导他的军队在正面取得了对西班牙的数次胜利后，联省共和国于1581年在北部被解放的土地上建立。然而，这些最初的成功只是标志着被称为八十年战争的长期冲突的开始，在这段时期内，西班牙国王依然维持着对荷兰南部区域的控制。奥兰治的威廉在1584年被一个忠于腓力国王的天主教徒刺杀，而战争则持续到1648年，最终荷兰共和国从西班牙的控制下完全独立了出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_10">
+			<Text>在八十年战争和荷兰共和国的建立后，荷兰迅速成为了欧洲统治性的贸易中心。在这个世界上第一个跨国公司，荷属东印度公司的带领下，荷兰的商人在全球建立了新的贸易路线和殖民地。这些被认为是荷兰的黄金时期的日子，也见证了荷兰的科学进步，军事创新以及境内蒸蒸日上的艺术和音乐文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_11">
+			<Text>当英国越来越关注荷兰与英国、法国和西班牙殖民地的贸易对英国贸易努力和利润的损害时，英国议会于1651年通过了一系列的法案来限制荷兰船队的扩展。这些法案被称为“航海法案”，用来限制荷兰对英国港口的访问。英国这些控制海洋的努力直接导致了17世纪被称为英荷战争的一系列的冲突。在随后的100年里直到18世纪中期，由于无数的海战导致荷兰舰队数量和力量上的衰弱，荷兰在政治和世界贸易中的力量遭到了极大的削弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_12">
+			<Text>在拿破仑战争时期，荷兰在1795年被法国吞并，建立了法兰西共和国的卫星国，短命的巴维亚共和国。在1814年枫丹白露协定的签署正式宣告拿破仑征服的终结后，荷兰人民又一次通过成立荷兰联合王国来宣告他们的独立。随后在1830年，比利时，这个直到那时还一直被认为是荷兰一部分的地区，也脱离荷兰成为了一个独立的国家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_13">
+			<Text>从建立主权国家之初，荷兰就一直试图在任何可能的情况下维持一个严格中立的政策。作为结果，荷兰在第一次世界大战中保持了中立，没有在战争中出兵但是依然和双方都维持了经济关系。[NEWLINE][NEWLINE]在第二次世界大战中，荷兰在冲突爆发时又一次宣告中立。然而这次，德国人不再允许有价值的荷兰土地保持不结盟。在1940年，纳粹入侵荷兰，他们起初遭到了荷兰军队的一些抵抗，但是荷兰最终还是被第三帝国蹂躏并占领。在德国占领期间，荷兰政府逃离了这个国家并组成流亡政府，而这个国家则被纳粹军事占领。尽管当德国的占领变得越来越令人无法忍受时荷兰的抵抗运动也在不停的发展，纳粹依然在荷兰杀死了成千的荷兰犹太人和来自德国的犹太难民。其中包括安妮·弗兰克，她的日记成为了犹太大屠杀的广为传阅的编年史。[NEWLINE][NEWLINE]在1944年，为了夺取莱茵河以及默兹河上从荷兰通往德国的大桥，盟军发起了历史上最大的空投作战——市场花园行动。盟军在这个区域空投了数千的空降兵，然而行动却不是很成功。盟军指挥官们把失败归因于阻止盟军推进的坏天气和通讯问题。作为这次失败的结果，荷兰直到1945年春天德国最终投降之前始终在纳粹政权的手中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_14">
+			<Text>现代的荷兰王国是一个君主立宪国家，拥有一个民选的议会来协助执政女王贝娅特丽克丝。作为欧盟的创始国之一，荷兰王国长期为欧盟给这个地区带来和平和经济稳定的努力作出贡献。荷兰的第三大城市海牙，既是荷兰政府的所在地也是联合国国际法庭的所在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_NETHERLANDS_TEXT_15">
+			<Text>在历史上，荷兰创造了许多世界上最杰出的艺术家、科学家、研究人员和学者。他们中的许多人都参与奠定了其所在领域现代的发展的基础。著名画家伦勃朗·范·莱因和文森特·梵·高都是荷兰人，如今他们的作品都在艺术界最杰出和有价值的作品之中。科学家中则有着发现了土星环的克里斯蒂安·惠更斯和“微生物学之父”安东尼·范·列文虎克，他们都为未来的科学探索作出了极大的贡献。</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_NAME">
+			<Text>帕卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TITLES_1">
+			<Text>国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_SUBTITLE">
+			<Text>玛雅领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_LIVED">
+			<Text>603-683</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_FACT_1">
+			<Text>帕卡尔一词在古玛雅语中的意思是“盾”，或“太阳之盾”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_2">
+			<Text>早年经历</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_3">
+			<Text>帕伦克的复兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_HEADING_4">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_1">
+			<Text>玛雅人的国王帕卡尔二世，亦称为“帕卡尔大帝”，可以说是玛雅的统治者里最著名的一位。帕卡尔继承王位的时候，帕伦克正值混乱，而此时的帕卡尔年仅十二岁。虽然关于他在位时期的历史细节往往都覆盖着一层迷雾，但有一点是再清楚不过的了，就是他带领帕伦克城邦，这座在他的前任统治者手上被反复劫掠几近毁灭的城市，重新走向强大。同时，帕卡尔在建筑艺术方面的成就可谓登峰造极，他亲自监督建造了许多巨大而精致异常的建筑。其中最著名的，莫过于帕卡尔自己的陵墓了。这座陵墓以铭文神庙闻名，其特点是用玛雅象形文字将国王的历史生活以极其复杂的方式雕刻了出来。因为有着惊人数量的保存良好的铭文，这座神庙给予了当代的考古学家们一个重要的视角去查看这座伟大的玛雅城市曾一度消失的历史和文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_2">
+			<Text>帕卡尔的母亲，扎克·库克，是少数曾独自统治过一个玛雅城邦的女性之一。通常来说，王位只会传承给国王的儿子，但是在没有合适的男性继承人的情况下，扎克·库克女士，作为前王后的孙女而继承了王位。帕卡尔则在三年之后继承了王位，在传统父系社会，这次偏离常轨的举动直接导致了帕卡尔之后为了合法化他和他的家族的统治而进行的努力。[NEWLINE][NEWLINE]公元615年，帕卡尔继承王位，而此时的帕伦克城邦一片混乱，常年经受着他们的领邦卡拉克穆尔的侵略。在继位初期，帕卡尔向卡拉克穆尔发动了突袭，俘虏了对方的几个领导人，并作为之前遭受侵略的报复将他们全部献祭；这一举动向帕伦克的敌人们发出了明确的信号。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_3">
+			<Text>为了复兴帕伦克，并合法化他的统治，帕卡尔推动了全城邦的大纪念碑建造活动，用来赞颂他的家族。许多令人叹为观止的建筑在此时被建起，其中包括无数的神庙和城市中心的那座巨大而复杂的被人称为“宫殿”的建筑，这是一种特别的四层式的塔，与玛雅境内的其他建筑完全不同。然而，在这些他统治期内建造的所有建筑中，没有一个能超越那座铭文神庙的。作为帕卡尔的陵墓，这座建筑仍然以阶梯金字塔的样子在他的晚年开始建造，最终由他的继承人强·巴鲁姆二世完成。[NEWLINE][NEWLINE]虽然有着复杂的雕刻品和象形文字文本，但这座神庙最出名的还是它作为帕卡尔之墓的存在。神庙是由墨西哥考古学家于1952年发现的，在帕卡尔的陵墓的底层墙上，有着玛雅象形文字中最长的一组文字。这些文本至今依然在破译中，它用编年体的形式记录了帕卡尔直到死亡时的生活经历和他的继承人的升天。[NEWLINE][NEWLINE]石棺的盖子是一个雕刻着精美的象形文字的石头，这些文字代表星球和几个星座。这些天文元素带来了关于玛雅文明是否牵扯到外星生物的争论，就像由古埃及金字塔而产生的争论一样。大多数的权威学者都认为石棺只是描述了帕卡尔的地府旅行，而另外一些人则将这幅图像翻译成帕卡尔正在准备宇宙飞船的起飞。在石棺内，考古学家发现了帕卡尔的遗骸，身上戴着一个精心制作的用翡翠拼接而成的面具。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_4">
+			<Text>帕卡尔大帝被历史学家们认为是玛雅人历史上最值得敬畏的领袖，这主要基于现今被找到的遍及帕伦克境内的各种精美的纪念碑和雕刻品。在他的在位期间，有近千座建筑建成，这其中需要的石材总量达到了15吨。虽然在今天，他的过去还有许多未被人发现，但我们依然可以很确定地说，正是他为帕伦克的复兴所做出的努力，导致了玛雅历史上，一些最伟大的纪念碑和艺术品的产生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_NAME">
+			<Text>威廉·奥兰治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TITLES_1">
+			<Text>奥兰治亲王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_SUBTITLE">
+			<Text>荷兰领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_LIVED">
+			<Text>1533-1584</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_1">
+			<Text>关于“沉默者威廉”这一绰号的由来，有两种主要的说法。一种说法认为是由于他最初服务于查理五世皇帝时对讨论国事非常谨慎；另一种说法则认为是由于他执政时冷静而机敏的态度，根据我们对他生平的了解，两种说法都有合理之处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_FACT_2">
+			<Text>在英国发生“光荣革命”废黜詹姆士二世国王之后，威廉的后裔威廉三世登上了英国王位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_2">
+			<Text>贵族教育</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_3">
+			<Text>起义之源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_4">
+			<Text>发动起义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_5">
+			<Text>战争爆发</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_6">
+			<Text>独立之初</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_7">
+			<Text>刺杀行动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_HEADING_8">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_1">
+			<Text>公认的荷兰国家建立者和解放者威廉·奥兰治，人称“沉默者威廉”，他在公元16世纪中期领导尼德兰诸省人民发起反抗西班牙哈布斯堡王朝的统治的起义并获得胜利。威廉原本是西班牙国王腓力二世的忠实臣属，但西班牙王室对尼德兰诸省新教徒的不断迫害激起了他的极度义愤，最终成为独立起义最重要的领袖。威廉大力召集其他贵族加入反抗事业，成为西班牙王室眼中的叛贼，他率领荷兰军队在战场上赢得多场胜利，然而在1584年死于刺客的一枚子弹。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_2">
+			<Text>威廉生于1553年，最初的头衔是拿骚伯爵，11岁时因他的表兄雷内亲王去世后没有直系后嗣，又继承了奥兰治亲王的头衔和领地。当时的尼德兰处于神圣罗马皇帝兼西班牙国王，哈布斯堡家族的查理五世统治之下。威廉自小接受了良好的贵族教育，进入帝国宫廷任职后深受皇帝的赏识，这层关系在威廉日后争取尼德兰独立的斗争中起到了重要的作用。[NEWLINE][NEWLINE]威廉在军队中不断获得晋升，二十几岁时即成为帝国军队的重要将领，同时还担任帝国外交官及宫廷顾问。然而威廉也为权力付出了信仰上的代价，他放弃了原本的新教路德派信仰以迎合皇帝的罗马天主教信仰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_3">
+			<Text>1555年，查理五世将西班牙王位传给了他的儿子腓力二世。腓力上任后即开始无情地迫害国内的新教徒，他进一步扩大了反宗教改革的宗教裁判所的权力。在为新王服务的过程中，威廉认识到腓力的最终目标是不惜采用任何手段消灭新教徒。虽然威廉本人所受的教育使他皈依了天主教，但他原是新教路德派信徒，并且坚定地认为人们有权利选择自己的信仰。据说在一次外出打猎时，威廉无意中听到腓力与法国国王亨利二世谈论他们准备在各自的国家彻底消灭新教信仰。这件事使威廉最终下定了从西班牙人手中争取尼德兰独立的决心。[NEWLINE][NEWLINE]为了迫使尼德兰的新教徒改宗或是流亡，腓力开始推行“标牌”制度，以拷打和死刑来惩罚信奉路德教派和加尔文教派的人。迫害如此残酷，以至于尼德兰的许多天主教徒也同新教徒一道起来反对腓力的政策。[NEWLINE][NEWLINE]威廉在公开场合批评国王，声明自己的立场，并鼓励其他人一同反对腓力的政策。1566年，来自尼德兰的贵族们向西班牙摄政，帕尔马的玛格丽特请愿，要求结束对尼德兰新教徒的迫害。他们努力寻求以和平方式解决问题，腓力却一口拒绝了所有建议，得知此消息之后，尼德兰各地都爆发了新教徒毁坏天主教圣像运动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_4">
+			<Text>腓力认为毁坏圣像运动表明了新教徒的公开反叛，他派遣人称“铁公爵”的阿尔瓦公爵费尔南多·阿尔瓦雷斯·德·托莱多前往尼德兰镇压反抗者。阿尔瓦公爵到达后立即设立了“除暴委员会”（后来被新教徒称为“血腥委员会”）来审判和惩罚新教徒和他们的领袖。许多收到该委员会传票的人（包括威廉）都躲藏了起来，但据认为约有一千或更多的新教徒被铁公爵定罪并处决。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_5">
+			<Text>威廉在拿骚向起义者提供了资金支持，建立了多次军队，从多条战线对西班牙人发动进攻。这些反抗西班牙统治的新教流亡者和尼德兰贵族战士被称为“乞丐”（Geuzen），其中最著名的则是“海上乞丐”（Watergeuzen）。威廉用他的财富资助“海上乞丐”，装备他们的私掠舰，不断对尼德兰海岸发动袭扰。[NEWLINE][NEWLINE]威廉的兄弟路易·拿骚率领一支由雇佣兵和法国胡格诺教徒（法国新教徒）组成的军队与忠于王室的尼德兰贵族让·德·利涅率领西班牙军队于1568年在尼德兰北部的格罗宁根省进行了海利赫莱战役，路易击溃了西班牙军队并杀死了让·德·利涅，然而威廉和路易的弟弟阿道夫也在指挥骑兵作战时不幸阵亡。这场历史性战役被后世认为标志着“八十年战争”即荷兰独立战争的开始。[NEWLINE][NEWLINE]在随后进行的杰明根战役中，路易的军队试图夺取格罗宁根城但被西班牙人击败而被迫撤退。威廉本人则亲自率领一支军队赢得了多场胜利，激励着各省的尼德兰人从西班牙人手中解放了一座又一座的城市。在此后十年间尼德兰人控制了北方的大部分土地，但西班牙人仍稳固地保有尼德兰南部地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_6">
+			<Text>1573年，乌得勒支同盟协定在尼德兰北部的同名城市签署生效，北方诸省自此联合起来共同对抗西班牙。虽然并未宣布完全独立，该同盟的成立是西班牙对尼德兰统治的转折点。虽然西班牙还控制着南部地区，1581年通过的“誓绝法案”标志着低地之国的正式脱离腓力的统治宣告独立。不幸的是，威廉本人并没有活着看到整个荷兰的彻底解放。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_7">
+			<Text>腓力国王为威廉的头许下了高额赏金，第一个刺杀尝试者西班牙人胡安·德·豪雷吉在1582年用火枪射伤了威廉的颈部，威廉幸免于难但受了重伤，恢复的缓慢限制了他对独立事业的领导。两年后一个法国天主教徒巴尔塔扎·杰拉德又潜入威廉的宅邸向他开了三枪，其中一枪射中了他的胸口。[NEWLINE][NEWLINE]巴尔塔扎随后遭到审判并被处以死刑，人们折磨了他一个星期后才砍掉他的脑袋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_8">
+			<Text>如今威廉作为现代荷兰国家的建立者和独立运动领袖而深受敬重。威廉激励了荷兰人民反抗西班牙人的统治和对荷兰新教徒的迫害，并为追求国民的人身和信仰自由奉献出了自己的生命。</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_PROMOTION_WITHDRAW_BEFORE_MELEE_HELP">
+			<Text>单位在遭遇近战攻击时将会撤退。如敌方单位移动力较高或本单位身后开阔地块较少则撤退几率会下降。</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILDING_MAYA_PYRAMID_STRATEGY">
+			<Text>金字塔神庙是玛雅文明在远古时代的特殊建筑，取代了神祠。它可以增加城市的[ICON_RESEARCH]科研和[ICON_PEACE]信仰产出，加快科研和宗教的开启速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT">
+			<Text>这些令人叹为观止的金字塔型建筑早在3000年前就由玛雅人建造并用于各种仪式。玛雅工匠们手工切割出神庙的每一块石料，并赋予了建筑“阶梯状”的外表。金字塔的其中一侧修筑有一条通向塔顶的石阶，顶部的小神祠一般供奉着其中一位玛雅神袛。最大的玛雅金字塔神庙位于艾尔米拉多尔，测量高度达260英尺。按体积计算，约9千9百万立方英尺的它在世界最大的金字塔中占有一席之地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_HELP">
+			<Text>圩田必须修建于冲程平原和沼泽。可显著提升食物产出。获得经济学科技后还可+1[ICON_PRODUCTION]产能和+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_POLDER_TEXT">
+			<Text>圩田是一片四周被防浪堤围起来的低地。一般来说，圩田是通过填平湖泊、海洋、冲积平原或者沼泽而创造的陆地。因为抽干了水分导致地面下沉，圩田一般都低于海平面，海水会不断的渗入圩田，所以圩田需要不断的抽水来维持。防浪堤一般在周边就地取材建城，有沙子的也有泥土制的；现代的防浪堤则一般是用混凝土浇筑而成。圩田通常十分肥沃，对于放牧或种植都十分适合。[NEWLINE][NEWLINE]最早的围海造陆的圩田建成于11世纪，虽然更早以前、罗马人懂得筑堤了。荷兰人长期填平沼泽甚至海床来制造圩田，他们的圩田大约是欧洲全部圩田的一半。虽然欧洲其他国家，乃至亚洲和北美的某些国家都有圩田，荷兰人的圩田比例无疑是最高的：他们有大约3000圩田，占国土面积的27%。阿姆斯特丹基本上是一个建立在圩田上的城市。正如荷兰人所说：“上帝创造了世界，但荷兰人创造了荷兰”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_POLDER">
+			<Text>修建圩田</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_POLICY_CITIZENSHIP">
+			<Text>公民制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_POLICY_CITIZENSHIP_HEADING">
+			<Text>公民制度</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_STRATEGY">
+			<Text>组建私掠舰单位需要先研发海盗科技，此科技还允许欧洲文明彼此宣战。私掠舰适用于攻击敌方运输船并夺取财宝单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_TEXT">
+			<Text>私掠舰就是有政府背景的海盗船，私掠者手持雇主颁发的特许状，在战时袭击敌人的船只。私掠舰的主要目标是破坏敌方的海上贸易，损害其赖以维持海军和陆军的经济力量。私掠者通常都是自己拥有船只和水手的商人，对海洋和贸易线非常熟悉。私掠舰一般是单独行动的，但有时也会组成一支庞大的舰队，以对付更强大的目标。[NEWLINE][NEWLINE]私掠舰作战的目的不是击沉敌船而是将其俘获并夺取其所运载的货物。这些掠获物通常会被拍卖，所得收益由私掠者、资助者和政府瓜分。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PRIVATEER_HELP">
+			<Text>启蒙时代的海军单位，适用于攻击欧洲列强的船只并夺取财宝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_STRATEGY">
+			<Text>科曼切骑兵只能由美洲文明通过实施“平原骑手”政策来启用。拥有满月突击（+1移动力）和生存一级（+25%防御，单位在己方领土之外每回合额外恢复+5生命力）两项晋升。可以将该单位置于城市或邻近地块以防止传教士传播宗教。此单位不需要战略资源（因为美洲土著是从欧洲人手中获取枪支和马匹的）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_COMANCHE_RIDERS_HELP">
+			<Text>擅长于机动作战并能防止传教活动的骑乘单位。只能由美洲文明通过实施“平原骑手”政策来启用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_GREAT_ADMIRAL_STRATEGY">
+			<Text>海军统帅能够立即修复在同一区块和邻近区块内的海军单位及海运单位。海军统帅也能如大商业家一样“拓展贸易事业”但所获收益会少一些。执行此类任务后海军统帅将会被消耗掉。海军统帅还能为周围两格区块内的所有我方单位提供15%的战斗力加成。提供此加成不会消耗掉海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_HELP_INQUISITOR">
+			<Text>用来清除城市内的异教。只能使用[ICON_PEACE]信仰来购买。[COLOR_POSITIVE_TEXT]不需要维护费。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_LANCER_STRATEGY">
+			<Text>枪骑兵是启蒙时代的骑乘单位，在骑士之后出现。他们比骑士更快，也更强，可以横扫地图上那些曾经不可一世的兵种。枪骑兵可以劫掠敌方设施而不必额外消耗移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_STRATEGY">
+			<Text>在近身肉搏之前，神秘战士会先进行一波掷矛攻击来杀伤敌人。进行一次战斗后神秘战士将获得一项晋升。此单位只能通过同军事型城市结盟来获得。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_MYSTIC_WARRIOR_HELP">
+			<Text>拥有神秘武器的肉搏单位，具体效果只有在单位进行首次战斗后才会显现。近身肉搏前还会进行一次远程攻击。只能由城邦赠予。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_UNITS_MYSTIC_WARRIOR_TEXT">
+			<Text>许多北美部族的勇士们在作战前都会接受复杂而神秘的仪式祝福以增加勇气、力量、技巧以及生还的机会。关于这类的”神秘战士”最早的记录来自于原住民与英国殖民者之间爆发的佩科特战争（1634-1638），但在东北及平原印地安人的历史中都出现过这些神秘战士的身影。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_STRATEGY">
+			<Text>该海军近战单位擅长进行远洋探索。抵达中国后可获得[ICON_GOLD]金钱奖励，但单位会被消耗掉。拿乌帆船适合探索地图寻找其他势力所在位置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_NAU_HELP">
+			<Text>擅长进行远洋探索的海军近战单位。相比轻帆船拥有更高的[ICON_MOVES]移动力，抵达中国后可获得[ICON_GOLD]金钱奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_STRATEGY">
+			<Text>擅长攻击海岸城市掠取金钱和俘虏敌方船只的海军单位。能够在己方领土外进行恢复。自动获得两级“海掠”晋升，允许它们通过进攻海岸城市掠夺金钱，有一定几率俘获所击败的船只作为战利品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SEABEGGAR_HELP">
+			<Text>海军单位，擅长攻击海岸城市以掠取金钱和俘虏敌方船只。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_STRATEGY">
+			<Text>主力舰的战斗力远程攻击力比巡航舰的稍高，视野比巡航舰还要多一格，使其能够在更大的区域内定位敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NEWWORLD_SCENARIO_SHIPOFTHELINE_HELP">
+			<Text>启蒙时代强大的海军单位，适用于争夺制海权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER">
+			<Text>这个肖肖尼特色单位既擅长探索又擅长战斗。代替侦察兵。探路者发现自然奇观时可获得[ICON_PEACE]信仰奖励。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NEWWORLD_SCENARIO_SHOSHONE_PATHFINDER_STRATEGY">
+			<Text>探路者替代侦察兵，肖肖尼特色单位。其能力与侦察兵相同，但战斗能力与勇士等同。发现自然奇观时可获得[ICON_PEACE]信仰奖励。组建成本高于侦察兵。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

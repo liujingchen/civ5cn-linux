@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DLC Civilopedia Entries -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TITLE">
+			<Text>印加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_2">
+			<Text>地形和气候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_3">
+			<Text>早期历史：库斯科王国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_4">
+			<Text>持续扩张</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_5">
+			<Text>白人的到来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_HEADING_6">
+			<Text>帝国的终结</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_STATBOX">
+			<Text>[NEWLINE]        领袖：帕查库提[NEWLINE]        特色单位：掷石兵[NEWLINE]        特色设施：梯田[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_1">
+			<Text>印加帝国是哥伦布时代之前美洲最大的帝国，其领土范围沿安第斯山脉从今天的秘鲁一直延伸到智利。这个广阔帝国最初是从一个小小的王国开始起步，最终统治了南美洲所有的“文明”地区。印加帝国只存在了一个世纪，但其在将安第斯山区不同部落整合为统一的民族和文化方面贡献巨大。虽然印加帝国早已灭亡，但仍有许多文物和古迹存留至今，例如著名的马丘比丘城，向世人显示着印加君主们曾经拥有的伟大力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_2">
+			<Text>印加帝国以安第斯山脉为中心，其范围覆盖现今阿根廷、厄瓜多尔、秘鲁、智利、玻利维亚和哥伦比亚等国。这些地区以山地地形和山地气候为主，印加人很早就掌握了修建梯田的技术以适应这这样的生活环境。山间的肥沃谷地给予了印加人充裕的生存空间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_3">
+			<Text>在帝国形成之前的印加人政权是一个位于今秘鲁西部名为库斯科的小国。在第九任“萨帕印加”（印加皇帝）帕查库提的领导下，库斯科逐渐将周边部落统一在一面旗帜之下。通过军事征服与和平兼并，帕查库提和他的儿子图帕克为未来的“塔华廷苏育”奠定了基础。“塔华廷苏育”是印加帝国的正式名称，盖丘亚语意为“四方之国”，表明她是由四个省份组成的——西北方的钦查苏育、东北方的安提苏育、西南方的康提苏育以及东南方的科拉苏育。[NEWLINE][NEWLINE]帕查库提建立了一套新的政府体制以管理他的国土。各地统治家族的子弟被送往首都库斯科接受印加人的教育，以此融入印加人的文化和生活方式。当他们长大成人后则被派回自己的家乡帮助传播印加文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_4">
+			<Text>1471年帕查库提去世后，他的儿子图帕克·印加·尤潘奎又发起对北方的征服。此时印加人的主要敌人只剩下西部沿海的奇默尔部落。图帕克迅速将其肢解并入其日益扩大的帝国。[NEWLINE][NEWLINE]后来图帕克的儿子怀那·卡帕又使今厄瓜多尔地区成为帝国的一部分，但他对南方的扩张因茅勒战役的挫败而陷于停滞。当地的马普切部落阻挡住了印加人前进的步伐。这对印加来说不算什么重大损失，因为这片地区主要由荒漠构成，并不适合习惯山地的印加人生活。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_5">
+			<Text>1526年，印加帝国的统治开始走向下坡路。西班牙征服者弗朗西斯科·皮萨罗从巴拿马南下到达印加，他立即向王室请求发动入侵战争——他确信这是一片富有宝藏的土地。[NEWLINE][NEWLINE]1532年，皮萨罗率领一支小部队再次来到印加，他发现帝国正面临危机。怀那的两个儿子，华斯卡和阿塔瓦尔帕为因争夺权力而爆发内战，同时还发生了严重的天花疫情导致人口大量减少。皮萨罗的部队在数量上（168名士兵、1门加农炮和27匹马）远远不及印加人，但他们先进的科技和战术却具有压倒性的优势。[NEWLINE][NEWLINE]当年晚些时候，皮萨罗在今厄瓜多尔的瓜亚奎尔附近进行了他的第一场战役并轻松获胜。他派遣他的部下赫尔南多·德·索托继续向内陆探险，皮萨罗本人则在当地建立了一座新城皮乌拉。德·索托遇到了刚在内战中获胜的阿塔瓦尔帕，并带着他的邀请回去见皮萨罗。西班牙人要求印加人承认西班牙的查理一世为他们的皇帝并立即皈依基督教。也许由于语言障碍和沟通技巧问题，阿塔瓦尔帕没有理解西班牙人的信息，他要求再次会面以听取进一步的解释。西班牙人则失去了耐心，他们没有去找更好的翻译，而是对阿塔瓦尔帕的营地发动攻击并将其俘获。[NEWLINE][NEWLINE]印加皇帝提出向皮萨罗支付大量黄金和白银以换取自由，他的提议立即被接受了。但是皮萨罗并没有信守承诺，他拒绝释放阿塔瓦尔帕。在此期间，华斯卡遇刺身亡，皮萨罗乘机宣布阿塔瓦尔帕是幕后黑手。西班牙人草草组织了一场审判，于1533年将阿塔瓦尔帕处死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_TEXT_6">
+			<Text>阿塔瓦尔帕和华斯卡死后，西班牙人扶植他们的弟弟曼科继位，曼科顺从地与他们合作。当曼科的地位稳固之后，他于1536年试图夺回库斯科城，但最终还是败在西班牙入侵者手下。他和他的追随者逃入秘鲁山区，在那里继续统治了36年。然而到了1572年，最后一个印加据点被攻陷，末代君主，曼科的儿子图帕克·阿马鲁也被杀死。[NEWLINE][NEWLINE]印加王室的支持者全部被消灭后，西班牙统治者残酷地压迫当地土著，企图消灭他们的文化、宗教和传统。每个印加家庭都必须送一名家庭成员到西班牙人的金矿或银矿做工，许多人因恶劣的工作环境和过度劳累而死去。天花疫情继续快速蔓延，约有60%至90%的人口因此死亡。此外还有伤寒、流感、白喉和麻疹等等——到1618年时印加民族几乎完全消失了。曾经无比辉煌的文明现在只剩下一些分散的部落和零星的石头遗迹。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_FACTOID_HEADING">
+			<Text>印加逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_FACTOID_TEXT">
+			<Text>印加人使用打结和染色的绳子来记录信息。[NEWLINE][NEWLINE]印加人相信可可树是神圣并具有魔力的，可可叶被大量用在宗教仪式上。[NEWLINE][NEWLINE]目前发现最高的印加定居点的海拔高度为17400英尺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_LIVED">
+			<Text>约1410-1471</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_NAME">
+			<Text>帕查库提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_SUBTITLE">
+			<Text>印加领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TITLES_1">
+			<Text>印加皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_2">
+			<Text>继位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_3">
+			<Text>建立帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_HEADING_4">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_1">
+			<Text>帕查库提是库斯科王国的第九任君主，在他统治期间这个小王国逐步发展成一个广阔的帝国——“塔华廷苏育”（意为“四方之国”）。帕查库提统治下的帝国领土范围从今天的智利一直延伸到厄瓜多尔，包括秘鲁大部、波利维亚全境和阿根廷北部地区，为未来更为庞大的印加帝国的形成奠定了基础。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_2">
+			<Text>帕查库提是印加君主维洛科查之子，是在长兄乌尔科之后的第二顺位继承人。当时的库斯科王国面积很小，时常受到邻近的昌卡斯部落的威胁。对于帕查库提的早年经历我们知之甚少，直到他在一次抗击昌卡斯人入侵的战斗中表现出众赢得父亲的赞赏。当时他的父亲和兄长都撤离了战场，帕查库提集合剩余的部队继续奋战，结果竟然彻底击败了昌卡斯人，据传说大地也为之而震撼。帕查库提因此获得“大地震撼者”的绰号，并被指定为库斯科王国的储君和共治者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_3">
+			<Text>1438年帕查库提的父亲去世，他成为王国唯一的统治者，他随即对邻近王国发动了一系列成功的战役。使他的帝国领土范围从今厄瓜多尔一直延伸到智利，成为南美洲最强大的王国。[NEWLINE][NEWLINE]虽然许多王国是通过武力征服的，帕查库提也采取了一些非武力的策略来扩张领土。首先他会派遣间谍前往他感兴趣的地区，获取关于财富和军力的情报。随后他会提议当地的领袖向他臣服，接受印加人的统治。许多人接受了他的提议（因为不想步昌卡斯人的后尘）并将自己的孩子送往库斯科由印加人进行教育。他们的孩子因而接受了印加文化并与印加贵族通婚，当他们返回家乡后就会成为印加和平扩张的支持者。[NEWLINE][NEWLINE]为确保新征服土地上的秩序，帕查库提将全国分为四个省份，由地方总督负责管理日常事务。他还推行祭司和军人分权，形成了世界上最早的分权和制衡制度。库斯科作为帝国的首都进行了重建，每个省份都在城中划有专门的区域。在此期间他还建造了著名的马丘比丘城，据认为这座山城是归他私有的。[NEWLINE][NEWLINE]1471年帕查库提去世后，他的小儿子图帕克继承了印加皇位，因为他认为长子阿玛鲁缺乏象他那样的勇武气概。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_TEXT_4">
+			<Text>帕查库提被秘鲁人视为民族英雄，至今各地还立有许多他的纪念碑。他以政治和军事才能闻名于世，但他并不是一位仁慈的统治者。为了了延续他的帝国，他驱赶成百上千的民众迁居他乡。虽然犯下了一些错误，但帕查库提开创了伟大的印加征服时代，将他的帝国扩张到当时南美几乎所有有人居住的地区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_FACTOID_HEADING">
+			<Text>帕查库提逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_PACHACUTI_FACTOID_TEXT">
+			<Text>2000年秘鲁大选的候选人之一亚历桑德罗·托雷多的绰号是帕查库提。[NEWLINE][NEWLINE]帕查库提因其军事成就而被美称为“安第斯山上的拿破仑”。[NEWLINE][NEWLINE]帕查库提还是一位诗人，他创作了“西图亚圣诗”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_HEADING">
+			<Text>掷石手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_TEXT">
+			<Text>印加的掷石手十分著名。他们所用的投掷物是一块圆形的石头。虽然掷石器的射程和威力不及弓箭，但是更为灵活轻巧，步兵能够方便地携带。正如圣经旧约故事中所说的，一名训练有素的战士能用一块石头杀死最强大的敌人……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_HELP">
+			<Text>最早的远程单位之一，印加特色单位，替代弓手。掷石手的远程战斗力与弓手相当，面对近战攻击时则更为脆弱。但其自然获得的一项晋升使其在遭遇近战攻击时有较高撤退几率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_INCA_SLINGER_STRATEGY">
+			<Text>掷石手是远古时代的远程步兵单位，能够远距离攻击敌人。该印加特色单位在遭遇近战攻击时通常能够撤退，适用于袭扰你的对手。但当被挡住退路或被快速单位追击时掷石手很容易被击败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP">
+			<Text>梯田必须修建在丘陵上且不需要淡水。如果与山脉相邻还能提供额外食物产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_IMPROVEMENTS_TERRACE_FARM_TEXT">
+			<Text>梯田在世界各地的山区都有出现，包括巴厘岛、菲律宾群岛、中国和秘鲁等等。这些阶梯形的田地沿着山坡修建，以保证灌溉用水不会流失，没有梯田则山区只能种植耐旱的作物。印加人特别擅长修建梯田，他们的梯田用大块石头垒成。在建成梯田之后，印加人还会修建引水渠网络进行灌溉，令土壤更加肥沃。古代印加人的梯田是如此成熟，以至于现在秘鲁的农民仍然沿用他们留下的梯田。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_BUILD_TERRACE_FARM">
+			<Text>修建[LINK=IMPROVEMENT_TERRACE_FARM]梯田[\LINK]</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

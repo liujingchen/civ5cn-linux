@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- BELGIUM -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOMA">
+			<Text>博马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LEOPOLDVILLE">
+			<Text>利奥波德维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANNINGVILLE">
+			<Text>班宁维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ELIZABETHVILLE">
+			<Text>伊丽莎白维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_STANLEYVILLE">
+			<Text>史丹利维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COQUILHATVILLE">
+			<Text>科基拉维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALBERTVILLE">
+			<Text>阿尔贝维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LULUABOURG">
+			<Text>卢卢阿堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_THYSVILLE">
+			<Text>蒂斯维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JADOTVILLE">
+			<Text>雅多维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TSHIKAPA">
+			<Text>奇卡帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_COSTERMANSVILLE">
+			<Text>科斯特曼维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAKWANGA">
+			<Text>巴克万加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KINDU">
+			<Text>金杜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANANA">
+			<Text>巴纳纳</Text>
+		</Row>
+		<!-- ENGLAND -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOMBASA">
+			<Text>蒙巴萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_SUDAN">
+			<Text>苏丹港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HARGEISA">
+			<Text>哈尔格萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASERU">
+			<Text>马塞卢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAFEKING">
+			<Text>马弗京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZOMBA">
+			<Text>佐姆巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ENTEBBE">
+			<Text>恩德培</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NAIROBI">
+			<Text>内罗毕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZUNGERU">
+			<Text>宗盖鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SALISBURY">
+			<Text>索尔兹伯里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KAMPALA">
+			<Text>坎帕拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSAKA">
+			<Text>卢萨卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LILONGWE">
+			<Text>利隆圭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TAMALE">
+			<Text>塔马利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISUMU">
+			<Text>基苏木</Text>
+		</Row>
+		<!-- FRANCE -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMAKO">
+			<Text>巴马科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAZZAVILLE">
+			<Text>布拉柴维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NDJAMENA">
+			<Text>恩贾梅纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NIAMEY">
+			<Text>尼亚美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NOUAKCHOTT">
+			<Text>努瓦克肖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BANGUI">
+			<Text>班吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJIBOUTI">
+			<Text>吉布提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FORT_DAUPHIN">
+			<Text>道芬堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CONAKRY">
+			<Text>科纳克里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POINT_NOIRE">
+			<Text>黑角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOUAKE">
+			<Text>布瓦凯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOBO_DIOULASSO">
+			<Text>博博迪乌拉索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DJOUGOU">
+			<Text>朱古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BECHAR">
+			<Text>贝沙尔</Text>
+		</Row>
+		<!-- GERMANY -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DOUALA">
+			<Text>杜阿拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SWAKOPMUND">
+			<Text>斯瓦科普蒙德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_YAOUNDE">
+			<Text>雅温得</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOME">
+			<Text>洛美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAGAMOYO">
+			<Text>巴加莫约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAMENDA">
+			<Text>巴门达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINDHOEK">
+			<Text>温得和克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UJIJI">
+			<Text>乌吉吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROUA">
+			<Text>加鲁阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KARA">
+			<Text>卡拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUEDERITZ">
+			<Text>吕德里茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KIGALI">
+			<Text>基加利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MAROUA">
+			<Text>马鲁阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DODOMA">
+			<Text>多多马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BERTOUA">
+			<Text>贝尔图阿</Text>
+		</Row>
+		<!-- ITALY -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASMARA">
+			<Text>阿斯马拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOSASO">
+			<Text>博萨索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASSAB">
+			<Text>阿萨布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BELEDWEYNE">
+			<Text>贝兰德文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KEREN">
+			<Text>克伦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BAIDOA">
+			<Text>拜多亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GALKAYO">
+			<Text>加勒卡约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KISMAYO">
+			<Text>基斯马尤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MASSAWA">
+			<Text>马萨瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOWHAR">
+			<Text>乔哈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAROOWE">
+			<Text>加洛威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BARDERA">
+			<Text>巴尔代雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QARDHO">
+			<Text>加尔多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ADI_UGRI">
+			<Text>阿迪乌格里</Text>
+		</Row>
+		<!-- PORTUGAL -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LISBON">
+			<Text>新里斯本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SA_DA_BANDEIRA">
+			<Text>沙达班代拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_PERY">
+			<Text>维拉佩里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SILVA_PORTO">
+			<Text>席尔瓦港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TETE">
+			<Text>太特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_BABRAL">
+			<Text>维拉卡布莱尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_AMELIA">
+			<Text>阿美利亚港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MALANJE">
+			<Text>马兰热</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VILA_JUNQUEIRO">
+			<Text>维拉尊奎洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_XAI_XAI">
+			<Text>赛赛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUSO">
+			<Text>卢索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HENRIQUE">
+			<Text>恩里克卡瓦霍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOCAMEDES">
+			<Text>木萨米迪什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NEW_LAMEGO">
+			<Text>新拉梅古</Text>
+		</Row>
+		<!-- EGYPT -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KHARTOUM">
+			<Text>喀土穆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KASSALA">
+			<Text>卡萨拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KOSTI">
+			<Text>科斯提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUXOR">
+			<Text>卢克索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NYALA">
+			<Text>尼亚拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASYUT">
+			<Text>艾斯尤特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WAD_MADANI">
+			<Text>瓦德迈达尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_QADARIF">
+			<Text>加达里夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ASWAN">
+			<Text>阿斯旺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_FASHIR">
+			<Text>法希尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_EDFU">
+			<Text>埃德夫</Text>
+		</Row>
+		<!-- OTTOMAN -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SABHA">
+			<Text>塞卜哈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TOBRUK">
+			<Text>图卜鲁格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SFAX">
+			<Text>斯法克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HUN">
+			<Text>胡恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SIRTE">
+			<Text>苏尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_NALUT">
+			<Text>纳卢特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_UBARI">
+			<Text>奥巴里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AL_JAWF">
+			<Text>焦夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BRAK">
+			<Text>布拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MURZUK">
+			<Text>迈尔祖格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ZELLA">
+			<Text>泽拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GAT">
+			<Text>盖特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_QAMINIS">
+			<Text>盖米尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_AWJILA">
+			<Text>奥吉拉</Text>
+		</Row>
+		<!-- BOER -->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PRETORIA">
+			<Text>比勒陀利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BLOEMFONTEIN">
+			<Text>布隆方丹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_JOHANNESBURG">
+			<Text>约翰内斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_KLEIN_VRYSTAAT">
+			<Text>克莱恩弗雷斯塔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_POTCHEFSTROOM">
+			<Text>波切夫斯特鲁姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VRYBURG">
+			<Text>弗雷堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_WINBURG">
+			<Text>温堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PIETERSBURG">
+			<Text>彼得斯堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENONI">
+			<Text>伯诺尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_HEIDELBERG">
+			<Text>海德堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MESSINA">
+			<Text>麦西那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VIRGINIA">
+			<Text>维珍尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BOKSBURG">
+			<Text>博克斯堡</Text>
+		</Row>
+		<!--City Name Lists-->
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_GIBRALTAR">
+			<Text>直布罗陀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_FREETOWN">
+			<Text>弗里敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ACCRA">
+			<Text>阿克拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LAGOS">
+			<Text>拉各斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAPE_TOWN">
+			<Text>开普敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORT_ELIZABETH">
+			<Text>伊丽莎白港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_VICTORIA">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALGIERS">
+			<Text>阿尔及尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_DAKAR">
+			<Text>达喀尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ABIDJAN">
+			<Text>阿比让</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PORTO_NOVO">
+			<Text>波多诺伏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LIBREVILLE">
+			<Text>利伯维尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MORONI">
+			<Text>莫罗尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAGLIARI">
+			<Text>卡利亚里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CATANZARO">
+			<Text>卡坦扎罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_PALERMO">
+			<Text>巴勒莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BISSAU">
+			<Text>比绍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SAO_TOME">
+			<Text>圣多美和普林西比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LUANDA">
+			<Text>卢安达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGUELA">
+			<Text>本吉拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_LOURENCO_MARQUES">
+			<Text>洛伦索马贵斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BEIRA">
+			<Text>贝拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_MOZAMBIQUE">
+			<Text>莫桑比克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_CAIRO">
+			<Text>开罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_ALEXANDRIA">
+			<Text>亚历山大</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_SUEZ">
+			<Text>苏伊士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TUNIS">
+			<Text>突尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_TRIPOLI">
+			<Text>的黎波里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCRAMBLE_AFRICA_CITY_NAME_BENGHAZI">
+			<Text>班加西</Text>
+		</Row>
+		<!-- CITY STATES -->
+		<Row Tag="TXT_KEY_CITYSTATE_SOKOTO">
+			<Text>索科托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SOKOTO_ADJ">
+			<Text>索科托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUNKEYA">
+			<Text>本凯亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BUNKEYA_ADJ">
+			<Text>本凯亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SEGOU">
+			<Text>塞古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SEGOU_ADJ">
+			<Text>塞古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BORNU">
+			<Text>博尔努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_BORNU_ADJ">
+			<Text>博尔努</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OUGADOUGOU">
+			<Text>瓦加杜古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_OUGADOUGOU_ADJ">
+			<Text>瓦加杜古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LUBA">
+			<Text>卢巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LUBA_ADJ">
+			<Text>卢巴</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

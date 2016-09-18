@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Sid Meier's Civilization V -->
+<!--Copyright Firaxis Games 2010 -->
+<!--File created by Paul Murphy-->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_AMERICA_ADJECTIVE">
+			<Text>美国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AMERICA_DESC">
+			<Text>美利坚文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AMERICA_SHORT_DESC">
+			<Text>美国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARABIA_ADJECTIVE">
+			<Text>阿拉伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARABIA_DESC">
+			<Text>阿拉伯文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARABIA_SHORT_DESC">
+			<Text>阿拉伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AZTEC_ADJECTIVE">
+			<Text>阿兹特克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AZTEC_DESC">
+			<Text>阿兹特克文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AZTEC_SHORT_DESC">
+			<Text>阿兹特克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BARBARIAN_ADJECTIVE">
+			<Text>蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BARBARIAN_DESC">
+			<Text>蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BARBARIAN_SHORT_DESC">
+			<Text>蛮族</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHINA_ADJECTIVE">
+			<Text>中国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHINA_DESC">
+			<Text>中华文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHINA_SHORT_DESC">
+			<Text>中国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EGYPT_ADJECTIVE">
+			<Text>埃及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EGYPT_DESC">
+			<Text>埃及文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EGYPT_SHORT_DESC">
+			<Text>埃及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ENGLAND_ADJECTIVE">
+			<Text>英国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ENGLAND_DESC">
+			<Text>英格兰文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ENGLAND_SHORT_DESC">
+			<Text>英国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FRANCE_ADJECTIVE">
+			<Text>法国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FRANCE_DESC">
+			<Text>法兰西文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FRANCE_SHORT_DESC">
+			<Text>法国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GERMANY_ADJECTIVE">
+			<Text>德国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GERMANY_DESC">
+			<Text>德意志文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GERMANY_SHORT_DESC">
+			<Text>德国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GREECE_ADJECTIVE">
+			<Text>希腊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GREECE_DESC">
+			<Text>希腊文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GREECE_SHORT_DESC">
+			<Text>希腊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIA_ADJECTIVE">
+			<Text>印度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIA_DESC">
+			<Text>印度文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDIA_SHORT_DESC">
+			<Text>印度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IROQUOIS_ADJECTIVE">
+			<Text>易洛魁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IROQUOIS_DESC">
+			<Text>易洛魁文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IROQUOIS_SHORT_DESC">
+			<Text>易洛魁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JAPAN_ADJECTIVE">
+			<Text>日本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JAPAN_DESC">
+			<Text>日本文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JAPAN_SHORT_DESC">
+			<Text>日本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MINOR_ADJECTIVE">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MINOR_DESC">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MINOR_SHORT_DESC">
+			<Text>城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTTOMAN_ADJECTIVE">
+			<Text>奥斯曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTTOMAN_DESC">
+			<Text>奥斯曼文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OTTOMAN_SHORT_DESC">
+			<Text>奥斯曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PERSIA_ADJECTIVE">
+			<Text>波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PERSIA_DESC">
+			<Text>波斯文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PERSIA_SHORT_DESC">
+			<Text>波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ROME_ADJECTIVE">
+			<Text>罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ROME_DESC">
+			<Text>罗马文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ROME_SHORT_DESC">
+			<Text>罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RUSSIA_ADJECTIVE">
+			<Text>俄国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RUSSIA_DESC">
+			<Text>俄罗斯文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RUSSIA_SHORT_DESC">
+			<Text>俄国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SIAM_ADJECTIVE">
+			<Text>暹罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SIAM_DESC">
+			<Text>暹罗文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SIAM_SHORT_DESC">
+			<Text>暹罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SONGHAI_ADJECTIVE">
+			<Text>桑海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SONGHAI_DESC">
+			<Text>桑海文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SONGHAI_SHORT_DESC">
+			<Text>桑海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_SECTION_1">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_SECTION_2">
+			<Text>领袖</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

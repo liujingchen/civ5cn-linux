@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_FE_ALA">
+			<Text>佛阿拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_YENDEN">
+			<Text>赫图阿拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XINGJING">
+			<Text>兴京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUKDEN">
+			<Text>盛京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUSHUN">
+			<Text>抚顺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QINGHE">
+			<Text>清河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SARHU">
+			<Text>萨尔浒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GIRIN_ULA">
+			<Text>吉林乌拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NANLING">
+			<Text>南陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIELING">
+			<Text>铁岭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINGDOTA">
+			<Text>宁古塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIPING">
+			<Text>四平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIAOYUAN">
+			<Text>辽源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHANGCHUN">
+			<Text>长春</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARBIN">
+			<Text>哈尔滨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UIJU">
+			<Text>义州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JINAN">
+			<Text>济南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHANHAIGUAN">
+			<Text>山海关</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINGYUAN">
+			<Text>宁远</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIANYUNGANG">
+			<Text>连云港</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIAOYANG">
+			<Text>辽阳</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CITY_NAME_BUSAN">
+			<Text>釜山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JEONJU">
+			<Text>全州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAEGU">
+			<Text>大邱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PYONGYANG">
+			<Text>平壤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAESONG">
+			<Text>开城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUWON">
+			<Text>水原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GWANGJU">
+			<Text>光州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GANGNEUNG">
+			<Text>江陵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAMHUNG">
+			<Text>咸兴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WONJU">
+			<Text>原州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ULSAN">
+			<Text>蔚山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHANGWON">
+			<Text>昌原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANDONG">
+			<Text>安东</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GONGJU">
+			<Text>公州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HAEJU">
+			<Text>海州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHEONGJU">
+			<Text>清州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOKPO">
+			<Text>木浦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DONGDUCHEON">
+			<Text>东豆川</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GEOJE">
+			<Text>巨济</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUNCHEON">
+			<Text>顺天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JINJU">
+			<Text>晋州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANGJU">
+			<Text>尚州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RASON">
+			<Text>罗先</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GYEONGJU">
+			<Text>庆州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHUNGJU">
+			<Text>忠州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SACHEON">
+			<Text>泗川</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GIMJE">
+			<Text>金堤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANJU">
+			<Text>安州</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<!-- Technologies-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY">
+			<Text>高级海盗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_DESC">
+			<Text>大约自1650年起至1730年止被称为“海盗黄金时代”，期间有亨利·摩根、巴沙洛缪·罗伯茨和卡利科·杰克·拉克汉姆等许多著名海盗横行于西属美洲的广阔海域。海盗活动的兴盛主要是受到从新大陆运往欧洲的惊人财富的刺激，同时也是由于造船技术的提升，使得快速而灵巧的单桅纵帆船、双桅横帆船和双桅纵帆船能够搭载更重的舰炮和更多的水手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]“海上乞丐”[ENDCOLOR]，一种能够在本国边境之外恢复损伤的强大海盗船。此科技还允许你建造[COLOR_POSITIVE_TEXT]巧克力馆[ENDCOLOR]以增加[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ADVANCED_PIRACY_QUOTE">
+	<Text>[NEWLINE][TAB][TAB]“因为我是海盗之王！成为海盗之王是至高的荣耀！”[NEWLINE][TAB][TAB]——威廉·施文克·吉尔伯特《彭赞斯的海盗》[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_BANKING_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]银行[ENDCOLOR]和[COLOR_POSITIVE_TEXT]东印度公司[ENDCOLOR]，增加城市的[ICON_GOLD]金钱产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_EDUCATION_HELP">
+			<Text>显著提升[ICON_RESEARCH]科研能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]征服者[ENDCOLOR]，专用于海外侦察和殖民的特殊单位。此项科技还允许你建造[COLOR_POSITIVE_TEXT]法庭[ENDCOLOR]，减少来自[ICON_OCCUPIED]被占领城市的[ICON_HAPPINESS_4]不满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE">
+			<Text>线式队列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_DESC">
+			<Text>尽管“线式队列”（line-of-battle）战术最早用于实战的时间还存在争议（介于1502至1652年之间），但到1675年时它已是欧洲海军最常用的海战战术。相较于普通的海上混战，线式队列可以使得每艘战舰都能发挥一侧船舷的全部火力而不至于伤及友舰，从而确保攻击火力的集中和持续性。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_HELP">
+			<Text>允许你建造能够提升[ICON_GOLD]金钱产出的[COLOR_POSITIVE_TEXT]证券交易所[ENDCOLOR]并能建造[COLOR_POSITIVE_TEXT]主力舰[ENDCOLOR]，游戏中战斗力最强且射程最远的海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_LINE_OF_BATTLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“舰长只管将自己舰身的侧面朝向敌舰，那样一定错不到哪儿去。”[NEWLINE][TAB][TAB]——霍雷肖·纳尔逊[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET">
+			<Text>贸易船队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_DESC">
+			<Text>由于面临海盗和私掠者的严重威胁，西班牙和葡萄牙在16世纪中叶开始为大西洋贸易线上航行的商船建立早期形式的护航队。虽然财宝船队通常都有战舰随行，私人的商船队则无法获得同样待遇。因此许多满载着烟草、香料、木材、蔗糖、谷物和其他奢侈品运往欧洲市场销售的大帆船都配备了加农炮和臼炮，以击退小股海盗船的袭击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_HELP">
+			<Text>允许你建造游戏中最快速的船只——[COLOR_POSITIVE_TEXT]拿乌帆船[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_MERCHANT_FLEET_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“黄金是最重要的财富，在这世上，拥有黄金就能随心所欲。”[NEWLINE][TAB][TAB]——克里斯托弗·哥伦布[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS_HELP">
+			<Text>允许你组建最强力的近战单位[COLOR_POSITIVE_TEXT]大方阵[ENDCOLOR]，以及建造[COLOR_POSITIVE_TEXT]军事学院[ENDCOLOR]为所有单位增加经验点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS_HELP">
+			<Text>允许你消耗[ICON_PEACE]信仰建造城市建筑，以及国家级奇观[COLOR_POSITIVE_TEXT]圣殿[ENDCOLOR]以使每位传教士能传教三次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]巡航舰[ENDCOLOR]以及[COLOR_POSITIVE_TEXT]枪骑兵[ENDCOLOR]，一种劫掠时无须消耗移动力的强力骑乘单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+			<Text>帝国主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+			<Text>海军传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+			<Text>职业军人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+			<Text>海盗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+			<Text>战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+			<Text>皇家卫队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+			<Text>宗教修会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+			<Text>财宝船队</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

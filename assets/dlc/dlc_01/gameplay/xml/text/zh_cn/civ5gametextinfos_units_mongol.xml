@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Objects -->
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_KESHIK">
+			<Text>怯薛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MONGOL_KHAN">
+			<Text>汗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GENGHIS">
+			<Text>成吉思</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BATU">
+			<Text>拔都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_OGEDEI">
+			<Text>窝阔台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_GUYUK">
+			<Text>贵由</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE">
+			<Text>蒙哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_KUBLAI">
+			<Text>忽必烈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_HULEGU">
+			<Text>旭烈兀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_BERKE">
+			<Text>别儿哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_MONGKE_TEMUR">
+			<Text>忙哥帖木儿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOLIAN_KHAN_TEMUR_KHAGAN">
+			<Text>铁穆耳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL">
+			<Text>强力恢复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP">
+			<Text>本单位及所有相邻单位每回合 [COLOR_POSITIVE_TEXT]额外恢复2生命力[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE">
+			<Text>快速学习</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAIN_EXPERIENCE_HELP">
+			<Text>获取晋升所需经验的速率加快50%</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

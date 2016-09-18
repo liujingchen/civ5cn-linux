@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+    <Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>我想你需要知道我已经对你的某个小宠物城邦发动了进攻。{@1_MinorCivName}的土地将成为我的财产。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>呃，看起来我进攻了你的小朋友{@1_MinorCivName}。你不想采取点什么措施么？</Text>
+		</Row>
+    <Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>我注意到我所攻击的{@1_MinorCivName}城邦处于你的保护之下。我的目标并不是想与你的帝国为敌，这次行动只是为了维护国家利益。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>我刚得到报告说我的帝国已经对{@1_MinorCivName}发动了进攻。我向你保证，这并非我的本意，希望这不会损害我们的良好关系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_EXCHANGE_1">
+			<Text>我们应当考虑互派使节，这可以进一步提升我们之间的外交关系等级。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_EMBASSY_OFFER_1">
+			<Text>我们希望在你的首都设立使馆，你觉得如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>你对{@1_MinorCivName}的欺凌是不可忍受的。我要求你停止向在我保护之下的城邦索取利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BULLIED_PROTECTED_CITY_STATE_2">
+			<Text>我听说了你对{@1_MinorCivName}干的好事。难道你不知道那是我的保护对象么？请不要再挑战我的耐心。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>我们最近向{@1_MinorCivName}索取了贡礼。虽然你曾承诺保护他们，但大家都知道你没有这个实力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
+			<Text>你的小朋友{@1_MinorCivName}真好对付。他们已经同意向我们交纳贡礼，这件事我不认为你能有什么办法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_1">
+			<Text>我发现我刚刚压榨了受你保护的{@1_MinorCivName}。我希望你不会为了他们对我翻脸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WE_BULLIED_YOUR_MINOR_2">
+			<Text>我刚得到报告说我的军队要求受你保护的{@1_MinorCivName}城邦交纳贡礼。我向你保证，这完全是无心之失，我希望这不会损害我们的关系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_FREEDOM_1">
+			<Text>向睿智的领袖致敬！我欣喜地得知你也选择了自由之路。随着与我们一同对抗专制的国家越来越多，自由世界将变得更加强大！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_ORDER_1">
+			<Text>向英勇的同志致敬！我欣喜地得知你也选择了秩序之路。也许我们能有机会在我们两国的下一个五年计划中彼此协助！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SAME_POLICIES_AUTOCRACY_1">
+			<Text>向伟大的元首致敬！我欣喜地得知你也选择了独裁之路。让我们共同努力，让最终的强者成就真正的伟业！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>你那些肮脏的特工是怎么窃取到我们的关键秘密科技的？这可能成为我们之间最后一次和平的会谈。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>我愿意暂时忽视最近你窃取我们的秘密科技的行为，但我保证绝不会有下次了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>我很高兴你同意终止这次偷窃之举。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>你的轻率之举并不出乎我的意料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_YES_1">
+			<Text>应你的要求，我方特工不会继续在你的领土上执行任务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_STOP_SPYING_NO_1">
+			<Text>我方特工要确保我国不受任何人的威胁，包括你们。他们的行动取决于我们的需要，而不是你们的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>感谢你向我们揭露{@1_CivAdjective}的阴谋。我们将做好充分的准备。你的慷慨将被铭记。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>我方间谍发现{1_PlayerName}正对你们采取秘密行动。我们希望你方特工能与我们共享情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>我方间谍发现{1_PlayerName}正准备偷袭你们的{2_CityName}。我们希望你方特工能与我们共享情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>我方间谍发现{1_PlayerName}正准备对你们发动偷袭。我们希望你方特工能与我们共享情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>我方间谍发现{1_PlayerName}正准备从海上偷袭你们的{2_CityName}。我们希望你方特工能与我们共享情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>我方间谍发现{1_PlayerName}正准备从海上对你们发动偷袭。我们希望你方特工能与我们共享情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_YOUR_SPY_1">
+			<Text>我们杀死了潜入我国的你方间谍。根据我们的经验，你应当好好闭门读书学习，免遭危险。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KILLED_MY_SPY_1">
+			<Text>我很遗憾我方特工活动在近日导致的混乱。请让彼此的敌意随着失败的任务而告一段落吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>你好。你是来谈那件小小的谍报事故么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_1">
+			<Text>最近我方某城市发生了窃案，有一些秘密科技被盗。我能否认为你与这件事完全无关？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SUSPECT_YOU_OF_SPYING_2">
+			<Text>我确信你在对我国进行间谍活动。你应当在造成损害之前停手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_STOP_CONVERSIONS_1">
+			<Text>我们注意到你在我国进行的传教活动。我们要求你立即停止！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>我知道，某些行为是不可原谅的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>我很高兴你能放下这段不愉快。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>我很高兴你同意停止传教活动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>你的宗教狂热令人不安。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+      <Text>如你所愿，我们的传教士将不再向你的国民传播我们至高的信仰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+      <Text>你尽管反对吧，我们的传教士会继续向你的国民传播我们至高的信仰。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>我们热切期待你们无条件投降。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>你们最合理的做法是彻底投降。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>现在我们可以达成协定以避免你们的彻底毁灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>我们等着瞧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>是的，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_WE_BULLIED_MINOR_BAD_1">
+			<Text>我仍然确信我的决定符合我们国家与民族的最大利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>很好。我会持续关注局势变化。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_GENERIC_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey}向世界宣布对{1_MinorCivName:textkey}的保护。向该城邦发动进攻或索取贡礼将严重损害与他们的外交关系，甚至会导致战争。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_1">
+      <Text>我们不愿向你们提供足够的交易项目。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GENERIC_TRADE_CANT_MATCH_OFFER_2">
+      <Text>我们提出的任何交易条件对你来说都会是不公平的。</Text>
+    </Row>
+  </Language_zh_CN>
+</GameData>

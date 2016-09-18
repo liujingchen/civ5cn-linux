@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_1">
+			<Text>你好，善变的家伙。我以帕卡尔之名闻名于世。你带来了众神的消息了吗？我的脖子能感受到他们冰冷的呼吸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_2">
+			<Text>见到你很高兴，陌生人——你可以称我为伟大的帕卡尔。这其实并不重要……我不认为我们还会再说话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_FIRSTGREETING_3">
+			<Text>你为伟大的帕卡尔带来了怎样的悲伤和绝望？我很想准备茶点，但是我还要先为大灾变做准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_1">
+			<Text>你自掘坟墓！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_2">
+			<Text>你真让我失望……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_3">
+			<Text>你唤醒了死亡！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_4">
+			<Text>等着。死亡之枭下个就会去找你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WARBLUFF_5">
+			<Text>我知道这是在浪费时间……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WINWAR_1">
+			<Text>好啊！神是站在我这一边的！我将统治一切，哪怕仅限于末日之前！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_WINWAR_2">
+			<Text>你看，我告诉过你这在洪水面前都毫无意义。白白浪费掉了那么多祭品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_1">
+			<Text>拿走你想要的——这都没有意义。你难道看不见地平线上的那个东西吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LOSEWAR_2">
+			<Text>哈哈。你这蠢货！在你还做得到的时候尽情享受吧——在大地开裂之时那些东西会带着你陷入其中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_1">
+			<Text>结束了！我可以听到星星从天空落下的叹息！你注定难逃世界毁灭的命运，却帮我从这命运中解脱了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_2">
+			<Text>尽情享受你那渺小的国家吧，在你还做得到的时候……一切都不重要了。我没有意思，你也没有意义……猫头鹰！我能听见猫头鹰来了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_3">
+			<Text>当上天降下洪水之时，你也会被那洪流吞噬。我很高兴你帮我解脱了，让我不必见证那个时刻的到来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEFEATED_4">
+			<Text>你可以打败我，但你无法停止已经在运转的东西。我们的命运早就写在了石头上——只有众神的眼泪才能洗掉那印记。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_1">
+			<Text>我希望今天对你来说是好的一天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_2">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_1">
+			<Text>我觉得我们不会再见了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>本来就没有多少时间了，为什么你还想算计我？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能在多给些吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>还差一点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_NEUTRAL">
+			<Text>这不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_YES_NEUTRAL">
+			<Text>好，拿走吧。记住这些东西在长纪历结束的时候帮不了你的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_NEUTRAL">
+			<Text>这荒谬的提议是什么？你难道没有献祭要做么——这是一个让你好好利用时间的方法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_NEUTRAL">
+			<Text>好好听我的话，否则众神将降怒于你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我的祖先说我需要更多的财富去祭祀众神。给我这些，这样我们还能一起看到世界末日。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_1">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_2">
+			<Text>没有拒绝的理由吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_1">
+			<Text>我严正拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_2">
+			<Text>我认为这不可能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_1">
+			<Text>我听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_2">
+			<Text>这不重要，请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_3">
+			<Text>你会和我一起迎接大灾变吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_4">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_3">
+			<Text>一路平安，或许我们不会再见面了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_YES_HAPPY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_1">
+			<Text>可能世界末日即将到来，但是我还有继续下去的征兆。改善这个提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你最好的提议了么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_HAPPY_3">
+			<Text>还差一点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_HAPPY">
+			<Text>谢谢，但是不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_YES_HAPPY">
+			<Text>好的？好！我知道这种慷慨会让我得到众神的祝福！拿走你想要的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_HAPPY">
+			<Text>你想偷走帕卡尔手里的东西？难道在世界归于虚无之前你想不到更好做的事情了么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_HAPPY">
+			<Text>朋友，我相信我找到同时拯救我们俩的办法了！看，接受我的提议！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_HAPPY">
+			<Text>苍天，苍天在渴望着鲜血！请帮助我，要不然基辛和他的恶魔们下次可能就要找上我了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_3">
+			<Text>好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_3">
+			<Text>不，这不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_4">
+			<Text>我拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_3">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_4">
+			<Text>我在听着。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_5">
+			<Text>哦，原来是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GREETING_6">
+			<Text>你想要什么呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_GOODBYE_6">
+			<Text>退下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_YES_ANGRY">
+			<Text>同意，不过其实这都不重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_1">
+			<Text>除非你想让我们把你的血洒在我的祭坛上，否则重新考虑你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你还可以做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NEEDMORE_ANGRY_4">
+			<Text>还差一点……乡巴佬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADE_NO_ANGRY">
+			<Text>你的狂妄激怒了众神，祖先将对你降下天罚。滚！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_YES_ANGRY">
+			<Text>好的，你在自掘坟墓。你的贪婪为众神所嘲笑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRIBUTE_NO_ANGRY">
+			<Text>内容并不重要，我对你的愤怒让我无法接受这个条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_TRADEREQUEST_ANGRY">
+			<Text>虽然我只想把你的血洒在神圣的祭坛上，我会礼貌地和你对话，仅此一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DEMANDTRIBUTE_ANGRY">
+			<Text>不接受我要求者必将毁灭！终结即将到来，我需要精心准备一场献祭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_AGREE_SHORT_4">
+			<Text>我想我不得不接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_5">
+			<Text>请再说一遍！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_6">
+			<Text>这太离谱了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DISAGREE_SHORT_7">
+			<Text>你在开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_LETSHEARIT_5">
+			<Text>现在要说些什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_1">
+			<Text>只有一个文明可以活着见证长纪历周期的终结，而那显然不会是你这个不信者！准备迎接毁灭吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_2">
+			<Text>一个希望，还有一个希望：如果我打败你，或许可以挽回上帝对人类的信任，停下毁灭的洪流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_DECLAREWAR_3">
+			<Text>是的！一定要一个特殊的献祭才行！我要用你们全国人的血来阻止上帝继续落泪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_1">
+			<Text>是的！一定要一个特殊的献祭才行！我要用你们全国人的血来阻止上帝继续落泪！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_2">
+			<Text>何必装模作样？这些都不重要了，都不重要……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_3">
+			<Text>我能感觉到，周期即将结束。这只是个开始——末日的哭号由你开始。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PACAL_ATTACKED_4">
+			<Text>这是什么？你想让世界末日提前到来？那就让我一起来毁掉这个受诅咒的世界吧。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

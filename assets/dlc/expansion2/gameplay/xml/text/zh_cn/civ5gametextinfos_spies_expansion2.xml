@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Assyria - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_0">
+			<Text>阿达帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_1">
+			<Text>库芭芭</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_2">
+			<Text>纳布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_3">
+			<Text>内尔加尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_4">
+			<Text>宁莉尔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_5">
+			<Text>尼努塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_6">
+			<Text>尼斯洛奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_7">
+			<Text>萨玛什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_8">
+			<Text>帕朱朱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ASSYRIA_9">
+			<Text>秦古</Text>
+		</Row>
+		<!-- Brazil - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_0">
+			<Text>安东尼奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_1">
+			<Text>巴尔托洛梅乌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_2">
+			<Text>多明戈斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_3">
+			<Text>埃斯特翁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_4">
+			<Text>费尔南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_5">
+			<Text>弗朗西斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_6">
+			<Text>帕斯卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_7">
+			<Text>萨尔瓦多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_8">
+			<Text>托梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRAZIL_9">
+			<Text>比安卡</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Indonesia - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_0">
+			<Text>阿迪特亚瓦曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_1">
+			<Text>艾朗加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_2">
+			<Text>西特拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_3">
+			<Text>哈拉育达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_4">
+			<Text>贾亚卡特万</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_5">
+			<Text>林加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_6">
+			<Text>马亨德拉达塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_7">
+			<Text>普拉帕那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_8">
+			<Text>赖登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INDONESIA_9">
+			<Text>迪薇</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Morocco - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_0">
+			<Text>埃尔-克里姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_1">
+			<Text>白图泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_2">
+			<Text>阿尔-贾扎尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_3">
+			<Text>阿尔-卡希那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_4">
+			<Text>海育吉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_5">
+			<Text>库赛拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_6">
+			<Text>阿尔-伊德里西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_7">
+			<Text>萨利赫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_8">
+			<Text>塔里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MOROCCO_9">
+			<Text>迪西娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Poland - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_0">
+			<Text>文森提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_1">
+			<Text>罗曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_2">
+			<Text>贝妮塔</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_3">
+			<Text>亚恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_4">
+			<Text>卡齐米日</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_5">
+			<Text>约瑟夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_6">
+			<Text>克里斯蒂娜·斯卡贝克</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_7">
+			<Text>塔尔诺斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_8">
+			<Text>玛丽安</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLAND_9">
+			<Text>阿伦卡</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Portugal - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_0">
+			<Text>弗朗西斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_1">
+			<Text>加斯帕尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_2">
+			<Text>阿尔瓦多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_3">
+			<Text>本托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_4">
+			<Text>罗伯托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_5">
+			<Text>阿方索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_6">
+			<Text>加里奥特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_7">
+			<Text>迪奥戈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_8">
+			<Text>埃利安娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PORTUGAL_9">
+			<Text>欧利雅娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Shoshone - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_0">
+			<Text>卡米阿韦特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_1">
+			<Text>昂东加尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_2">
+			<Text>奎恩那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_3">
+			<Text>普格韦尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_4">
+			<Text>萨卡加维亚</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_5">
+			<Text>萨格维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_6">
+			<Text>桑皮奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_7">
+			<Text>提托哈尔斯奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_8">
+			<Text>图兹亚莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SHOSHONE_9">
+			<Text>穆格瓦杨</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Venice - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_0">
+			<Text>加斯帕罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_1">
+			<Text>吉欧萨法特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_2">
+			<Text>安波罗吉奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_3">
+			<Text>尼科洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_4">
+			<Text>马里诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_5">
+			<Text>切萨雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_6">
+			<Text>弗朗西斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_7">
+			<Text>吉欧瓦尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_8">
+			<Text>巴托洛梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENICE_9">
+			<Text>菲洛米娜</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Zulu - Flavoured -->
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_0">
+			<Text>古米德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_1">
+			<Text>贾玛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_2">
+			<Text>马格巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_3">
+			<Text>马兰达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_4">
+			<Text>恩古尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_5">
+			<Text>恩达巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_6">
+			<Text>普恩加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_7">
+			<Text>森赞加孔那</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_8">
+			<Text>巴伦吉莉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ZULU_9">
+			<Text>莎姆克莉西维</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

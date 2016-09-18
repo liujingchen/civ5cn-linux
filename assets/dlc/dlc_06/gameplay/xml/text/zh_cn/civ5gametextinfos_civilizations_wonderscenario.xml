@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_DESC">
+			<Text>苏美尔文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_SHORT_DESC">
+			<Text>苏美尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_ARABIA_ADJECTIVE">
+			<Text>苏美尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_DESC">
+			<Text>赫梯文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_SHORT_DESC">
+			<Text>赫梯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SCENARIO_CIV_OTTOMAN_ADJECTIVE">
+			<Text>赫梯</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

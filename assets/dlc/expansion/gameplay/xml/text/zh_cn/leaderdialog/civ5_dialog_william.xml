@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_1">
+			<Text>我是荷兰的威廉·奥兰治，你需要什么？我比较忙。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_2">
+			<Text>你在荷兰有什么事吗？我是威廉·奥兰治，荷兰的统治者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_FIRSTGREETING_3">
+			<Text>欢迎来到“祖国之父”威廉·奥兰治的宫殿。不要只是站在那里，你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_1">
+			<Text>真是浪费时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_2">
+			<Text>这真荒谬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_WARBLUFF_3">
+			<Text>你太蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_1">
+			<Text>希望这能给你一个教训，但愿你能记住。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_WINWAR_2">
+			<Text>你不能仅仅悲伤，外国雇佣军。你要更加努力击败我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_1">
+			<Text>...不可思议！你用了什么诡计来对付我？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LOSEWAR_2">
+			<Text>我会记住这些的，记住我的话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_1">
+			<Text>上帝啊，请怜悯我的灵魂；上帝啊，请怜悯他们，我可怜的人民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_2">
+			<Text>也许这样更好...至少现在，我不用看到你摧毁我心爱的国家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEFEATED_3">
+			<Text>诅咒你！我曾希望将我的人民从外国人的奴役下解救出来，但看起来他们会继续遭受你的奴役。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_1">
+			<Text>美好的一天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_1">
+			<Text>再会吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>我还是不明白这为什么能引起我的兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你可以做得更好一点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这实在是不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就快成功了...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_NEUTRAL">
+			<Text>我不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL">
+			<Text>这将是最后一次，我承诺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_NEUTRAL">
+			<Text>...你是认真的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_NEUTRAL">
+			<Text>来吧，我相信我有些你感兴趣的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL">
+			<Text>在这个时刻，一个小小的礼物将获得不胜感激。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_2">
+			<Text>...不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_1">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_2">
+			<Text>是的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_3">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_4">
+			<Text>您好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_3">
+			<Text>一路平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_HAPPY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我不能问心无愧的接受这些，还没有...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你最好的提议了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_HAPPY">
+			<Text>...不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY">
+			<Text>我们总是愿意帮助有需要的盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY">
+			<Text>现在不行，朋友。我们有自己的麻烦要处理。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_HAPPY">
+			<Text>我相信我们两国人民都会从这项交易中获益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY">
+			<Text>您的帮助将得到我们的不胜感激，朋友。您的仁慈慷慨举世闻名。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_4">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_3">
+			<Text>快说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_4">
+			<Text>我正在听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_5">
+			<Text>哦，是你呀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_GOODBYE_6">
+			<Text>退下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_YES_ANGRY">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你让我想起了我的第二任妻子，她很疯狂...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这实在是不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你应该能做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NEEDMORE_ANGRY_4">
+			<Text>就快成功了...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADE_NO_ANGRY">
+			<Text>我开始怀疑这是针对我的阴谋。离开吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_ANGRY">
+			<Text>...很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_ANGRY">
+			<Text>全天下都不会同意这个条款的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_TRADEREQUEST_ANGRY">
+			<Text>我的人民，远比我的尊严重要。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你能满足我，我会保留你这可怜的存在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_AGREE_SHORT_4">
+			<Text>我想，这是必须的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_5">
+			<Text>对不起。能再说一遍吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_6">
+			<Text>这是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DISAGREE_SHORT_7">
+			<Text>你不会是认真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_LETSHEARIT_5">
+			<Text>说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_1">
+			<Text>你不是一个合格的统治者，我已无法忍受你的人民的哭泣。他们将从你的暴政中解放出来。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_2">
+			<Text>你知道你做了什么吗？这将导致我们之间发生...不幸的事件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_DECLAREWAR_3">
+			<Text>我很讨厌战争，我认为清除你的存在是为社会服务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_1">
+			<Text>这种草菅人命的行为是无法容忍的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_2">
+			<Text>...那么，我们来打赌吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_ATTACKED_3">
+			<Text>你称自己是一个统治者，但我看到的是一个穿着华丽的野蛮人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_QUOTE_1">
+			<Text>我绝不会看到我的国家毁灭——我将死战到底。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WILLIAM_QUOTE_2">
+			<Text>你不必为了行动才去祈祷，也不必为了忍受才去成功。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

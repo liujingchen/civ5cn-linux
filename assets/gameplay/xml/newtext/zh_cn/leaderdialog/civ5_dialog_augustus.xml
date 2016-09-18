@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_5">
+			<Text>哦，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_6">
+			<Text>我想我必须这么做。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_7">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_1">
+			<Text>如此愚蠢地浪费生命和财富——你必将因此而后悔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
+			<Text>你严重地失算了——你必定遭遇毁灭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
+			<Text>如此的勇敢，但同时又如此的愚蠢。你的头脑和你的勇气完全不相称。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_1">
+			<Text>岂有此理，你必将为你对强大的罗马的傲慢而付出代价。你的死期将至！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
+			<Text>我的国库储备正在不断减少，我的战士正在摩拳擦掌。因此你必须死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
+			<Text>以我神圣的父亲尤利乌斯之名发誓，你活着的日子已经开始倒数。准备打仗吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_1">
+			<Text>我祝贺你取得了胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_2">
+			<Text>你击败了我们。我们失败了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_3">
+			<Text>众神已经不再眷顾罗马了。我们战败了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你想生存那就立刻同意我们的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_HAPPY">
+			<Text>请交给我们这些东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_NEUTRAL">
+			<Text>交出我们想要的东西，否则后果自负。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_2">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_5">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_6">
+			<Text>你不是当真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_7">
+			<Text>请再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_1">
+			<Text>欢迎你。我是奥古斯都，罗马帝国皇帝兼最高祭司。如果你是罗马的朋友，那么你将受到欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_2">
+			<Text>欢迎。罗马是盟友的坚定伙伴，敌人的死神。你是我们的盟友还是敌人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_3">
+			<Text>欢迎！整个罗马为你的到来感到荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_2">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_3">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_4">
+			<Text>期待下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_6">
+			<Text>我们的生意已经做完了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_3">
+			<Text>欢迎你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_5">
+			<Text>哦，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_6">
+			<Text>怎么样？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_1">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_3">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_4">
+			<Text>什么事？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_6">
+			<Text>然后呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_7">
+			<Text>说下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_LOSEWAR_1">
+			<Text>你的士兵很善于打仗。我祝贺你取得了胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
+			<Text>我接手的罗马是一座砖块造的城市，留给后世的则是一座大理石造的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
+			<Text>稳中求快。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_3">
+			<Text>冷静的指挥官远强于英勇的指挥官。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>那不够好。你会提高报价的是不是？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须提高报价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>你简直和我的妻子莉薇娅一样小气。你能提高报价么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_2">
+			<Text>那是你能提出的最好条件了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>那还不够。你不能做得更好了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就快可以了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_ANGRY">
+			<Text>我以战神之血发誓，你的提议对罗马是一种侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_HAPPY">
+			<Text>很不幸，占卜的结果认为这样做不吉利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_NEUTRAL">
+			<Text>我想不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_ANGRY">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_HAPPY">
+			<Text>太好了。成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_NEUTRAL">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_ANGRY">
+			<Text>考虑一下这个吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_HAPPY">
+			<Text>我提出这些条件供你考虑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_NEUTRAL">
+			<Text>这是我们的报价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
+			<Text>我会看到你死掉的那一天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
+			<Text>我不可能这样漫不经心地挥霍罗马的财富。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
+			<Text>你想找死么，我很好奇？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_ANGRY">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_HAPPY">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_NEUTRAL">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_1">
+			<Text>哈。你真是有点志气。我倒有点没底了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_2">
+			<Text>你差点把我唬住了。干得好啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_3">
+			<Text>多么令人失望啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_4">
+			<Text>太令人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_5">
+			<Text>是吗？我相信你不会再有机会为自己的目光短浅而懊悔了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_6">
+			<Text>你太愚蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
+			<Text>很好。你自己承担后果吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
+			<Text>战神再次向我们微笑。所有敌人都将向罗马臣服！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

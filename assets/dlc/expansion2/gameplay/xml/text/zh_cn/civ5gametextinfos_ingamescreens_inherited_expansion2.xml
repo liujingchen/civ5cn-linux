@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_PEDIA_FAITH_LABEL">
+			<Text>信仰:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_MERCANTILE">
+			<Text>商业型城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_TRAIT_RELIGIOUS">
+			<Text>宗教型城邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALLOWS_EMBASSY">
+			<Text>允许在其他文明的首都设立使馆。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF">
+			<Text>禁用宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOP_PANEL_RELIGION_OFF_TOOLTIP">
+			<Text>本局游戏禁用宗教系统。不能积累信仰点数。不能创立神系或宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_GA_PROGRESS">
+			<Text>海军统帅进度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_ADMIRAL_TT">
+			<Text>{1_current}/{2_needed}[NEWLINE]获得下一位海军统帅的进度(依据您的海军单位在战斗中获得的经验点数)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MO_GENERAL_TT">
+			<Text>{1_current}/{2_needed}[NEWLINE]获得下一位陆军统帅的进度(依据您的陆军单位在战斗中获得的经验点数)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GP_MOD">
+			<Text>[ICON_BULLET]城市加成: +{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAYER_GP_MOD">
+			<Text>[ICON_BULLET]全境加成: +{1_num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS">
+			<Text>[ICON_PLUS]全境建筑快乐度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_BUILDINGS_COLLAPSE">
+			<Text>[ICON_MINUS]全境建筑快乐度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCAL_CITY">
+			<Text>[ICON_PLUS]本城市快乐度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCAL_CITY_COLLAPSE">
+			<Text>[ICON_MINUS]本城市快乐度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RELIGION">
+			<Text>宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCOME_RELIGION">
+			<Text>来自宗教的收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INTRIGUE_TURN">
+			<Text>回合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INTRIGUE_FROM">
+			<Text>来自</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INTRIGUE_MSG">
+			<Text>信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_22">
+			<Text>谍报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_CONCEPT_SECTION_23">
+			<Text>宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EGI_TRADE_ROUTE_MOD_INFO">
+			<Text>{1_Num}%金钱影响</Text>
+		</Row>
+    <Row Tag="TXT_KEY_UNIT_FORTIFICATION_MOD">
+      <Text>来自驻扎的战斗加成提升[COLOR_POSITIVE_TEXT]{1_UnitFortificationPercent}%[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_BASE_HEAL_MOD">
+      <Text>基准单位恢复速率提升[COLOR_POSITIVE_TEXT]{1_UnitHealingPercent}%[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FREE_PROMOTION_FROM_TECH">
+      <Text>给予符合条件的单位[COLOR_POSITIVE_TEXT]{@1_PromotionName}[ENDCOLOR]晋升[NEWLINE][NEWLINE]({@2_PromotionHelp})</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RELIGION_OVERVIEW">
+			<Text>宗教总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_TAB_YOUR_RELIGION">
+			<Text>你的宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_TAB_WORLD_RELIGIONS">
+			<Text>世界宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_TAB_BELIEFS">
+			<Text>信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_RELIGIOUS_STATUS">
+			<Text>你的宗教状态:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEFS">
+			<Text>信条:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEFS_NONE">
+			<Text>无</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_FAITH">
+			<Text>[ICON_PEACE]信仰: {1_NumFaith}/{2_MinFaithForProphet}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_FAITH_TOOLTIP">
+			<Text>催生下一位大先知至少需要{1_MinFaith}[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_POSSIBLE_GP">
+			<Text>可催生伟人:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE">
+			<Text>自动用[ICON_PEACE]信仰购买:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_MISSIONARY">
+			<Text>购买传教士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_INQUISITOR">
+			<Text>购买宗教裁判官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_BUILDING">
+			<Text>购买建筑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PROPHET">
+			<Text>保留用以催生伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE_PROPHET">
+			<Text>购买伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_GREAT_PERSON">
+			<Text>保留用以催生{1_GreatPersonType}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PURCHASE_GREAT_PERSON">
+			<Text>购买{1_GreatPersonType}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_AUTO_FAITH_PROMPT">
+			<Text>以后再提醒我</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_NO_WORLD_RELIGIONS">
+			<Text>目前没有世界宗教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_RELIGION">
+			<Text>宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_HOLY_CITY">
+			<Text>圣城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_FOUNDER">
+			<Text>创立者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_NUMBER_OF_CITIES">
+			<Text>城市数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_OVERALL_STATUS">
+			<Text>总体状态</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_NUM_AVAIL_RELIGIONS">
+			<Text>可创立的宗教数量: {1_NumAvailReligions}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_B_NO_BELIEFS">
+			<Text>目前没有启用信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_B_BELIEFS">
+			<Text>信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_B_TYPE">
+			<Text>类型</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_B_BONUS">
+			<Text>奖励</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_B_RELIGION">
+			<Text>宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_STATUS_FOUNDER">
+			<Text>{1_ReligionName}创立者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_STATUS_CREATED_PANTHEON">
+			<Text>已创立一个神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_STATUS_CAN_CREATE_PANTHEON">
+			<Text>现在可以创立神系！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_STATUS_NEED_FAITH">
+			<Text>创立神系需要{1_NumFaith}[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_STATUS_TOO_LATE">
+			<Text>目前无法再创立神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_TYPE_PANTHEON">
+			<Text>神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_TYPE_FOUNDER">
+			<Text>创立者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_TYPE_FOLLOWER">
+			<Text>追随者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_TYPE_ENHANCER">
+			<Text>强化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_YR_NO_GREAT_PEOPLE">
+			<Text>无</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_UNKNOWN_CIV">
+			<Text>未知文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_WR_UNKNOWN_HOLY_CITY">
+			<Text>未知城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_PANTHEON">
+			<Text>{@1_CivAdj}神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RO_BELIEF_UNKNOWN_PANTHEON">
+			<Text>未知神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_VIEW">
+			<Text>查看</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_VIEW_TOOLTIP">
+			<Text>查看城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RELOCATE">
+			<Text>移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RELOCATE_TOOLTIP">
+			<Text>重新安置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_TITLE">
+			<Text>谍报总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_AGENTS">
+			<Text>间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_NAME_RANK">
+			<Text>名字/等级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_LOCATION">
+			<Text>位置</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_ACTIVITY">
+			<Text>活动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_YOUR_CITIES">
+			<Text>我方城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_THEIR_CITIES">
+			<Text>对方城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CIVILIZATION">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_NAME">
+			<Text>名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL">
+			<Text>情报潜力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_RELOCATE_SPY_QUESTION">
+			<Text>重新安置间谍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_HAS_SPY_TT">
+			<Text>{1_SpyName}已安置于此城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_COUP">
+			<Text>政变</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_COUP_TT">
+			<Text>间谍将策划一场政变并与新政府结成同盟。城市必须已经是其他文明的同盟。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_STAGE_COUP_QUESTION">
+			<Text>{1_SpyRank}{2_SpyName}将在{3_CityName}策动一场政变，使与我们结盟的势力上台执政。支持{4_CivShortDesc}的现政权将被推翻并失去影响力。[NEWLINE][NEWLINE][COLOR_HIGHLIGHT_TEXT]此项行动的成功率为{5_PERCENT}%。[ENDCOLOR]如果政变成功，你将与{6_CityName}结为同盟，{7_CivShortDesc}的影响力将下降。如果政变失败，你的间谍将暴露并被处死，你对{8_CityName}的影响力将下降。[NEWLINE][NEWLINE]你确定要让{9_SpyRank}{10_SpyName}在{11_CityName}策动一场政变吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_KIA">
+			<Text>牺牲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_PANTHEON_TITLE">
+			<Text>创立神系</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_TITLE">
+			<Text>创立宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_TITLE_ENHANCE">
+			<Text>强化宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_ICON">
+			<Text>选择一个宗教图标</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_PANTHEON_BELIEF">
+			<Text>神系信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_PANTHEON_BELIEF">
+			<Text>请选择一个神系信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOUNDER_BELIEF">
+			<Text>创立者信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOUNDER_BELIEF">
+			<Text>请选择一个创立者信条(可为创立者的文明带来奖励)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF">
+			<Text>追随者信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOLLOWER_BELIEF">
+			<Text>请选择一个追随者信条(可为所有信奉该宗教的城市带来奖励)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOLLOWER_BELIEF2">
+			<Text>第二项追随者信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_FOLLOWER_BELIEF2">
+			<Text>请选择一个追随者信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SPREAD_BELIEF">
+			<Text>强化信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_SPREAD_BELIEF">
+			<Text>请选择一个强化信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_BONUS_BELIEF">
+			<Text>奖励信条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_SELECT_BONUS_BELIEF">
+			<Text>请选择一个奖励信条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_OK_BUTTON">
+			<Text>创立宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_OK_BUTTON_ENHANCE">
+			<Text>强化宗教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_CHANGE_NAME">
+			<Text>改名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_ENTER_NAME">
+			<Text>请输入新名字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_ERROR_NAME_EMPTY">
+			<Text>名字不能为空。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_ALREADY_FOUNDED">
+			<Text>{1_ReligionName}已经被{2_CivName}创立了。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CHOOSE_RELIGION_UNMET_PLAYER">
+      <Text>未知玩家</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CHOOSE_RELIGION_AVAILABLE_LATER">
+			<Text>宗教获得强化后可用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_BYZANTINES_ONLY">
+			<Text>拜占庭可用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_NAME_LABEL">
+			<Text>{1_ReligionName} [COLOR_GREEN](点击可自定义名字)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_FOUNDED_IN">
+			<Text>创立于{1_DateYear}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM">
+			<Text>你确定要创立{1_ReligionName}吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_CONFIRM_ENHANCE">
+			<Text>你确定要强化{1_ReligionName}吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SUBTITLE_ALT">
+			<Text>下次联合国投票的预计结果:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_ALT">
+			<Text>预计投票给你:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TITLE_ALT">
+			<Text>预计票数</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_COL_TT_ALT">
+			<Text>每个玩家在下次联合国投票中预计获得的票数。实际结果可能因此后的国际形势变化而改变。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_SUMMARY_ALT">
+			<Text>{@1_CivName}预计获得{2_NumProjectedVotes}票。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CIVS_ALT">
+			<Text>在上次投票中，{@1_CivName}获得来自大文明的票数为{2_NumVotesFromCivs}票。下次投票的结果可能因国际形势变化而改变。各文明会投票给同其关系最好的文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_CITYSTATES_ALT">
+			<Text>{@1_CivName}预计获得来自城邦的票数为{2_NumVotesFromMinorCivs}票，如果城邦的外交关系状态不变，将会投票给他们的解放者或盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_MY_VOTES_TT_UN_ALT">
+			<Text>{@1_CivName}因创立联合国而额外获得1票。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TITLE_ALT">
+			<Text>文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_COL_TT_ALT">
+			<Text>在上次联合国投票中，获得来自其他大文明的票数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_SELF_VOTES_TT_ALT">
+			<Text>在上次联合国投票中，{@1_CivName}获得了来自以下友好文明的投票:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CS_VOTES_COL_TT_ALT">
+			<Text>当前同盟城邦数量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_CS_VOTES_TT_ALT">
+			<Text>{@1_CivName}目前与下列城邦结盟:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_VOTES_COL_TT_ALT">
+			<Text>当前解放城邦数量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_VOTES_TT_ALT">
+			<Text>{@1_CivName}最近解放了下列城邦:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TITLE_ALT">
+			<Text>上次投票</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_COL_TT_ALT">
+			<Text>在上次投票中所支持的文明(不能投票给自己)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VP_DIPLO_LIBERATED_CIV_TT_ALT">
+			<Text>{@1_VotingCivName}上次投票给{@2_RecipientCivName}，因为与其关系最好。[NEWLINE][NEWLINE]{@1_VotingCivName}目前对你的态度: {@3_MoodTowardsYou}</Text>
+		</Row>
+  </Language_zh_CN>
+</GameData>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_TITLE">
+		<Text>纷乱国度</Text>
+	</Row>
+	<Row Tag="TXT_KEY_MAP_FOLDER_DLC_3_DESC">
+		<Text>纷乱国度地图包</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA">
+		<Text>澳大利亚</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DESC">
+		<Text>半随机的澳大利亚地图，地形随机生成，起始位置在海滨。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_DUEL">
+		<Text>澳大利亚：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_TINY">
+		<Text>澳大利亚：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_SMALL">
+		<Text>澳大利亚：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_AUSTRALIA_STANDARD">
+		<Text>澳大利亚：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA">
+		<Text>加拿大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DESC">
+		<Text>半随机的加拿大地图，北部为冻土和冰区，随机生成大片平原、草原和森林。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_DUEL">
+		<Text>加拿大：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_TINY">
+		<Text>加拿大：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_SMALL">
+		<Text>加拿大：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_STANDARD">
+		<Text>加拿大：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CANADA_LARGE">
+		<Text>加拿大：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN">
+		<Text>斯堪的纳维亚</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_DESC">
+		<Text>半随机的斯堪的纳维亚地图，只保留部分关键地貌。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_LARGE">
+		<Text>斯堪的纳维亚：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_STANDARD">
+		<Text>斯堪的纳维亚：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_SCAN_SMALL">
+		<Text>斯堪的纳维亚：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN">
+		<Text>日本</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DESC">
+		<Text>半随机的日本地图，保留真实的陆地轮廓与主要山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_DUEL">
+		<Text>日本：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_TINY">
+		<Text>日本：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_SMALL">
+		<Text>日本：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_STANDARD">
+		<Text>日本：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_JAPAN_LARGE">
+		<Text>日本：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ITALY">
+		<Text>意大利</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_DESC">
+		<Text>半随机的意大利地图，保留真实的陆地轮廓与阿尔卑斯山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_SMALL">
+		<Text>意大利：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_ITALY_STANDARD">
+		<Text>意大利：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK">
+		<Text>英国</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_DESC">
+		<Text>半随机的英国地图，包括英格兰、苏格兰和北爱尔兰，所有地形随机生成。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_DUEL">
+		<Text>英国：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_TINY">
+		<Text>英国：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_SMALL">
+		<Text>英国：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_STANDARD">
+		<Text>英国：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_UK_LARGE">
+		<Text>英国：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA">
+		<Text>中国</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DESC">
+		<Text>半随机的中国地图，保留真实的陆地轮廓和主要山脉，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_DUEL">
+		<Text>中国：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_TINY">
+		<Text>中国：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_SMALL">
+		<Text>中国：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_STANDARD">
+		<Text>中国：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_CHINA_LARGE">
+		<Text>中国：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA">
+		<Text>俄国</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DESC">
+		<Text>半随机的俄国地图，保留真实的陆地轮廓，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_DUEL">
+		<Text>俄国：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_TINY">
+		<Text>俄国：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_SMALL">
+		<Text>俄国：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_STANDARD">
+		<Text>俄国：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_LARGE">
+		<Text>俄国：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_RUSSIA_HUGE">
+		<Text>俄国：极大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY">
+		<Text>土耳其</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DESC">
+		<Text>半随机的土耳其地图，保留真实的陆地轮廓，随机生成多山地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_DUEL">
+		<Text>土耳其：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_TINY">
+		<Text>土耳其：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_SMALL">
+		<Text>土耳其：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_STANDARD">
+		<Text>土耳其：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_LARGE">
+		<Text>土耳其：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_TURKEY_HUGE">
+		<Text>土耳其：极大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE">
+		<Text>法国</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DESC">
+		<Text>半随机的法国地图，保留真实的陆地轮廓，随机生成其他地形。</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_DUEL">
+		<Text>法国：擂台</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_TINY">
+		<Text>法国：极小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_SMALL">
+		<Text>法国：较小</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_STANDARD">
+		<Text>法国：标准</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_LARGE">
+		<Text>法国：较大</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CW_MAP_PACK_FRANCE_HUGE">
+		<Text>法国：极大</Text>
+	</Row>
+	</Language_zh_CN>
+</GameData>

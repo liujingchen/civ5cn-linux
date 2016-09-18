@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- leo: Artist -->
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST">
+			<Text>美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_SLOTS">
+			<Text>美术家席位：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_TITLE">
+			<Text>大美术家点数：</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_ARTIST_STRATEGY">
+			<Text>美术家可以增加城市的[ICON_CULTURE]文化产出并且加速大美术家的产生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ARTIST">
+			<Text>大美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GREATARTISTS_HEADING">
+			<Text>大美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_ARTIST_DETAILS">
+			<Text>[ICON_PLUS] 大美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GP_ARTIST_DETAILS_COLLAPSE">
+			<Text>[ICON_MINUS] 大美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATARTIST_ADV_QUEST">
+			<Text>大美术家是什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATARTIST_HEADING3_BODY">
+			<Text>大美术家是一位极具天赋的美术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALISTSANDGP_GREATARTIST_HEADING3_TITLE">
+			<Text>大美术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AESTHETICS">
+			<Text>美学政策</Text>
+		</Row>
+		<!-- :leo Artist -->
+		<Row Tag="TXT_KEY_UNIT_GREAT_PROPHET">
+			<Text>大先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MISSIONARY">
+			<Text>传教士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INQUISITOR">
+			<Text>宗教裁判官</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEHAL_SEFARI">
+			<Text>皇家卫队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPOSITE_BOWMAN">
+			<Text>复合弓手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GATLINGGUN">
+			<Text>多管机枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GALLEASS">
+			<Text>桨帆战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY">
+			<Text>早期现代步兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE">
+			<Text>海军陆战队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRIPLANE">
+			<Text>三翼机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_BOMBER">
+			<Text>早期轰炸机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WWI_TANK">
+			<Text>履带战车</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MACHINE_GUN">
+			<Text>重机枪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PRIVATEER">
+			<Text>私掠舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_BEGGAR">
+			<Text>“海上乞丐”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GREAT_ADMIRAL">
+			<Text>海军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
+			<Text>海军近战单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
+			<Text>海军远程单位</Text>
+		</Row>
+    <Row Tag="TXT_KEY_UNITCOMBAT_SUBMARINE">
+      <Text>潜艇</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNITCOMBAT_CARRIER">
+      <Text>航母</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_CARRIER">
+			<Text>初始时可运载2个飞机单位，可通过晋升增加运载能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MINUTEMAN">
+			<Text>游戏中最早的火器单位之一。美国特色单位，替代火枪手。在复杂地形中移动时如履平地，在复杂地形中作战时可获得战斗力加成，在击败敌军时还可积累点数以触发[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY">
+			<Text>快速民兵是美利坚文明的特色单位。快速民兵在任何区块上移动时都能像在开阔地形上一样（任何地形都只消耗1移动力），在复杂地形下作战时还能获得战斗力奖励，在击败敌军时还可积累点数以触发[ICON_GOLDEN_AGE]黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHEW_PERRY">
+			<Text>马修·佩里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_FARRAGUT">
+			<Text>戴维·法拉格特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_DEWEY">
+			<Text>乔治·杜威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHESTER_NIMITZ">
+			<Text>约翰·霍金斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCIS_DRAKE">
+			<Text>弗朗西斯·德雷克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_CUNNINGHAM">
+			<Text>安德鲁·坎宁安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_COMTE_DE_GRASSE">
+			<Text>格拉斯伯爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFRED_VON_TIRPITZ">
+			<Text>阿尔弗雷德·冯·提尔皮茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROGER_OF_LAURIA">
+			<Text>罗杰·德·劳里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALVARO_DE_BAZAN">
+			<Text>阿尔瓦罗·德·巴赞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DON_JOHN_OF_AUSTRIA">
+			<Text>奥地利的唐·胡安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERNANDO_VILLAAMIL">
+			<Text>费尔南多·比利亚米尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_TORDENSKJOLD">
+			<Text>彼得·楚顿斯克尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FYODOR_USHAKOV">
+			<Text>费奥多·乌沙科夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_PAUL_JONES">
+			<Text>约翰·保罗·琼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZINOVY_ROZHESTVENSKI">
+			<Text>齐诺维·罗杰斯特文斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YI_SUN_SIN">
+			<Text>李舜臣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERIK_THORVALDSSON">
+			<Text>埃里克·索瓦尔德松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEIF_ERICSON">
+			<Text>雷夫·埃里克松</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAYREDDIN_BARBAROSSA">
+			<Text>海雷丁·巴巴罗萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TURGUT_REIS">
+			<Text>图古特·列伊斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURAT_REIS">
+			<Text>穆拉特·列伊斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRY_THE_NAVIGATOR">
+			<Text>航海家亨利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AFONSO_DE_ALBUQUERQUE">
+			<Text>阿方索·德·阿尔布克尔克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANREA_DORIA">
+			<Text>安德烈亚·多里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHORMIO">
+			<Text>福尔米奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_ATILLIUS_REGULUS">
+			<Text>马尔库斯·阿蒂利乌斯·雷古鲁斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_VIPSANIUS_AGRIPPA">
+			<Text>马尔库斯·维普撒尼乌斯·阿格里帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIMILCO">
+			<Text>希米尔科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CALONYMUS_OF_ALEXANDRIA">
+			<Text>亚历山大的卡隆尼马斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_DOUKAS">
+			<Text>约翰·道卡斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOGO_HEIHACHIRO">
+			<Text>东乡平八郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHI_LANG">
+			<Text>施琅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTHUR_CONAN_DOYLE">
+			<Text>阿瑟·柯南·道尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OMAR_KHAYYAM">
+			<Text>欧玛尔·哈亚姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUMI">
+			<Text>鲁米</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEO_TOLSTOY">
+			<Text>列夫·托尔斯泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_DIN_AL_TUSI">
+			<Text>阿尔丁·图西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_QASIM_AL_ZAHRAWI">
+			<Text>阿尔卡西姆·扎哈拉维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEONARD_EULER">
+			<Text>莱昂哈德·欧拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_FEYNMAN">
+			<Text>理查德·费曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_VON_HUMBOLDT">
+			<Text>亚历山大·冯·洪堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREY_KOLMOGOROV">
+			<Text>安德雷·柯尔莫哥洛夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARY_LEAKEY">
+			<Text>玛丽·李奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_LINNAEUS">
+			<Text>卡尔·林奈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHEN_KUO">
+			<Text>沈括</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GREGOR_MENDEL">
+			<Text>格里哥·孟德尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DMITRY_MENDELEEV">
+			<Text>德米特里·门捷列夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_VON_NEUMANN">
+			<Text>约翰·冯·诺伊曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUDE_SHANNON">
+			<Text>克劳德·香农</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALAN_TURING">
+			<Text>艾伦·图灵</Text>
+		</Row>
+		<!-- GREAT MERCHANTS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_LICINIUS_CRASSUS">
+			<Text>马尔库斯·李锡尼乌斯·克拉苏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDWARD_HARRIMAN">
+			<Text>爱德华·哈里曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MILTON_S_HERSHEY">
+			<Text>米尔顿·斯内夫利·赫尔希</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIR_JAMES_LANCASTER">
+			<Text>詹姆斯·兰开斯特爵士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_NESTLE">
+			<Text>亨利·内斯特莱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEVI_STRAUSS">
+			<Text>利惠·斯特劳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_TWINING">
+			<Text>托玛斯·川宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEVE_JOBS">
+			<Text>史蒂夫·乔布斯</Text>
+		</Row>
+    <Row Tag="TXT_KEY_GREAT_PERSON_JAKOB_FUGGER">
+      <Text>雅各布·富格尔</Text>
+    </Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARL_BENZ">
+			<Text>卡尔·本茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTLIEB_DAIMLER">
+			<Text>戈特利布·戴姆勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_STARK_DRAPER">
+			<Text>查尔斯·斯塔克·德雷珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_EASTMAN">
+			<Text>乔治·伊士曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_GODDARD">
+			<Text>罗伯特·戈达德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EPAMINONDAS">
+			<Text>伊巴密浓达斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_OF_NASSAU">
+			<Text>拿骚的莫里斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_POMPEY">
+			<Text>庞培</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PYRRHUS">
+			<Text>皮洛士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WINFIELD_SCOTT">
+			<Text>温菲尔德·斯科特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SITTING_BULL">
+			<Text>坐牛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SPARTACUS">
+			<Text>斯巴达克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_TSERCLAES">
+			<Text>约翰·采克拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALLENSTEIN">
+			<Text>华伦斯坦</Text>
+		</Row>
+    <Row Tag="TXT_KEY_GREAT_PERSON_HANNIBAL">
+      <Text>汉尼拔</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

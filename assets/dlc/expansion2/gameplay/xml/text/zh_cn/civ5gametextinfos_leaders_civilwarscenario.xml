@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADER_WASHINGTON">
+			<Text>亚伯拉罕·林肯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADER_ELIZABETH">
+			<Text>杰佛逊·戴维斯</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

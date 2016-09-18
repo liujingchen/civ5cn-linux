@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_AGREE_SHORT_4">
+			<Text>天主保佑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_1">
+			<Text>你竟敢攻击我！天主作证，我一定要消灭你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_2">
+			<Text>你这邪恶的爬虫，你一定会付出代价的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_ATTACKED_3">
+			<Text>在天主的协助下，我一定会消灭你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_1">
+			<Text>天主之剑一定能砍开邪恶之盾，我一定能消灭你！准备开战吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_2">
+			<Text>天主也许会原谅你；但我决不会。准备作战吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DECLAREWAR_3">
+			<Text>我为你的灵魂祈祷。但是你的肉体我一定要消灭掉。准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_1">
+			<Text>很好。这一定是天主的意愿；我只能屈服。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_2">
+			<Text>一切都完了。邪恶胜利了——暂时性的。但是天主一定会赢得最终的胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEFEATED_3">
+			<Text>一切都完了。邪恶胜利了——暂时性的。但是请记住，天主一定会赢得最终的胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_ANGRY">
+			<Text>你可以缩短在地狱受苦的时间，如果你在有生之年表现得乐善好施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_HAPPY">
+			<Text>我的朋友，我相信天主希望你能给我下列的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>西班牙需要下列的东西，以帮助她对抗邪恶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_1">
+			<Text>天主作证，我不同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_2">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_4">
+			<Text>这是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_5">
+			<Text>当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_6">
+			<Text>这不可接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_DISAGREE_SHORT_7">
+			<Text>你不是当真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_1">
+			<Text>我是至高的天主垂青的伊莎贝拉，西班牙女王。你是一位正义的统治者吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_2">
+			<Text>愿天主赐福于善良的人们！我是西班牙的伊莎贝拉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_FIRSTGREETING_3">
+			<Text>我是伊莎贝拉，神圣的西班牙女王。你是个异教徒，还是个虔诚者？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_1">
+			<Text>愿天主保佑你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_3">
+			<Text>再会吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_4">
+			<Text>退下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_GOODBYE_6">
+      <Text>一路平安。</Text>
+    </Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_1">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_2">
+			<Text>愿天主保佑你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_3">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_4">
+			<Text>哦，是你呀。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_5">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_1">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_3">
+			<Text>快说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_4">
+			<Text>我正在听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LETSHEARIT_5">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_LOSEWAR_1">
+			<Text>如果你对战败者表现仁慈，天主一定会保佑你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>贪婪是一种罪过，它通向永恒的地狱。我请求你改善你的提议。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>你应该能做得更好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>这还不够好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>贪婪是罪过。你能改善你的提议吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你最好的提议了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>慷慨对灵魂是有益的。你能改善你的提议吗？</Text>
+		</Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>这实在是不够好。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>就快成功了……</Text>
+    </Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_ANGRY">
+			<Text>我不想再听你花言巧语。你的提议被拒绝了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_HAPPY">
+			<Text>如果你搜寻灵魂深处，你将发现你的提议是不公平的。我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_NO_NEUTRAL">
+			<Text>我是天主指定的国民财产保护人。你的提议太不公平，我无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_ANGRY">
+			<Text>我们同意了。你可以退下了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_HAPPY">
+			<Text>你真是个公平的谈判者。我们同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADE_YES_NEUTRAL">
+			<Text>你的条件很公平。我们接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_ANGRY">
+			<Text>作为西班牙统治者，有时我必须和不喜欢的人打交道。就象现在这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_HAPPY">
+			<Text>我亲爱的朋友，我相信这笔交易对双方都有利，对我们的敌人也是一种打击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRADEREQUEST_NEUTRAL">
+			<Text>我希望这笔交易能获得你的祝福。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_ANGRY">
+			<Text>你竟敢如此？你还没遭到天打雷劈真是令人惊讶！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_HAPPY">
+			<Text>我现在不能给你想要的东西——但我保证会祈祷你获得救赎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_NO_NEUTRAL">
+			<Text>你不值得我这样慷慨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_ANGRY">
+			<Text>我祈祷你罪恶的心灵会因我们的慷慨无私而感到羞愧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_HAPPY">
+			<Text>当然：正义者必须联合起来对抗异教徒！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_TRIBUTE_YES_NEUTRAL">
+			<Text>当然：天主命令我们要对有需要的人慷慨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_1">
+			<Text>天主对你非常失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_2">
+			<Text>你在玩危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_WARBLUFF_3">
+			<Text>很好。下次我可不会这么客气了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ISABELLA_WINWAR_1">
+			<Text>你很幸运，天主教导我应该仁慈一点，否则我一定会消灭你。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

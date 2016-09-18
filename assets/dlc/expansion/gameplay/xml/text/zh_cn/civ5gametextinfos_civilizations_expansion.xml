@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_AUSTRIA_ADJECTIVE">
+			<Text>奥地利</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AUSTRIA_DESC">
+			<Text>奥地利文明</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_AUSTRIA_SHORT_DESC">
+			<Text>奥地利</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BYZANTIUM_ADJECTIVE">
+			<Text>拜占庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BYZANTIUM_DESC">
+			<Text>拜占庭文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BYZANTIUM_SHORT_DESC">
+			<Text>拜占庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CARTHAGE_ADJECTIVE">
+			<Text>迦太基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CARTHAGE_DESC">
+			<Text>迦太基文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CARTHAGE_SHORT_DESC">
+			<Text>迦太基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CELTS_ADJECTIVE">
+			<Text>凯尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CELTS_DESC">
+			<Text>凯尔特文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CELTS_SHORT_DESC">
+			<Text>凯尔特</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ETHIOPIA_ADJECTIVE">
+			<Text>埃塞俄比亚</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ETHIOPIA_DESC">
+			<Text>埃塞俄比亚文明</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ETHIOPIA_SHORT_DESC">
+			<Text>埃塞俄比亚</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HUNS_ADJECTIVE">
+			<Text>匈人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HUNS_DESC">
+			<Text>匈人文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HUNS_SHORT_DESC">
+			<Text>匈人</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAYA_ADJECTIVE">
+			<Text>玛雅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAYA_DESC">
+			<Text>玛雅文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAYA_SHORT_DESC">
+			<Text>玛雅</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NETHERLANDS_ADJECTIVE">
+			<Text>荷兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NETHERLANDS_DESC">
+			<Text>荷兰文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NETHERLANDS_SHORT_DESC">
+			<Text>荷兰</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SPAIN_ADJECTIVE">
+			<Text>西班牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SPAIN_DESC">
+			<Text>西班牙文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SPAIN_SHORT_DESC">
+			<Text>西班牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SWEDEN_ADJECTIVE">
+			<Text>瑞典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SWEDEN_DESC">
+			<Text>瑞典文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SWEDEN_SHORT_DESC">
+			<Text>瑞典</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

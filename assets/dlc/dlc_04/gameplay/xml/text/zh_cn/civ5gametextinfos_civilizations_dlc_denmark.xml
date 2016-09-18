@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_DENMARK_ADJECTIVE">
+			<Text>丹麦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENMARK_DESC">
+			<Text>丹麦文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENMARK_SHORT_DESC">
+			<Text>丹麦</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

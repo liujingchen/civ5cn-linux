@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ODYSSEY">
+			<Text>“凡人总是轻率地责怪众神，[NEWLINE]说是我们给了他们苦难。[NEWLINE]然而事实却并非这样，他们以自己的粗莽，[NEWLINE]逾越既定的规限，替自己招致悲伤。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FABLES">
+			<Text>“乌龟不停地爬呀爬呀。等兔子终于睡醒了，就看到乌龟已经快爬到终点了。太迟了，就算兔子跑得再快也追不上了。赛后，乌龟说：‘虽然走得慢，只要坚持不懈也能获胜。’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_OEDIPUS">
+			<Text>“俄狄浦斯曾猜出那著名的谜语，曾是一个伟大的君王，曾为所有人所崇拜。而现在，他陷进那灾难的可怕漩涡中，无法自拔。所以说，人活一世，要时刻留心着自己的末日，你不能高兴的太早了，直到你能毫无痛苦地跨过那生命的界限。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LYSISTRATA">
+			<Text>“你们男人们啊，可真是傻透了，竟敢跟女人们开战，你们要是要团结起来，本来是能轻易打败我们的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_AENEID">
+			<Text>“下到地狱去是容易的；[NEWLINE]黝黑冥界的大门是昼夜敞开的；[NEWLINE]可是如果想走回头路，想回到人间来，[NEWLINE]那是充满阻碍的，困难重重的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_METAMORPHOSES">
+			<Text>“快乐，就是人挣脱了损害心智的枷锁，[NEWLINE]就是永远不必再忧虑重重。[NEWLINE]变得耐心而坚强吧；这痛苦总有一天会有用的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TRUE_STORY">
+			<Text>“我靠的是谎言，不过是那种最不叵测的谎言。你唯一能相信的是我现在要说的话——我是个骗子。我觉得这话足以为所有的指控作辩护了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RUBAIYAT">
+			<Text>“指动字成，字成指动；[NEWLINE]任你如何至诚，如何机智，[NEWLINE]难叫他收回成命消去半行，[NEWLINE]任你眼泪流完也难洗掉一字。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MASNAVI">
+			<Text>“你敲门，他会为你敞开门扉。[NEWLINE]你消失，他会使你如太阳般光彩。[NEWLINE]你坠落，他会将你托上天堂。[NEWLINE]你成为虚无，他则会将你化作万物。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RAMAYAMA">
+			<Text>“诗人蚁垤将大千世界纳入他手中的一颗水滴里。[NEWLINE]诸神与众仙从天界俯视着大地，[NEWLINE]而蚁垤则从时间的初始俯视着诸神。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MAHABHARATA">
+			<Text>“欲挽救家族，就得舍弃个人；[NEWLINE]欲挽救村庄，就得舍弃家族；[NEWLINE]欲挽救国家，就得舍弃村庄；[NEWLINE]欲挽救灵魂，就得舍弃尘世。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_URUBHANGA">
+			<Text>“猜忌的恶疾从未植于我的本性。[NEWLINE]我是一个开明的国君，[NEWLINE]我尊重男女之间绽放的友谊。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ABHIJNANASAKUTALAM">
+			<Text>“昨日只是一场梦幻；[NEWLINE]明日只是一个想象。[NEWLINE]可如果今日能过得充实，[NEWLINE]昨日就成为幸福之梦，[NEWLINE]而明日则成为希望之设想。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHU_CI">
+			<Text>“彼尧舜之耿介兮，[NEWLINE]既遵道而得路。[NEWLINE]何桀纣之猖披兮，[NEWLINE]夫唯捷径以窘步。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SHUIHU_ZHUAN">
+			<Text>“今日小弟陈达不听好言，误犯虎威，已被英雄擒捉在贵庄，无计恳求，今来一径就死。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JIN_PING_MEI">
+			<Text>“是夜，两人雨意云情，并头交颈而睡。正是：[NEWLINE]乱鬓双横兴已饶，情浓犹复厌通宵。[NEWLINE]晚来独向妆台立，淡淡春山不用描。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HONG_LOU_MENG">
+			<Text>“巧者劳而智者忧；[NEWLINE]无能者无所求，[NEWLINE]蔬食而遨游，[NEWLINE]泛若不系之舟。”[NEWLINE]（塞爱维小提示：这其实是贾宝玉所读《南华经》中的句子。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KOKIN_WAKASHU">
+			<Text>“回忆当时泪，[NEWLINE]晶莹白玉珠。[NEWLINE]年年流不断，[NEWLINE]红水满江湖。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GENJI_MONOGATARI">
+			<Text>“男人们不应仅仅因为一个女子相貌平平就冷落她，正如他们不应仅仅因为一个女子长相秀美就亵玩她。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TSUREZUREGUSA">
+			<Text>“不确定是生活中最有趣的东西。把什么事情只完成一半，就会使它变得很有意思，而且让人觉得还有增进的空间。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SHINJUTEN_NO_AMIJIMA">
+			<Text>“被死神附体的人，耳朵是听不进意见和道理的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UGETSU_MONOGATARI">
+			<Text>“江月照，[NEWLINE]松风吹，[NEWLINE]永夜青宵何所为。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAGAHAI_WA_NEKO">
+			<Text>“跟人类生活在一起的我，越是观察他们，就越是不得不承认他们的自私。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_EL_INGENIOSO">
+			<Text>“桑丘说：‘您仔细瞧瞧，那不是巨人，是风车；上面胳膊似的东西是风车的翅膀，给风吹动了就能推转石磨。’[NEWLINE]堂吉诃德道：‘你真是外行，不懂冒险。’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MARIA">
+			<Text>“我带着忧伤睡下了，心里隐隐的是些不妙的预感。那一缕从男孩子头上剪来的秀发，那一种在生命力最旺盛之际就表现出来的爱对死亡的戒备，使我的思绪一整夜都徜徉于过去的一幕又一幕，徜徉于那些于不经意间度过的最美好的时光。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MARTIN_FIERRO">
+			<Text>“堂堂高乔非小可，[NEWLINE]请君为我倾耳听：[NEWLINE]茫茫大地何足道，[NEWLINE]我志无垠更广阔。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_AZUL">
+			<Text>“西班牙的风笛，歌声娓娓，[NEWLINE]在这春日里，它声音最美！[NEWLINE]先歌欢乐，后歌痛苦，[NEWLINE]有如那巨浪，深沉而悲楚。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GIRART_DE_VIENNE">
+			<Text>“愿上帝禁止这种行径！[NEWLINE]我不应该加害于法国国王！[NEWLINE]若他能原谅我，我愿做他的封臣，[NEWLINE]在我的封地上替他守护疆土。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LA_VIE_DE_GARGANTUA">
+			<Text>“看着忧伤这样地吞噬你、折磨你，[NEWLINE]我决定写一些关于欢笑的作品，而不去写关于流泪的东西，因为欢笑能给人注入人性，能使人变得勇敢。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CANDIDE_OU_LOPTIMISME">
+			<Text>“傻瓜们都以为名作家的所有作品都是必读的。而我只读那些我觉得有趣的、符合我品味的书。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LES_TROIS_MOUSQUETAIRES">
+			<Text>“大家为一人，一人为大家，这是我们的座右铭。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LES_MISERABLES">
+			<Text>“人生至高的幸福，便是感到自己有人爱；有人为你是这个样子而爱你，更进一步说，有人不问你是什么样子而仍旧一心爱你……予他人以爱，就是见了神的面。”[NEWLINE]（塞爱维小提示：省略号后边的半句其实是音乐剧《悲惨世界》里的歌词。） </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VIGNT_MILLE_LIEUES">
+			<Text>“尼摩船长用手指给我看一大堆小纹贝，我了解到这个宝藏是采不尽的，因为大自然的创造力远远胜过人类的破坏本能。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_LA_RECHERCHE">
+			<Text>“一个人，不管多么明智，在年轻时的某一阶段，没有说过什么话，甚至过着某种生活，事后回忆起来觉得很不愉快，希望将其抹掉，这样的人恐怕是没有的。但是他不该绝对地为此而悔恨，因为，只有经过所有的可笑、丑恶之现形，他才能有把握在可能范围内变成一个贤哲。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DIVINA_COMMEDIA">
+			<Text>“地狱最酷热之处，专为此类人而留：道德败坏的时代，他们貌似中立，实则冷漠无比。”[NEWLINE]（塞爱维小提示：此句其实出自是美国前总统肯尼迪，跟《神曲》没有直接关系。）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_IL_CANZONIERE">
+			<Text>“可怜的人儿，你在干什么？也许在那边，有人在为你感叹。想到这里，我的灵魂才稍稍安定，也从而得到了一丝慰勉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ORLANDO_FURIOSO">
+			<Text>“他那种美丽，不可能再为另外的人所具备。自然造就了他，然后毁掉了造他所用的模具。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAUL">
+			<Text>“你的功绩终将载于史册，[NEWLINE]勇猛的扫罗于此地接受大卫的投降。[NEWLINE]以色列啊，走出营帐，向前进发吧。[NEWLINE]向前进发吧，我的王。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DIE_RAUBER">
+			<Text>“并不是我仿佛怀疑，倘若上天愿意，法庭会尽早地找到我。但是它会在睡梦中突然袭击我，或者在逃亡时赶上我，或者用武力和宝剑攫住我，那时我就失去了那唯一的功劳：我是心甘情愿地为它而死。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FAUST">
+			<Text>“学者们研究活物的时候，总是先力争把它弄死；研究了剩下的部分而失掉了原来的整体，这二者间的差别，正是那活着的灵魂。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_REVIZOR">
+			<Text>“脸歪不能怨镜子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRESTIPLENIYE">
+			<Text>“精神和肉体上的痛苦，对于一个知识全面、思想深刻的人来说永远是不可避免的。我觉得，真正伟大的人物必然会感受到世间极大的忧伤。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_VOYNA_I_MIR">
+			<Text>“爱亲爱的人，可以用人间的爱；但是爱敌人，只能用神圣的爱。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CHAYKA">
+			<Text>“为何我听到了悲伤的音符，随着那纯净灵魂的哭泣，而掠过我的心头？几时几刻，你如若需要我的生命，就请来将它带走吧。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NA_DNE">
+			<Text>“快乐在手里总是不得珍惜，一旦失去才能知道它的宝贵。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CANTERBURY_TALES">
+			<Text>“可别忘了道德啊，我的好兄弟，[NEWLINE]因为圣徒保罗说过：[NEWLINE]书要写得好，知识传递不能少。[NEWLINE]打完的麦子你拿好了，麸子什么的就随它去吧。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LE_MORTE_DARTHUR">
+			<Text>“在英格兰的很多地方，人们传说亚瑟王并没有死，只是被主耶稣带到别处去了；人们还传说，他总有一天会回来的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_FAERIE_QUEENE">
+			<Text>“世间万物永不消逝，有人失去的总有人获得。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MACBETH">
+			<Text>“人生……[NEWLINE]是白痴讲的一个故事，充满了喧闹和狂躁，[NEWLINE]然而却毫无意义。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PRIDE_AND_PREJUDICE">
+			<Text>“我也说不准究竟是在什么时间，什么地点，看见了你什么样的风姿，听到了你什么样的谈吐，便使我开始爱上了你。那是好久以前的事。等我发觉我自己开始爱上你的时候，我已经走了一半路了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FRANKENSTEIN">
+			<Text>“以我为前车之鉴吧，就算不吸取我的教训，也吸收我的经验，要知道学习知识是多么的危险，那些想超越自我的人是多么的可悲，而那些以为自己的家乡就是整个世界的人又是多么的幸福。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_CHRISTMAS_CAROL">
+			<Text>“你可能是一口没被消化的牛肉，一滩芥末，一片奶酪，一块半生不熟的土豆。别管你是什么，肉汁跟你的关系比坟墓近得多。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ALICES_ADVANTURES">
+			<Text>“‘但我不想跑去跟疯子们在一起，’爱丽丝说道。[NEWLINE]‘哦，你没办法的，’猫说。‘我们这全是疯子。我疯。你也疯。’[NEWLINE]‘你怎么知道我疯了？’爱丽丝说。[NEWLINE]‘你肯定疯了，’猫说，‘要不然你不可能来到这里。’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BARRACK_ROOM_BALLADS">
+			<Text>“第一幅粗略的素描呈现于世，[NEWLINE]正是他坚韧内心中的愉悦。[NEWLINE]直到魔鬼在那叶间低语，[NEWLINE]‘这很漂亮，但真是艺术吗？’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_TIME_MACHINE">
+			<Text>“我想，当时我们谁都不太相信时间机器的存在。而事实上，时间穿越者正是那种聪明得让人无法相信的家伙：你总是觉得你没法看透他；你总是怀疑在他在那透明的坦率后边留着一手，埋伏着些出人意料的东西。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SIGN_OF_THE_FOUR">
+			<Text>“一旦把所有不可能的结论都排除，那么其余的，不管多么离奇，难以置信，也必然是无可辩驳的事实。”[NEWLINE]（塞爱维小提示：《四签名》中并无该句，类似的句子出自《白化士兵》）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LADY_CHATTERLEYS_LOVER">
+			<Text>“一个女人要么过着日子，要么后悔着没过成日子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SKETCH_BOOK">
+			<Text>“尽管有魔鬼和那些工作的骚扰，他还是可以安然地度过一生，不过这得有个假设，即他没有遇到那个比幽灵、妖怪和巫婆合在一起还更另男人抓狂的东西——女人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LAST_OF_THE_MOHICANS">
+			<Text>“秦加茨固紧紧抓住了侦察员激动地伸过来的手，他们的脚下便是刚刚盖上泥土的新坟。在这种友谊的举动中，两个勇敢无畏的森林居民都低下头，热泪滚滚，打湿了恩卡斯的坟墓。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_RAVEN">
+			<Text>“我猛然推开窗户，心儿扑扑直跳就像打鼓，[NEWLINE]一只神圣往昔的健壮乌鸦慢慢走进我房间；[NEWLINE]它既没有向我致以问候；也没有作片刻的停留；[NEWLINE]而是以绅士淑女的风度，栖在我房门的上面。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TWICE_TOLD_TALE">
+			<Text>“在我们这看似混乱的神秘世界里，个体的人被完美地嵌进一个系统，而系统又被完美地嵌进一个又一个别的系统，形成了一个整体，乃至一个人就算离开系统一小会，也会将他自己暴露在永远失去社会地位的可怕风险中。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MOBY_DICK">
+			<Text>“叫我以实玛利吧。几年以前——别管它究竟是多少年——我口袋里没有几个钱，在岸上又没有特别让我感兴趣的事可干，于是我想，干脆下海吧，去见识见识水汪汪的那一半世界。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UNCLE_TOMS_CABIN">
+			<Text>“汤姆睁开眼睛，望了望主子。‘你这个倒霉的可怜虫！’他说，‘除了这个，你还能干什么？我以自己全部的心灵，饶恕你！’汤姆完全昏厥过去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WALDEN">
+			<Text>“我到林中去生活，是因为我想活得认真些，只想面对生活中最为基本的事实，看看自己能否学会生活所必须教给我的东西，免得到了要离开人世的时候，才发觉自己白活了一场。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LEAVES_OF_GRASS">
+			<Text>“哦，船长！我的船长！我们险恶的航程已经告终，[NEWLINE]我们的船安然渡过惊涛骇浪，我们寻求的奖赏已赢得手中。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ADVENTURES_OF_HUCKLEBERRY">
+			<Text>“不过，我看我自己得比他们俩先走一步，上印第安保留地去。因为萨莉姨妈说要收养我，要教化我。这我可吃不消。我早就尝过那种滋味了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_POEMS">
+			<Text>“因为我不能停下来等着死神——[NEWLINE]他便温柔地停下来等着我——[NEWLINE]马车中只有我们两个——[NEWLINE]以及不朽。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RED_BADGE_OF_COURAGE">
+			<Text>“他茫然地围着尸体一圈又一圈转着，凝视着它们；一个活人的冲动，想要从死人的眼睛里找出那个终极问题的答案。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WONDERFUL_WIZARD_OF_OZ">
+			<Text>“‘哦——你是一个很坏的坏蛋。’[NEWLINE]‘啊，不是的，亲爱的。我真的是一个很好的好人，但我是一个十分蹩脚的魔法师。’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_GREAT_GATSBY">
+			<Text>“盖茨比迷信着绿灯，迷信着那令人狂乱却又一年年离我们远去的未来。它逃避着我们，可那又如何呢——明天，我们将跑得更快，手伸得更远，那又将是一个美好的早晨……”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ROSETTA">
+			<Text>“……定居其中的，每一位高尚正派的人，看吧，他与神同在……”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MAWANGDUI">
+			<Text>“血痔，以溺熟煮一牡鼠，以气熨。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DEAD_SEA">
+			<Text>“你们要对他们如此说：‘不是那创造天地的神，必从地上从天下被除灭！’”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GILGAMESH">
+			<Text>“我要让自己的名字与伟大的英雄同列，我要在前人未至之处为神灵建立丰碑。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_NAG_HAMMADI">
+			<Text>“他所膏的乃是完全人。人受膏时瓶都是满的，而当他的恩膏销化时，瓶便空了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LINEAR_B">
+			<Text>“福格卜瑞斯看到，当国王任命奥格瓦斯为多摩科洛时……成年女奴三十二名……大女孩五名……小女孩十五名……小男孩四名。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PAPYRUS_ANI">
+			<Text>“向您致敬，在奥西里斯的殿堂里给予无瑕的灵魂饼和酒的执事，请您每日两次给予奥西里斯·阿尼的灵魂饼和酒，他一向真诚侍奉所有的神灵和阿拜多斯的君王。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_RUNESTONE">
+			<Text>“我再次宣告，九代之前他与赫瑞德哥特人一同离世，因他的罪而死去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HAMMURABI">
+			<Text>“第196条：若自由民损毁任何自由民之眼，则应毁其眼。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BAKHSHALI">
+			<Text>“五个商人合买一件珠宝，其价格等于第一人所持款项的二分之一与其他人所持款项的总合，或第二人所持款项的三分之一与其他人所持款项的总和……”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CODEX_PEREZ">
+			<Text>“卡巴尔奇恩·玛尼的歌者奇兰巴兰的预言。这个卡盾将在十三阿豪日结束，伊察和坦卡将不复存在。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JUSHICHIJO_KEMPO">
+			<Text>“以和为贵、无忤为宗……何事不成。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KELLS">
+			<Text>“太初有道……道成了肉身，住在我们中间。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CODEX_BORGIA">
+			<Text>“特斯卡特利波卡：我们靠他而生。眼前当下之主。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KEDUKAN_BUKRIT">
+			<Text>“塞迦历六〇五年吠舍月白分之十一日，大头领为了胜利而登船远征。”</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

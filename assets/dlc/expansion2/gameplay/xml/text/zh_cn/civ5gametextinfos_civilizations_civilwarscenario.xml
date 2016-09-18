@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Civs and Leaders-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_DESC">
+			<Text>美利坚合众国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_SHORT_DESC">
+			<Text>联邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_AMERICA_ADJECTIVE">
+			<Text>联邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>美利坚联盟国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_SHORT_DESC">
+			<Text>联盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_ADJECTIVE">
+			<Text>联盟</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

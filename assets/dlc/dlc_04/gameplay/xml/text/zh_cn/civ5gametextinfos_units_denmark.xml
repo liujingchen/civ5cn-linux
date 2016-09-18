@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_UNIT_DANISH_BERSERKER">
+			<Text>狂暴战士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
+			<Text>雪撬步兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY">
+			<Text>雪原/冻土/丘陵加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKI_INFANTRY_HELP">
+			<Text>在雪原/冻土/丘陵: +25% 战斗力 (必须无森林/丛林) 且移动力加倍</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

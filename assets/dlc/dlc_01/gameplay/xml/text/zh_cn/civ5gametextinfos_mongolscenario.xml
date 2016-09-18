@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand leo-->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_TITLE">
+			<Text>蒙古的崛起</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DESC">
+			<Text>[NEWLINE]与成吉思汗和他的蒙古铁骑一起建立历史上最广阔的陆上帝国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVSALIVE">
+			<Text>尚待征服的大文明数: {1_CivsRemaining}[NEWLINE]剩余的回合数: {2_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_BRIEFING">
+			<Text>概要</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MARITIME_FALLEN">
+			<Text>我们蒙古大军征服了一个航海型城邦。该城邦的居民向我们支付了一大笔赎金({1_NumGold}金钱)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CULTURED_FALLEN">
+			<Text>我们蒙古大军征服了一个文化型城邦。我们从该城邦学到了新的治国方略，请大汗选择一项免费的社会政策吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN">
+			<Text>祝贺你，又一个大文明在我们蒙古的铁蹄下灭亡了。我们从其国库中掠取了大笔财富({1_NumGold}金钱)。我们还从该国获得了新的科技知识。请大汗选择一项免费的科技吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_MAJOR_FALLEN_TO_ALLY">
+			<Text>在其他国家的协助下，又一个大文明灭亡了。我们也从其国库掠取了一笔财富({1_NumGold}金钱)。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_ALMATY_FALLEN">
+			<Text>我们蒙古大军征服了阿拉木图城邦，并从当地征召了{1_NumUnits}队骑手。大汗，他们已经前往哈拉和林听候调遣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_DALI_FALLEN">
+			<Text>我们蒙古大军征服了大理城邦。并从当地征召了{1_NumUnits}队长枪兵。大汗，他们已经前往哈拉和林听候调遣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_KOREA_FALLEN">
+			<Text>我们蒙古大军征服了高丽城邦。并从当地征召了{1_NumUnits}队弩兵。大汗，他们已经前往哈拉和林听候调遣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_XIA_FALLEN">
+			<Text>我们蒙古大军征服了西夏城邦。并从当地征召了{1_NumUnits}队骑手。大汗，他们已经前往哈拉和林听候调遣。[NEWLINE][NEWLINE]我们建议建立从该城到首都的道路以促进贸易。你还需要派兵镇守该城以提高市民的安全感。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_FREE_TECH">
+			<Text>征服大文明获得的免费科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAWN_MONGOLIA_TEXT">
+			<Text>剧情描述[NEWLINE]向勇武的大汗致敬，中亚高原上所有部族共同拥戴的新领袖！您率领着忠诚的蒙古怯薛军东征西讨，将蔑尔乞、乃蛮、克烈惕、塔塔儿等部族都纳入您的统治。现在您的麾下云集着来自五大部族的精锐铁骑，时刻准备出发去横扫整个欧亚大陆。但您的目标并非轻而易举就能达成——您需要满足您贪婪的同胞们无尽的欲望。他们只有在不断获得战利品的前提下才会保证遵从您制定的“札撒”法典。因此时间是紧迫的——马上开始您的征途吧！[NEWLINE][NEWLINE]胜利条件[NEWLINE]要赢得胜利你必须在100回合之内征服4个以上的大文明。（高于亲王级的难度还需征服更多个。）如果超过规定的时间没有达成目标，你的同胞将会失去耐心，已经统一的帝国将会分崩离析。[NEWLINE][NEWLINE]特殊规则[NEWLINE]通过征服所获得的战利品分为许多种类，并能帮助你继续扩张步伐。例如被征服的军事型城邦将向你提供战斗部队，航海型城邦将向你提供额外金钱。而如果征服一个大文明，你将获得一项免费科技或是其他更好的奖励！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+			<Text>陌生人，欢迎访问大金国。我是大金国的皇帝。幸会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+			<Text>幸会！我是统治中原的天子，大金国的皇帝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+			<Text>向你致意，我是大金国的皇帝。整个中原欢迎你的来访。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_1">
+			<Text>我是米海尔八世，复兴的拜占庭帝国的统治者，欢迎你。你会是我们坚定的盟友还是值得尊重的敌人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_2">
+			<Text>欢迎你！我是拜占庭帕拉奥洛格斯王朝的米海尔八世。希望你不会象第四次东征的十字军骑士那样对待我们！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_LEADER_ALEXANDER_FIRSTGREETING_3">
+			<Text>向你致意，陌生人！我是从第四次东征的十字军骑士手中复兴拜占庭帝国的米海尔八世。欢迎你的来访！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_UIGHUR_TEXT">
+			<Text>回鹘人（或称畏兀儿人，即今维吾尔族）的政权兴起于公元742年，在其后8个世纪间一直延续。统一的回鹘王国于公元840年被黠戛斯人（即今柯尔克孜族）击破并分裂为三个小王国：甘州、高昌和黑韩。本剧情中的畏兀儿是指高昌王国（在今吐鲁番地区），该政权存在了很长时间，直到1389年蒙古大军的来临。蒙古人将回鹘纳为附庸，并根据回鹘文字创制了蒙古文字。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GEORGIA_TEXT">
+			<Text>今格鲁吉亚地区早在石器时代就有人居住，但直到11世纪才由巴格拉特五世建立统一的格鲁吉亚王国。这个新兴的王国在12世纪时十分繁荣昌盛，取得了许多发展成就，包括哲学研究、史诗创作和华美的教堂建筑。但是格鲁吉亚的黄金时代随着1236年蒙古人的入侵而终止，到15世纪时，这个王国已经不复存在。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_HUNGARY_TEXT">
+			<Text>匈牙利王国创建于公元895年，是欧洲最古老的国家之一。在其后的许多世纪中这个王国在四方敌人的侵扰下屹立不倒，其王室也积累了巨大的财富——匈牙利国王的收入一度是英格兰国王的两倍。1217年，匈牙利国王领导了旨在收复圣地的第五次十字军东征，其军队规模是历次十字军东征中最大的。然而即便是这样强大的军队也无法阻挡蒙古铁骑的步伐。1241年入侵的蒙古人屠杀了这个国家将近半数的人口——一百万人。匈牙利国王贝拉四世下令在边境建造了数以百计的石头堡垒以保护国民，但仍然于事无补。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DAI_VIET_TEXT">
+			<Text>今天的越南古称“大越”，其黄金时代始于公元1009年建立的黎朝。此后这个国家的军事和经济实力不断积累，成为南海之滨的一颗明珠。蒙古人曾于1257、1284和1288年三次尝试入侵大越均未取胜。大越做到了当时大多数国家都做不到的事情——他们避免在开阔地同蒙古骑兵作战，而是将其引入丛林中各个击破，最终保住了国家的独立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_DALI_TEXT">
+			<Text>大理国（在今中国云南省）建立于公元937年，此后多次改朝换代。多山的地形为这个国家提供了天然的屏障，只需要少数军队守住几个关口，敌人就寸步难行。正因为如此，蒙古人多次尝试入侵大理均未取胜。据记载蒙古军队最后是靠大理人奸细从小路绕过关口防线的。1253年蒙古人终于灭亡了大理国，并于1274年在此设立云南行省。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_ABBASIDS_TEXT">
+			<Text>阿拔斯王朝是第三个伊斯兰哈里发王朝，其都城为巴格达。哈里发政权是由先知穆罕默德的继任者于公元750年建立的，其后几百年间保持兴盛。阿拔斯王朝持续了几个世纪，但其中央政府对地方的控制力逐渐衰落。1258年入侵的蒙古人攻陷巴格达，灭亡了巴拔斯王朝。哈里发政权从此解体，此后阿拔斯家族仅保有少量宗教影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_CRUSADERS_TEXT">
+			<Text>12至13世纪时西欧诸国对基督教圣地发动了多次十字军东征，并在近东建立了一系列封建邦国。最初的四个十字军邦国位于地中海东岸的黎凡特地区。在第三次十字军东征期间，狮心王理查建立了塞浦路斯王国，在1571年前这个王国是近东基督教势力的中心。蒙古人从未对十字军邦国发动进攻，大部分十字军邦国直到16世纪奥斯曼帝国崛起时才灭亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_WESTERN_XIA_TEXT">
+			<Text>西夏王朝或称“党项帝国”，建立于1038年，当时一位党项族酋长李元昊自封为“大夏皇帝”。这个王朝最终在成吉思汗率领的蒙古大军铁蹄下毁灭——蒙古人在22年间六次进攻西夏，成吉思汗本人在最后一轮入侵期间去世（死因至为历史学家争论不休）。1227年蒙古人攻陷西夏都城中兴府（今银川市），包括西夏皇帝在内的无数居民被屠杀，大批典籍被焚毁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_KOREA_TEXT">
+			<Text>在蒙古帝国时期，朝鲜半岛上的政权名为“高丽”。高丽王朝建立于公元918年，其后数世纪保持兴盛：制定了完备的法律，引入了文官制度，高丽人还发明了世界上最早的金属活字印刷术，大大促进了文化的进步。1230年后的数十年间高丽王朝一直面临蒙古人入侵的威胁。1259年高丽向蒙古求和并达成和约，高丽继续保持独立性，但其北方的大片土地被割让给蒙古帝国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM">
+			<Text>金朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_SIAM_TEXT_1">
+			<Text>金朝（或称女真王朝）于公元1115年在今中国东北地区建立。女真人是这一地区更古老的族群——靺鞨人的后裔，他们起初以打猎为生并接受辽朝的统治。后来女真人在完颜部首领完颜阿骨打的领导下建立名为“金朝”的统一政权，并迅速征服了辽朝和中国北方大部分地区。[NEWLINE][NEWLINE]和后来的蒙古人一样，女真人也以骑射闻名，这可以归因于这个部族长期的捕猎传统。在宋朝的协助下灭亡辽朝后，女真人又开始入侵宋朝，这场战争持续了近二十年。1141年宋金之间达成了绍兴和议，双方以淮河为界休战。[NEWLINE][NEWLINE]在巅峰时期，金朝统治下的人口超过三千万，疆界囊括了整个中国北部。然而成吉思汗领导下的蒙古迅速崛起，开始对亚洲各国的大规模征服，金朝也难以幸免。到1227年成吉思汗去世时，蒙古人已经摧毁了金朝的大部分力量。此后金军继续顽强抵抗了七年，最终于1234年被蒙古灭亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE">
+			<Text>拜占庭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIV5_GREECE_TEXT_1">
+			<Text>古希腊人建立了古老的拜占庭城，她在后来的历史中成为两个大帝国的首都。公元前667年希腊殖民者建城时将其命名为“拜扎斯”。虽然拜占庭的早期历史已经湮没在希腊神话之中，历史学家仍相对确信最初的定居者是来自爱琴海对岸的希腊城市玛加拉。[NEWLINE][NEWLINE]由于处在连接欧洲和亚洲的战略要冲，拜占庭得以快速成长并繁荣起来。公元324年，罗马皇帝君士坦丁决定以罗马城为模板重建拜占庭城，并将这个“新罗马”将其定为东罗马帝国（后世通常称为拜占庭帝国）的新首都。此后1000年这座城市又名“君士坦丁堡”，并一直作为拜占庭帝国的都城。[NEWLINE][NEWLINE]1453年，奥斯曼帝国攻占君士坦丁堡，宣告了拜占庭帝国的灭亡。奥斯曼苏丹穆罕默德二世又将其定为奥斯曼帝国的新都，使这座城市得以延续辉煌。君士坦丁堡的土耳其语名称是“伊斯坦布尔”，但直到1930年官方才正式宣布改名。[NEWLINE][NEWLINE]从拜占庭到君士坦丁堡，再到伊斯坦布尔，这个小小的希腊殖民点一步步成长为世界上最大最繁华的城市之一。现在的伊斯坦布尔被人们称为“巨型城市”，人口超过1300万，是土耳其第一大城市。伊斯坦布尔已经被联合国教科文组织列入世界遗产名录，每年都会举办丰富多彩的社会文化活动，以延续其辉煌的历史传统。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_NAME">
+			<Text>完颜璟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_SUBTITLE">
+			<Text>金朝皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_LIVED">
+			<Text>1168-1208</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_NAME">
+			<Text>米海尔八世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_SUBTITLE">
+			<Text>拜占庭皇帝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CIVILOPEDIA_LEADERS_ALEXANDER_LIVED">
+			<Text>1224-1282</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_0">
+			<Text>阿沙索育</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_1">
+			<Text>托莫林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_2">
+			<Text>泽维金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_3">
+			<Text>吉格基丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_4">
+			<Text>恩赫巴特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_5">
+			<Text>蒙赫巴亚尔</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_6">
+			<Text>根德格玛</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_7">
+			<Text>西玛</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_8">
+			<Text>巴塔齐汗</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONGOL_9">
+			<Text>朱伦尼</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

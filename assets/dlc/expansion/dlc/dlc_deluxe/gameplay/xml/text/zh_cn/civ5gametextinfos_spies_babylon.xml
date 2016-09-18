@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_0">
+			<Text>瑞西姆二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_1">
+			<Text>斯梅尔迪斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_2">
+			<Text>伊伦玛伊利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_3">
+			<Text>佩什加达拉美什</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_4">
+			<Text>乌尔兹古卢马斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_5">
+			<Text>赛米拉弥斯</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_6">
+			<Text>艾姆</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_7">
+			<Text>伊丝塔尔</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_8">
+			<Text>比莉特·陶斯</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BABYLON_9">
+			<Text>阿卢汝</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

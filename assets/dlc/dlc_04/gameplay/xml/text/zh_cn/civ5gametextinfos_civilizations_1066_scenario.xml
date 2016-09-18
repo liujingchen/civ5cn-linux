@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_DESC">
+			<Text>诺曼底公国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_SHORT_DESC">
+			<Text>诺曼底</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_FRANCE_ADJECTIVE">
+			<Text>诺曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_DESC">
+			<Text>挪威王国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_SHORT_DESC">
+			<Text>挪威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_GERMANY_ADJECTIVE">
+			<Text>挪威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_DESC">
+			<Text>盎格鲁-撒克逊英格兰王国</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

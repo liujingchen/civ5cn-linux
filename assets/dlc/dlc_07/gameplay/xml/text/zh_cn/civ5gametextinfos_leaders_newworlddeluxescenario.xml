@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACHACUTI">
+			<Text>帕查库提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_ISABELLA">
+			<Text>伊莎贝拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_MARIA_I">
+			<Text>凯瑟琳</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_MARIA_I_NAME">
+			<Text>凯瑟琳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_PACAL">
+			<Text>帕卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_WILLIAM">
+			<Text>威廉·奥兰治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_LEADER_NAPOLEON">
+			<Text>弗朗西斯一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIVILOPEDIA_LEADERS_NAPOLEON_NAME">
+			<Text>弗朗西斯一世</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

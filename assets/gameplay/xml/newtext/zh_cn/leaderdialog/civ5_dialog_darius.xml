@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_2">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_5">
+			<Text>哦，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_6">
+			<Text>我想我必须接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_7">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_1">
+			<Text>为什么？你……你……这个混蛋！我要消灭你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_2">
+			<Text>你这个忘恩负义的家伙！我要好好教训一下你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_3">
+			<Text>你这个恶棍！我多年以前就该把你灭了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_1">
+			<Text>你的贪婪和无能让我别无选择：准备面对战争吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_2">
+			<Text>你的人民呼吁我帮助他们摆脱你的统治。准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_3">
+			<Text>你的存在对其他文明领袖是一种侮辱。你必须被毁灭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_1">
+			<Text>你这个笨蛋！你知道你都干了些什么吗？整个世界都会为你的可怕罪行而叹息！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_2">
+			<Text>我诅咒你！你的双手沾满了人类历史上最伟大领袖的鲜血！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_3">
+			<Text>我被打败了？这怎么可能？一定是哪里弄错了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_ANGRY">
+			<Text>通常，我会直接派我的军队到你的领土上拿我想要的东西，但今天我特别慈悲。我希望你能把握住这个千载难逢的机会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_HAPPY">
+			<Text>你能分享这个吗，朋友？波斯会永远感激你的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_NEUTRAL">
+			<Text>礼物？给我的？你太慷慨了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_2">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_5">
+			<Text>这是无法接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_6">
+			<Text>你是在开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_7">
+			<Text>请你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_1">
+			<Text>我，大流士，伟大的波斯的统治者，带着热情和友谊向你致意。你遇到任何政治难题时都可以向我请教。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_2">
+			<Text>我亲切地向你致意，并慷慨地向你伸出友谊之手。我是波斯的领袖，集智慧与魅力于一身的大流士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_3">
+			<Text>欢迎你，陌生人！我是大流士，强大的波斯的完美的领袖。当然你一定早有耳闻了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_1">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_2">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_3">
+			<Text>一路顺风。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_4">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_7">
+			<Text>我们的会谈结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_4">
+			<Text>早上好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_5">
+			<Text>哦，是你啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_6">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_1">
+			<Text>请说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_2">
+			<Text>说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_3">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_4">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_5">
+			<Text>然后呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_6">
+			<Text>说下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_LOSEWAR_1">
+			<Text>我们算是打平了，是吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我知道你无意冒犯，但你的提议对我来说确实是一种侮辱。请提高你的报价吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这份提议还不够有吸引力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你需要做得更好才行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>亲爱的朋友，恐怕你的提议有点小气。你能改进一下吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你不能做得更好了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_3">
+			<Text>我们就快达成一致了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>很明显你不知道外交的秘诀。你的提议还不够好，请再加以改进。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>你做得还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_ANGRY">
+			<Text>我们不得不拒绝你的提议。或许以后再说——等你们更文明一些的时候。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_HAPPY">
+			<Text>非常抱歉我不能接受你的条款。你是个杰出的领袖，应该能理解我的决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_NEUTRAL">
+			<Text>恐怕我无法接受你的提议。等你能拿出更有价值的东西时再来谈吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_ANGRY">
+			<Text>这是你自己想出来的主意？真有些不寻常。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_HAPPY">
+			<Text>好像你一眼就能看透我的心思！你真聪明！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_NEUTRAL">
+			<Text>你的主意太妙了！我刚想向你提出同样的建议！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_ANGRY">
+			<Text>我们的信条是要慷慨地对待后进的文明。所以我接受你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_HAPPY">
+			<Text>我的慷慨都快把我自己逼上绝路了！请你趁我还没来得及改变主意，快点接受这个提议吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_NEUTRAL">
+			<Text>由于我的慷慨大度，我向你提出这项不可思议的公平交易。你肯定会同意吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_ANGRY">
+			<Text>我认为你错误估计了形势：我是伟大的大流士，波斯的国王。而你只不过是个废物，连吻我衣服上宝石的资格都没有。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_HAPPY">
+			<Text>哈哈，这个玩笑不错！你是在开玩笑吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_NEUTRAL">
+			<Text>你喝醉了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_ANGRY">
+			<Text>为什么不呢？反正我看你也不知道怎么用这些东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_HAPPY">
+			<Text>没问题！任何东西都行！我的宫殿？我的财宝？只要你提出来，我连我的心都愿意掏出来给你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_NEUTRAL">
+			<Text>当然可以！波斯人的慷慨可是举世闻名的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_1">
+			<Text>你在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_2">
+			<Text>哼，下次我就不会这么客气了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_3">
+			<Text>太令人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_4">
+			<Text>我真是太失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_5">
+			<Text>你确定吗？我希望你将来不会为现在的短视行为而后悔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_6">
+			<Text>你真是太蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DARIUS_WINWAR_1">
+			<Text>胜利就是这样打出来的，学着点吧。我希望你有做学习笔记。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

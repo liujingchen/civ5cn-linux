@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- DLC Civilopedia Entries -->
+<!-- freesand leo -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_LEADER_GENGHIS_KHAN">
+			<Text>努尔哈赤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOREA_SCENARIO_CIV_MONGOL_SHORT_DESC">
+			<Text>满洲</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

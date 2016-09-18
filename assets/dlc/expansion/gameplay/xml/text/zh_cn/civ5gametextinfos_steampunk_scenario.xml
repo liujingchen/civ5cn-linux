@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TITLE">
+			<Text>蒸汽帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_DESC">
+			<Text>蒸汽机的诞生革命性地改变了世界的面貌。那是一个新资源和新发明所推动的大探索时代。你能掌控蒸汽的力量，将宏伟壮丽的未来图景给予你的人民吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RANDOM_MAP">
+			<Text>随机地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_FIXED_MAP">
+			<Text>固定地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_SUMMARY">
+			<Text>{@1_CivName}成为了{@2_TitleName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_NOTIF_TT">
+			<Text>{@1_CivName}获得了[COLOR_POSITIVE_TEXT]{@2_TitleName}[ENDCOLOR]荣誉称号，他们拥有了对帝国联盟更大的掌控权，向着最终胜利又迈进了一步。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TURNS_REMAINING">
+			<Text>称号: {1_TokensOwned}/{2_TokensAvailable}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BRIEFING_BUTTON">
+			<Text>概要</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VSCREEN_BUTTON">
+			<Text>帝国联盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_HELP">
+			<Text>帝国联盟每年召开一次大会，推选最杰出的世界领袖并授予其荣誉称号。在{2_NumTurnsNeededForVictory}回合内率先获得{1_NumTokensNeededForVictory}个或更多荣誉称号者将控制帝国联盟并赢得游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_POSSIBLE">
+			<Text>年份{1_YearUpdated : number #}:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_LOCKED">
+			<Text>尚未启用胜利条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_COUNTDOWN">
+			<Text>{@2_CivAboutToWin}距离胜利还有{1_NumTurnsUntilVictory}回合！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TURN_UNLOCK">
+			<Text>在第{1_UnlockTurn}回合启用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_TECH_UNLOCK">
+			<Text>在玩家获得{1_Technology:textkey}后启用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_VALUE_UNLOCK">
+			<Text>任何玩家在此领域获得{1_UnlockValue}分后启用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_UNLOCK_TT">
+			<Text>[COLOR_POSITIVE_TEXT]{@1_TitleName}[ENDCOLOR]称号对所有玩家启用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY">
+			<Text>军事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TITLE">
+			<Text>进步守护</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_HELP">
+			<Text>最新战车和飞艇数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_MILITARY_TT">
+			<Text>一旦某方造出更先进的型号，旧型号将过时并不再列入统计范围，不过这些旧型号升级后将重获价值。如果别人处于领先地位，你可以建造新单位、升级旧单位或进攻并消灭其单位。[NEWLINE][NEWLINE]最新战车型号: {@1_LandshipUnitType}[NEWLINE]最新飞艇型号: {@2_AirshipUnitType}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE">
+			<Text>文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TITLE">
+			<Text>优雅之王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_HELP">
+			<Text>推行社会政策数量</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_CULTURE_TT">
+			<Text>比你的对手推行更多的社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY">
+			<Text>工业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TITLE">
+			<Text>工业领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_HELP">
+			<Text>产能最高的城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_INDUSTRY_TT">
+			<Text>比较各个帝国[ICON_PRODUCTION]产能最高的城市，产能最高城市的拥有者获得此称号。[NEWLINE][NEWLINE]全世界产能最高的城市: {@1_WorldBestCity}[NEWLINE]本国产能最高的城市: {@2_YourBestCity}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE">
+			<Text>商业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TITLE">
+			<Text>财富大师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_HELP">
+			<Text>总计金钱收入</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_COMMERCE_TT">
+			<Text>游戏中总计获得的金钱收入。即包括维护费和其他支出在内的总收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR">
+			<Text>建设</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TITLE">
+			<Text>大慈善家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_HELP">
+			<Text>世界奇观和国家奇观</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_LABOR_TT">
+			<Text>你拥有的每座世界奇观和国家奇观均统计在内。如果你的对手抢先建成了世界奇观，你可以通过建造国家奇观迎头赶上，也可以进攻其城市以占有他的奇观。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_CATEGORY_HELP_TT">
+			<Text>得分并列时各方都不能获得称号。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>剧情描述[NEWLINE]向你致敬，科学与工业领域杰出的指挥官！蒸汽机的诞生革命性地改变了世界的面貌。那是一个新资源和新发明所推动的大探索时代。巨大的飞艇航行于广阔天空，身后拖着长长的黑色烟尘。蒸汽推动着文明驶向光明的未来，但你将面临极其激烈的竞争。重要的资源日见稀缺，关键的技术受到严格保密。你和你的对手们都必须在全球范围内快速扩张，才能满足发展的需要。你能掌控蒸汽的力量，将宏伟壮丽的未来图景给予你的人民吗？[NEWLINE][NEWLINE]胜利条件[NEWLINE]各大帝国在军事、文化、工业、商业和建设领域彼此竞争。在某个领域做到最好将获得特定的荣誉称号。要了解各个称号的详情及你的进展状况，请查看帝国联盟界面。率先获得三个或更多称号的帝国将赢得胜利。[NEWLINE][NEWLINE]特殊规则[NEWLINE]玩家初始时即拥有蒸汽机之前的所有科技。蒸汽机之后的科技树则有很大的改变，使玩家能制造飞艇、履带战车和全新的建筑。本剧情中的蛮族是反工业化的“卢德派”，他们不能制造高级单位。社会政策也进行了调整。宗教则被禁用，也没有宗教型和军事型城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME">
+			<Text>帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_TIME_BANG">
+			<Text>帝国胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_VICTORY_FLAVOR_TIME">
+			<Text>整个帝国联盟臣服于你的统治。你已经证明你的文明是最出色的，你将引领人类走向光明的未来。广阔的天空世界属于你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ROFFENBURG_NAME">
+			<Text>居鲁士·罗瑟拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CURNOW_NAME">
+			<Text>伊尼亚斯·克尔瑙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CUTLER_NAME">
+			<Text>屋大维·卡特勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GRIGGS_NAME">
+			<Text>路德·格里格斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ALDERDICE_NAME">
+			<Text>克林顿·奥德戴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_1">
+			<Text>你已拥有了两个称号，对联盟的其他成员来说是个威胁。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_2">
+			<Text>你已拥有了两个以上的称号，即将掌控联盟！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_SPECIFIC_DIPLO_STRING_3">
+			<Text>你们正在争取同一个称号。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_GERMANY_TEXT_1">
+			<Text>伊鲁契帝国的建立缘起于多个贵族世家之间对于如何才能改变世界混乱局势的热烈讨论。这些贵族对不确定的未来感到不安，也希望保护自己现有的财富，因此决定共同投资采取有效的行动。他们参照前辈的经验创立了一个秘密委员会负责政治和军事力量的协调，秘密委员会组建了一支小规模而装备精良的军队。贵族们使用这支军队占据了一大片土地，形成了日后伊鲁契的核心区域，从诸旧王国中脱离出来。伊鲁契的领袖大力宣扬文明的生活方式并努力将其推行全球。他们在外交活动中具有绅士风度，但总是保持着军人般的严苛刚硬，随时准备应对挑战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_ENGLAND_TEXT_1">
+			<Text>普里亚斯帝国的起源至今仍然成迷，就象是从虚无中诞生一般，但其力量和财富之巨大令人无法轻易忽视。多数记载认为其创始人抓住了新的科技、商业和政治形势机遇，单枪匹马地在幕后搞定了一切事务。这位领袖将敏感信息高价贩卖给对手，并使其为普里亚斯所用。在帝国间竞争的早期阶段，其他对手都专注于短期目标，忽视了许多长远机会。普里亚斯率先向未知领域派出探险队，并建立贸易路线为其公民带来大量财富。普里亚斯的间谍遍布世界各个关键地带，随时为帝国搜集有价值的情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_FRANCE_TEXT_1">
+			<Text>达尔梅斯的建立是出于形势发展的需要。诸旧王国的衰落和新帝国的崛起使得大批中下层人民被边缘化，一些人留在自己的家园，更多的人则沦为无处可去的难民。他们聚集起来占据了贵族们的乡间宅邸，当局对此无能为力。难民们很快推举出自己的领袖，呼吁确保团结、保护、食物和资源。少部分贵族也加入了他们的队伍以分享财富。大部分贵族原有的财产则被洗劫一空。这些聚居地逐渐发展为能与其他帝国抗衡的城市。达尔梅斯的建国理念是追求平等，其力量来自于团结友爱和平民文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_RUSSIA_TEXT_1">
+			<Text>科技的稳步发展使商品生产、运输和销售过程发生巨大变化，许多昔日精明的商人跟不上市场的发展，逐渐失去了竞争力，为后来者留出了空间。欧尔林起初无意参与政治，建立帝国，而只是一个为了共同利益而团结起来的工业家集团。他们象瓜分领土一样瓜分了市场，控制着诸旧王国的工业领域。当旧王国开始衰落时，欧尔林的工业大亨们为权力而爆发争斗。他们相互侵占市场，为此不惜采用敲诈和暗杀手段。最终建立起一个控制整个生产领域的紧密寡头集团。凭借他们的工业实力及其所带来的财富，欧尔林也作为一个新兴帝国登上了世界历史舞台。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_CIV_SWEDEN_TEXT_1">
+			<Text>当诸旧王国衰落时，日益壮大的科学家和发明家阶层抓住机遇创立了一个新型国家，这个国家崇尚理性原则，拥抱科学进步。他们在许多希望保持自身影响力的旧王室中找到了盟友，共同创立了维德里亚帝国。这些旧王族迅速适应了形势的改变，不久之后几乎每位主要领袖都参与到了科学研究之中，至少对科学发展状况了如指掌。维德里亚的公民对未来充满乐观情绪，相信崇尚科学是通向未来的必经之路。统治者常常就国事咨询科学家的意见，并为科研提供充足的资金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_NAME">
+			<Text>居鲁士·罗瑟拉姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_SUBTITLE">
+			<Text>伊鲁契领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LIVED">
+			<Text>1815-1872</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1">
+			<Text>军事科学一向都是非常复杂的，但相比从前我们有了更多更好的工具。仅仅一个世纪之前，对抗远方的敌人还需要大规模的要塞，后勤补给线和资源供给。后勤部门需要饲养大量的马匹，失去补给意味着整个战役的终结。前线战士必须学会沉着冷静地面对敌人冲锋陷阵。而在如今，战斗不再象上个世纪那样野蛮血腥，而可以保持着体面的风度进行远距离交战。履带战车的发明已经使得步兵和骑兵完全过时。只要有足够的资源，履带战车无须休息即可横跨整个国家。过去无法征服的遥远土地变得近在咫尺。凭借其强大的加农炮和坚固的装甲，履带战车能轻易迫使最顽强最野蛮的未开化国家屈服。[NEWLINE][NEWLINE]　　　　——居鲁士·罗瑟拉姆，在伊鲁契参议院的演讲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_NAME">
+			<Text>伊尼亚斯·克尔瑙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_SUBTITLE">
+			<Text>欧尔林领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LIVED">
+			<Text>1781-1836</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1">
+			<Text>只须按下一个按钮，蒸汽射流就会喷入工作台开始装配。齿轮在工作台中旋转，压制烧红的钢材，制造出全新的齿轮。这是一个制造工厂的工厂。或许我们可以用它生产更多的产品；或许我们可以把它高价卖给别人。这个简单的过程证明了在这个时代中工业的地位。我们可以制造飞艇、战车、引擎、服装甚至工厂本身。通过对工业部门的效率控制和产出最大化，我们能做出我们想要的任何东西，并做到最好。[NEWLINE][NEWLINE]　　　　——伊尼亚斯·克尔瑙，摘录自“钢铁与蒸汽：工业家指南”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_NAME">
+			<Text>屋大维·卡特勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_SUBTITLE">
+			<Text>普里亚斯领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_LIVED">
+			<Text>1809-1888</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1">
+			<Text>有人说力量来自科技发展，必须努力研究以获得更多科技。也有人说力量来自新式武器，必须开动战车占有更多资源。然而真正的力量之源并不是这些东西，而是这些东西的创造者。如果我们能知道他们所知道的，我们就能拥有他们所拥有的。让他们为了获得新发现而彼此竞争吧，我们只管从暗影中跟随他们的每一个脚步，这样我们所获取的力量就会超过所有人。如果我们做到足够小心——我们必须如此——他们甚至完全不会查觉。[NEWLINE][NEWLINE]　　　　——屋大维·卡特勒，致新任情报主管的私人信件</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_NAME">
+			<Text>路德·格里格斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_SUBTITLE">
+			<Text>维德里亚领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LIVED">
+			<Text>1842-1910</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TEXT_1">
+			<Text>技术进步将奇迹般的机械化带入了我们的日常生活，令我们的生活更为奢华舒适。差分引擎的轰鸣、黄铜齿轮的轻响、蒸汽喷射的啸叫就象一只公牛正准备猛冲向前；它们给我们的世界带来秩序，使我们能从事奇妙的科学和计算，不仅是解释自然世界，还在其上建立起我们稳固的秩序。飞艇载着我们沉重的身体摆脱地面的长期束缚，在天空中自由翱翔。凭借敏锐的思维力量，我们将人类永恒的飞行梦想变成了现实。自然选择没有赋予我们翅膀，但我们用额头上的汗水和熔炉中的火焰造出了自己的翅膀。[NEWLINE][NEWLINE]　　　　——路德·格里格斯，摘录自“智者的翅膀”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_NAME">
+			<Text>克林顿·奥德戴斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_SUBTITLE">
+			<Text>达尔梅斯领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LIVED">
+			<Text>1799-1855</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1">
+			<Text>总而言之我希望你能记住，秘书长先生。蒸汽时代确实提升了我们这些强者的生活状况，但普通民众也为此付出了巨大的代价。过去几十年间所取得的众多成就进一步表明了人类历史的最大污点：少数有权力的人剥削了多数无权力的人。我们将他们的困境视为无关紧要的小事，将我们的绅士风度和生产企业视为理所当然的权力，但现实情况是，我们的生活水准在提升，而普通民众的生活水准却越来越糟。如果任其发展，这种差距将继续扩大，直到普通民众沦落到如农奴一般的境地。如果我基于道德理由向你和联盟发出的呼吁不能得到回应——现在看来确实如此，我已经进行了不断的尝试——那么请让我警告你，我们的社会已经变得越来越不稳定。普通民众或许没有我们这样的受教育水平，但他们也有眼睛和头脑，他们不会看不到我们腐败的生活方式。他们会将其与自己的生活进行比较，并会和他们的邻居谈论。他们将因共同不满而团结起来，在这个世纪结束之前我们就将面临一场无法控制的大叛乱。不论是差分引擎的计算还是飞艇的轰炸都无法阻止它，因为这些东西都是这些起来反抗我们的劳动者为我们建造的。[NEWLINE][NEWLINE]　　　　——克林顿·奥德戴斯，致帝国联盟秘书长的信</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS_SHORT">
+			<Text>边疆市场</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FRONTIER_MARKETS">
+			<Text>战略资源+1[ICON_GOLD]金钱，[ICON_RES_ALUMINUM]扭曲质资源储量加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS_SHORT">
+			<Text>优化萃取</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OPTIMIZED_EXTRACTORS">
+			<Text>战略资源+1[ICON_PRODUCTION]产能，[ICON_RES_URANIUM]暗晶体资源储量加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER_SHORT">
+			<Text>全新秩序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NEW_WORLD_ORDER">
+			<Text>推行新社会政策所需的[ICON_CULTURE]文化减少10%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH_SHORT">
+			<Text>不懈守望</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIRELESS_WATCH">
+			<Text>飞艇单位+2[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES_SHORT">
+			<Text>劳动阶级</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LABOR_CASTES">
+			<Text>来自[ICON_CITIZEN]人口数量的[ICON_HAPPINESS_4]不满减少20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD_SHORT">
+			<Text>发明协会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INVENTORS_GUILD">
+			<Text>大科学家产生速率加快50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_HELP">
+			<Text>允许你建造国家级奇观[COLOR_POSITIVE_TEXT]差分引擎[ENDCOLOR]和[COLOR_POSITIVE_TEXT]分析引擎[ENDCOLOR]，增加所在城市的[ICON_PRODUCTION]产能和[ICON_RESEARCH]科研。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“要详细了解亿万人的复杂行为总是需要用极其巨量的计算来模拟。”[NEWLINE]　　　　——万尼瓦尔·布什（美国工程师）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_REPLACEABLE_PARTS_HELP">
+			<Text>允许组建[COLOR_POSITIVE_TEXT]早期现代步兵[ENDCOLOR]，游戏中最先进的步兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RAILROAD_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]陆地铁甲舰[ENDCOLOR]，第一种战车单位。并允许工人修建[COLOR_POSITIVE_TEXT]铁路[ENDCOLOR]设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_HELP">
+			<Text>允许建造国家奇观[COLOR_POSITIVE_TEXT]分析引擎[ENDCOLOR]，大幅增加[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“整个算术体系现在看来已经处于机械技术的掌握之中。”[NEWLINE]　　　　——查尔斯·巴贝奇（英国数学家，机械计算机的设计者）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]中心大厦[ENDCOLOR]及相应的国家级奇观[COLOR_POSITIVE_TEXT]比特莫尔大厦[ENDCOLOR]，提供[ICON_GOLD]金钱和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“贪婪是事业的动力。”[NEWLINE]　　　　——大卫·休谟（苏格兰哲学家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]驱逐舰[ENDCOLOR]和第一种空军单位[COLOR_POSITIVE_TEXT]飞行器[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“发明一架飞机不算回事，造出一架飞机才算回事，如果真的能飞……那就太了不起了。”[NEWLINE] - 斐迪南·菲伯（法国军官，早期飞行器试验的参与者）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_HELP">
+			<Text>启用[ICON_RES_URANIUM]暗晶体并允许建造[COLOR_POSITIVE_TEXT]战列舰[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“想要掌控自然，必先服从自然。”[NEWLINE]　　　　——弗兰西斯·培根[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_HELP">
+			<Text>启用[ICON_RES_ALUMINUM]扭曲质并允许建造[COLOR_POSITIVE_TEXT]潜艇[ENDCOLOR]。并且允许建造[COLOR_POSITIVE_TEXT]职业学院[ENDCOLOR]，增加所在城市的[ICON_RESEARCH]科研和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“在广阔世界中我感受到了生命的奇迹，而我们的科学成就变得仿佛不值一提。”[NEWLINE]　　　　——查尔斯·林白（美国飞行员）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]证券交易所[ENDCOLOR]，增加[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“竞争是一种罪过。”[NEWLINE]　　　　——约翰·戴维森·洛克菲勒[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_HELP">
+			<Text>允许建造强大的陆军单位[COLOR_POSITIVE_TEXT]陆地战舰[ENDCOLOR]。并允许建造[COLOR_POSITIVE_TEXT]专利局[ENDCOLOR]，增加所在城市的[ICON_PRODUCTION]产能和[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“这艘陆地战舰的船头越过壕沟之后，防御者们立即朝向两边溃退。”[NEWLINE]　　　　——赫伯特·乔治·威尔斯（英国科幻小说家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]体育场[ENDCOLOR]，增加全国的[ICON_HAPPINESS_1]快乐度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“拥有美德才是真正的高贵。”[NEWLINE]　　　　——米格尔·德·塞万提斯[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_HELP">
+			<Text>允许建造能在陆地和海洋上空飞行的[COLOR_POSITIVE_TEXT]飞行战舰[ENDCOLOR]。并允许建造国家级奇观[COLOR_POSITIVE_TEXT]发明家大厅[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]暗晶体提炼所[ENDCOLOR]，可以生产[ICON_RES_URANIUM]暗晶体。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“最显著可见的神秘事物——火。”[NEWLINE]　　　　——詹姆斯·亨利·李亨特（英国作家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]慈善商场[ENDCOLOR]，增加所在城市的[ICON_CULTURE]文化和[ICON_HAPPINESS_1]快乐度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我决定停止积累财富，转而从事更为重要和艰巨的任务——传播智慧。”[NEWLINE]　　　　——安德鲁·卡内基（美国钢铁大王）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]扭曲质工厂[ENDCOLOR]，可以生产[ICON_RES_ALUMINUM]扭曲质。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“文明的进步就是将越来越多的重要活动自动化，使我们不必再去关心它们。”[NEWLINE]　　　　——阿尔弗雷德·诺思·怀特黑德（英国数学家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]飞艇站[ENDCOLOR]，可以使组建的单位获得额外经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我热爱飞行是因为它能让我的思维摆脱琐事的纠缠。”[NEWLINE]　　　　——安托万·德·圣埃克絮佩里（法国作家兼飞行员）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]特斯拉线圈[ENDCOLOR]，大幅增加所在城市的[ICON_RESEARCH]科研产出，并能增加[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_HELP">
+			<Text>允许建造强力的防空单位[COLOR_POSITIVE_TEXT]高射炮[ENDCOLOR]，以及提升城市防御力的[COLOR_POSITIVE_TEXT]军事基地[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“防御比富裕更重要。”[NEWLINE]　　　　——亚当·斯密[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_HELP">
+			<Text>允许建造最强大的战车单位[COLOR_POSITIVE_TEXT]陆地利维坦[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“温言在口，大棒在手，则无往而不利。”[NEWLINE]　　　　——西奥多·罗斯福[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_RADIO_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]广播塔[ENDCOLOR]，大幅增加城市的[ICON_CULTURE]文化产出。并允许建造国家级奇观[COLOR_POSITIVE_TEXT]卡内基艺术厅[ENDCOLOR]，同样可以大幅增加[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ROBOTICS_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]自动工厂[ENDCOLOR]，显著增加所在城市的[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_HELP">
+			<Text>允许建造最强大的飞艇单位[COLOR_POSITIVE_TEXT]飞行堡垒[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“任何一种足够新颖的技术看起来都象是魔法。”[NEWLINE]　　　　——阿瑟·克拉克（英国科幻小说家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_HELP">
+			<Text>允许建造国家级奇观[COLOR_POSITIVE_TEXT]永动机引擎[ENDCOLOR]，大幅增加[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“给我一个支点和一根足够长的杠杆，我就能撬动地球。”[NEWLINE]　　　　——阿基米德[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_HELP">
+			<Text>允许建造[COLOR_POSITIVE_TEXT]地下据点[ENDCOLOR]及相应的国家级奇观[COLOR_POSITIVE_TEXT]地下定居点[ENDCOLOR]，大幅增加所在城市的[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“根植与大地深处的正义原则比军队更强大。”[NEWLINE]　　　　——何塞·马蒂（古巴独立先驱及诗人）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_HELP">
+			<Text>允许建造游戏后期的奇观[COLOR_POSITIVE_TEXT]西恩塔[ENDCOLOR]，使本国所有城市获得广播塔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“理性的政府好过强权的政府。”[NEWLINE]　　　　——托马斯·杰斐逊[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_HELP">
+			<Text>可以重复研究。每次研究完成可获得[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“人类喜欢疑问，那就是科学的种子。”[NEWLINE]　　　　——拉尔夫·沃尔多·爱默生（美国作家）[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_HELP">
+			<Text>飞艇单位使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_ALUMINUM_TEXT">
+			<Text>最先发现“扭曲质”（Aetherium）的探险队起初以为它是白银。当开采活动逐步深入，散碎的材料被集中包裹起来运输的时候，发生了一些非常奇异的现象。包裹开始从地上悬浮起来。科学家们这才开始研究这种物质不同寻常的特性：当集聚到足够质量的时候，它就能够抵消重力。通过巧妙工程架构的引导，这种反重力就可以作为可靠的升力来源，使载具能够悬浮在空中。这种材料对帝国的重要程度与日俱增，然而直到今天其性质仍无法被完全了解。曾经有一位粗心大意的发明家在实验室里给一小块扭曲质通上电流，结果它以极高的速度向上冲，将房顶穿出了一个洞。这块刻有该发明家实验验证标记的样品在数星期后被发现掉落在距离其发射地许多英里远的地方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_HELP">
+			<Text>战车单位使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_RESOURCE_URANIUM_TEXT">
+			<Text>在自然界中存在的“暗晶体”（Luboric）矿石的形态呈现一种难以描述的墨绿色，并会在高温下发光。相比之前使用的煤炭，这种燃料产生的能量更强同时更易挥发，逐渐成为工厂和车船最主要的能源。使用暗晶体需要运用空前复杂的能源科技来引发链式反应机制。多数燃料是通过燃烧产生能量的，但是用火烧暗晶体却只能发出绿光而不能产生能量。想要释放出暗晶体矿石中的隐藏的巨大能量，必须用一种特殊的酶溶液浸泡催化并施以高温和高压。使暗晶体释放能量的关键反应不是燃烧而是分解。链式反应所产生的有毒废气需要进行仔细的处理；如果这种气体在管道角落里停留的时间超过数秒种，金属管壁就会被腐蚀穿孔。只有做好充足的预防措施，人们才可能利用其化学键中所蕴藏的神奇能量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN">
+			<Text>全地形移动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN_HELP">
+			<Text>此单位属于飞艇，在陆地和海洋区块都可通行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR">
+			<Text>对战斗机和飞艇加成(150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_AIR">
+			<Text>对战斗机和飞艇加成(150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_AIR_II">
+			<Text>对飞艇加成(150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PROMOTION_ANTI_TANK">
+			<Text>对战车加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_PEDIA_PROMOTION_ANTI_TANK">
+			<Text>对战车加成(100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNITCOMBAT_HELICOPTER">
+			<Text>飞艇单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_GREAT_WAR_INFANTRY_STRATEGY">
+			<Text>早期现代步兵是本剧情中最强的步兵单位。该单位能占领城市，但无法对付战车和飞艇单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_GREAT_WAR_INFANTRY">
+			<Text>本剧情中最强的步兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_BATTLESHIP">
+			<Text>本剧情中最强的远程海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_SUBMARINE_STRATEGY">
+			<Text>潜艇是擅长对付水面舰船武器。对多数单位不可见——除了驱逐舰和其他潜艇——仅在发起攻击或与其他单位相邻时才会显形。潜艇能进入冰区。使用潜艇侦查敌方水域或击沉敌船，并保护己方舰船不受敌方潜艇的攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_SUBMARINE">
+			<Text>对驱逐舰和潜艇之外的单位不可见。可隐蔽接近敌方舰船对其造成严重杀伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_UNIT_HELP_ANTI_AIRCRAFT_GUN">
+			<Text>能拦截试图攻击附近单位的敌方飞行器。并擅长对付飞艇单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_TEXT">
+			<Text>行驶在铁路之上火车（“铁马”）的发明也促进了军事技术的变革。发明家们很快就试图设计出使用蒸汽机动力而无须铁轨的车辆。最初制造的笨重钢铁怪兽移动起来极其困难，于是人们转而简化设计并减少装甲厚度，只保证最基本的防护能力。最早的驾驶者们发现这种轻便机动的新型号比笨重的旧型号更有效，行驶速度更快，更节省燃料，战斗时也更敏捷。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_STRATEGY">
+			<Text>“陆地铁甲舰”是最初级的战车单位，防御力和攻击力都很突出。适用于消灭旧式的陆军单位和攻击城市。它的装甲能够抵御小口径枪炮和飞行器的攻击，但面对飞行战舰的大口径炮火时十分脆弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_IRONCLAD_HELP">
+			<Text>首个战车单位。擅长对付其他陆军单位，但易受飞艇单位攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANDSHIP_TEXT">
+			<Text>陆地战舰是陆地铁甲舰的威力加强版。暗晶体能量的使用成倍提升了这种战车的动力输出，使其能够在保持原有机动性的情况下配备更强的装甲和武器。它很快就成为战场上的主力，能够轻易摧毁几乎任何其他陆军单位。凭借少量这种战车，一个指挥官能够迅速击败敌军或夺取城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANDSHIP_STRATEGY">
+			<Text>陆地战舰配备厚重的装甲，擅长进行地面战。可以用它击败其他陆军单位或破坏城市的防御力。它的装甲能够抵御飞行器上的小口径火器，但面对飞行战舰的大口径炮火时较为脆弱。需要派遣能够克制敌方空军的单位为陆地战舰提供保护以提高其生存能力，例如飞行器和高射炮等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LANDSHIP_HELP">
+			<Text>陆地铁甲舰的加强版。擅长对付其他陆军单位，但易受飞艇单位攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_TEXT">
+			<Text>陆地利维坦是地面战的终极武器。它的名字取自神话中的巨型海兽，拥有最强大的火力。它能够全方位地展开攻击，并能以极高的速度进行机动。它总共配有十六名乘员：一些人操作大炮，一些人照料暗晶体引擎，还有一名驾驶员和一名导航员。在训练时所有乘员都要在思想和行动上成为一个整体，为此还发展出一套简化术语以迅速地下达复杂的指令。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_STRATEGY">
+			<Text>陆地利维坦是地面战的终极武器，是任何其他陆军单位的毁灭者。可以用它消灭脆弱的高射炮以保护你的空军单位。它的装甲能够抵御飞行器上的小口径火器，但面对飞行战舰和飞行堡垒的大口径炮火时较为脆弱。最好派遣能够克制敌方空军的单位为昂贵的陆地利维坦提供保护，例如飞行器和高射炮等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LAND_LEVIATHAN_HELP">
+			<Text>最先进的战车单位。擅长对付其他陆军单位，但易受飞艇单位攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLYER_TEXT">
+			<Text>飞行器的产生源于一位发明家的创新，是在蒸汽时代人们广泛参与科学研究而取得的无数成果之一。动力推进技术的发展已经使陆地和海上的车船出现了奇迹般的变革，为什么不将其应用到人类永恒的飞行梦想之上呢？最初的引擎十分笨重，飞行器想要离开地面就必须努力节省每一盎司的重量。在可能的情况下尽量用帆布替代金属。后来随着技术的进步，飞行器开始配备武器，设计也越来越自由。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLYER_STRATEGY">
+			<Text>飞行器航程较短，攻击力有限。它们适合采用袭扰战术，尤其是在面对飞行战舰和飞行堡垒的时候，这些巨型飞艇过于笨重，无法有效规避飞行器的攻击。在前期飞行器有限的航程使其只用来执行防御性任务，但在后期它们可以以飞行堡垒作为移动基地，到达战场后再起飞。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FLYER_HELP">
+			<Text>擅长对付飞艇单位，但不适用于打击陆地单位。它的航程有限，必须以城市或飞行堡垒作为基地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIRSHIP_TEXT">
+			<Text>在扭曲质被发现之前，人们一直认为只有轻巧灵活的载具（例如飞行器）才可能在天空中飞行。飞行战舰是一个奇异而壮丽的新玩意。运用新发现的材料，最早制造飞行战舰的工程师和发明家得以摆脱前辈所留下的旧规则，能够把几乎任何东西送上天。当然，他们的设计仍然存在历史上已有物品的模仿——海上舰船。飞行战舰也有甲板，武器配备于两侧船舷，气球则取代了船帆。早期飞行战舰的船员沿用了海军传统的衔级制度。但是后来，持续的飞行经验迅速培育出了这个新军种自己的特色。飞行战舰的设计变得越来越多样化，飞行员和乘员们也不再象是缺乏教养和异想天开的新手，而是发展出了自己独有的文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIRSHIP_STRATEGY">
+			<Text>飞行战舰在陆地和海洋上都能移动，缩短了到达战场的距离，并开启了从敌人意料不到的全新方向展开攻击的可能性。它的大口径火炮能攻击附近的敌方飞艇单位，或是轰炸地面上的目标。飞行器和高射炮会对飞行战舰构成威胁，注意派遣其他单位进行护航。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIRSHIP_HELP">
+			<Text>第一种飞艇单位，能够在陆地和海洋上移动。擅长对付地面目标，但面对飞行器时较为脆弱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_TEXT">
+			<Text>庞大的飞行堡垒外观令人印象深刻。它比飞行战舰要大得多，会在地面投下广阔的阴影，在敌人心中传播恐惧。它配备重型武器，但仍能凭借运用先进的扭曲质提供升力悬浮在空中。飞行堡垒内部有许多不同的舱室：作战室供将军们在战场上空进行指挥，小型机库可以容纳一个飞行器中队，甚至还有一些娱乐场所。飞行堡垒是飞艇编队的核心，是一个移动的指挥中心，还能毁灭性地打击下方的地面目标并将敌方飞艇炸成碎片。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_STRATEGY">
+			<Text>飞行堡垒是最先进的飞艇单位，拥有强大的火力。它的火炮不但能打击地面目标和其他飞艇单位，还可以作为移动的飞行器基地。在飞行器的配合之下，飞行堡垒可以对大多数单位构成巨大威胁，但在面对敌方飞行器和高射炮时较为脆弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SKY_FORTRESS_HELP">
+			<Text>最先进的飞艇单位。可作为飞行器的基地。攻击力强大，但面对飞行器时较为脆弱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRANDSTAND_TEXT">
+			<Text>达尔梅斯的民众了解公共空间对他们日常生活和社会进步的重要性。大会场是进行一个娱乐和文化活动的好地方，吸引着大批远道而来的人们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_STRATEGY">
+			<Text>大会场只有达尔梅斯的奥德戴斯能够建造，替代体育场。与体育场不同，它能提供[ICON_CULTURE]文化产出，帮助更快地扩张领土及推行新社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRANDSTAND_HELP">
+			<Text>只有达尔梅斯的奥德戴斯能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_FACTORY_TEXT">
+			<Text>暗晶体作为战车引擎的燃料，显然对所有帝国都具有重要价值，但是欧尔林的工业大师们发现了其在增加产能方面的潜力。他们建立了专门的暗晶体工厂，能够使用有效含量极小的矿沙来生产暗晶体，并高效率地生产其他产品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_STRATEGY">
+			<Text>暗晶体工厂只有欧尔林的克尔瑙能够建造。与其所替代的暗晶体提炼所不同，暗晶体工厂能以本城市出产的[ICON_RES_URANIUM]暗晶体资源量为基础额外增加[ICON_PRODUCTION]产能。该奖励可与克尔瑙的领袖特质奖励叠加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_FACTORY_HELP">
+			<Text>只有欧尔林的克尔瑙能够建造。[NEWLINE][NEWLINE]提供[COLOR_POSITIVE_TEXT]2[ICON_RES_URANIUM]暗晶体[ENDCOLOR]资源。[NEWLINE][NEWLINE]本城市出产的每个[ICON_RES_URANIUM]暗晶体资源+1[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TORUS_DYNAMO_TEXT">
+			<Text>维德里亚的科学家对电磁力特别着迷，为之专门建立了多个研究实验室。这些研究实验室的中心就矗立着巨大的电磁阵列，通上电流时会噼啪作响。它既是实验室的研究对象，也是研究所需的电力来源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_STRATEGY">
+			<Text>电磁阵列只有维德里亚的格里格斯能够建造。相比所替代的特斯拉线圈，它能够为所在城市提供更多的[ICON_RESEARCH]科研。该奖励有助于更快地获得新科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TORUS_DYNAMO_HELP">
+			<Text>只有维德里亚的格里格斯能够建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FACTORY_TEXT">
+			<Text>扭曲质这种材料看来可以无视自然世界的基本规则，其用途非常广泛，是普里亚斯间谍重点关注的特殊资源。扭曲质工厂能够使尽量提升扭曲质的生产效率，它出产的扭曲质可以通过对外贸易换取现金我，或是加工成高价值的商业精品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_STRATEGY">
+			<Text>扭曲质工厂只有普里亚斯的卡特勒能够建造。与所替代的扭曲质提炼所不同，扭曲质工厂能够以本城市出产的[ICON_RES_ALUMINUM]扭曲质资料量为基础额外增加[ICON_GOLD]金钱，该奖励可与卡特勒的领袖特质奖励叠加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FACTORY_HELP">
+			<Text>只有普里亚斯的卡特勒能够建造。[NEWLINE][NEWLINE]提供[COLOR_POSITIVE_TEXT]2[ICON_RES_ALUMINUM]扭曲质[ENDCOLOR]资源。[NEWLINE][NEWLINE]本城市出产的每个[ICON_RES_ALUMINUM]扭曲质+1[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AERODROME_TEXT">
+			<Text>著名的伊鲁契空港比普通的飞艇建造和训练场所大上一倍。飞艇乘员直接全程参与飞艇建造过程，这既提升了训练水平，又增进了效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AERODROME_STRATEGY">
+			<Text>空港只有伊鲁契的罗瑟拉姆能够建造。替代飞艇站，建造空军单位（飞行器、飞行战舰和飞行堡垒）时可提供[ICON_PRODUCTION]产能奖励。与飞艇站一样，它还能为空军单位提供额外的经验。利用空港可以在短时间内建立一支训练有素的飞艇编队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AERODROME_HELP">
+			<Text>只有伊鲁契的罗瑟拉姆能够建造。[NEWLINE][NEWLINE]空军单位+15经验。[NEWLINE][NEWLINE]建造空军单位时+10%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DIFFERENCE_ENGINE_TEXT">
+			<Text>最早的差分引擎是一台小而昂贵的工具，限于进行复杂的商业或实验室计算。但是随着逻辑计算价值的日益显现，人们开始建造越来越大型的养分引擎。从最小的金融交易到国家大事的分析都成为其应用范围。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_STRATEGY">
+			<Text>显著增加[ICON_PRODUCTION]产能和[ICON_RESEARCH]科研。在所有城市建成后将可建造国家级奇观——分析引擎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DIFFERENCE_ENGINE_HELP">
+			<Text>在所有城市建成后将解锁分析引擎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GRAND_MANSION_TEXT">
+			<Text>帝国的运行给各个领域都带来了大量机遇，包括贸易、科技和工业。新贵阶层不断涌现，他们使用自己的财富建造了豪华的“中心大厦”，作为文化和商业界高层的聚会场所。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_STRATEGY">
+			<Text>显著增加[ICON_GOLD]金钱和[ICON_CULTURE]文化。在所有城市建成后将可建造国家级奇观——比特莫尔大厦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MANSION_HELP">
+			<Text>在所有城市建成后将解锁比特莫尔大厦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TRADE_COLLEGE_TEXT">
+			<Text>随着科学研究的领域不断扩大，各大帝国都认识到投资培养年轻科学家、发明家、探险家和实业家可产生的巨大回报，他们大力建立职业学院教育体系以争取对其他帝国的优势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_STRATEGY">
+			<Text>显著增加[ICON_RESEARCH]科研和[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TRADE_COLLEGE_HELP">
+			<Text>提供[ICON_RESEARCH]科研和[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PATENT_OFFICE_TEXT">
+			<Text>在奇思妙想层出不穷的科学时代，人人都可能成为发明家，人人都试图通过创造新玩意来获利。不为人知的天才隐藏在竞争和空想的海洋中。专利制度进一步促进和规范了发明活动，清理虚假无用的空想，奖励真正有益的天才。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_STRATEGY">
+			<Text>显著增加[ICON_GOLD]金钱并提供[ICON_PRODUCTION]产能，并可供养一位科学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PATENT_OFFICE_HELP">
+			<Text>在所有城市建成后将解锁发明家大厅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LUBORIC_REFINERY_TEXT">
+			<Text>宝贵的暗晶体非常稀有，但自从清楚其化学成分之后，科学家就能够确定最微量的矿藏位置。通过精心设计的化学处理过程，这种微量的矿沙可以提炼出接近纯暗晶体的人工化合物。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_STRATEGY">
+			<Text>无需拥有天然资源即可产出[ICON_RES_URANIUM]暗晶体，以便建造更多的战车单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUBORIC_REFINERY_HELP">
+			<Text>提供[COLOR_POSITIVE_TEXT]2[ICON_RES_URANIUM]暗晶体[ENDCOLOR]资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PHILANTHROPORIUM_TEXT">
+			<Text>慈善商场是慈善机构和国际贸易时代大型商场的结合体，以极低的价格向普通民众提供优质的商品服务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_STRATEGY">
+			<Text>显著增加[ICON_CULTURE]文化并提供[ICON_HAPPINESS_1]快乐点数。在所有城市建成后将可建造国家级奇观——卡内基艺术厅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILANTHROPORIUM_HELP">
+			<Text>在所有城市建成后将解锁卡内基艺术厅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TESLA_COIL_TEXT">
+			<Text>电最初是一种狂野而不为人知的自然现象，它的力量非常难以掌控，为此人们设计出了特斯拉线圈。它很快就成为科学研究不可或缺的设备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_STRATEGY">
+			<Text>显著增加[ICON_RESEARCH]科研并提供[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TESLA_COIL_HELP">
+			<Text>提供[ICON_RESEARCH]科研和[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AETHERIUM_FABRICATOR_TEXT">
+			<Text>随着扭曲质的神秘特性逐步被分析清楚，科学家找到了使少量这种物质发挥更大作用的方法，甚至合成出了效果相似的人工扭曲质。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_STRATEGY">
+			<Text>无需拥有天然资源即可产出[ICON_RES_ALUMINUM]扭曲质，以便建造更多的飞艇单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AETHERIUM_FABRICATOR_HELP">
+			<Text>提供[COLOR_POSITIVE_TEXT]2[ICON_RES_ALUMINUM]扭曲质[ENDCOLOR]资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AIRSHIP_HANGAR_TEXT">
+			<Text>飞行器和飞艇可以停泊在任何平坦的地面上，但精心设计和管理的飞艇站可以显著提升新招募乘员的士气和训练水平。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_STRATEGY">
+			<Text>提供额外经验点数给新组建的空军单位：飞行器、飞行战舰和飞行堡垒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRSHIP_HANGAR_HELP">
+			<Text>空军单位+15经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_AUTOMATED_FACTORY_TEXT">
+			<Text>过去工厂中普通工人的劳动条件非常糟糕。通过使用自动化机械设备，不但可以改善工人的处境，还能够极大地提升生产效率，机器可不需要睡觉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_STRATEGY">
+			<Text>显著增加[ICON_PRODUCTION]产能并提供[ICON_HAPPINESS_1]快乐点数。在所有城市建成后将可建造国家级奇观——永动机引擎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AUTOMATED_FACTORY_HELP">
+			<Text>在所有城市建成后将解锁永动机引擎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_OUTPOST_TEXT">
+			<Text>蒸汽机的巨大力量广泛用于驱动陆地上的车辆和天空中的飞行器，但直到数十年后才有勇敢的科学家用它来探测地球的深处。地下据点配备有必要的生活区域和设备，能够采集宝贵的地下资源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_STRATEGY">
+			<Text>显著增加[ICON_PRODUCTION]产能并提供[ICON_RESEARCH]科研点数。在所有城市建成后将可建造国家级奇观——地下定居点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_OUTPOST_HELP">
+			<Text>在所有城市建成后将解锁地下定居点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_HELP">
+			<Text>敌方间谍偷窃成功几率减少25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_BUILDING_POLICE_STATION_STRATEGY">
+			<Text>警察局可降低敌方间谍从你的城市窃取科技的成功几率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANALYTICAL_ENGINE_TEXT">
+			<Text>分析引擎强比任何差分引擎都更为强大，是帝国用于事务分析的大脑。它需要一个专家团队负责照料，并仔细分配宝贵的运算时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_STRATEGY">
+			<Text>每个帝国只能有一台分析引擎，并只有在所有城市建成差分引擎后才能建造。它能显著增加[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANALYTICAL_ENGINE_HELP">
+			<Text>必须先在所有城市建成差分引擎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BILTMORE_HOUSE_TEXT">
+			<Text>比特莫尔大厦是文化和商业的交流中心。它的每个房间都装潢精美，为客人提供最好的娱乐设施，并保证重要商业交易能够流畅而舒适地进行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_STRATEGY">
+			<Text>每个帝国只能有一座比特莫尔大厦，并只有在所有城市建成中心大厦后才能建造。它能显著增加[ICON_GOLD]金钱收入和[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BILTMORE_HOUSE_HELP">
+			<Text>必须先在所有城市建成中心大厦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_INVENTORS_HALL_TEXT">
+			<Text>发明家大厅汇聚了无数的发明活动，是一个发现和创新的公共论坛，在那里发明家们可以相互交流，并利用官方提供的设备来设计有价值的新奇玩意，推动科学的边界向前发展。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_STRATEGY">
+			<Text>每个帝国只能有一座发明家大厅，并只有在所有城市建成专利局后才能建造。它能显著增加[ICON_GOLD]金钱收入和[ICON_RESEARCH]科研点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVENTORS_HALL_HELP">
+			<Text>必须先在所有城市建成专利局。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CARNEGIE_HALL_TEXT">
+			<Text>卡内基艺术厅同时服务于高雅艺术和通俗文化，是一个吸引最有才华的艺术家进行表演，并为他们表达新思想提供国家级舞台的宏伟建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_STRATEGY">
+			<Text>每个帝国只能有一座卡内基艺术厅，并只有在所有城市建成慈善商场后才能建造。它能显著增加[ICON_CULTURE]文化点数，并能提升[ICON_HAPPINESS_1]快乐度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARNEGIE_HALL_HELP">
+			<Text>必须先在所有城市建成慈善商场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SUBTERRANEAN_COLONY_TEXT">
+			<Text>自从地下据点在地球深处建成，各大帝国就开始招募平民前往定居开拓。凭借先进的技术和可靠的补给，人们得以在地下维持一座小型的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_STRATEGY">
+			<Text>每个帝国只能有一个地下定居点，并只有在所有城市建成地下据点后才能建造。它能显著增加[ICON_PRODUCTION]产能和[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_COLONY_HELP">
+			<Text>必须先在所有城市建成地下据点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PERPETUAL_MOTION_ENGINE_TEXT">
+			<Text>无数世纪以来科学家们一直在努力破解永恒运动的秘密。随着机器人和电磁力技术的长足发展，永动机最终由不可能变成了现实。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_STRATEGY">
+			<Text>每个帝国只能有一台永动机引擎，并只有在所有城市建成自动工厂后才能建造。它能显著增加[ICON_PRODUCTION]产能，并能提升[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PERPETUAL_MOTION_ENGINE_HELP">
+			<Text>必须先在所有城市建成自动工厂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1">
+			<Text>很高兴见到你！我是路德·格里格斯，维德里亚最杰出的发明家和领袖！让我们基于科学与友谊的精神共同分享我们所掌握的知识。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1">
+			<Text>我们的机器正在你的家门口轰鸣。我将尽力确保你的城市不受破坏，这样你的东西就可以为我所用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DECLAREWAR_3">
+			<Text>{TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1">
+			<Text>再见，先生。我希望我不在的时候你能继续追求新知识和新发明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_DEFEATED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_3">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_WARBLUFF_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_WINWAR_2">
+			<Text>{TXT_KEY_LEADER_WUZETIAN_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_2">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_LOSEWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_HAPPY_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NEEDMORE_ANGRY_4}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS_TRADE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_1">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_2">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_GUSTAVUS_ADOLPHUS_ATTACKED_3">
+			<Text>{TXT_KEY_LEADER_ALEXANDER_ATTACKED_3}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1">
+			<Text>啊，向你致敬。请允许我介绍一下自己。我是伊鲁契的居鲁士·罗瑟拉姆，我的帝国以军力强盛而著称于世。我希望你会成为一个有价值的盟友，而不是一个有价值的敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1">
+			<Text>我将与你开启一场战争游戏，我们的飞艇编队将把你的国土遮蔽在阴影之下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DECLAREWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1">
+			<Text>我向你鞠躬，先生，你证明了自己的能力。好好享受你的胜利吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEFEATED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_LOSEWAR_3">
+			<Text>{TXT_KEY_LEADER_BISMARCK_LOSEWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_QUOTE_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_4}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_NO_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_ASKIA_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_BISMARCK_WINWAR_3">
+			<Text>{TXT_KEY_LEADER_BISMARCK_WINWAR_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1">
+			<Text>看吧，工业机器中最强大的驱动力——欧尔林帝国！我是伊尼亚斯·克尔瑙，我要事先警告你，先生，任何愚蠢行为都将遭至严肃惩戒。我的时间非常宝贵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2">
+			<Text>我们的工厂为这一刻进行了长期准备。面对巨大的工业实力你没有任何机会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DECLAREWAR_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1">
+			<Text>先生，你是一个恶棍。来夺取我们的工厂吧，但你绝对无法给予世界伟大的工业。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_DEFEATED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_ATTACKED_1">
+			<Text>{TXT_KEY_LEADER_CATHERINE_ATTACKED_3}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_ATTACKED_2">
+			<Text>{TXT_KEY_LEADER_CATHERINE_ATTACKED_4}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_1">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_LOSEWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_2">
+			<Text>{TXT_KEY_LEADER_MARIA_LOSEWAR_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_LOSEWAR_3">
+			<Text>{TXT_KEY_LEADER_WILLIAM_LOSEWAR_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_SELASSIE_TRADE_NO_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_ANGRY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_YES_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_NO_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRIBUTE_YES_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_CATHERINE_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_SULEIMAN_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2">
+			<Text>来吧，我的好兄弟，让我们聊一会天。我是普里亚斯的屋大维·卡特勒，也许你听说过我的名字？无论如何，请告诉我你的详细情况和伟大成就。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_FIRSTGREETING_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1">
+			<Text>这一切将会很快结束，我向你保证。你的失败会帮助普里亚斯变得更强大，希望这会让你感到安慰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DECLAREWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1">
+			<Text>我要向你鞠躬，先生，为你的辉煌胜利。我的帝国兴起时无声无息，但他的毁灭将震惊世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEFEATED_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_ANGRY_3}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_ELIZABETH_TRADE_NEEDMORE_HAPPY_4}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADE_NO_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_DARIUS_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_DARIUS_TRADE_YES_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADEREQUEST_ANGRY">
+			<Text>{TXT_KEY_LEADER_HARUN_TRADEREQUEST_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRADEREQUEST_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_YES_ANGRY">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_ELIZABETH_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_DARIUS_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>见到你真是太好了，先生，真是太好了！欢迎来到达尔梅斯。我是克林顿·奥德戴斯，我很乐意向你伸出友谊之手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1">
+			<Text>我亲爱的朋友，我必须为这一入侵行动表达歉意。不幸的是，我们别无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DECLAREWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2">
+			<Text>老天啊，这真是太不公平了！达尔梅斯或许会走向灭亡，但将赢得人民大众永远的怀念。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEFEATED_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEMANDTRIBUTE_HAPPY">
+			<Text>{TXT_KEY_LEADER_WILLIAM_DEMANDTRIBUTE_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_DEMANDTRIBUTE_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_LOSEWAR_1">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_LOSEWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_1">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_2">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_3">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_QUOTE_4">
+			<Text>{TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TEXT_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_2}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_3}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>{TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_3}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_ODA_TRADE_NO_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_NO_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_WILLIAM_TRADE_NO_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_ODA_TRADE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRADEREQUEST_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRADEREQUEST_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY">
+			<Text>{TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_ANGRY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_NO_HAPPY">
+			<Text>{TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_YES_HAPPY">
+			<Text>{TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_TRIBUTE_YES_NEUTRAL">
+			<Text>{TXT_KEY_LEADER_BOUDICCA_TRIBUTE_YES_NEUTRAL}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_NAPOLEON_WINWAR_1">
+			<Text>{TXT_KEY_LEADER_HARUN_WINWAR_1}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_1">
+			<Text>向你致意，先生！你看起来是一位体面的绅士。愿我们能够长期友好，如果我们在战场上相遇，但愿胜利能归于强者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_FIRSTGREETING_2">
+			<Text>嘿，先生！我希望你能说明你的来意。你的目的无疑是令人赞赏的，否则我得警告你，我会是个相当强大的对手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_2">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_3">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_4">
+			<Text>确实如此。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_5">
+			<Text>真是令人赞赏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_POSITIVE_6">
+			<Text>这样安排最好不过了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_1">
+			<Text>我认为不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_2">
+			<Text>这太可恶了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_LEADER_MISC_NEGATIVE_3">
+			<Text>你冒犯我了，先生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT">
+			<Text>统一战线</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_POLICY_UNITED_FRONT_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]统一战线[ENDCOLOR][NEWLINE]建造奇观时+10%[ICON_PRODUCTION]产能，新建城市额外增加1[ICON_CITIZEN]人口。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK_SHORT">
+			<Text>情报网络</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TRAIT_INTELLIGENCE_NETWORK">
+			<Text>额外增加2名间谍。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

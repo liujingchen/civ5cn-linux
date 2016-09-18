@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_FIRSTGREETING_1">
+			<Text>我是亚述巴尼拔，站在我前面的是谁？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_FIRSTGREETING_2">
+			<Text>欢迎来到伟大的亚述王国……你有参观过我的图书馆么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_FIRSTGREETING_3">
+			<Text>来自亚述的问候！我希望能够了解你的国家与人民的历史。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WARBLUFF_1">
+			<Text>你这就是纯粹的恐吓，但愿你已经准备好了承受恐吓的代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WARBLUFF_2">
+			<Text>虽然历史告诉我们这不是个明智的决定，但我还是要钦佩你的胆量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WARBLUFF_3">
+			<Text>你现在就是自寻死路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WINWAR_1">
+			<Text>今日将注定载入史册！我们获得了战争的胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_WINWAR_2">
+			<Text>今日将注定载入史册！我们获得了战争的胜利！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LOSEWAR_1">
+			<Text>我们可以被打败，但是我们的事迹将会记录于经典之中！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LOSEWAR_2">
+			<Text>我们可以被打败，但是我们的事迹将会记录于经典之中！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEFEATED_1">
+			<Text>你已经远超于我，或许这正是我未能看穿你的实力的原因。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEFEATED_2">
+			<Text>古代的经文并没记载让我如何去应对这样的失败……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEFEATED_3">
+			<Text>历史会记录下你的胜利……尽管仅仅是一段非常简短的记载。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_2">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_1">
+			<Text>走开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_2">
+			<Text>就这些了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_YES_NEUTRAL">
+			<Text>这很公平，我接受你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你低估我了我们的要求……你应当做的更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你可以提供更好一些么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>就快可以了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>这对我来说并不是足够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NO_NEUTRAL">
+			<Text>我不认为你有认真考虑过你开出的条件……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_YES_NEUTRAL">
+			<Text>我注意到了你这简单可笑的要求……这次你就拿去吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_NO_NEUTRAL">
+			<Text>我没有时间来应付你这愚蠢的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADEREQUEST_NEUTRAL">
+			<Text>你考虑做这一笔交易么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我将会永远记住那些曾经帮助过我的朋友的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_2">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_1">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_2">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_4">
+			<Text>怎么了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_3">
+			<Text>这里没我们什么事了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_YES_HAPPY">
+			<Text>和你交易真是感到荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_HAPPY_1">
+			<Text>喂！朋友，我知道你可以做的更好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你只能做到这种程度么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快要成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NO_HAPPY">
+			<Text>就算你是我的朋友，我也无法接受这样的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_YES_HAPPY">
+			<Text>接受这慷慨的馈赠吧！我没有时间来进行这样琐碎的谈判。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_NO_HAPPY">
+			<Text>就算如我一般伟大的人也无法如此之慷慨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，你能够帮助一下我的王国么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEMANDTRIBUTE_HAPPY">
+			<Text>当然你可以能够援助一下你的朋友吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_AGREE_SHORT_3">
+			<Text>当然可以。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_AGREE_SHORT_4">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_AGREE_SHORT_5">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_3">
+			<Text>我正在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GREETING_6">
+			<Text>啊，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_5">
+			<Text>请走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_GOODBYE_6">
+			<Text>这里没我们什么事了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_YES_ANGRY">
+			<Text>如果你坚持。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你这要求侮辱了我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_ANGRY_3">
+			<Text>不要浪费我的时间！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NEEDMORE_ANGRY_4">
+			<Text>这是多么侮辱人的提议！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADE_NO_ANGRY">
+			<Text>我拒绝，你的要求是对我整个王国的侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_YES_ANGRY">
+			<Text>如果必须如此，那就这样吧！不过你会后悔向我进行如此无礼的索取。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRIBUTE_NO_ANGRY">
+			<Text>提出这样的要求你就是在自寻死路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_TRADEREQUEST_ANGRY">
+			<Text>我只能和你进行这个交易，别无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DEMANDTRIBUTE_ANGRY">
+			<Text>我的人民需要这个，你有责任提供给我！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_5">
+			<Text>你敢再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_6">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DISAGREE_SHORT_7">
+			<Text>你开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_LETSHEARIT_5">
+			<Text>你刚说了什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_1">
+			<Text>恐怕除了将你从这个世界上抹去以外，我已经别无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_2">
+			<Text>在深思熟虑后，我觉得你应该走向灭亡之路了，准备好战争吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_DECLAREWAR_3">
+			<Text>我已经再也无法忍受你的存在了，唯一的选项只有战争！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_ATTACKED_1">
+			<Text>我认为你将一定会后悔这不明智的决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_ATTACKED_2">
+			<Text>这是多么愚蠢的决定！你一定是被迷惑了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHURBANIPAL_ATTACKED_3">
+			<Text>你犯了弥天大错，我将乐于见到你的悲惨结局。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

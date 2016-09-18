@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_1">
+			<Text>我是肖肖尼的波卡特洛。我在此向你致意——希望我们可以和平共处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_2">
+			<Text>我是肖肖尼的波卡特洛，是谁将你带到我的子民的土地上的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_FIRSTGREETING_3">
+			<Text>欢迎！相信我们都会记住这次和平的会面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_1">
+			<Text>你不过是在虚张声势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_2">
+			<Text>遗憾得很！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_WARBLUFF_3">
+			<Text>笑话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_1">
+			<Text>看见这场争端终结，我十分欣慰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_WINWAR_2">
+			<Text>看见这场争端终结，我十分欣慰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_1">
+			<Text>失败并不会使我们意志消沉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LOSEWAR_2">
+			<Text>失败并不会使我们意志消沉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_1">
+			<Text>你的胜利让我敬畏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_2">
+			<Text>这并不是部落人民的末日，我可以向你保证。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEFEATED_3">
+			<Text>故事还没有结束！我会找到出路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_2">
+			<Text>嗨！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_1">
+			<Text>离开吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_2">
+			<Text>结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_NEUTRAL">
+			<Text>交易成立。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你索要的太多了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>能做得更好一点么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>快了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>还差一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_NEUTRAL">
+			<Text>我不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_NEUTRAL">
+			<Text>我的子民，我的荣耀：帮助那些需要帮助的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_NEUTRAL">
+			<Text>我的子民有更重要的事需要他们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_NEUTRAL">
+			<Text>想听听我的提议吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>好好想想你的回答。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_2">
+			<Text>行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_1">
+			<Text>我拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_2">
+			<Text>不，当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_1">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_2">
+			<Text>往下说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_3">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_3">
+			<Text>事情了结。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_HAPPY">
+			<Text>我相信这对我们双方都有好处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我喜欢帮助朋友，但你要的实在也太多了一些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能做的极限？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你很接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_HAPPY">
+			<Text>虽然是你，但很遗憾我无法答应。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_HAPPY">
+			<Text>想拿就拿吧，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_HAPPY">
+			<Text>我的慷慨也是有限度的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_HAPPY">
+			<Text>这个方案对你我双方都十分有利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_HAPPY">
+			<Text>这个决定必将加深我们的友谊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_3">
+			<Text>必须的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_4">
+			<Text>没问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_AGREE_SHORT_5">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_3">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_4">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_3">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_5">
+			<Text>就这些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_GOODBYE_6">
+			<Text>交易完成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_YES_ANGRY">
+			<Text>我别无选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你以为这是我第一次与外来客做生意么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你需要更有诚意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NEEDMORE_ANGRY_4">
+			<Text>这简直就是羞辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADE_NO_ANGRY">
+			<Text>我对你们没兴趣！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_YES_ANGRY">
+			<Text>我会接受，但我不会忘记你对我们的侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRIBUTE_NO_ANGRY">
+			<Text>这些都是我的子民需要的，我不会让出它们。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_TRADEREQUEST_ANGRY">
+			<Text>虽然这令我痛苦，我还是不得不提出如下交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DEMANDTRIBUTE_ANGRY">
+			<Text>交出这些，否则我将自己来取！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_5">
+			<Text>你能再说一遍吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_6">
+			<Text>这可不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DISAGREE_SHORT_7">
+			<Text>别开玩笑了，好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_LETSHEARIT_5">
+			<Text>你刚才说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_1">
+			<Text>准备好……战争来临了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_2">
+			<Text>下次我们见面时，会是在战场之上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_DECLAREWAR_3">
+			<Text>我觉得我们应该一次性解决这些问题了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_1">
+			<Text>我不会屈服于不义的侵略下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_2">
+			<Text>我的子民会勇敢面对任何考验！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_POCATELLO_ATTACKED_3">
+			<Text>我会奋战至死！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

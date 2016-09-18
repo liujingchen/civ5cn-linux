@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- edited with Programmer's Notepad 2 by Michelle Menard (Firaxis Games) -->
+<!-- Babylon DLC Civilopedia Entries -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TITLE">
+			<Text>西班牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_2">
+			<Text>地形和气候</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_3">
+			<Text>早期历史：从克罗玛农人到凯尔特人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_4">
+			<Text>罗马人的到来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_5">
+			<Text>摩尔人的到来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_6">
+			<Text>国家光复、国家统一和宗教裁判所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_7">
+			<Text>西班牙帝国和新大陆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_8">
+			<Text>陷入困境和连绵的战争</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_HEADING_9">
+			<Text>现在和将来</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_STATBOX">
+			<Text>[NEWLINE]        领袖：伊莎贝拉[NEWLINE]        特色单位：西班牙大方阵[NEWLINE]        特色单位：西班牙征服者[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_1">
+			<Text>西班牙位于欧洲大陆与北非相邻的伊比利亚半岛，早在史前时代其战略地位就十分重要。西班牙曾经是最早的世界帝国，在最近的数世纪里又经历了多场毁灭性的战争和政治动荡。从她对新大陆的发现和殖民到卷入多场独立战争，西班牙是对全球历史产生深刻影响的少数几个国家之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_2">
+			<Text>今天的西班牙王国的面积排名世界第51位，只有大约3.1万平方英里，比美国的加利福尼亚州稍大一点。地形以高原和山脉为主，包括内部的内瓦达山脉和西部的比利牛斯山脉。西班牙最高的山峰是位于加那利群岛中特那利非岛上的台德火山。[NEWLINE][NEWLINE]西班牙的气候非常多样，甚至不包括其海外领地的本土也是如此。南部地中海沿岸地区是温和的地中海气候和亚热带气候，中部高原是大陆性气候，北部地区则是海洋性气候或山地气候。和一般的说法不同，西班牙的雨并不主要下在平原——而是在山区。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_3">
+			<Text>考古证据显示3.2万年前开始有人类迁居伊比利亚半岛，阿尔塔米拉岩画就是早期移民留下的最著名遗迹。半岛最初的居民分为两个族群——伊比利亚人和凯尔特人，前者分布于南部和东部地区，后者则居住在北部和西部。半岛的地理位置适合凯尔特人和伊比利亚人从事商业活动，许多腓尼基和希腊商人来到这里经营黄金和白银贸易，位于今塞维利亚的塔尔提索斯是当时的贸易中心。腓尼基人、希腊人和迦太基人在半岛的地中海沿岸建立了多个贸易殖民点，虽然外来人口不断涌入，但大部分土地仍由当地人控制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_4">
+			<Text>这种情形一直延续到大约公元前210年，罗马人在第二次布匿战争期间夺取了半岛上的迦太基殖民地。随后罗马人对伊比利亚内陆地区发动了一场进攻，征服了几乎整个半岛。在此后的500年间，当地的凯尔特人和伊比利亚人逐步“罗马化”——地方的统治家族融入了罗马贵族阶层，罗马大道贸易站星罗棋布，并建立起了农业灌溉网络，包括著名的罗马引水渠。基督教也在这一时期传入，并很快为当地人所接受。[NEWLINE][NEWLINE]随着日耳曼人对高卢的入侵，将苏威人和汪达尔人赶往南欧，从公元409年起罗马人对西班牙/伊比利亚半岛的控制力开始丧失。这些新迁入的部族在今加利西亚和葡萄牙地区建立了一个新的王国，罗马人无力消灭他们。汪达尔人迅速向伊比利亚全境扩张，罗马人的领地被压缩到南部沿海地区。罗马迁都君士坦丁堡后曾试图夺回伊比利亚，但最终整个半岛又落入西哥特人之手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_5">
+			<Text>此后三个世纪中西哥特人持续统治伊比利亚，直到倭马亚伊斯兰帝国的军队突然对半岛发动入侵。这些来自北非的“摩尔人”跨过直布罗陀海峡，在短短七年内（711-718）征服了几乎整个伊比利亚。新建的伊斯兰政权允许当地基督徒和犹太人继续信仰各自的宗教，但他们需要为此支付特别的税金并在一定程度上受到歧视。在此情况下，大部人当地人口都改信了伊斯兰教。[NEWLINE][NEWLINE]入侵者虽然都信仰伊斯兰教，但并非铁板一块，摩尔人很快分裂为多个小王国，主要分布在今巴伦西亚和格拉纳达地区。到11世纪时，半岛上的穆斯林领地进一步分裂，剩下的基督教王国乘机开始扩张。此后数世纪基督徒和穆斯林为半岛的控制权不断交战，基督徒称之为“光复运动”（Reconquista）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_6">
+			<Text>基督徒从穆斯林手中夺回伊比利亚半岛的“光复运动”正式开始于722年的科瓦东加战役（但起初进展有限）。此后多个重要的基督教王国在半岛上建立起来，例如阿斯图里亚斯和阿拉贡，但穆斯林王国坚守他们的领地。此后700年间基督徒和穆斯林在伊比利亚半岛上进行了持续的战争，无数要塞被建立又被摧毁，政治格局和边境线几乎每年都在改变。基督教王国虽然逐步向前推进，但无法取得决定性的胜利。[NEWLINE][NEWLINE]然而当卡斯提尔和阿拉贡王国通过1469年伊莎贝拉一世和斐迪南二世的婚姻结为一体之后，情况开始发生变化。这个联合王国对格拉纳达的伊斯兰据点发动猛攻，最终于1492年彻底结束了穆斯林在伊比利亚的统治。[NEWLINE][NEWLINE]1492年是西班牙王国历史上最重要的一年——克里斯多弗·哥伦布在伊莎贝拉的资助下远航美洲，开始了殖民新大陆的进程，而伊比利亚的犹太人被强迫皈依基督教，否则就将被驱逐出境甚至被宗教裁判所处死。[NEWLINE][NEWLINE]伊莎贝拉和斐迪南的联合王国就是今天西班牙的前身，新大陆富庶的殖民地使这个王国成为历史上第一个“世界级强权”。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_7">
+			<Text>在西班牙帝国全盛时期，其领土遍及全球——包括欧洲大陆许多地区和南北美洲大部分地区，以及北非和整个东印度群岛。西班牙在这个探索时代领袖群伦，通过殖民地贸易积累起巨大的财富。可以毫不夸张地说，太阳在一天的任何时刻都照耀着西班牙帝国。[NEWLINE][NEWLINE]西班牙建立的通往新大陆的商路不但带来了新的知识和文化，还有新的资源——黄金、香料、农作物等等。这个西班牙的黄金时代还带来了科技发展和宗教改革，以萨加曼加学派为代表的人文主义思潮和以路德宗为代表的基督教新教大行其道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_8">
+			<Text>力量越大责任也越大，至少你得保护帝国的沿海城市居民不被海盗劫掠。除了巴巴利海盗和奥斯曼帝国海军的威胁，西班牙还时常同法国发生战争。宗教暴乱和战争不断冲击这个天主教帝国，新教改革令帝国陷入欧洲大陆上无休止的战争。动乱和宗教未触及的地方也不能避免疫病的侵袭，在17世纪50年代，整个帝国因“塞维利亚大瘟疫”而元气大伤。[NEWLINE][NEWLINE]在此之后，西班牙的国力和影响力的下降速度越来越快。在欧洲的领地一块块地丧失，其中包括葡萄牙和荷兰，并在毁灭性的三十年战争中遭遇巨大的军事挫折。[NEWLINE][NEWLINE]无尽的战争在此后的两个世纪中不断威胁这个衰落的帝国。在18世纪末，拿破仑·波拿巴假称进攻葡萄牙，对西班牙发动突然入侵。19世纪初，民族主义者起义推翻了法国占领者，这被称为“西班牙独立战争”或“半岛战争”。虽然西班牙重新赢得独立（主要是由于拿破仑远程俄国失败），但这个国家的政局继续动荡不休。[NEWLINE][NEWLINE]随后西班牙又面临海外殖民地的独立风潮，并在与美国的战争中失去大片领地。到了20世纪情况也没有任何改善——1930年代的西班牙内战导致法西斯独裁政权的上台，多达五十万人在内战中丧生。这场战争往往被视为第二次世界大战的序幕。[NEWLINE][NEWLINE]直到1975年独裁者弗朗西斯科·佛朗哥将军死后，西班牙王室才恢复了地位，三百年来西班牙人首次看到了曙光。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TEXT_9">
+			<Text>1976年，西班牙通过了新的宪法，建立了民主政体；胡安·卡洛斯国王最终结束了巴斯克分离运动所导致的漫长的民族主义动乱。1982年西班牙加入了北约，并在1986年加入欧洲共同体（后来的欧盟）。[NEWLINE][NEWLINE]从辉煌繁荣的帝国到持续数世纪的战乱，如今的西班牙逐步恢复了力量，成为国际社会重要的成员，其经济规模居世界第九，生活水平排名世界第十。世界上许多国家都有西班牙族裔或文化的分布，从美国新奥尔良的钢铁建筑到菲律宾的天主教信仰。很少有别的国家能拥有象西班牙帝国那样深远的影响力，这种影响一直持续到今天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_FACTOID_HEADING">
+			<Text>西班牙逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_FACTOID_TEXT">
+			<Text>西班牙帝国最重要的遗产是西班牙语——如今有将近五亿人以西班牙语为母语，排名世界第二。[NEWLINE][NEWLINE]西班牙拥有领先的太阳能技术，在2010年其来自太阳能的发电量超过了美国。另外，西班牙全国发电量的50%来自风力，如果堂吉诃德听说了这个一定会很不高兴。[NEWLINE][NEWLINE]从理论上说（当然实际上不是如此），西班牙任何地方都允许赤身裸体。[NEWLINE][NEWLINE]贝雷帽是由西班牙西北部比利牛斯山区的巴斯克人发明的。[NEWLINE][NEWLINE]西班牙作家米格尔·德·塞万提斯的《堂吉诃德》被认为是第一部现代小说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_LIVED">
+			<Text>1451-1504</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_NAME">
+			<Text>伊莎贝拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_SUBTITLE">
+			<Text>西班牙领袖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TITLES_1">
+			<Text>卡斯提尔和莱昂女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TITLES_2">
+			<Text>阿拉贡、马约卡、那不勒斯和巴伦西亚共治女王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_2">
+			<Text>早年生活</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_3">
+			<Text>亨利安排的婚约</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_4">
+			<Text>斐迪南和王位的争夺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_5">
+			<Text>1492</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_6">
+			<Text>可怕的宗教裁判所</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_7">
+			<Text>后期经历</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_HEADING_8">
+			<Text>历史遗产</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_1">
+			<Text>伊莎贝拉一世是卡斯提尔和莱昂女王，在位三十年，她与她的丈夫斐迪南一道为统一西班牙的建立奠定了基础。她以对西班牙统一进程的贡献，对哥伦布远航美洲的赞助以及最终完成统一伊比利亚半岛“光复战争”（Reconquista）而被尊为西班牙历史上最具影响力和最受人爱戴的君主之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_2">
+			<Text>伊莎贝拉1451年4月22日出生于阿维拉，是卡斯提尔的若昂二世和葡萄牙的伊莎贝拉之女。他有一个兄长亨利（大她26岁）和一个弟弟阿方索，继承顺位都排在她之前。当她的父亲于1454年去世时，亨利继承卡斯提尔王位成为亨利四世，伊莎贝拉和母亲移居到阿雷瓦罗一座破败的城堡中，她的母亲在那里得了精神病。直到多年以后亨利的妻子生下儿女，亨利才允许自己的亲人回到位于塞戈维亚的宫廷。[NEWLINE][NEWLINE]此后伊莎贝拉接受了完善的宫廷教育，生活条件也显著改善，但亨利仍然对她有所限制——未经允许她不得离开塞戈维亚。亨利宣称这是为了避免伊莎贝拉卷入争夺王国继承权的政治纷争（他指定了自己的女儿乔安娜为王储），也防止她与反对他的贵族联系。[NEWLINE][NEWLINE]但是贵族们与她的弟弟阿方索的交往却未受限制，阿方索在1467年策动了第二次奥尔梅多战役，要求亨利将自己立为王储。作为妥协，亨利封阿方索为阿斯图里亚斯亲王，这个头衔通常封给卡斯提尔和莱昂的王位继承人，亨利还打算将自己的女儿乔安娜嫁给阿方索。但是阿方索并没有高兴多久就死了，可能是死于一场疫病。阿方索在他的遗嘱中将伊莎贝拉确定为继承者，于是他的头衔被转给了她。[NEWLINE][NEWLINE]伊莎贝拉无意继续反对他的哥哥，他与亨利在托洛斯·奎桑多会面商谈缔结一份永久性的和约。亨利正式指定伊莎贝拉为他的继承人，但她的婚姻必须征得他的同意。但是亨利安排的婚姻也不能违背她的意志。双方对此都感到满意，亨利随后开始为他的小妹张罗她的终身大事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_3">
+			<Text>当时伊莎贝拉与阿拉贡国王约翰二世之子斐迪南订有婚约（是在她三岁时就已经订下的），但亨利取消了这个婚约。他试图让伊莎贝拉嫁给纳瓦拉国王查理四世（约翰二世的另一个儿子），然而约翰拒绝了这个提议。[NEWLINE][NEWLINE]1464年晚些时候，亨利又试图让伊莎贝拉嫁给英格兰国王爱德华四世，但是也未获对方同意。之后他还提议伊莎贝拉嫁给葡萄牙国王阿方索五世，但她拒绝接受，因为阿方索的年纪非常老。[NEWLINE][NEWLINE]这部冗长的卡斯提尔宫廷肥皂剧仍在继续拖戏，伊莎贝拉又被许配给了亨利宠信的贵族佩德罗·吉隆。伊莎贝拉暗中向天主祈祷希望取消婚约，因为这个堂·佩德罗比她大27岁。也许天主真的回应了她的祈祷，堂·佩德罗在前往迎接他未婚妻的途中死于阑尾炎。[NEWLINE][NEWLINE]亨利安排的下一位候选人是法兰西国王路易十一的兄弟贝里公爵查理。但此时伊莎贝拉已经受够了亨利用政治联姻将她排除出继承顺位的阴谋诡计，她开始秘密地与阿拉贡国王约翰二世谈判以图恢复与其子斐迪南二世的婚约。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_4">
+			<Text>虽然各派政治势力都支持伊莎贝拉与斐迪南结婚（当然仍希望同法国或葡萄牙联姻的亨利除外），但还有一个小问题——这对年轻的情侣是隔代的表亲。根据教会法，近亲婚姻需要教皇的特许，而教皇担心这样做会同时激怒卡斯提尔、葡萄牙和法兰西的国王。[NEWLINE][NEWLINE]然而伊莎贝拉是一个非常虔诚的女人，没有特许状她决不肯结婚。斐迪南向罗德里格·波尔吉亚（即后来的教皇亚历山大六世）求助，为伊莎贝拉弄到了一份庇护二世的“教皇特许状”。这份特许状可能是伪造的，不过伊莎贝拉很快同意结婚。伊莎贝拉借口去阿维拉给死去的弟弟上坟逃离了亨利的监视，斐迪南则化装成一名商人前往卡斯提尔。伊莎贝拉那如同莎士比亚戏剧一般的浪漫冒险在1469年10月19日画上了句点——她与斐迪南在瓦拉多利德正式成婚。[NEWLINE][NEWLINE]亨利很快得知此事，他请求教皇撤销这桩婚姻。但新任教皇西斯都四世不象前任那样谨小慎微，他不顾亨利的反对向这对夫妇颁发了真正的教皇特许状。[NEWLINE][NEWLINE]1474年亨利的去世导致了卡斯提尔继承权战争的爆发。葡萄牙支持亨利的女儿乔安娜继位，伊莎贝拉则有阿拉贡的支持（当然是因为斐迪南的关系），后来法国也转而支持她。战争持续了四年，最终又是教皇西斯都四世帮了伊莎贝拉的忙，他撤销了乔安娜与葡萄牙国王阿方索五世的婚姻，他的理由很具讽刺性——他们是近亲。乔安娜被迫放弃了卡斯提尔公主及女王头衔，王位于1479年1月20日由伊莎贝拉继承。[NEWLINE][NEWLINE]伊莎贝拉继位的头几年主要忙于巩固自己的权力，并继续进行伊比利亚半岛光复战争。然而她的统治因公元1492年发生的几件大事而永远为历史所铭记。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_5">
+			<Text>令伊莎贝拉名垂青史的所有事迹几乎都发生在这一年：光复战争的结束，资助克里斯多弗·哥伦布的远航，以及宗教裁判所的强化。[NEWLINE][NEWLINE]伊比利亚诸王国所称的“光复战争”持续了七个世纪之久，旨在从穆斯林手中夺回整个半岛。在最后两百年间，格拉纳达酋长国是伊比利亚半岛上最后的穆斯林据点。伊莎贝拉和斐迪南于1482年发动了对这个国家的决定性的进攻。伊莎贝拉本人经常来到军中，在战场上为她的战士祈祷，她甚至在格拉纳达城外建造了一座十字架形的要塞作为他的行宫，她确信自己是在执行神的旨意。最终伊莎贝拉的军队赢得了胜利，她签订的格拉纳达条约标志着长达七百年的光复战争的结束。[NEWLINE][NEWLINE]在伊莎贝拉统治的早期，一位名叫克里斯多弗·哥伦布的年轻探险家来到她的宫廷，寻求获得资助以向西寻找通往印度的新航路。她的顾问认为这个计划不切实际，向西抵达亚洲的航路距离不可能象他估计的那样短。然而伊莎贝拉并未象葡萄牙人那样直接将哥伦布打发走，而是向他提供了一小笔年金并允许他在王国的所有城市里免费住宿。哥伦布不断地向各国君主推销他的计划，不断地被拒绝。[NEWLINE][NEWLINE]从格兰纳兰返回后，伊莎贝拉再次接见了哥伦布。在神父的建议下，这一次伊莎贝拉坚定地拒绝了他的提议。正当哥伦布失望地准备离开科尔多瓦时，斐迪南又说服伊莎贝拉改变了主意。她派遣一名皇家卫兵将哥伦布接回并同意出资赞助他的远航。哥伦布于1492年4月3日出海，当年10月12日到达美洲。伊莎贝拉对这位勇敢探险家的资助开启了西班牙探索与殖民的黄金时代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_6">
+			<Text>为了在卡斯提尔和阿拉贡维护天主教的神圣地位，伊莎贝拉于1478年建立了西班牙宗教裁判所，以取代由教皇直接控制的中世纪宗教裁判所。然而到了1492年，这个机构开始变得十分恐怖。[NEWLINE][NEWLINE]多明我会修道士托马斯·德·托克玛达成为首席大裁判官后要求两位君主实行更加激烈的宗教一体化政策。虽然伊莎贝拉并不愿意对国内的犹太人实行严厉措施（这纯粹是出于经济原因），但托克玛达首先说服了斐迪南，并通过他说服了伊莎贝拉。1492年3月31日，伊莎贝拉签署了阿尔罕布拉敕令，宣布强行驱逐犹太人。大约有20万犹太人被赶出西班牙，剩下的一部分人被迫皈依了天主教，但是他们仍然遭到宗教裁判所的严密监控。[NEWLINE][NEWLINE]居住在格拉纳达的穆斯林原本享有信仰自由，现在也被强制改宗。许多穆斯林因此暴动，为此伊莎贝拉也对他们实行类似对待犹太人的政策，要么改宗，要么滚蛋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_7">
+			<Text>伊莎贝拉在他统治期间努力保持日益扩张的帝国的安定，并让她的儿女与其他欧洲国家联姻，希望避免再次发生她所经历的继承权战争。她成功地将整个伊比利亚半岛统一在一个王室之下。她的长子迎娶了阿斯图里亚斯的一位女大公，以此建立起与哈布斯堡家族的纽带，她的长女嫁给了葡萄牙的曼努埃尔一世。然而伊莎贝拉周密的安排因这双儿女的早早去世而化为泡影，王位由她的三女儿“疯子”乔安娜继承。乔安娜嫁给了勃艮第的菲利浦，她成了特拉斯塔玛兰王室的末代君主。在她之后西班牙落入哈布斯堡王室之手。[NEWLINE][NEWLINE]伊莎贝拉于1504年去世，她被安葬在格拉纳达皇家礼拜堂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_TEXT_8">
+			<Text>在伊莎贝拉统治下，西班牙完成了统一，结束了伊比利亚半岛的光复战争，加强了中央集权。她还为下一世纪最强大的军事机器（西班牙无敌舰队）奠定了基础，她改革了西班牙教会，领导了西班牙对美洲大陆的殖民。虽然许多人批评她创立的宗教裁判所以及对犹太人和穆斯林的迫害，但也有许多支持者要求天主教会将她封为圣徒。尽管她对其他宗教的信徒充满偏见，伊莎贝拉仍然不失为西班牙历史上最杰出、最具影响力的君主。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_FACTOID_HEADING">
+			<Text>伊莎贝拉逸闻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_ISABELLA_FACTOID_TEXT">
+			<Text>伊莎贝拉是第一位出现于美国邮票上的女性（一套纪念哥伦布发现美洲的邮票），也是第一位出现于美国硬币上的女性。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_HEADING">
+			<Text>大方阵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_TEXT">
+			<Text>西班牙大方阵（Tercio）是一项了不起的军事创新，由长枪兵和火绳枪兵（一种装备最原始单人火器的步兵）混合编队而成，其发明者为16世纪早期的西班牙将领冈扎洛·费尔南德斯·德·科尔多瓦。西班牙大方阵呈棋盘形状，长枪兵和火绳枪兵组成相互支援的小分队。这样的配置有明显的优势：火绳枪兵能在远距离攻击敌军，而长枪兵则擅长近战。这种阵形主宰启蒙时代的战争长达一个世纪之久。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HEADING">
+			<Text>征服者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_TEXT">
+			<Text>“征服者”（Conquistador）是在16至17世纪征服了新大陆广阔土地的西班牙军人和探险家。这些轻装的西班牙骑兵已经在驱逐摩尔人的战争中久经历练。他们能够骑马穿越各种崎岖地形，特别擅长与新大陆的原住民作战，这些原住民完全没有马匹，无法抵抗那些马背上的可怕敌人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_HELP">
+			<Text>启蒙时代的强大兵种，西班牙特色单位。该单位与其所替代的火枪手相比[ICON_STRENGTH]战斗力更高，并拥有对骑乘单位加成。但是组建成本也更高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_TERCIO_STRATEGY">
+			<Text>大方阵是西班牙特色单位之一，替代火枪手。该单位比火枪手更强力，并拥有对骑乘单位加成。但是大方阵的组建成本也更高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_HELP">
+			<Text>中古时代单位，擅长海外探索和殖民（能在其他陆地上建立城市）。西班牙特色单位，替代骑士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
+			<Text>征服者是多用途的单位，在陆地和海上都能作战。作为替代骑士的西班牙特色单位，征服者在陆上拥有额外的视野，适于进行侦察。该单位还能在西班牙首都所在大陆以外的地方建立城市。征服者还拥有海运防御晋升，能够在海上进行自卫。与骑士不同，征服者在攻击城市时没有惩罚加成。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

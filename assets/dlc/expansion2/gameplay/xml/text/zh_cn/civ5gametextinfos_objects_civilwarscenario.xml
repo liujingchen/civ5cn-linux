@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Resources -->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER">
+			<Text>兵源</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

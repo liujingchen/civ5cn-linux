@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_1">
+			<Text>请接受来自摩洛哥的问候，我是艾哈迈德·曼苏尔。我能帮你做些什么吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_2">
+			<Text>我是摩洛哥苏丹，艾哈迈德·曼苏尔。我代表我的人民欢迎你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_FIRSTGREETING_3">
+			<Text>欢迎来到摩洛哥，我希望我们的友谊长盛不衰。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_1">
+			<Text>这些话我可没法当真。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_2">
+			<Text>你正在玩一个危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WARBLUFF_3">
+			<Text>请注意你的言辞。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_1">
+			<Text>经过多次谈判，这场战斗终于结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_WINWAR_2">
+			<Text>经过多次谈判，这场战斗终于结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_1">
+			<Text>或许我们应该恢复正常的外交关系了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LOSEWAR_2">
+			<Text>或许我们应该恢复正常的外交关系了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_1">
+			<Text>这就是为什么我更喜欢谈判桌而不是战场！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_2">
+			<Text>或许我的期望太高了一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEFEATED_3">
+			<Text>我好像高估了我的军队的战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_2">
+			<Text>向你致敬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_1">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_2">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_NEUTRAL">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你就不能让你的提议更有诱惑力一些？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你就不能再加一点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>差不多了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>这还不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_NEUTRAL">
+			<Text>不，这次不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_NEUTRAL">
+			<Text>这对我们都有好处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_NEUTRAL">
+			<Text>我没空讨论这个问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_NEUTRAL">
+			<Text>我来找你是希望能和你达成协议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我的提议很公平，考虑下吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_1">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_2">
+			<Text>不行，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_1">
+			<Text>让我们听听看。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_3">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_3">
+			<Text>我们的生意谈完了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_HAPPY">
+			<Text>这将给我们的国家带来安定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_1">
+			<Text>你开出的条件可以更好一些。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能提供的最好条件了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快要成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_HAPPY">
+			<Text>对不起，但我不能同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_HAPPY">
+			<Text>不管你想要什么，你都能得到它。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_HAPPY">
+			<Text>朋友，你想从我这得到太多东西了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_HAPPY">
+			<Text>我觉得这有可能给我们的人民都带来巨大利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_HAPPY">
+			<Text>你可以提供这些的吧，我们不是朋友吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_AGREE_SHORT_5">
+			<Text>太棒了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_3">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_4">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_3">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_5">
+			<Text>这就是全部了</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_GOODBYE_6">
+			<Text>噢，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_YES_ANGRY">
+			<Text>虽然没达到我的预期，但我同意这笔交易了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你的提议对我的人民没有多少吸引力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须加把劲才行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NEEDMORE_ANGRY_4">
+			<Text>多么无礼的建议啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADE_NO_ANGRY">
+			<Text>我一点都不想和你谈这个问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_YES_ANGRY">
+			<Text>整个摩洛哥都会记住这个侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRIBUTE_NO_ANGRY">
+			<Text>我没兴趣帮你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_TRADEREQUEST_ANGRY">
+			<Text>如果你同意这个条件的话，也许我会把你介绍给我的众多同盟……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DEMANDTRIBUTE_ANGRY">
+			<Text>你要是不能现在就兑现的话，后果很严重。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_5">
+			<Text>你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_6">
+			<Text>这无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_1">
+			<Text>看来我们的争端只有通过武力解决了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_2">
+			<Text>……战争已经来临……你做好准备吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_DECLAREWAR_3">
+			<Text>这个世界有时候和平，有时候战争……现在是后者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_1">
+			<Text>你这么快诉诸暴力真是可耻啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_2">
+			<Text>显然谈判才是更好选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AHMAD_ALMANSUR_ATTACKED_3">
+			<Text>你会为你的草率选择付出代价。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

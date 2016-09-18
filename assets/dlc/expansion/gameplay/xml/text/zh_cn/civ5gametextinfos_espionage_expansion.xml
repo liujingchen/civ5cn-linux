@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_ESPIONAGE_NOT_STARTED_YET">
+			<Text>谍报系统在某一个文明进入启蒙时代后开启</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_MORE_SPIES">
+			<Text>你的所有间谍都已牺牲[NEWLINE]接替者正在招募中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_CREATED">
+			<Text>{1_SpyName}被招募为间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_CREATED">
+			<Text>一名间谍已被招募！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_PROMOTED">
+			<Text>{1_SpyName}已从{@2_RankName}被提升为{@3_RankName}。[NEWLINE]提升后的间谍在进攻时窃取科技将更迅速，在防御时逮捕敌方间谍将更有效率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SPY_PROMOTED">
+			<Text>{1_SpyName}已被提升！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_RANK_0">
+			<Text>新进间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_RANK_1">
+			<Text>正式探员</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_RANK_2">
+			<Text>高级特工</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_LOCATION_UNASSIGNED">
+			<Text>需要指派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_UNASSIGNED">
+			<Text>未指派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_TRAVELLING">
+			<Text>正在前往</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_SURVEILLANCE">
+			<Text>正在建立监视网</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_GATHERING_INTEL">
+			<Text>正在收集情报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_RIGGING_ELECTION">
+			<Text>正在操纵选举</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_COUNTER_INTEL">
+			<Text>正在反情报</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_DEAD">
+			<Text>行动中被处死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_ESTABLISHED_SURVEILLANCE">
+			<Text>正在监视敌方活动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_ESTABLISHED_SURVEILLANCE_PROGRESS_BAR">
+			<Text>没有可窃取的科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH">
+			<Text>{1_SpyRank}{2_SpyName}已在{3_CityName}收集了足够的情报，得以从{@4_CivShortName}窃取一项科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_TECH_S">
+			<Text>窃取科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH">
+			<Text>由于我们已经在研究上全面超越了他们，{1_SpyRank}{2_SpyName}无法从{@3_CivShortName}窃取科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_CANT_STEAL_TECH_S">
+			<Text>无法从{@1_CivShortName}窃取</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING">
+			<Text>窃取科技</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STEAL_BLOCKING_TT">
+			<Text>你的间谍已经收集了足够的情报得以从一名敌方手里窃取一项科技。选择窃取哪项科技。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_S">
+			<Text>间谍在城市被夺取时逃离</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}在{3_CityName}被{@4_CivShortName}攻占时逃离。你的间谍现在可以被再次指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_CONQUEST_YOU">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}在{3_CityName}被你攻占时逃离。你的间谍现在可以被再次指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_S">
+			<Text>间谍离开城市</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}从{3_CityName}返回，因为它已被交易给了{@4_CivShortName}。你的间谍现在可以被再次指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_EVICTED_TRADE_YOU">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}从{3_CityName}返回，因为它已被交易给了你。你的间谍现在可以被再次指派。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_S">
+			<Text>科技被窃取！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH_W_TIP">
+			<Text>一名未知间谍从{1_CityName}窃取了科技秘密！[NEWLINE]你或许需要在该城市放置一个你自己的间谍将来进行协防。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_WO_TECH">
+			<Text>一名未知间谍从{1_CityName}窃取了科技秘密！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_S">
+			<Text>{1_Tech}被窃取！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED_W_TIP">
+			<Text>一名未知间谍从{2_CityName}窃取了{1_Tech}的秘密！你或许需要在该城市放置一个你自己的间谍将来进行协防。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_DETECTED">
+			<Text>一名未知间谍从{2_CityName}窃取了{1_Tech}的秘密！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_S">
+			<Text>{1_CivShortDesc}窃取了一项科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH_W_TIP">
+			<Text>一名{1_CivAdj}间谍从{2_CityName}窃取了科技秘密！[NEWLINE]你或许需要在该城市放置一个你自己的间谍将来进行协防。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_WO_TECH">
+			<Text>一名{1_CivAdj}间谍从{2_CityName}窃取了科技秘密！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_S">
+			<Text>{1_CivShortDesc}间谍窃取了{2_CityName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED_W_TIP">
+			<Text>一名{1_CivAdj}间谍从{3_CityName}窃取了{2_Tech}的秘密！[NEWLINE]你或许需要在该城市放置一个你自己的间谍将来进行协防。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TECH_STOLEN_SPY_IDENTIFIED">
+			<Text>一名{1_CivAdj}间谍从{3_CityName}窃取了{2_Tech}的秘密！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY_S">
+			<Text>处死了一名{1_CivAdj}间谍！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_KILLED_A_SPY">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}在一名{3_CivAdj}间谍试图窃取一项科技时将其杀死！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED_S">
+			<Text>{1_SpyName}被处死！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_WAS_KILLED">
+			<Text>你的间谍{1_SpyRank}{2_SpyName}在{4_CityName}试图窃取一项科技时被一名{3_CivAdj}反间谍处死！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED_S">
+			<Text>一个间谍接替者已被招募</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_REVIVED">
+			<Text>{1_SpyRank}{2_SpyName}已被招募以接替一个在行动中被处死的间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU_S">
+			<Text>{1_PlayerName}正密谋对付你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_YOU">
+			<Text>{1_SpyRank}{2_SpyName}在{3_CityName}发现{4_PlayerName}正密谋对付你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN_S">
+			<Text>{1_PlayerName}正密谋对付{2_PlayerName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_KNOWN">
+			<Text>{1_SpyRank}{2_SpyName}在{3_CityName}发现{4_PlayerName}正密谋对付{5_PlayerName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName}正密谋对付某人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_PLOTTING_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}在{3_CityName}发现{4_PlayerName}正密谋对付一个未知文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_YOU">
+			<Text>{1_PlayerName}正密谋对付你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_KNOWN">
+			<Text>{1_PlayerName}正密谋对付{2_PlayerName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_PLOTTING_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName}正密谋对付一个你尚未知晓的文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY_S">
+			<Text>{1_PlayerName}正为一次突袭扩充整顿军队！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_ARMY">
+			<Text>{{1_SpyRank}{2_SpyName}发现{3_PlayerName}正扩充整顿军队，对另一个文明发动一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_BUILDING_ARMY">
+			<Text>{1_PlayerName}正为一次针对另一个文明的突袭扩充整顿军队。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY_S">
+			<Text>{1_PlayerName}正为一次海上突袭扩充整顿军队！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY">
+			<Text>{{1_SpyRank}{2_SpyName}发现{3_PlayerName}正扩充整顿军队，并在海军保护下对另一个文明发动一次突袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_BUILDING_AMPHIBIOUS_ARMY">
+			<Text>{1_PlayerName}正扩充整顿军队，在海军保护下对另一个文明发动一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName}对你的城市{2_CityName}发动了一次突袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正向你的城市{4_CityName}进军，企图发动一次偷袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_PlayerName}对你的城市{2_CityName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName}对你发动了一次突袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正向你进军，企图发动一次偷袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_PlayerName}对你发动了一次突袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName}对{2_CityName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正向{4_CivAdj}的城市{5_CityName}进军，企图发动一次偷袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_PlayerName}对{2_CivAdj}的城市{3_CityName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName}对{2_PlayerName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正向{4_CivDesc}进军，企图发动一次偷袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_PlayerName}对{2_PlayerName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName}对一个未知的文明发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正向一个你尚未知晓的文明进军，企图发动一次偷袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName}对一个未知文明发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName}对另一个文明发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队正对另一个文明发动一次突袭。我们尚不清楚他们的目标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_ARMY_AGAINST_SOMEONE">
+			<Text>{1_PlayerName}对另一个文明发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN_S">
+			<Text>{1_PlayerName}登陆了一支部队，突袭你的城市{2_CityName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下正向你的城市{4_CityName}航行，企图发动一次偷袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_KNOWN">
+			<Text>{1_PlayerName}从水陆两路对你的城市{2_CityName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName}登陆了一支部队，对你发动突袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下正向你航行，企图发动一次偷袭！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_YOU_CITY_UNKNOWN">
+			<Text>{1_PlayerName}从水陆两路对你发动一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN_S">
+			<Text>{1_PlayerName}登陆了一支部队突袭{2_CityName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下正向{4_CivAdj}的城市{5_CityName}航行，企图发动一次偷袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_KNOWN">
+			<Text>{1_PlayerName}从水陆两路对{2_CivAdj}的城市{3_CityName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN_S">
+			<Text>{1_PlayerName}登陆了一支部队突袭{2_PlayerName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下正向{4_CivDesc}航行，企图发动一次偷袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_KNOWN_CITY_UNKNOWN">
+			<Text>{1_PlayerName}从水陆两路对{2_PlayerName}发动了一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN_S">
+			<Text>{1_PlayerName}登陆了一支部队，对一个未知文明发动突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下正航向一个你尚未知晓的文明，企图发动一次突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_UNKNOWN">
+			<Text>{1_PlayerName}从水陆两路对一个未知玩家发动突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE_S">
+			<Text>{1_PlayerName}登陆了一支部队突袭另一个文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE">
+			<Text>{1_SpyRank}{2_SpyName}发现一支{3_CivAdj}军队在海军保护下出发准备发动突袭。我们尚不清楚他们的目标。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_SNEAK_ATTACK_AMPHIB_AGAINST_SOMEONE">
+			<Text>{1_PlayerName}从水陆两路对另一个玩家发动突袭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER_S">
+			<Text>{1_PlayerName}正在建造{2_WonderOrProject}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_INTRIGUE_CONSTRUCT_WONDER">
+			<Text>{1_SpyRank}{2_SpyName}发现{3_PlayerName}正在{5_CityName}建造{4_WonderOrProject}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_CONSTRUCT_WONDER">
+			<Text>{1_PlayerName}正在{3_CityName}建造{2_WonderOrProject}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INTRIGUE_CONSTRUCT_WONDER_WO_CITY">
+			<Text>{1_PlayerName}正在建造{2_WonderOrProject}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS_S">
+			<Text>操纵{1_CityName}的选举成功！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_SUCCESS">
+			<Text>{1_SpyRank}{2_SpyName}成功地操纵了{3_CityName}的本地选举，提升了你的影响力，并降低了其他文明的影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE_S">
+			<Text>操纵{1_CityName}的选举失败！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_FAILURE">
+			<Text>{1_SpyRank}{2_SpyName}操纵{3_CityName}的本地选举失败了。{4_CivShortDesc}操纵成功并提升了影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT_S">
+			<Text>{1_CityName}的选举是个骗局！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_RIG_ELECTION_ALERT">
+			<Text>最近的选举结束后，你在{1_CityName}的影响力突然下降了。或许这是敌方间谍操纵当地选举的结果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS">
+			<Text>{1_SpyRank}{2_SpyName}在{3_CityName}发动了一场政变，推翻了{4_CivShortDesc}的支持者，并在政府里安插了你的盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_SUCCESS_S">
+			<Text>{1_CityName}政变成功！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE">
+			<Text>{1_SpyRank}{2_SpyName}试图在{3_CityName}发动一场政变以推翻领导城市的{4_CivShortDesc}支持者，但最终失败了。{1_SpyRank}{2_SpyName}死于这次行动。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_YOU_STAGE_COUP_FAILURE_S">
+			<Text>{1_CityName}政变失败！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS">
+			<Text>{1_CivShortDesc}在{2_CityName}发动了一场政变，罢免了{3_CivAdj}的支持者，并在政府中安插了他们自己的支持者，成为了城邦的新盟友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_SUCCESS_S">
+			<Text>{1_CivAdj}在{2_CityName}政变成功。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE">
+			<Text>{1_CivShortDesc}试图发动一场政变以推翻与城邦结盟的{3_CivAdj}支持者，但最终失败了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_SPY_STAGE_COUP_FAILURE_S">
+			<Text>{1_CivAdj}在{2_CityName}政变失败。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_OCCUPYING_CITY">
+			<Text>{1_AgentName}正派驻于这座城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_FULL_NAME">
+			<Text>{1_RankName}{2_AgentName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_SORT_TT">
+			<Text>情报潜力代表在该城窃取科技的速度，数值越高，间谍窃取科技的速度越快。情报潜力的基准值取决于该城市科研能力的高低。一些间谍防御建筑可以降低城市的情报潜力，比如治安署和警察局。潜伏在该城的间谍等级越高，城市的情报潜力也越高。[NEWLINE][NEWLINE]点击使城市按情报潜力排序。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_SORT_TT">
+			<Text>城市名。[NEWLINE][NEWLINE]点击使城市按城市名排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CIVILIZATION_SORT_TT">
+			<Text>城市所属文明。[NEWLINE][NEWLINE]点击使城市按所属文明排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POPULATION_SORT_TT">
+			<Text>城市人口数量。很多情况下，城市等级越高，产生更多科研的概率越高，情报潜力越大。[NEWLINE][NEWLINE]点击使城市按人口数量排序</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_UNKNOWN_POTENTIAL_TT">
+			<Text>城市的情报潜力未知。移动你的间谍到这座城市收集情报后可以了解情报潜力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_STATE_POTENTIAL_TT">
+			<Text>你无法从城邦窃取科技，所以他们的城市没有情报潜力。[NEWLINE][NEWLINE]被派遣到城邦的间谍将会通过操纵选举来增加你对该城邦的影响力。如果还有其余国家的间谍也潜伏在该城邦的话，你的间谍不能保证每次都成功操纵选举。级别最高且在该城邦呆的时间最长的间谍将有最高的成功几率。如果该城邦现在的盟友不是你，你还可以让你的间谍策划一次政变来迅速和该城邦结盟。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_OWN_CITY_POTENTIAL_TT">
+			<Text>{1_CityName}的情报潜力为{2_Num}。[NEWLINE][NEWLINE]你总是可以知道本国城市的情报潜力。当你处于科技领先地位的时候，你应该考虑保护那些高潜力的城市。你可以做的方式有两种：你可以移动你自己的间谍到城市里进行反间谍工作，这样你的间谍有机会在敌国间谍窃取科技的时候杀死他；你也可以通过建造治安署、警察局和网络防火长城来降低城市的潜力值，延缓敌国间谍窃取科技的速度。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_POTENTIAL_TT">
+			<Text>{1_SpyRank}{2_SpyName}在{4_CityName}窃取了{3_Num}情报潜力。[NEWLINE]{5_CityName}的基准情报潜力是{6_Num}。[NEWLINE][NEWLINE]情报潜力代表了在该城窃取科技的速度，数值越高，窃取科技的速度越快。情报潜力的基准值取决于该城市科研能力的高低。一些间谍防御建筑可以降低城市的情报潜力，比如治安署和警察局。潜伏在该城的间谍等级越高，城市的情报潜力也越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_POTENTIAL_CANNOT_STEAL_TT">
+			<Text>{1_SpyRank}{2_SpyName}无法从{3_CityName}窃取科技，因为他们的科技我们都拥有了。[NEWLINE][NEWLINE]{4_CityName}的情报潜力基准值是{5_Num}。[NEWLINE][NEWLINE]潜力值代表了在该城窃取科技的速度，潜力值越高，窃取科技的速度越快。潜力值的基准取决于该城市科研的高低。一些间谍防御建筑可以降低城市的潜力值，比如治安署和警察局。潜伏在该城的间谍等级越高，城市的潜力值也越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_ONCE_KNOWN_POTENTIAL_TT">
+			<Text>{1_CityName}之前探察的潜力值是{2_Num}。[NEWLINE][NEWLINE]这是该城市最近一次被你间谍侦察得出的资料。想要知道该城现在的情报，移动你的间谍到城市中去。[NEWLINE][NEWLINE]潜力值代表了在该城窃取科技的速度，潜力值越高，窃取科技的速度越快。潜力值的基准取决于该城市科研的高低。一些间谍防御建筑可以降低城市的潜力值，比如治安署和警察局。潜伏在该城的间谍等级越高，城市的潜力值也越高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_CIV_TT">
+			<Text>{1_CityName}属于{@2_CivShortDesc}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_CIV_CITY_STATE_TT">
+			<Text>{1_CityName}属于[COLOR_POSITIVE_TEXT]{2_CityStateTraitAdj}[ENDCOLOR]城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_NAME_TT">
+			<Text>{1_CityName}属于{@2_CivShortDesc}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_NAME_CITY_STATE_TT">
+			<Text>{1_CityName}属于[COLOR_POSITIVE_TEXT]{2_CityStateTraitAdj}[ENDCOLOR]城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_POPULATION_TT">
+			<Text>{1_CityName}的人口数是{2_Num}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_TT">
+			<Text>点击进入{1_CityName}的城市界面。[NEWLINE][NEWLINE]只有间谍已经收集完情报以后，你才能进入该城市界面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_YOUR_CITY_TT">
+			<Text>点击进入{1_CityName}的城市界面。[NEWLINE][NEWLINE]你总是能看到自己的城市情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_TT">
+			<Text>你无法查看{1_CityName}的城市界面。[NEWLINE][NEWLINE]如果你想查看城市界面，移动你的间谍到城市中去收集情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_WAIT_TT">
+			<Text>你无法查看{1_CityName}的城市界面。[NEWLINE][NEWLINE]你已有间谍在城内，但你必须等待他完成情报收集才能察看城市界面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_NO_CITY_TT">
+			<Text>如果你想查看城市界面，移动你的间谍到城市中去</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_YOUR_CITY_TT">
+			<Text>你不需要间谍的帮助来看到{1_CityName}的城市界面。[NEWLINE][NEWLINE]你就是这个城市的主人，你可以随时查看。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_RANK_TT">
+			<Text>{1_SpyName}已经晋升到了{2_RankName}.[NEWLINE][NEWLINE]间谍有三个等级：新进间谍、正式探员、高级特工。高级的间谍更加有效率。高级的间谍可以更快的窃取科技，更容易发现并杀死敌方间谍，更有成效的操纵城邦选举和更大几率的制造政变。[NEWLINE][NEWLINE]当间谍成功窃取科技或者杀死敌方间谍的时候，间谍等级将得到提升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_LOCATION_TT">
+			<Text>{1_SpyRank}{2_SpyName}正潜伏在{3_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_MOVE_TT">
+			<Text>点击以移动{1_SpyRank}{2_SpyName}到一个新地点。[NEWLINE][NEWLINE]当你命令一个间谍移动到新地点时，他需要经过一定的回合才能抵达目标并开始工作。[NEWLINE][NEWLINE]如果间谍移动到自己文明的城市，那么他将展开反间谍工作并杀死试图窃取科技的敌方间谍。[NEWLINE][NEWLINE]如果间谍移动到其他文明的城市，这个间谍将试图从该城市所属文明窃取科技。注意如果该文明没有你未研发的科技的话，你的间谍将无法窃取科技。如果对方文明有间谍在城市里进行反间谍工作的话，你的间谍有可能在窃取科技的时候被发现并被杀死。而这将带来外交影响！[NEWLINE][NEWLINE]如果你的间谍移动到城邦的城市里，他将自动试图通过操纵选举来增强你对该城邦的影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUP_ENABLED_TT">
+			<Text>点击将使{1_SpyRank}{2_SpyName}尝试在{3_CityName}进行一次政变。政变推翻亲{4_CivAdjective}政权。[NEWLINE][NEWLINE]成功率为{5_Num}%。如果{6_SpyRank}{7_SpyName}成功，你将会成为{8_CityName}的盟友，而{9_CivShortDesc}的影响力将会降至你目前的水平。其余的玩家对此城邦的影响力也将下降。如果{10_SpyRank}{11_SpyName}失败，他将被杀死，而你对{12_CityName}的影响力将大幅下降。[NEWLINE][NEWLINE]增加成功率的方法有：派遣更高级的间谍；提高你与该城邦的友好度；或是等待该城邦和目前盟友的友好度降低。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_WAIT_TT">
+			<Text>{1_SpyRank}{2_SpyName}不能在{3_CityName}进行政变，因为你尚未收集完情报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_NO_ALLY_TT">
+			<Text>{1_SpyRank}{2_SpyName}不能在{3_CityName}进行政变，因为现在没有文明与{4_CityName}结盟。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUP_DISABLED_YOU_ALLY_TT">
+			<Text>{1_SpyRank}{2_SpyName}不能在{3_CityName}进行政变，因为你已经是这个城邦的盟友了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_BUTTON_DISABLED_SPY_DEAD_TT">
+			<Text>{1_SpyRank}{2_SpyName}死去了。愿他得以安息。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_NAMEPLATE_TT">
+			<Text>这是你的间谍，{1_SpyRank}{2_SpyName}.[NEWLINE][NEWLINE]间谍必须要在城市里才能发挥作用[NEWLINE][NEWLINE]放在你自己城市里的间谍会自动抓住并杀死试图从该城市窃取科技的敌国间谍。[NEWLINE][NEWLINE]如果你让你的间谍移动到敌国城市里，他会试图从该国窃取科技。你的间谍也可能察觉该国的行动计划，比如这个文明正试图偷袭你或是某个别的国家。[NEWLINE][NEWLINE]如果你的间谍在城邦里，他会自动操纵城邦选举来小幅的增加你的影响力，降低其它文明对该城邦的影响力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_NEEDS_ASSIGNMENT_TT">
+			<Text>移动你的间谍到一个城市，这样他将开始进行卑鄙的工作...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_UNASSIGNED_TT">
+			<Text>{1_RankName}{2_SpyName}现在闲的无所事事，这可不是件好事。[NEWLINE][NEWLINE]将他移动到一个城市去进行隐秘任务吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_RIGGING_ELECTIONS_TT">
+			<Text>{1_RankName}{2_SpyName}正试图操纵{3_CityName}的选举，这将增加我们的影响力。[NEWLINE][NEWLINE]每一次选举只有一个间谍能够获得成功。级别最高且在该城邦呆的时间最长的间谍将有最高的成功几率。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_TRAVELLING_TT">
+			<Text>{1_RankName}{2_SpyName}正在前往{3_CityName}。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_SURVEILLANCE_TT">
+			<Text>{1_RankName}{2_SpyName}正在{3_CityName}收集情报。[NEWLINE][NEWLINE]当情报收集完毕后，间谍将可以进行更多的行动。情报收集完毕同时也意味着你可以进入该城市的城市界面（但看不了城邦的）。[NEWLINE][NEWLINE]情报收集也允许间谍发现阴谋，比如这个文明正试图偷袭你或是某个别的国家。这些情报十分重要！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_GATHERING_INTEL_TT">
+			<Text>{1_RankName}{2_SpyName}正在{3_CityName}收集情报以窃取科技。[NEWLINE][NEWLINE]只有当目标文明拥有你没有的科技时，间谍才能进行科技窃取。[NEWLINE][NEWLINE]如果拥有该城市的文明也有间谍在城市里的话，你的间谍在窃取科技时可能被发现乃至被杀！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_TT">
+			<Text>{1_RankName}{2_SpyName}正在{3_CityName}实行反间谍行动。[NEWLINE][NEWLINE]如果敌方间谍试图从你间谍守卫的城市里窃取科技的话，你的间谍有一定几率发现并杀死敌方间谍。间谍级别越高，发现和杀死敌方间谍的几率越大。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_SPY_RANK_TT">
+			<Text>因为{2_RankName}{3_SpyName}的级别因素，杀死敌方间谍的概率增加了{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_POLICY_TT">
+			<Text>因为采用了警察国家政体，杀死敌方间谍的概率增加了{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_SPY_COUNTER_INTEL_SUM_TT">
+			<Text>{1_Num}%的概率杀死敌方间谍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_OVERVIEW">
+			<Text>总览</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_OVERVIEW_TT">
+			<Text>总览界面允许你查看你的间谍并委派他们到世界各地去执行任务</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INTRIGUE">
+			<Text>阴谋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INTRIGUE_TT">
+			<Text>阴谋界面显示了所有由你的间谍、或是其他文明提供的各国行动计划。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_UNASSIGNED_SPIES_TT">
+			<Text>你有{1_Num}个间谍未被分配任务。[NEWLINE][NEWLINE]间谍可以从其他国家窃取科技，侦查行动计划，还可以通过操纵选举来增强你在城邦的影响力。请到间谍总览界面给间谍分配任务！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_SPY_OTHER_CIV_TT">
+			<Text>{1_SpyRank}{2_SpyName}正潜伏在{3_CityName}。当{4_SpyRank}{5_SpyName}潜伏在别的文明的城市中的时候，他会收集情报并试图从该国窃取科技。{6_SpyRank}{7_SpyName}还会告诉你任何他们发现的该国的行动计划。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_SPY_CITY_STATE_TT">
+			<Text>{1_SpyRank}{2_SpyName}正潜伏在{3_CityName}。当{4_SpyRank}{5_SpyName}潜伏在城邦中的时候，他会收集情报并通过操纵选举来增强你在城邦的影响力。如果还有其余国家的间谍也潜伏在该城邦的话，你的间谍不能保证每次都成功操纵选举。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_SPY_YOUR_CITY_TT">
+			<Text>{1_SpyRank}{2_SpyName}正潜伏在{3_CityName}。当{4_SpyRank}{5_SpyName}潜伏在你自己的城市中的时候, 他会实行反间谍行动，杀死每一个试图窃取你科技的敌人！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_INSTRUCTIONS">
+			<Text>将{1_SpyRank}{2_SpyName}移动到选定的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_HIDEOUT_BUTTON">
+			<Text>移动到藏身处</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_HIDEOUT_BUTTON_TT">
+			<Text>这个指令会将你的间谍移动到间谍藏身处，在那里他们无所事事，每天拿切牛肉的小刀练习飞镖。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_CANCEL">
+			<Text>取消</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_CANCEL_TT">
+			<Text>这个指令将取消间谍的移动指令，他将会呆在原地。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_BUILDING_MOD_TITLE">
+			<Text>建筑和奇观带来的影响:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_BUILDING_MOD_ENTRY">
+			<Text>{1_BuildingName}: {2_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_WONDER_MOD_TITLE">
+			<Text>其他城市的奇观带来的影响:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_WONDER_MOD_ENTRY">
+			<Text>{1_WonderName}: {2_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_POLICY_MOD_TITLE">
+			<Text>社会政策带来的影响:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_POTENTIAL_POLICY_MOD_ENTRY">
+			<Text>{1_SocialPolicyName}: {2_Num}%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCREASED_CHANCE_TO_CATCH_SPY_YOU">
+			<Text>你采用了{1_SocialPolicyName}，这项政策将增加{2_Num}%几率抓住敌方间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_INCREASED_CHANCE_TO_CATCH_SPY_THEM">
+			<Text>{1_PlayerName}采用了{2_SocialPolicyName}，这项政策将增加{3_Num}%几率抓住敌方间谍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_STATE_ELECTION">
+			<Text>全世界所有的城邦每{1_Num}回合同步进行一次选举，现在离下一次选举的时间还有{2_Num}回合。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_NO_INTRIGUE_AVAILABLE">
+			<Text>没有已知的阴谋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_MOVE_SPY_TO_HIDEOUT_CHECK">
+			<Text>你确定要将{1_SpyRank}{2_SpyName}移动到藏身处吗？[NEWLINE][NEWLINE]这个间谍现在正从事的工作将会中断。藏身处的间谍不能给你带来任何帮助，当然他们也不会被杀死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_UNKNOWN_POTENTIAL">
+			<Text>?</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

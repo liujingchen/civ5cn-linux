@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- INTO THE RENAISSANCE -->
+		<!-- Religions -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY">
+			<Text>天主教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_ORTHODOXY">
+			<Text>东正教</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PROTESTANTISM">
+			<Text>新教</Text>
+		</Row>
+		<!-- Beliefs -->
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_CHURCH_PROPERTY_SHORT">
+			<Text>牧首辖区</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_ITINERANT_PREACHERS_SHORT">
+			<Text>东方使徒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_TITHE_SHORT">
+			<Text>缴纳天课</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MISSIONARY_ZEAL_SHORT">
+			<Text>宣教组织</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_MESSIAH_SHORT">
+			<Text>宗教改革</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEDIEVAL_SCENARIO_BELIEF_RELIGIOUS_TEXTS_SHORT">
+			<Text>圣经翻译</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_INDULGENCES_SHORT">
+			<Text>赎罪券</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_THIRD_ROME_SHORT">
+			<Text>第三罗马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ICONOGRAPHY_SHORT">
+			<Text>宗教画</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HAJJ_SHORT">
+			<Text>朝觐制度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SALAT_SHORT">
+			<Text>礼拜毯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WORK_ETHIC_SHORT">
+			<Text>宗教伦理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_CLERICAL_MARRIAGE_SHORT">
+			<Text>教士婚姻</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

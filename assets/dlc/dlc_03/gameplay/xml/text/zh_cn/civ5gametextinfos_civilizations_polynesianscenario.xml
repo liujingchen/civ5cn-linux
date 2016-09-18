@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_ADJECTIVE">
+			<Text>希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_DESC">
+			<Text>希瓦文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_POLYNESIA_SHORT_DESC">
+			<Text>希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_ADJECTIVE">
+			<Text>汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_DESC">
+			<Text>汤加文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_AZTEC_SHORT_DESC">
+			<Text>汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_ADJECTIVE">
+			<Text>萨摩亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_DESC">
+			<Text>萨摩亚文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_INDIA_SHORT_DESC">
+			<Text>萨摩亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_ADJECTIVE">
+			<Text>塔希提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_DESC">
+			<Text>塔希提文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_IROQUOIS_SHORT_DESC">
+			<Text>塔希提</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

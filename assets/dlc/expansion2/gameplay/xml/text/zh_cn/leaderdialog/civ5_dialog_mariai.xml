@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_1">
+			<Text>我是玛丽亚，葡萄牙的女王。我们见过面吗？你看起来很眼熟……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_2">
+			<Text>你站在葡萄牙的女王面前，她想知道你所为何事？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_FIRSTGREETING_3">
+			<Text>我是玛丽亚，你是谁？所为何事？谁派你来的？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_1">
+			<Text>你认为我会把你的威胁当回事吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_2">
+			<Text>你这是在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_WARBLUFF_3">
+			<Text>你这样的威胁我见多了，我根本不把它当回事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_WINWAR_1">
+			<Text>多么辉煌的一天！你应该学会别再低估女王的力量！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_WINWAR_2">
+			<Text>多么辉煌的一天！你应该学会别再低估女王的力量！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LOSEWAR_1">
+			<Text>我们在打仗？我不记得我们发生过什么严重的冲突。我去问问我的摄政王，别过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LOSEWAR_2">
+			<Text>我们在打仗？我不记得我们发生过什么严重的冲突。我去问问我的摄政王，别过。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_1">
+			<Text>这绝不是我所希望的……我还会回来的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_2">
+			<Text>我希望你能给予我的子民应有的尊重。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEFEATED_3">
+			<Text>真可怕！这些冲突一点都不适合我！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_2">
+			<Text>向您致敬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_1">
+			<Text>走好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_2">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_YES_NEUTRAL">
+			<Text>看起来不错。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你的提议里还有可以改进的空间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做的更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>还差一点……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NO_NEUTRAL">
+			<Text>我不能这样做。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_NEUTRAL">
+			<Text>我会给你的，仅此一次。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_NEUTRAL">
+			<Text>比起听你的废话，我还有更多的事情要做。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_NEUTRAL">
+			<Text>你可以考虑一下这个提议吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_NEUTRAL">
+			<Text>我认为你应该把这个给我，但是决定权在你手上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_1">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_2">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_2">
+			<Text>不，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_2">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_3">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_YES_HAPPY">
+			<Text>成交！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我总为我的人民的根本利益着想——你必须做的更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能做到的最好的吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_HAPPY_3">
+			<Text>就快可以了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NO_HAPPY">
+			<Text>抱歉，这样不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_HAPPY">
+			<Text>葡萄牙王国感谢你的帮助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_HAPPY">
+			<Text>我认为我的摄政王不会赞成如此慷慨的行为的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_HAPPY">
+			<Text>你愿意与一位朋友交易吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_HAPPY">
+			<Text>你愿意帮助一位女王和她的子民吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_3">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_AGREE_SHORT_5">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_4">
+			<Text>我们必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_3">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_5">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_GOODBYE_6">
+			<Text>就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_YES_ANGRY">
+			<Text>如果你坚持的话。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你把我当傻瓜了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NEEDMORE_ANGRY_4">
+			<Text>多么无礼的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADE_NO_ANGRY">
+			<Text>谁派你来的？为什么你会在这里？滚！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_YES_ANGRY">
+			<Text>我接受你这令人唾弃的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRIBUTE_NO_ANGRY">
+			<Text>你没听说过吗？我不会接受任何人对我的要求！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_TRADEREQUEST_ANGRY">
+			<Text>世风日下，我不得不和你这种龌龊的人做交易了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DEMANDTRIBUTE_ANGRY">
+			<Text>你！我需要这个，立刻把它给我！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_6">
+			<Text>那是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DISAGREE_SHORT_7">
+			<Text>你不是认真的吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_LETSHEARIT_5">
+			<Text>你在说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_1">
+			<Text>恐怕我不能在容忍你的王国继续存在下去了，但愿你不要介意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_2">
+			<Text>哦，嗯，是的我认为应该让你知道……我们刚刚对你宣战了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_DECLAREWAR_3">
+			<Text>我们看起来意见不合……是不是该开战了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_1">
+			<Text>你不是认真的吧？好……我会让你尝尝我的厉害！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_2">
+			<Text>你胆敢如此！你知道我是谁吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARIA_I_ATTACKED_3">
+			<Text>你要打我？！不！是我要打你！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_IMPERIALISM">
+			<Text>帝国主义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_NAVAL_TRADITION">
+			<Text>海军传统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PROSOLDIERS">
+			<Text>职业军人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_PIRACY">
+			<Text>海盗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_WARSHIPS">
+			<Text>战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_ROYAL_GUARDS">
+			<Text>皇家卫队</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_RELIGIOUS_ORDERS">
+			<Text>宗教修会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_TECH_TREASURE_FLEET">
+			<Text>财宝船队</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

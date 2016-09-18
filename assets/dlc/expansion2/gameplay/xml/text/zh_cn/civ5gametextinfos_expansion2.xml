@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_NO_WRITER_FROM_FAITH">
+			<Text>你必须已经完成美学政策树才能选择大文学家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ARTIST_FROM_FAITH">
+			<Text>你必须已经完成美学政策树才能选择大美术家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_MUSICIAN_FROM_FAITH">
+			<Text>你必须已经完成美学政策树才能选择大音乐家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_GENERAL_FROM_FAITH">
+			<Text>你必须已经完成荣誉政策树才能选择陆军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ADMIRAL_FROM_FAITH">
+			<Text>你必须已经完成荣誉政策树才能选择海军统帅。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ENGINEER_FROM_FAITH">
+			<Text>你必须已经完成传统政策树才能选择大工程师。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_GREAT_WORKS">
+			<Text>{1_Num}[ICON_CULTURE] 来自杰作</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_LEAGUES">
+			<Text>{1_Num} [ICON_CULTURE] 来自世界议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOOD_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_FOOD] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_PRODUCTION] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOLD_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_GOLD] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SCIENCE_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_RESEARCH] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CULTURE_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_CULTURE] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FAITH_FROM_TRADE_ROUTES">
+			<Text>{1_perTurn:number "#.##"} [ICON_FAITH] 来自连接此城市的商路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_NUKES_BY_RESOLUTION">
+			<Text>[NEWLINE]世界议会已经通过核不扩散决议，禁止制造核武器。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NO_ACTION_CITY_AT_AIR_CAPACITY">
+			<Text>[NEWLINE]城市可容纳的空军单位数量达到上限。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POPUP_GOLD_AND_CULTURE_CITY_CAPTURE">
+			<Text>你从被攻占的{@4_CityName}劫掠了{1_Num}[ICON_GOLD]、{2_Num}[ICON_CULTURE]以及{3_Num}[ICON_GREAT_WORK]！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES">
+			<Text>禁用世界议会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_LEAGUES_HELP">
+			<Text>禁用世界议会系统，不召开世界议会，同时禁用外交胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI">
+			<Text>禁用文化总览界面</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP">
+			<Text>禁用文化总览界面。这只影响界面显示，并不会改变任何核心游戏规则。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOVE_SPY_INSTRUCTIONS">
+			<Text>选择一座城市以派遣{1_SpyRank}{2_SpyName}执行任务。[NEWLINE][NEWLINE][NEWLINE]如果你派遣间谍前往对手的[ICON_CAPITAL]首都，你可以将其身份设置为外交官。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_BE_DIPLOMAT">
+			<Text>你希望以外交官身份派遣这名间谍吗？派遣间谍前往与你处于和平状态的文明的首都时，可以将其身份设置为外交官。（如果爆发战争，你的间谍将撤离该城市。）外交官不能窃取科技，但可以执行其他隐密行动。在世界议会召开时，你还可以让外交官影响该国对各项提案的态度，如有必要还可争取对方支持你的立场。如果对方秉持不同的意识形态，外交官会自动开展宣传活动，提升对目标文明的[ICON_TOURISM]魅力输出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS">
+			<Text>创建关系网</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_MAKING_INTRODUCTIONS_TT">
+			<Text>{1_RankName}{2_SpyName}正努力作为一名外交官同各界人士建立良好关系。等完成关系网的创建后，他就可以开展私下的交流活动。[NEWLINE][NEWLINE]间谍能以外交官的身份被派往其他文明的首都。外交官不能窃取科技，但可以执行其他隐密行动。如在世界议会召开时外交官已开展私下交流活动，将能够改变该国对各项提案的态度，如有必要还可争取对方支持你的立场。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING">
+			<Text>私下交流</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_STATE_SCHMOOZING_TT">
+			<Text>{1_RankName}{2_SpyName}正作为外交官在{3_CityName}开展私下交流活动。[NEWLINE][NEWLINE]派遣间谍前往与你处于和平状态的文明的首都时，可以将其身份设置为外交官。（如果爆发战争，你的间谍将撤离该城市。）外交官不能窃取科技，但可以执行其他隐密行动。如在世界议会召开时外交官已开展私下交流活动，将能够改变该国对各项提案的态度，如有必要还可争取对方支持你的立场。外交官还能开展宣传活动，提升对目标文明的[ICON_TOURISM]魅力输出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_DISABLED_DIPLOMAT_WAIT_TT">
+			<Text>你无法查看{1_CityName}的城市界面。[NEWLINE][NEWLINE]你已向此城市派遣了外交官，但需等待其完成关系网的创建才能查看城市界面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_CITY_VIEW_ENABLED_DIPOLOMAT_TT">
+			<Text>点击查看{1_CityName}的城市界面。[NEWLINE][NEWLINE]如果你以外交官身份派遣间谍到别国[ICON_CAPITAL]首都并开始私下交流活动，你将可以查看对方的城市界面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EO_PUBLIC_OPINION_UNHAPPINESS">
+			<Text>公共舆论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_REBELS">
+			<Text>由于国家已达到至少10[ICON_HAPPINESS_4]不满，境内发生了一场叛乱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT_SUMMARY">
+			<Text>城市叛乱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CITY_REVOLT">
+			<Text>由于国家已达到至少20[ICON_HAPPINESS_4]不满，公共舆论充斥着愤怒情绪，{1_CityName}已经发动叛乱并加入了{2_CivName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_OTHER_PLAYER_CITY_REVOLT">
+			<Text>{1_CivAdjective}的城市{2_CityName}发动叛乱并加入了{3_CivName}！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT_SUMMARY">
+			<Text>城市叛乱酝酿中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_POSSIBLE_CITY_REVOLT">
+			<Text>由于国家已达到至少20[ICON_HAPPINESS_4]不满，公共舆论充斥着愤怒情绪，{1_Turns}回内将会有城市发动叛乱。基于当前的不满程度和邻国意识形态的压力，最有可能叛乱的城市是{2_CityName}，他们会选择投靠{3_CivName}。请尽一切可能迅速提升国民的快乐度！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_0_SHORT">
+			<Text>远古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_1_SHORT">
+			<Text>古典</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_2_SHORT">
+			<Text>中古</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_3_SHORT">
+			<Text>启蒙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_4_SHORT">
+			<Text>工业</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_5_SHORT">
+			<Text>电气</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6_SHORT">
+			<Text>原子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_7_SHORT">
+			<Text>信息</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_0_ABBREV">
+			<Text>一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_1_ABBREV">
+			<Text>二</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_2_ABBREV">
+			<Text>三</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_3_ABBREV">
+			<Text>四</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_4_ABBREV">
+			<Text>五</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_5_ABBREV">
+			<Text>六</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_6_ABBREV">
+			<Text>七</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ERA_7_ABBREV">
+			<Text>八</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PRODUCTION_BUILDING_TOURISM">
+			<Text>[ICON_TOURISM] 魅力: +{1_Num}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VENETIAN_MERCHANT_BOUGHT_CITY_STATE">
+			<Text>你的威尼斯商人买下了一座城邦！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

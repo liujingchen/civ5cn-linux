@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_LEAGUES">
+			<Text>{1_Happiness} 来自世界议会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_PUBLIC_OPINION">
+			<Text>{1_Num} 来自公共舆论（对新意识形态的渴望）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_ITR">
+			<Text>{1_Num} 来自连接到其他文明城市的[ICON_TURNS_REMAINING]商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_TRAITS">
+			<Text>{1_Num} 来自领袖特质。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_ITR">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR][ICON_RESEARCH] 来自连接到其他文明城市的[ICON_TURNS_REMAINING]商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_BONUS_TURNS">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] 来自近期的世界议会项目（剩余回合数：{2_TurnsLeft}）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_CITY_COST">
+			<Text>你每多拥一座城市将使推行社会政策的花费增加{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_TECH_CITY_COST">
+			<Text>你每多拥有或[ICON_PUPPET]傀儡一座城市将使研发科技的花费增加{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CARNIVAL_EFFECT">
+			<Text>由于特有的嘉年华会加成，当前你对所有文明的魅力输出+100%，并且大文学家、大美术家和大音乐家的产生速率+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_CITY_CONNECTIONS">
+			<Text>{1_Num} 来自你的城市与你的[ICON_CAPITAL]首都之间建立的[ICON_CONNECTED]连接。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
+			<Text>由于[ICON_HAPPINESS_4]不满点数已经达到了20，国内爆发了叛乱！城市可能叛离到对你的国民最具文化影响力的文明。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
+			<Text>由于[ICON_HAPPINESS_4]不满点数已经达到了10，国内出现了骚乱！叛军（蛮族）可能出现在你的领土上。这种情况将持续发生，直到局势改善！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
+			<Text>当国家处于[ICON_HAPPINESS_3]不满状态时城市的成长速率将只有正常值的1/4！[NEWLINE]每增加1点不满将使[ICON_GOLD]金钱和[ICON_PRODUCTION]产能的产出减少2%。单位的战斗力也会受到同样程度的负面影响！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_ANARCHY">
+			<Text>[COLOR_NEGATIVE_TEXT]国家由于改变意识形态而进入无政府状态，将再持续{1_Turns}个回合。在无政府状态下，国家无法获得[ICON_RESEARCH]科研、[ICON_GOLD]金钱、[ICON_CULTURE]文化和[ICON_PEACE]信仰产出，城市也无法积累[ICON_PRODUCTION]产能来完成任何项目。[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP">
+			<Text>杰作或文物空位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP">
+			<Text>文学杰作空位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP">
+			<Text>音乐杰作空位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_CITY_SAPPED">
+			<Text>攻城塔助战</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_EMPIRE_VERY_UNHAPPY_PENALTY">
+			<Text>国民[ICON_HAPPINESS_4]极度不满</Text>
+		</Row>
+    <Row Tag="TXT_KEY_EUPANEL_EMPIRE_UNHAPPY_PENALTY">
+      <Text>国民[ICON_HAPPINESS_3]不满</Text>
+    </Row>
+		<Row Tag="TXT_KEY_UNIQUE_GOLDEN_AGE_ANNOUNCE">
+			<Text>嘉年华会！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_NOT_IN_CITY_STATE_TERRITORY">
+			<Text>{@1_ImprovementName}只能建造于城邦境内。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_BUILD_BLOCKED_NO_ADJACENT_LUXURY">
+      <Text>{@1_ImprovementName}只能建造于邻近奢侈资源的区块。</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_BLOCKED_CANNOT_BE_ADJACENT">
+      <Text>{@1_ImprovementName}不能与另一处{@1_ImprovementName}比邻而建（无论是否完成）。</Text>
+    </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_TRADE_ROUTE">
+			<Text>城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_TRADE_ROUTES">
+			<Text>城市连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_TR">
+			<Text>{1_Num} 来自你的城市与你的[ICON_CAPITAL]首都之间建立的[ICON_CONNECTED]连接</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CONNECTED">
+			<Text>城市与[ICON_CAPITAL]首都之间已建立[ICON_CONNECTED]连接！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UPANEL_TOURISM_STRENGTH_TT">
+			<Text>显示此单位进行巡回演出时的力量值。力量值基于其诞生时该文明的[ICON_TOURISM]魅力产出。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY">
+      <Text>运载量</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UPANEL_CARGO_CAPACITY_TT">
+      <Text>{1_UnitName}能够运载的单位数量。</Text>
+    </Row>
+		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING1">
+			<Text>[COLOR_YELLOW]战斗机或防空单位的[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_AIR_INTERCEPT_WARNING2">
+			<Text>[COLOR_YELLOW]拦截会额外增加杀伤[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EUPANEL_VISIBLE_AA_UNITS">
+			<Text>[COLOR_WARNING_TEXT]已知敌防空单位数: {1_Number}[ENDCOLOR]</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

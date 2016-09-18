@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_1">
+			<Text>我乃巴西帝国皇帝佩德罗。寒暄就免了，你为何而来？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_2">
+			<Text>欢迎来到巴西。时间就是金钱，我希望你来这里不是来浪费时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_FIRSTGREETING_3">
+			<Text>我的朋友，是什么把你带到巴西来的？我是佩德罗，我们有生意可以谈吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_1">
+			<Text>这到底有多愚蠢呢？你希望有个人教你正经点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_2">
+			<Text>你这是在玩火！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_WARBLUFF_3">
+			<Text>你自我感觉良好？你的虚张声势真是可笑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_WINWAR_1">
+			<Text>以谨慎为指导，巴西之光最终穿过所有灾难到达胜利的彼岸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_WINWAR_2">
+			<Text>以谨慎为指导，巴西之光最终穿过所有灾难到达胜利的彼岸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LOSEWAR_1">
+			<Text>虽然你赢得了今日胜利，但是你将面临更多的战火？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LOSEWAR_2">
+			<Text>虽然你赢得了今日胜利，但是你将面临更多的战火？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_1">
+			<Text>这就是为什么我喜欢使用外交方式多于使用战争手段。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_2">
+			<Text>我希望这次冲突能满足你的欲望！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEFEATED_3">
+			<Text>我压制着内心的耻辱承认你是胜利者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_1">
+			<Text>欢迎！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_2">
+			<Text>向你致敬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_1">
+			<Text>走好，不送！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_2">
+			<Text>那就这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_NEUTRAL">
+			<Text>这条件可以接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>在我同意这条件之前，你必须做出更多的让步。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能这做得更好么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>就差一点了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>这条件还不够优厚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_NEUTRAL">
+			<Text>这样是对我没用的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_NEUTRAL">
+			<Text>你将得益于我的慷慨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_NEUTRAL">
+			<Text>我拒绝，别浪费我宝贵的时间。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_NEUTRAL">
+			<Text>认真考虑下这个提议吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>这个世界应该充满互助的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_1">
+			<Text>成交！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_2">
+			<Text>非常好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_1">
+			<Text>我拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_2">
+			<Text>不，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_2">
+			<Text>你继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_3">
+			<Text>很高兴见到你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_4">
+			<Text>近来可好？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_3">
+			<Text>我们的协议就这么定了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_HAPPY">
+			<Text>如此丰厚的条件，我接受！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>你的提议虽然能打动我，但是还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这已经是你开出的最好条件了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你的提议差不多就这样了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_HAPPY">
+			<Text>很遗憾的是，这个代价已经超出我们的忍受范围了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_HAPPY">
+			<Text>我愿意支持可信赖的同胞。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_HAPPY">
+			<Text>这是不可能的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_HAPPY">
+			<Text>我们不是应该通过贸易共同繁荣吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_HAPPY">
+			<Text>在这么多感兴趣的东西中，我要求你提供这个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_3">
+			<Text>当然可以！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_4">
+			<Text>就这么定了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_AGREE_SHORT_5">
+			<Text>好极了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_3">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_4">
+			<Text>我拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_3">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_5">
+			<Text>你想要点什么呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GREETING_6">
+			<Text>你想要点什么呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_5">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_GOODBYE_6">
+			<Text>好，这是你的了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_YES_ANGRY">
+			<Text>我勉强地接受了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我根本不把你的提议放在眼里。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须开出更好的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NEEDMORE_ANGRY_4">
+			<Text>这是多么令人耻辱的条件啊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADE_NO_ANGRY">
+			<Text>你以为我会动摇我的意志吗？这是不可能的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_YES_ANGRY">
+			<Text>逼于巨大的压力，我只能遵从。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRIBUTE_NO_ANGRY">
+			<Text>你竟然胆大妄为地向我要求这个东西？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_TRADEREQUEST_ANGRY">
+			<Text>虽然这令我痛苦，我仍必须提出这项交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DEMANDTRIBUTE_ANGRY">
+			<Text>我没有时间跟你闲聊，这是我要求的东西。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_5">
+			<Text>没听见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_6">
+			<Text>这不可接受</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DISAGREE_SHORT_7">
+			<Text>你就不能认真点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_LETSHEARIT_5">
+			<Text>请接点说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_1">
+			<Text>到最后，你的王国在我的统治之下将会更加富足。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_2">
+			<Text>你已经作出了一个如此愚蠢的决定，等着开战吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_DECLAREWAR_3">
+			<Text>出于对我臣民的保护，你应该下台。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_1">
+			<Text>我担心这场冲突会导致严重后果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_2">
+			<Text>我猜你肯定从一开始就想到这步了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PEDRO_ATTACKED_3">
+			<Text>我想你肯定会后悔你这个决定。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

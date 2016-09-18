@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- Entry UI-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TITLE">
+			<Text>南北战争</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_DESC">
+			<Text>自1861年至1865年，美国经历了一场血腥的内战，北方联邦和南方联盟在各自的首都华盛顿和里士满之间的广阔战场上展开激烈交锋。你能领导其中一个年轻的国家赢得最终的胜利吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TURNS_REMAINING">
+			<Text>剩余回合数: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_DAWN_TEXT">
+			<Text>剧情描述[NEWLINE]1861年4月12日，南方联盟军的大炮向查尔斯顿的萨姆特堡开火，这标志着南北战争的正式爆发。亚伯拉罕·林肯总统随即下达了为期90天的志愿兵征召令，他自信这场叛乱能够迅速平息。新当选的联盟国总统杰佛逊·戴维斯对前景也同样乐观。戴维斯大胆地将政府迁移至距华盛顿仅有100英里的弗吉尼亚州里士满市。你能如双方都预计的那样迅速获胜吗？凭借自由精神建立的国家能够在一场漫长的战争中生存下来吗？[NEWLINE][NEWLINE]胜利条件[NEWLINE]在时限之内占领敌方首都即可获胜。[NEWLINE][NEWLINE]特殊规则[NEWLINE]不能夷平城市和使用移民。仅在拥有以下建筑的城市能够组建单位：兵工厂（步兵），马厩（骑兵），炼铁厂（炮兵），造船厂（海军单位）。占领敌方城市可以提升各类军事产能，并可增加组建步兵单位所必需的兵源。先开始回合的势力的所有单位移动力只有正常值的一半。城市无法进行远程攻击，仅有基于驻扎单位战斗力的最低防御力。陆军统帅移动范围提升至5格，而且在被击败时会自动返回最近的城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BRIEFING_BUTTON">
+			<Text>简介</Text>
+		</Row>
+		<!-- Victory-->
+		<!-- Civilopedia-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_NAME">
+			<Text>亚伯拉罕·林肯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_SUBTITLE">
+			<Text>美利坚合众国总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_LIVED">
+			<Text>1809-1865</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_1">
+			<Text>亚伯拉罕·林肯1809年诞生于肯塔基州中部的一座小木屋，他从平凡的草根阶层起步，最终成为美国历史上最伟大的政治家之一。他在二十出头的年纪开始在政府中担任一些初级职务，并在1834年当选伊利诺伊州众议员。1836年他又进入法律界，很快便因敢于挑战各种类型的复杂案件而声誉鹊起。在多届伊利诺伊州众议员和一届联邦众议员任职期间，林肯一直坚持限制在美国推行奴隶制，这成了贯穿他整个政治生涯的最重要主题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_2">
+			<Text>当选总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_2">
+			<Text>1860年，林肯成功当选美利坚合众国第16任总统。在如今已闻名于世的林肯-道格拉斯辩论中，林肯持续指责竞争对手企图将允许奴隶制的范围扩展到美国的西部新领地，这使得南方脱离联邦的可怕前景首次显现。出于对奴隶制的维护而联合起来的南部诸州已经准备好一旦林肯当选便集体退出美利坚合众国。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_3">
+			<Text>萨姆特堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_3">
+			<Text>林肯胜选之后，南卡罗莱纳率先宣布脱离联邦，亚拉巴马、佛罗里达、乔治亚、路易斯安那、密西西比和德克萨斯迅速跟进，这七个州于1861年宣布成立美利坚联盟国。杰佛逊·戴维斯被推选为首任总统，南部蓄奴州终于兑现了退出联邦的威胁，联盟军随即于1861年4月进攻萨姆特堡，揭开了美国历史上最具毁灭性的武装冲突——南北战争的序幕。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_4">
+			<Text>解放奴隶宣言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_4">
+			<Text>林肯作为武装力量总司令掌控联邦军队的指挥权，他打破常规下达了一系列命令，逮捕南方联盟的支持者，封锁南方联盟的港口，并宣布释放任何服务于南方联盟军队的黑奴。他在1863年1月1日签署了最激进的一项法令——《解放黑奴宣言》，给予南方联盟诸州所有的黑奴以人身自由（虽然此项法令并未赋予他们完全的美国公民权）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_5">
+			<Text>葛底斯堡演说</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_5">
+			<Text>几个月后，林肯发表了历史上最著名的演说之一——葛底斯堡演说。他那段令人耳熟能详的开场白——“八十七年前，我们的开国先驱们在这片大陆上建立起一个新的国家，孕育于自由之精神，致力于人人生而平等之信念”——至今仍然是林肯对美国历史深刻影响力的最伟大标志。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_HEADING_6">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_GEORGE_TEXT_6">
+			<Text>经过持续五年，阵亡五十万人的鏖战，南北战争于1865年4月随联盟军总司令罗伯特·李将军的投降而最终结束。仅仅五天之后，林肯在华盛顿市福特剧院观剧时被南方联盟同情者约翰·威尔克斯·布斯刺杀。虽然林肯没能活着看到他努力重建合众国和废除奴隶制的成果，他的政治壮举和精神遗产仍令其毫无疑问地位列美国历史最伟大的总统之一。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_UNITEDSTATES_TEXT_1">
+			<Text>在南北战争期间，支持美利坚合众国政府的北方诸州被称为“联邦”。联邦州共有二十个，大都在中央政府的颁布法令之前已经废除了奴隶制，北方还控制着五个保留奴隶制的边境州。亚伯拉罕·林肯担任联邦总统，掌控着对南方战争的后勤调度和整体策略。[NEWLINE][NEWLINE]战争开始时，联邦诸州的工业水平远强于南方，拥有更多资源和兵源以支持军事行动。联邦诸州的人口是南方的四倍，能够征召更多新兵。虽然拥有这些优势，联邦军要实现平定南方的任务仍面临许多困难。联盟军由经验丰富的军官指挥，并为保卫自己的所熟悉家园而战，这也给了他们特别的优势。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_NAME">
+			<Text>杰佛逊·戴维斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_SUBTITLE">
+			<Text>美利坚联盟国临时总统</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_LIVED">
+			<Text>1808-1889</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_1">
+			<Text>美国军人政治家杰佛逊·戴维斯生于1808年，1861年南方诸州脱离联邦后被选为新成立的美利坚联盟国首脑。戴维斯在美国军事学院（西点军校）毕业后任职于克劳福特堡，后离职并迁居密西西比州经营一座种植园。在短暂地参加美墨战争后，杰佛逊·戴维斯返回密西西比，并于1848年被州长提名进入联邦参议院。作为一名奴隶主和资深军官，戴维斯被视为南方价值观的化身，这令他的政治生涯一帆风顺。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_2">
+			<Text>脱离联邦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_2">
+			<Text>1853年，戴维斯被新当选总统富兰克林·皮尔斯任命为战争部长。1857年完成任期后他又回到参议院，并强烈反对南方诸州的分离主义运动。然而，当1860年林肯赢得总统大选之后，戴维斯辞去了参议员职务返回家园。戴维斯随后在新成立的美利坚联盟国担任军职，1861年，他经口头表决当选为联盟国临时总统。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_3">
+			<Text>萨姆特堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_3">
+			<Text>作为联盟总统，戴维斯尝试通过谈判取得位于联盟国领土的联邦军要塞。林肯总统无意放弃任何领土，并下令向南卡罗莱纳州萨姆特堡运送补给。联盟军将此视作战争行为，于是在博勒加德将军指挥下开始炮击这座要塞——这标志着南北战争的正式开始。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_4">
+			<Text>资源困境</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_4">
+			<Text>杰佛逊·戴维斯亲自监督南方军战略的方方面面。他很快认识到联盟军的资源和装备相比联邦军处于弱势，于是决定采取顽强的防御策略而不是主动出击。然而，在运用此项策略在防御联盟首都弗吉尼亚州里士满市时取得胜利之后，戴维斯和联盟军总司令罗伯特·李将军转而制定了深入北方的计划。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_5">
+			<Text>北进行动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_5">
+			<Text>虽然作为军事领袖的李将军才能出类拔萃，联盟军的北进行动仍然举步维艰。在1862年安提塔姆战役中，联盟军损失超过一万人，而在葛底斯堡战役中的伤亡则超过了两万人（这一战役被许多人视为整场战争的转折点）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_6">
+			<Text>投降</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_6">
+			<Text>到1865年时，联盟军的形势更加不利，在当年四月，联邦军将领尤利西斯·格兰特已兵临联盟首都里士满城下。不久之后，罗伯特·李将军率领北弗吉尼亚军团向联邦军投降，杰佛逊·戴维斯及其内阁成员逃往南方。1865年5月5日，联盟政府在乔治亚州华盛顿市正式宣布解散。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_7">
+			<Text>被捕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_7">
+			<Text>5月10日，戴维斯被联邦军捕获，监禁两年后获得假释。戴维斯在此后十年的大部分时间里默默工作，避免在公众面前出现或是谈论战争的结果。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_HEADING_8">
+			<Text>历史评价</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_LEADERS_ELIZABETH_TEXT_8">
+			<Text>1889年，杰佛逊·戴维斯因未知疾病而卧床数月，最终以81岁高龄去世。他去世后，人们为他修建了许多纪念物，他留下的政治遗产仍为历史学家和联盟支持者后代所珍视。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV_ENGLAND_TEXT_1">
+			<Text>美利坚联盟国简称“联盟”或“邦联”，是1860年亚伯拉罕·林肯当选美利坚合众国总统后脱离联邦的南方诸州所选择的国名。南方诸州认为林肯反对奴隶制的政见干涉了各州的自主权利，于是他们决定行使宪法赋予各州的另一项权利——脱离联邦。[NEWLINE][NEWLINE]南北战争中的联盟总统杰佛逊·戴维斯不但掌控南方军的后勤调度，也负责制定军事策略和任命主要将领（与北方的林肯一样）。联盟所面对的敌人装备更精良，兵力更强大，维持战争所需的物资也更充足。但这一切都不能影响南方军的战斗热情，因为南方人认为他们是为保护自己的生活方式和自主权利与联邦政府进行正义的抗争。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_BLOCKADE_RUNNER_TEXT">
+			<Text>封锁突破船是服务于联盟军的一批商船，其特点是吨位轻、速度快，擅长躲避摆脱执行“蟒蛇计划”联邦军战舰（“蟒蛇计划”的目标是阻止南方与欧洲国家的棉花贸易）。封锁突破船运出棉花，运回药品和军用物资，对商船的船长来说这是一项利润丰厚然而极其危险的业务。到战争结束时，联邦军俘获的封锁突破船总计1100艘，另外还击沉了335艘。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_CARBINE_CAVALRY_TEXT">
+			<Text>马枪（Carbine）或译作“卡宾枪”，其枪管比来复枪短，射击精度较低但更适合骑兵使用。到战争末期，多数联邦骑兵团和部分联盟骑兵团都已装备了马枪，并在白兰地车站之战和黄色客栈之战中证明了它的价值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_CORPS_TEXT">
+			<Text>南北方陆军编制的最主要单位都是步兵军。联盟步兵军下辖二至四个师并以其指挥官来命名（例如“隆史崔特军”），联邦步兵军则均由三个师组成并以数字命名。一个军的兵力为一万至二万五千人，其指挥官在南方由中将担任，在北方则由少将担任。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_INFANTRY_DIVISION_TEXT">
+			<Text>一个步兵师通常下辖二至四个旅，每个旅的兵力为一千二百至二千五百人。师长由少将担任，是进行战役机动的基本单位，师长们平时的任务是谨慎地保持实力，以便在必要时发动猛烈的攻击。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_RIFLED_CANNON_TEXT">
+			<Text>线膛大炮是指炮管内带有螺旋形膛线的大炮，这能够显著提升射程和精度，其代价则是更高加工难度和更长炮管导致的生产成本增加。南北战争时期的军队已经装备了多种的线膛大炮，其中最著名的一种是帕罗特线膛炮，南北双方都在使用这种大炮的不同型号，包括从野战用的十磅炮到要塞用的三百磅炮。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MILITARY_ENGINEER_TEXT">
+			<Text>“军事工程”可以定义为设计建造军事堡垒以及维护军事运输和通讯线路的技术。在南北战争时期，随着科技的最新进展，军事工程师不但要负责建造临时和永久性的堡垒、桥梁和基地，还需担任建造和修复铁路和电报线的任务，这些新科技革命性地改变了战争的面貌。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_IRONCLAD_TEXT">
+			<Text>第一艘蒸汽动力的钢铁装甲战舰是1859年下水的，服役于法国海军，但第一场铁甲舰参加的海战则发生于南北战争中的1862年。这场海战表明铁甲舰已经取代木制主力战舰成为海上最强大的战舰。到战争结束时，联盟海军共下水了24艘铁甲舰（计划建造59艘，但有多艘在完成前即被摧毁），在联邦海军服役的滨海铁甲舰则达到52艘。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_MONITOR_TEXT">
+			<Text>在南北战争期间，“莫尼特”（monitor）指具有极低干舷高（指水线到甲板的高度）、拥有一个或多个装备多门重炮的炮塔的蒸汽动力装甲战舰。莫尼特铁甲舰的最初设计只适宜在江河中航行，用于深入南方领土，但也能在近海航行，可执行支援陆军，保护沿河阵地，控制河道等任务。莫尼特铁甲舰为联邦军的胜利发挥了关键作用，特别是在密西西比河沿线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_TEXT">
+			<Text>南北战争时，联邦政府起初使用志愿兵制，后来又通过一项法案授权推行义务兵制征召公民入伍以增加兵源。而由于南方军的志愿兵即将大批开始休假，联盟总统杰佛逊·戴维斯于1862年3月提出首个义务兵制法案并于次月由联盟国会表决通过。南北方征兵法的推行都是为了克服高伤亡率导致的兵源枯竭问题，但随着战争的持续都变得越来越不受欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_RESOURCE_MANPOWER_HELP">
+			<Text>兵源由兵营产出，用于维持你的步兵单位。注意保护你的兵营是胜利的关键，特别是对于更缺乏兵源的南方而言。</Text>
+		</Row>
+		<!-- Civ Traits-->
+		<!-- Scenario-specific Diplomacy Modifiers-->
+		<!-- Technologies-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]线膛大炮[ENDCOLOR]，一种射程为3格的炮兵单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“在一英里之内的任何距离，北佬的三寸线膛炮都是致命威胁。他们可以轻易打中一个火药桶的底部，除非炮手太过紧张。”[NEWLINE][TAB][TAB]——亚特兰大战役中的联盟军炮手[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_RIFLED_ARTILLERY_DESC">
+			<Text>线膛大炮是指炮管内带有螺旋形膛线的大炮，这能够显著提升射程和精度，其代价则是更高加工难度和更长炮管导致的生产成本增加。南北战争时期双方在东部战场的炮队都装备有线膛大炮，不过前装和后装型的滑膛炮也仍有使用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]步兵军[ENDCOLOR]，此单位由步兵师升级而来，需要消耗更多兵源，但也拥有更强的[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“内战为什么会被称做文明战争？它们总是极度的不文明！”（塞爱维小提示：英文中的“内战”一词也可以解读为“文明战争”。）[NEWLINE][TAB][TAB]——伊丽莎白·菲奇[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_SCIENCE_DESC">
+			<Text>在南北战争开始的时候，美国已有多个专为年轻人提供军事科学教育的军事学院，其中最著名的就是美国军事学院（西点军校）。而南方则拥有更多更好的（虽然这一点存在争议）宣扬南方传统的私立军事学院：堡垒军校、弗吉尼亚军事学院、南卡罗莱纳的波特军事学院、密西西比的圣查尔斯学院等等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]军事工程师[ENDCOLOR]，这属于非战斗单位，能够修复设施，修建道路和铁路。军事工程师还可建造要塞或浮桥，但执行此类任务时此单位会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“别再考虑小李会怎么对付我们了，想想我们该怎么对付他吧。”[NEWLINE][TAB][TAB]——尤利西斯·格兰特[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENGINEERING_DESC">
+			<Text>虽然联邦军的工程师们拥有更充足的原材料和劳动力，而南方的工程师们则拥有更强的创造力和热情，但他们都同样面临日新月异的战争科技的挑战：电报、铁路、铁丝网、浮桥、热气球等等。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]马枪骑兵[ENDCOLOR]，相比普通骑兵拥有双倍的[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我们最好的军官估计一名装备斯宾塞马枪的士兵相当于三名使用任何其他武器的士兵。”[NEWLINE][TAB][TAB]——詹姆斯·威尔逊少将[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_REPEATING_RIFLES_DESC">
+			<Text>南北战争常被称为历史上第一场“现代”战争，部分原因就在于大批新式武器的使用。其中在战术层面最具决定性的一种新式武器就是采用单发枪管和多发弹夹的连发来复枪，这种枪能在装填子弹的同时完成射击准备。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]铁甲舰[ENDCOLOR]，能够轻易压倒木制舰船的强大海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“战舰的炮塔和其他部位多次中弹，但均未能穿透。船楼也毫发无伤，连续转动无碍。船员的脸上充满自信，我们确信梅利麦克号将无法重现昨日的战绩。”[NEWLINE][TAB][TAB]——塞缪尔·达纳·格林尼[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_IRONCLADS_DESC">
+			<Text>南北战争中，为了打破联邦军的封锁，联盟军率先开始建造铁甲舰。1861年10月，联盟海军“马纳萨斯号”在水道头海战中与联邦战舰交手，成为史上第一艘参战的铁甲舰，但这一战很快就被次年二月的史上第一次铁甲舰交锋——联盟军“梅利麦克号”和联邦军“莫尼特号”之战盖过了风头。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_HELP">
+			<Text>允许骑兵单位劫掠敌方地域。研发此项科技之前单位无法执行劫掠任务。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“杰·斯图尔特是我理想中的骑兵指挥官，敏捷、警觉而又无畏。”[NEWLINE][TAB][TAB]——托马斯·杰克逊[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_CAVALRY_RAIDS_DESC">
+			<Text>在南北战争中，主要进行防御性作战的联盟军却是率先发动大规模骑兵突袭的一方，从战线后方出击的骑兵数量少至几百，多至两千，连续不断地骚扰敌方的部队和平民。联盟骑兵将领詹姆斯·尤厄尔·布朗·斯图尔特、约翰·亨特·摩根和“乔”谢尔比等都因他们深入敌境焚毁桥梁、仓库、城镇，驱散牲畜，破坏庄稼的突袭行动而令北方人胆战心惊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_HELP">
+			<Text>所有单位恢复速率加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“这场冲突正是我所期待的机会。我还很强壮，很年轻——年轻到足可上前线。如果我不能成为一名战士，我可以去帮助战士们。”[NEWLINE][TAB][TAB]——克拉拉·巴顿[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_FIELD_HOSPITALS_DESC">
+			<Text>由于后勤和动员能力的限制，南北战争之前的军队规模通常都比较小。数量更庞大、移动更迅速的军队加上更具杀伤力的武器使得官员和将军们更急切地寻求更有效的战地医疗手段。联邦军方面，麦克科列兰将军在公牛河战役之后指定外科医生查尔斯·提普勒担任波托马克军团的首席医疗主管。1862年，威廉·哈蒙德被任命为合众国军医总监并针对伤员的疏散、治疗和恢复程序推行了一系列改革措施，其中就包括在前线设立一体化战地医院。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_HELP">
+			<Text>所有将军获得额外视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我愉快地发给你这第一份来自天空收发站的电报。”[NEWLINE][TAB][TAB]——萨迪乌斯·罗威[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_BALLOON_RECONNAISSANCE_DESC">
+			<Text>战争爆发后，合众国战争部建立了一支热气球军。无军事背景的萨迪乌斯·罗威被委派为首任指挥官，他的头衔是“首席飞行官”。联邦将领麦克道尔在第一次公牛河战役期间首次派出热气球军对敌方营地和动向进行空中侦察。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_HELP">
+			<Text>修建铁路耗费的时间减半，单位在铁路上的移动力加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“北方能制造蒸汽引擎，火车头和车厢；你们却几乎生产不出一码布或一双鞋子。你们匆忙发动战争去对抗世上最强力、最心灵手巧也最英勇坚定的人——而他们就站在你们的家门口。”[NEWLINE][TAB][TAB]——威廉·特库姆塞·谢尔曼[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_MILITARY_RAILROADS_DESC">
+			<Text>在国会授权林肯可以出于军事目的使用铁路线和电报线后，联邦战争部于1862年建立了“美国军用铁路系统”（USMRR），统一运营联邦政府控制的所有铁路。到战争结束时，这个系统在北方和南方总共拥有超过2000英里的铁路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]多管机枪[ENDCOLOR]，拥有1格射程的强力单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“这一年间发生了许多当初会被认为绝无可能成真的巨大变革。”[NEWLINE][TAB][TAB]——克里斯蒂安·弗里特伍德[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_INDUSTRIALIZATION_DESC">
+			<Text>早已完成工业化的联邦在战争期间进一步改进和完善了武器、被服和其他各类军用补给物资的大规模生产和运输技术。相比之下，南方诸州在战争开始时仍以农业为主，需要从北方或欧洲进口大部分工业产品。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_HELP">
+			<Text>允许步兵单位劫掠敌方领土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“战争即地狱。”[NEWLINE][TAB][TAB]——威廉·特库姆塞·谢尔曼[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_SCORCHED_EARTH_DESC">
+			<Text>“焦土战术”是一种古老的军事策略，指不加区别地摧毁可能为敌人所用的任何东西，包括私人财产。在南北战争中，漫长的冲突使得内部的不满情绪持续高涨，联邦政府也不得不采取这一策略，其中最著名的例子是谢尔曼的远征海滨战役和谢里登的谢南多厄河谷战役。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_HELP">
+			<Text>来自驻扎的战斗力奖励加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我一直对向冷港发动最后一次强攻感到后悔。”[NEWLINE][TAB][TAB]——尤利西斯·格兰特[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_TECH_ENTRENCHMENT_DESC">
+			<Text>堑壕是一种野战工事，可以保护步兵免受骑兵和远程火力的杀伤，这类工事在远古即已出现。南北战争期间双方都大量修建临时性的堑壕（例如在葛底斯堡战役中），而华盛顿和里士满等战略重镇则建有结构更复杂规模更巨大的堑壕防御体系。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_1">
+			<Text>允许骑兵劫掠敌方领土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_SCENARIO_TECH_BUTTON_2">
+			<Text>允许骑兵劫掠敌方领土。</Text>
+		</Row>
+		<!-- Resources -->
+		<!-- Improvements-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE">
+			<Text>浮桥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_HELP">
+			<Text>允许陆军单位在海滨区块通行。只能在与四个或更多陆地区块相邻的海滨区块上修建。浮桥由海运状态的军事工程师修建，修建浮桥会消耗掉军事工程师。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PONTOON_BRIDGE_TEXT">
+			<Text>南北战争的双方都修建过浮桥，以使步兵、炮兵和后勤车辆迅速通过河流。采用新型坎伯兰浮筒建造的浮桥更为轻便，在联邦军深入南方的战役中发挥了特别突出的作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE">
+			<Text>修建[LINK=IMPROVEMENT_PONTOON_BRIDGE]浮桥[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_HELP">
+			<Text>允许陆军单位在海滨区块通行。只能在与四个或更多陆地区块相邻的海滨区块上修建。浮桥由海运状态的军事工程师修建，修建浮桥会消耗掉军事工程师。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_REC">
+			<Text>允许陆军单位在此区块通行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILD_RAILROAD_HELP">
+			<Text>连续的铁路线可使单位快速移动。[NEWLINE][NEWLINE]用铁路将其他城市连接到你的首都可使其+25%[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BUILD_ROAD_HELP">
+			<Text>连续的道路可使单位在地块间快速移动。[NEWLINE][NEWLINE]用道路连接其他城市到你的首都可使其获得更多[ICON_GOLD]金钱收入。</Text>
+		</Row>
+		<!-- Buildings in the seperate Buildings file-->
+		<!-- Units-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_UNIT_HELP_WORKER">
+			<Text>属于非战斗单位，能够修复设施，修建道路和铁路。军事工程师还可建造要塞或浮桥，但执行此类任务时此单位会被消耗掉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_IRVIN_MCDOWELL">
+			<Text>欧文·麦克道尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARO_GEORGE_MCCLELLAN">
+			<Text>乔治·麦克科列兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_AMBROSE_BURNSIDE">
+			<Text>安布罗斯·伯恩赛德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_JOE_HOOKER">
+			<Text>乔·胡克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_GEORGE_MEADE">
+			<Text>乔治·米德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_ULYSSES_GRANT">
+			<Text>尤利西斯·格兰特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_JOE_JOHNSTON">
+			<Text>乔·约翰斯顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_ROBERT_E_LEE">
+			<Text>罗伯特·爱德华·李</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MORALE">
+			<Text>叛乱呼声</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_MORALE_HELP">
+			<Text>+10%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BALLOON_RECON">
+			<Text>气球侦察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_BALLOON_RECON_HELP">
+			<Text>陆军统帅+2视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_IGNORES_GREAT_GENERAL">
+			<Text>无视陆军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_PROMOTION_IGNORES_GREAT_GENERAL_HELP">
+			<Text>不能获得邻近陆军统帅的奖励加成。</Text>
+		</Row>
+		<!--In-Game Messages-->
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BLOCKADE_RUNNER_YOURS">
+			<Text>一艘我方的{1_UnitName}已经绕过北军封锁线抵达欧洲，通过出售装载的棉花获得了{2_GoldAmount}[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_BLOCKADE_RUNNER_THEIRS">
+			<Text>一艘南方的{1_UnitName}偷越了海岸防线并航向欧洲，所装载的棉花将为联盟换取{2_GoldAmount}[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_JOHN_ERICSSON">
+			<Text>联邦方的好消息：约翰·埃里克松[NEWLINE][NEWLINE]瑞典裔发明家约翰·埃里克松加入了联邦军的事业。也许这位大科学家能帮助联邦研发新的科技，比如说莫尼特铁甲舰？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_EMANCIPATION">
+			<Text>联邦方的好消息：解放黑奴宣言[NEWLINE][NEWLINE]亚伯拉罕·林肯颁布了给予联盟境内所有奴隶人身自由的伟大宣言。联邦方+{1_Num}兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CLARA_BARTON">
+			<Text>联邦方的好消息：克拉拉·巴顿[NEWLINE][NEWLINE]人道主义者克拉克·巴顿被委派负责本战区的联邦战地医院。在这位“战场天使”的努力下，联邦方+{1_Num}兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CALL_VOLUNTEERS">
+			<Text>联邦方的好消息：征召志愿兵[NEWLINE][NEWLINE]亚伯拉罕的联邦志愿兵征召令得到了响应。{1_Num}个联邦步兵师已经自东北地区乘火车抵达。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_WESTERN_CRISIS">
+			<Text>联邦方的好消息：西部危机[NEWLINE][NEWLINE]联邦军在维克斯堡的胜利使西部地区的联盟军陷入混乱。由于需要向密西西比增派援军。联盟方-{1_Num}兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_CSA_INFLATION">
+			<Text>联邦方的好消息：联盟大通胀[NEWLINE][NEWLINE]联盟国的货币大幅贬值！联盟国库的[ICON_GOLD]金钱储备减少{1_Num}%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_GEORGE_RAINS">
+			<Text>联盟方的好消息：乔治·雷恩斯[NEWLINE][NEWLINE]乔治·华盛顿·雷恩斯和他的兄弟加布里埃尔正在试验新的爆炸物。也许这位大科学家能帮助联盟研发新的科技，比如说更强力的大炮？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_WESTERN_RAIL">
+			<Text>联盟方的好消息：西部增援[NEWLINE][NEWLINE]{1_Num}个联盟步兵师已经自西部战区乘火车抵达。显然东部对军队的需要更为紧急！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_NYC_DRAFT_RIOTS">
+			<Text>联盟方的好消息：纽约征兵暴动[NEWLINE][NEWLINE]纽约市内发生了大暴动！大批市民起来反对联邦政府的最新征兵法令。由于需要派遣军队镇压暴动。联邦方-{1_Num}兵源。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_COTTON_PRICES">
+			<Text>联盟方的好消息：棉花大涨价[NEWLINE][NEWLINE]欧洲市场上棉花价格飞涨。联盟方来自封锁突破船的收益也急剧增加。联盟国库+{1_Num}[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MOSBYS_RAIDERS">
+			<Text>联盟方的好消息：莫斯比的掠袭队[NEWLINE][NEWLINE]约翰·莫斯比率领的联盟军掠袭队在西弗吉尼亚夺得了大量补给马车。联邦现有[ICON_GOLD]金钱的{1_Num}%落入了联盟国库！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_LEE_ARRIVES">
+			<Text>联盟方的好消息：罗伯特·李接手指挥权[NEWLINE][NEWLINE]由于乔·约翰斯顿在战斗中负伤，罗伯特·李临危受命指挥北弗吉尼亚军团。联盟方陆军统帅提供的战斗力加成从20%增至30%。回合开始时在陆军统帅5格范围内的所有单位+1[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MCCLELLAN">
+			<Text>新的联邦将领：乔治·麦克科列兰[NEWLINE][NEWLINE]在{1_CityName}遭遇挫败之后，林肯决定将原指挥官就地解职，由乔治·麦克科列兰接替。虽然所提供的战斗力加成只有10%，但麦克科列兰在训练新兵方面却是一位大师。他所在城市完成组建一个新步兵单位时会立即额外获得一个相同单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_HOOKER">
+			<Text>新的联邦将领：安布罗斯·伯恩赛德[NEWLINE][NEWLINE]在{1_CityName}遭遇挫败之后，林肯决定将原指挥官就地解职，由安布罗斯·伯恩赛德接替。虽然所提供的战斗力加成只有10%，但伯恩赛德决定率领波托马克军团以最快的速度出击。回合开始时在他周围5格范围内的所有单位+1[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_BURNSIDE">
+			<Text>新的联邦将领：乔·胡克[NEWLINE][NEWLINE]在{1_CityName}遭遇挫败之后，林肯决定将原指挥官就地解职，由乔·胡克接替。他提供的战斗力加成为20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_MEADE">
+			<Text>新的联邦将领：乔治·米德[NEWLINE][NEWLINE]在{1_CityName}遭遇挫败之后，林肯决定将原指挥官就地解职，由乔治·米德接替。他的才能明显超过前任，提供的战斗力加成为30%。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EVENT_GRANT">
+			<Text>新的联邦将领：尤利西斯·格兰特[NEWLINE][NEWLINE]林肯终于找到了最合适的指挥官。已经在西部战区赢得了无数场胜利的尤利西斯·格兰特现在被调到东部接手指挥权。他提供的战斗力加成为30%，回合开始时在他周围5格范围内的所有单位+1[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_CIV5_IMPROVEMENTS_CITADEL_TEXT">
+			<Text>要塞是只能由军事工程师修建的强大工事。修建要塞可使你的文化边界扩展至其周边一格范围。要塞内的单位可获得100%防御战斗力加成。在与要塞相邻的区块结束回合的敌方单位将减少30生命力（此损伤不会与其他要塞叠加）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVIL_WAR_SCENARIO_EO_EX_IMPROVEMENTS">
+			<Text>维护你所修建或负责的道路与铁路的总费用。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

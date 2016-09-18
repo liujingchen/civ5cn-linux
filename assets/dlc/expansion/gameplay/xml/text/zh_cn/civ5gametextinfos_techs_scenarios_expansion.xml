@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<!-- FALL OF ROME - no techs in this scenario -->
+		<!-- EMPIRES OF THE SMOKY SKIES -->
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALOG_COMPUTATION_TITLE">
+			<Text>模拟计算</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ANALYTICAL_ENGINE_TITLE">
+			<Text>分析引擎</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ECONOMIC_IMPERIALISM_TITLE">
+			<Text>经济帝国主义</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PROPULSION_TITLE">
+			<Text>动力推进</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_ERUPTIVES_TITLE">
+			<Text>喷射推进</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_EXPEDITIONARY_SCIENCE_TITLE">
+			<Text>野外探险</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_VERTICAL_INTEGRATION_TITLE">
+			<Text>垂直整合</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LANDSHIPS_TITLE">
+			<Text>陆地战舰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_NOBLESSE_OBLIGE_TITLE">
+			<Text>贵族责任</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AIRSHIPS_TITLE">
+			<Text>飞行战舰</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_INFERNAL_COMBUSTION_TITLE">
+			<Text>超高温内燃机</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GOSPEL_OF_WEALTH_TITLE">
+			<Text>财富福音</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_AUTOMATA_TITLE">
+			<Text>自动化</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_URANOGRAPHY_TITLE">
+			<Text>星图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_GALVANOMAGNETISM_TITLE">
+			<Text>电磁理论</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_CIVIL_DEFENSE_TITLE">
+			<Text>民防</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_LAND_LEVIATHAN_TITLE">
+			<Text>陆地利维坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SKY_FORTRESS_TITLE">
+			<Text>飞行堡垒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_PERPETUAL_MOTION_TITLE">
+			<Text>永动机</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_SUBTERRANEAN_EXPLORATION_TITLE">
+			<Text>地下勘探</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_TECHNOCRACY_TITLE">
+			<Text>技术官僚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STEAMPUNK_SCENARIO_TECH_THE_GRAND_IDEA_TITLE">
+			<Text>伟大思路</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

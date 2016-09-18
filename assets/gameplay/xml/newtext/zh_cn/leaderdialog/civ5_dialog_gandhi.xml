@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_2">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_5">
+			<Text>哦，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_6">
+			<Text>我猜我必须接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_7">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_1">
+			<Text>就这样吧。印度人民不善于对抗暴力攻击，但掌握着武器的军人例外。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_2">
+			<Text>不幸的是，我的国民并不全都像我这样坚持非暴力原则。所以我要先向你说一声抱歉，因为你的军队可能会被杀得片甲不留。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_1">
+			<Text>我刚刚获知我国已有大批士兵进入了你的领土。我强烈建议你采取和平抵抗的策略以避免损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_2">
+			<Text>我派出了一批印度士兵到你的各大城市去旅游观光。我相信他们会受到热情的欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_3">
+			<Text>看起来我们的士兵对你文明非常钦慕，他们决定永久性地迁居到你那里去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_1">
+			<Text>你也许消灭了我们的军队，但你永远无法消灭印度人的精神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_2">
+			<Text>你征服了一个无辜而无助的民族。我祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_3">
+			<Text>你征服了我们。如果你想减轻道义上的负担，不想在来世变成一只臭虫，那么我要求你善待我的人民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_ANGRY">
+			<Text>为了世界的和平与安宁，印度人民会由衷地感谢你提供以下捐助。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_HAPPY">
+			<Text>我的朋友，你能给予我们这个吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_NEUTRAL">
+			<Text>印度是贫穷的，你们是富裕的。把这个送给我们或许能够减轻你的道德负担。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_2">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_5">
+			<Text>这是不可接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_6">
+			<Text>你是在开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_7">
+			<Text>请你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_1">
+			<Text>我代表爱好和平的印度人民向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_2">
+			<Text>欢迎！我相信我们两国人民可以和平地分享世界的财富。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_3">
+			<Text>以印度人民的名义，我向你伸出友谊之手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_1">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_2">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_3">
+			<Text>一路平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_4">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_7">
+			<Text>我们的会谈结束了了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_3">
+			<Text>祝你平安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_4">
+			<Text>早上好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_5">
+			<Text>哦，是你啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_6">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_1">
+			<Text>请说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_2">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_3">
+			<Text>我正听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_6">
+			<Text>然后呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_7">
+			<Text>接着说下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_LOSEWAR_1">
+			<Text>我很高兴我们之间又恢复了和平，不论之前付出了过多少代价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_1">
+			<Text>没有什么事情是确定不变的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_2">
+			<Text>我把自己当成一名战士，但是一名和平的战士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_3">
+			<Text>最理想的非暴力是一种有秩序的无政府状态。最好的政府是管得最少的政府。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我是一个和平主义者——而不是一个傻瓜。你需要改善你的提议。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_1">
+			<Text>真令人痛苦，我找不到任何理由同意你的条件；你能做得更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你只能做到这样了吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>这对印度人民是不公平的。请提高你的报价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好一点吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>你做的还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_ANGRY">
+			<Text>同意这样的条件实在是愚蠢行为。不了，谢谢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_HAPPY">
+			<Text>很抱歉，这次我不能接受你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_NEUTRAL">
+			<Text>这样一份条款不符合印度人民的最大利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_ANGRY">
+			<Text>你比看起来要聪明。我同意你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_HAPPY">
+			<Text>同意。我相信我们双方都能从这次交易中获益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_NEUTRAL">
+			<Text>这看起来挺公平，好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_ANGRY">
+			<Text>你那不幸的文明肯定会从同先进文明的交易中获益的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_HAPPY">
+			<Text>我的朋友，你对这项交易是否感兴趣？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_NEUTRAL">
+			<Text>公平的交易对大家都有好处，你同意吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_ANGRY">
+			<Text>我的将军们告诉我，他们不能把你要的东西交给你。但是，他们建议你‘自己来拿’，我不是很确定他们是什么意思。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_HAPPY">
+			<Text>这太没道理了。我们是你的朋友，不是你的奴隶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_NEUTRAL">
+			<Text>尽管我坚定地相信非暴力原则，但印度人民还没有这么高的觉悟。他们对你的要求报以大声的嘲笑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_ANGRY">
+			<Text>无尽的贪婪会吞噬你的灵魂。然而为了保持和平，我们可以满足你的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_HAPPY">
+			<Text>当然可以！我绝对不会拒绝你的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_NEUTRAL">
+			<Text>为了保持和平这是值得的。我们同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_1">
+			<Text>太令人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_2">
+			<Text>我真是太失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_3">
+			<Text>你真是太愚蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_4">
+			<Text>真是太奇怪了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_1">
+			<Text>我告诉过你暴力是没有用处的！希望你得到了教训：当初你要是采用和平抵抗的策略来对付我们，你本有机会获得胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_2">
+			<Text>非暴力原则再次获得了胜利！现在你了解到和平抵抗的巨大力量了吧！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

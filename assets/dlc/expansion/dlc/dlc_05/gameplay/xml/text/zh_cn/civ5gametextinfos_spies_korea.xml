@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_0">
+			<Text>金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_1">
+			<Text>朴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_2">
+			<Text>韩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_3">
+			<Text>罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_4">
+			<Text>孔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_5">
+			<Text>俞</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_6">
+			<Text>安</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_7">
+			<Text>娜</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_8">
+			<Text>多</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOREA_9">
+			<Text>恩</Text>
+      		<Gender>feminine</Gender>
+		</Row>
+	</Language_zh_CN>
+</GameData>

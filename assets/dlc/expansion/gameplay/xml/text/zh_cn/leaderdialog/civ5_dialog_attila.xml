@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_FIRSTGREETING_1">
+			<Text>孟德祖克之子向你致以问候。请小心地穿越我的土地，那么你还能暂时在我战马的铁蹄下保证安全。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_FIRSTGREETING_2">
+			<Text>你正站在罗马的天敌阿提拉面前。不要让傲慢成为你的败因。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_FIRSTGREETING_3">
+			<Text>欢迎来到我的领地，陌生人。我是匈人领袖阿提拉，从我身边经过时要保持小心，以免你的财富最终留在我的脚下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_WARBLUFF_1">
+			<Text>不要忘记你在和谁打交道。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_WARBLUFF_2">
+			<Text>我很看重我的酋长们的骨气，但是你太放肆了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_WARBLUFF_3">
+			<Text>你敢再试试那个，我就把你的金子收入我的囊中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_WINWAR_1">
+			<Text>记住这个本可以被避免。你的人民不会长期在你重复的尝试自毁的行为下支持你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_WINWAR_2">
+			<Text>我希望你得到了教训。也许我应该把你从你最喜欢的银器里解放出来来保证你记住。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LOSEWAR_1">
+			<Text>我不会对盲目的忽略失败感到骄傲。只有傻子会贪图一次胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LOSEWAR_2">
+			<Text>有时候无论准备多充分都会失败。下一回合你不会那么轻松。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEFEATED_1">
+			<Text>我的人民不会用眼泪来哀悼我，而是会用人的鲜血。我也许离开了，但是有人会崛起而取代我的位置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEFEATED_2">
+			<Text>你也许可以夺取我的土地撕碎我的军队，但是匈人是自豪而强大的，他们不会接受一个软弱的统治者。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEFEATED_3">
+			<Text>用武力夺取土地很容易但是治理很难。你只赢得了一半的战斗，但是更艰难的部分还没有来到。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_1">
+			<Text>祝你一天顺利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_1">
+			<Text>我们会再见的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_NEUTRAL">
+			<Text>不错的交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>这不会喂饱我的人民和我的马。增加你的出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你不能做的更好一点么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>这还不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>几乎可以了...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_NEUTRAL">
+			<Text>我不感兴趣。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_YES_NEUTRAL">
+			<Text>欢庆吧，别的地方更需要我的注意。否则我不会那么宽容。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_NO_NEUTRAL">
+			<Text>你似乎是从罗马小偷那里学到的还价技巧。不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADEREQUEST_NEUTRAL">
+			<Text>我的军队需要补给，这个交易对我们双方都有利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>嗯，我觉得我的财富有点无聊了，你可以现在让它增加一些，或者我自己去你那里拿。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_1">
+			<Text>好的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_2">
+			<Text>非常好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_2">
+			<Text>不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_1">
+			<Text>让我们听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_2">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_3">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_4">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_3">
+			<Text>我们会再见的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_4">
+			<Text>再见，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_HAPPY">
+			<Text>一个不错的协议！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>哈，即使是罗马人也不敢提出这么一个交易。再试试，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>你确定你不能再做好一点？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你几乎成功了...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_HAPPY">
+			<Text>谢谢你，但是让我们跳过这个。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_YES_HAPPY">
+			<Text>为什么，当然。援助我们中的一个最终会帮到我们大家。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_NO_HAPPY">
+			<Text>我的东西都已经打包上船了，恐怕你得自己留着。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_HAPPY">
+			<Text>看，我已经清理出一个光荣的位置给你的东西。你怎么能拒绝如此一个特权？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADEREQUEST_HAPPY">
+			<Text>来吧，有许多很好的协议可以达成！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_3">
+			<Text>当然不。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_4">
+			<Text>这不可接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_3">
+			<Text>继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_4">
+			<Text>我在听着。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_5">
+			<Text>哦，是你啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_5">
+			<Text>就是这些了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_GOODBYE_6">
+			<Text>现在就离开。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_YES_ANGRY">
+			<Text>成交。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>我能感到怒火在我喉咙里升起，但是在顾问的请求下我允许你增加你的出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做的更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>几乎...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADE_NO_ANGRY">
+			<Text>你打算在我的人面前偷我的东西？滚吧，乞丐！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_YES_ANGRY">
+			<Text>你现在占据上风，但是并不会一直这样。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRIBUTE_NO_ANGRY">
+			<Text>小心了，你用你的愚蠢在你的死亡契约上签了字。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DEMANDTRIBUTE_ANGRY">
+			<Text>你会对我庞大的财富作出贡献。我脚边有一个空位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_TRADEREQUEST_ANGRY">
+			<Text>这比你应得的要好，但是不要让别人说我是一个不公平的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_AGREE_SHORT_4">
+			<Text>好的，同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_5">
+			<Text>你疯了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_6">
+			<Text>这不可接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DISAGREE_SHORT_7">
+			<Text>你一定实在开玩笑！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_LETSHEARIT_5">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DECLAREWAR_1">
+			<Text>霍诺利雅的嫁妆必须兑现！这是我的土地，无论你是不是主动交出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DECLAREWAR_2">
+			<Text>罗马的力量在我军队的闪击前像嫩枝一样折断，你怎么可能承受？ 我的骑兵会把你打到泥土里。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_DECLAREWAR_3">
+			<Text>我对这顶王冠感到厌倦了。我觉得我会喜欢你那顶。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_1">
+			<Text>诅咒你，你这卑鄙的罗马狗！我会在今天结束前取得你的脑袋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_2">
+			<Text>我本以为这种背叛会来自罗马而不是你。没关系，你们的血都是红色的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ATTILA_ATTACKED_3">
+			<Text>我觉得你很没用但是你证明了我是错的。你成为了一个说明如何死亡的绝佳的例子。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

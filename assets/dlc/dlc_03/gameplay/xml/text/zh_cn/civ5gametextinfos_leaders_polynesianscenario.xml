@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA">
+			<Text>霍图·玛图阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_KAMEHAMEHA_NAME">
+			<Text>霍图·玛图阿</Text>
+		</Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA">
+      <Text>阿霍图伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MONTEZUMA_NAME">
+      <Text>阿霍图伊</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI">
+      <Text>马列托亚·萨维亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_GANDHI_NAME">
+      <Text>马列托亚·萨维亚</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA">
+      <Text>波马雷一世</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HIAWATHA_NAME">
+      <Text>波马雷一世</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

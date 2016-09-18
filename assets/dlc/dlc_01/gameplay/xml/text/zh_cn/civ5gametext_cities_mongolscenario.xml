@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- Game Text Cities -->
+<!--freesand leo-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_KIEV">
+			<Text>基辅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_CONSTANTINOPLE">
+			<Text>君士坦丁堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_THESSALONICA">
+			<Text>萨洛尼卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_CAIRO">
+			<Text>开罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ALEPPO">
+			<Text>阿勒颇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_URGENCH">
+			<Text>乌尔根奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_ISFAHAN">
+			<Text>伊斯法罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_NISHAPUR">
+			<Text>内沙布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_SAMARKAND">
+			<Text>撒马尔罕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_TABRIZ">
+			<Text>大不里士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_MULTAN">
+			<Text>木尔坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_TANZHOU">
+			<Text>潭州</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIANGYANG">
+			<Text>襄阳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_DAZAIFU">
+			<Text>太宰府</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_BEIJING">
+			<Text>燕京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_KAIFENG">
+			<Text>开封</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_XIAN">
+			<Text>西安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MONGOL_SCENARIO_CITY_NAME_LIAOYANG">
+			<Text>辽阳</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

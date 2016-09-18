@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TRAIT_WAYFINDING_SHORT">
+			<Text>海路探寻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_WAYFINDING">
+			<Text>单位初始时即能以海运模式进入大洋。海运单位+1视野。在摩艾石像群周边2格内单位+10%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

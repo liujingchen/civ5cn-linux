@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_CIV_ASSYRIA_ADJECTIVE">
+			<Text>亚述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ASSYRIA_DESC">
+			<Text>亚述文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ASSYRIA_SHORT_DESC">
+			<Text>亚述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRAZIL_ADJECTIVE">
+			<Text>巴西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRAZIL_DESC">
+			<Text>巴西文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BRAZIL_SHORT_DESC">
+			<Text>巴西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDONESIA_ADJECTIVE">
+			<Text>印尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDONESIA_DESC">
+			<Text>印度尼西亚文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_INDONESIA_SHORT_DESC">
+			<Text>印尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MOROCCO_ADJECTIVE">
+			<Text>摩洛哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MOROCCO_DESC">
+			<Text>摩洛哥文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MOROCCO_SHORT_DESC">
+			<Text>摩洛哥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PORTUGAL_ADJECTIVE">
+			<Text>葡萄牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PORTUGAL_DESC">
+			<Text>葡萄牙文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PORTUGAL_SHORT_DESC">
+			<Text>葡萄牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_POLAND_ADJECTIVE">
+			<Text>波兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_POLAND_DESC">
+			<Text>波兰文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_POLAND_SHORT_DESC">
+			<Text>波兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SHOSHONE_ADJECTIVE">
+			<Text>肖肖尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SHOSHONE_DESC">
+			<Text>肖肖尼文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SHOSHONE_SHORT_DESC">
+			<Text>肖肖尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VENICE_ADJECTIVE">
+			<Text>威尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VENICE_DESC">
+			<Text>威尼斯文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VENICE_SHORT_DESC">
+			<Text>威尼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZULU_ADJECTIVE">
+			<Text>祖鲁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZULU_DESC">
+			<Text>祖鲁文明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ZULU_SHORT_DESC">
+			<Text>祖鲁</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

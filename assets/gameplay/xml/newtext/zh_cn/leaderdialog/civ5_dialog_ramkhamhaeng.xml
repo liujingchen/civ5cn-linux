@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_4">
+			<Text>我同意了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_5">
+			<Text>哦，好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_6">
+			<Text>我想我必须接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_7">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_1">
+			<Text>你的举动不出我所料！你会发现我们已经做好准备了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_2">
+			<Text>你敢！我会用你的鲜血洗刷我们所受的侮辱!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_3">
+			<Text>无论如何。我们都会消灭你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_1">
+			<Text>这是你最后一次羞辱我们了。准备战斗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_2">
+			<Text>你粗暴无礼的行径让我忍无可忍了：准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_3">
+			<Text>可耻的渣滓！我要把你的傲慢踩在脚下！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_1">
+			<Text>除了荣誉我已一无所有。现在我只剩下一条出路了。再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_2">
+			<Text>你终于打败我了。我别无选择只能投降。永别了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_3">
+			<Text>我祝贺你赢得了胜利，看来我只能选择体面的投降了。永别了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_ANGRY">
+			<Text>这是我的条件，拒绝接受只有死路一条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_HAPPY">
+			<Text>我的朋友，你会在我们需要帮助的时候伸出援手吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_NEUTRAL">
+			<Text>如果你还想继续生存，最好答应我的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_2">
+			<Text>绝对不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_5">
+			<Text>这让人无法接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_6">
+			<Text>你不是认真的吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_7">
+			<Text>抱歉，你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+			<Text>欢迎来到暹罗，陌生人。我是兰甘亨。您的光临让我们倍感荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+			<Text>见到你我感到很荣幸，我是暹罗的兰甘亨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+			<Text>你好。我是兰甘亨，暹罗的君主。你的到访令蔽国倍感荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_2">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_3">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_4">
+			<Text>下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_7">
+			<Text>我们的会谈结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_5">
+			<Text>哦，是你啊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_6">
+			<Text>你好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_1">
+			<Text>快说吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_2">
+			<Text>接着说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_3">
+			<Text>我在听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_6">
+			<Text>还有呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_7">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LOSEWAR_1">
+			<Text>你暂时获得了胜利。但我一定会复仇的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你的提议是很不公平的——我感到有点失望。请提高报价，否则免谈。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那远远不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你必须做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我相信你并不是故意要冒犯我，但是你的提议对我的人民来说很不公平。我想你一定会加以改进吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这就是你最好的条件了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你目前提出的条款很不公平，我会在国民面前大失脸面的。请提高你的出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好吧？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>就差一点了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_ANGRY">
+			<Text>我不能同没有信誉的人做交易，马上从我的面前消失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_HAPPY">
+			<Text>虽然我相信你没有侮辱我的意思，但是我不能接受你的条件。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_NEUTRAL">
+			<Text>我发现你的提议对暹罗人民是一种侮辱，我拒绝接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_ANGRY">
+			<Text>很好。你的条件可以接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_HAPPY">
+			<Text>我们很荣幸接受你的提议，朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_NEUTRAL">
+			<Text>一份公平的协议会令双方获益，成交了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_ANGRY">
+			<Text>这是我的条件，我劝你最好接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_HAPPY">
+			<Text>如果你接受这项提议，我会感到非常荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_NEUTRAL">
+			<Text>你好。我相信这对双方都很公平，你说呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_ANGRY">
+			<Text>滚吧，废物！你弄脏了我的宫殿！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_HAPPY">
+			<Text>十分遗憾，我必须拒绝你的要求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_NEUTRAL">
+			<Text>我宁可去死也不会屈服于这样的侮辱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_ANGRY">
+			<Text>你这傲慢的狗东西！将来我一定要报复你的侮辱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY">
+			<Text>我不会拒绝你的任何要求，我友善的客人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_NEUTRAL">
+			<Text>好吧，看来我没有别的选择。但我一定会洗刷这份耻辱，我发誓！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_1">
+			<Text>你正在玩一场危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_2">
+			<Text>很好。下次我就不会这么有礼貌了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_3">
+			<Text>真让人失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_4">
+			<Text>太令人失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_5">
+			<Text>真的吗？ 我相信你活不到为你的鼠目寸光而后悔的那一天了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_6">
+			<Text>你真是蠢死了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WINWAR_1">
+			<Text>你已经一败涂地了，你应该明白你的处境。现在你准备如何面对我的羞辱？</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED">
+			<Text>受损单位保持原有作战效率。每处渔船+1[ICON_CULTURE]文化，每处环礁+2[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE_SHORT">
+			<Text>贵族共和</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SUPER_CITY_STATE">
+			<Text>不能获得移民或吞并城市。可建立商路数量加倍。研发光学后获得一个威尼斯商人。可在傀儡城市中以金钱购买项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT">
+			<Text>短兵突击</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HORNS">
+			<Text>肉搏单位维护费减少50%。所有单位晋升所需经验减少25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT">
+			<Text>集聚宝藏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SLAYER_OF_TIAMAT">
+			<Text>占领一座城市时免费获得其所属文明拥有的一项科技。通过交易获得城市除外，每座城市仅在首次占领时有效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY_SHORT">
+			<Text>团结进取</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SOLIDARITY">
+			<Text>每次进入新时代时免费获得一项社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL_SHORT">
+			<Text>嘉年华会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CARNIVAL">
+			<Text>黄金时代期间魅力[ICON_TOURISM]产出+100%。黄金时代期间大美术家、大音乐家、大文学家产生速率+50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE_SHORT">
+			<Text>香料群岛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SPICE">
+			<Text>在出生地以外的不同大陆上分别建立的前三座城市可各获得2份特有奢侈资源（这些城市也无法被夷平）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE_SHORT">
+			<Text>专有海域</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_TRADE">
+			<Text>资源多样性使国际商路带给葡萄牙的[ICON_GOLD]金钱加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT">
+			<Text>辽阔领地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_EXPANSE">
+			<Text>新建城市可获得额外的初始领地。在本国境内单位可获得战斗力加成。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT">
+			<Text>非洲门户</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_AFRICA">
+			<Text>每条连接不同文明或城邦的商路+3[ICON_GOLD]金钱，+1[ICON_CULTURE]文化。每条通往摩洛哥的商路可为所有者+2[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT">
+			<Text>沙漠之舟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD2">
+			<Text>商队行程增加50%。商路传播始发城市所属宗教的效率加倍。[ICON_OIL]石油资源储量加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
+			<Text>光辉之城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+			<Text>首都的博物馆和世界级奇观中艺术品主题展示带来的奖励效果加倍。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+			<Text>击败蛮族营地中的蛮族单位有67%几率得到25[ICON_GOLD]金钱并使其投降。陆上单位维护费-25%。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

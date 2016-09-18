@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<!-- City States-->
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA">
+			<Text>卡鲁沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CALUSA_ADJ">
+			<Text>卡鲁沙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_CALUSA_TEXT">
+			<Text>当欧洲人胡安•庞塞•德莱昂于公元1513年抵达时，大沼泽地及南佛罗里达由卡鲁沙人所统治。他们藉由水产养殖发展出复杂的文化与商业活动，经济影响范围最北可达今日的乔治亚州。根据西班牙人的记录，他们会和其他部族交易渔网、鱼钩、西波尔麻、浮标、鱼笼、船桨、碗、耳饰、面具、木板、柏木和“锦旗”。卡鲁沙人与欧洲人之间紧张的和平共存关系在1702年西英战争时彻底瓦解，获得英国人武装援助及同盟的克里克与雅玛西人几乎灭绝了所有卡鲁沙人，少数的残存者则逃入了沼泽深处。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA">
+			<Text>坎贝巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KAMBEBA_ADJ">
+			<Text>坎贝巴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KAMBEBA_TEXT">
+			<Text>坎贝巴人（亦称欧马瓜人）是生活于亚马逊流域腹地的土著部族，其领土在全盛时期曾到达秘鲁一带。最先踏上他们土地的欧洲人是公元1541年的西班牙探险家弗朗西斯科•德•奥雷亚纳，而当时他所见到的，是一个领土遍及沿河数百英里、农业为主、人口众多、经济繁荣且高度组织化的王国。虽然他们没有留下建筑物（可能是因为仅有木造建筑之故），但出土的陶器显示他们有着高度发达的文化。欧洲人带来的传染病在16到17世纪之间重创了坎贝巴人，他们的王国也因而分崩离析，成了四散各地的半游牧部族。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA">
+			<Text>卡兰卡瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_KARANKAWA_ADJ">
+			<Text>卡兰卡瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_KARANKAWA_TEXT">
+			<Text>卡兰卡瓦人是散居于德克萨斯海岸一带的土著族群，尽管彼此间存在着诸多歧异，但却有着共同的文化及语言，且据报仍残存有食人仪式。男性有仪式刺青、穿环及纹身之习俗。与卡兰卡瓦人共同生活的卡韦萨•德•巴卡也提到，他们的文化中有三种性别角色，分别是男性、女性、以及由部分男性所担任的“博达切”（双灵人），这种人在宗教祭典及某些活动当中扮演着特殊的角色。卡兰卡瓦人在1697年首次接触欧洲人。他们与白人保持和平共存，直到德克萨斯独立战争期间，卡兰卡瓦人效命于墨西哥一方，并于战败之后四散逃亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC">
+			<Text>密西特克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MIXTEC_ADJ">
+			<Text>密西特克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_MIXTEC_TEXT">
+			<Text>密西特克人是中美洲的原住民部族，并且是墨西哥地区在前哥伦布时期最重要的王国之一，首都位于堤兰通戈，其他大型城镇也有十二个之多。他们的富裕程度远近驰名，技巧高超的工匠所创作出的木雕、石刻及贵金属艺品，在当地一带被视为珍宝，也为王国带来滚滚财源。虽然在历史上，密西特克人向来臣属于阿兹特克帝国，但他们大多数的城镇都享有高度的自治权。阿兹特克灭国后，密西特克人顽强抵抗西班牙统治，最后亡于科尔特斯的副手佩德罗•德•阿尔瓦拉多的优势武力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA">
+			<Text>泰罗纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TAIRONA_ADJ">
+			<Text>泰罗纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TAIRONA_TEXT">
+			<Text>泰罗纳王国是圣马利亚内华达山脉地区（如今的哥伦比亚）一带由多个酋邦构成的松散盟，其年代可追溯至公元1世纪。他们与西班牙入侵者的接触有限，直到公元1599年，泰罗纳人奋起反抗宗教迫害，攻击了当地的教堂及牧师。西班牙人迅速出兵镇压，到1602年时泰罗讷人便战败并四处逃亡。泰罗纳地区的传统习俗相当不同于南美洲大多数地区，当地接纳离婚及同性恋，同时也有“嚼食古柯叶”之恶习，因此与天主教会水火不容。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN">
+			<Text>特兹特祖恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_TZINTZUNTZAN_ADJ">
+			<Text>特兹特祖恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_TZINTZUNTZAN_TEXT">
+			<Text>塔拉斯堪人的首都特兹特祖恩位于帕兹卡洛湖泊地带，他们的小王国自公元13世纪成立以来，便未曾受过阿兹特克的统治。在全盛时期，特兹特祖恩是一个拥有三万人口的贸易中心，城中的大型广场周边建有贵族与祭司的宅邸，并有五座面向湖泊的亚卡塔（半圆形金字塔）坐镇。这座城镇长久以来主宰着中南墨西哥一带的贸易，但西班牙人在15世纪20年代征服该国，并于1529年将其末代国王唐安佐恩二世处以火刑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT">
+			<Text>文达特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WENDAT_ADJ">
+			<Text>文达特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CIV5_WENDAT_TEXT">
+			<Text>文达特人是加拿大的土著部族之一，在他们开始与欧洲人接触时主要居住于安大略湖北岸。</Text>
+		</Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT">
+      <Text>因纽特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_INUIT_ADJ">
+      <Text>因纽特</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE">
+      <Text>塞米诺尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_SEMINOLE_ADJ">
+      <Text>塞米诺尔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA">
+      <Text>拉科塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_LAKOTA_ADJ">
+      <Text>拉科塔</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB">
+      <Text>加勒比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CARIB_ADJ">
+      <Text>加勒比</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE">
+      <Text>切诺基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_CHEROKEE_ADJ">
+      <Text>切诺基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN">
+      <Text>阿耳岗昆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ALGONQUIN_ADJ">
+      <Text>阿耳岗昆</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE">
+      <Text>穆斯科基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUSCOGEE_ADJ">
+      <Text>穆斯科基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI">
+      <Text>瓦巴纳基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_WABANAKI_ADJ">
+      <Text>瓦巴纳基</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE">
+      <Text>马普切</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAPUCHE_ADJ">
+      <Text>马普切</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK">
+      <Text>阿拉瓦克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ARAWAK_ADJ">
+      <Text>阿拉瓦克</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA">
+      <Text>玛雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MAYA_ADJ">
+      <Text>玛雅</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI">
+      <Text>雅诺玛米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_YANOMAMI_ADJ">
+      <Text>雅诺玛米</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA">
+      <Text>穆伊斯卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_MUISCA_ADJ">
+      <Text>穆伊斯卡</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI">
+      <Text>霍皮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_HOPI_ADJ">
+      <Text>霍皮</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI">
+      <Text>阿纳萨齐</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEWWORLD_SCENARIO_CITYSTATE_ANASAZI_ADJ">
+      <Text>阿纳萨齐</Text>
+    </Row>
+	</Language_zh_CN>
+</GameData>

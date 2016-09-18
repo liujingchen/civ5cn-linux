@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!--freesand-->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TITLE">
+			<Text>1066:维京时代的终结</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_DESC">
+			<Text>“忏悔者”爱德华已死，英格兰国王的宝座正虚位以待。你能带领你的勇士们击败其他维京对手，开创一个新的王朝吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV5_DAWN_VIKING_TEXT">
+			<Text>剧情描述[NEWLINE]向您致敬，伟大的维京领主！英格兰国王“忏悔者”爱德华死后，爱德华的封臣哈罗德·葛温森自立为王。但他的统治合法性存在疑问：同样宣称拥有王位继承权的还有诺曼底公爵威廉、挪威国王“强王”哈拉德和丹麦国王斯文二世。您能指引这些维京领主当中的一位成为英格兰的下一任伟大君主吗？登上你的战船，向世界证明你是天神奥丁选中的勇士吧！[NEWLINE][NEWLINE]胜利条件[NEWLINE]你必须在时间结束前在伦敦完成国家奇观“末日审判书”以赢得剧情。在建造该奇观前还必须在六个原属盎格鲁-撒克逊英格兰的城市中建造“郡法庭”。这些法庭只能在距离离伦敦八格或更远的城市建造。[NEWLINE][NEWLINE]特殊规则[NEWLINE]四个主要势力之间处于永久战争状态。科技、政策和快乐系统全部禁用。游戏过程中不能获得新的科技或社会政策。所有控制和征服的城市人口增长不受快乐度影响。当与城邦成为盟友时，城邦的所有军事单位会在同盟期间受你控制。所有单位拥有海运防御晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TURNSREMAINING">
+			<Text>剩余回合数: {1_TurnsRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_NAME">
+			<Text>强王哈拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_SUBTITLE">
+			<Text>挪威国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_LIVED">
+			<Text>约1015-1066</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_HARDRADA_TEXT_1">
+			<Text>哈拉德·西古尔德森，绰号“强王”（Hardrada），是1047至1066年间在位的挪威国王。哈拉德最出名的事迹莫过于他对英格兰的入侵，以及1066年9月在斯坦福德桥战役中的失败，这被许多人认为是维京时代终结的标志。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_NAME">
+			<Text>哈罗德·葛温森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_SUBTITLE">
+			<Text>英格兰国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_LIVED">
+			<Text>约1022-1066</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_GODWINSON_TEXT_1">
+			<Text>哈罗德·葛温森是一个在位期很短的英格兰国王，从1066年1月起到同年10月在黑斯廷斯战役中失败身亡。他是盎格鲁-撒克逊时期的最后一位国王。尽管成功地击退了“强王”哈拉德在北方的入侵，但不到一个月之后，葛温森和他的军队就在持续一天的黑斯廷斯战役中被征服者威廉所消灭。传说葛温森最终死于一支贯穿眼睛的箭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_NAME">
+			<Text>征服者威廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_SUBTITLE">
+			<Text>诺曼底公爵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_LIVED">
+			<Text>约1028-1087</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_WILLIAM_TEXT_1">
+			<Text>征服者威廉（或称威廉一世）领导诺曼人征服了英格兰，并成为英格兰诺曼王朝的第一位君主。在1066年10月的黑斯廷斯战役中击败哈罗德·葛温森的军队之后，威廉最终平定了英格兰全境并统治了二十年，直到他于1087年去世。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_NAME">
+			<Text>斯文二世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_SUBTITLE">
+			<Text>丹麦国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_LIVED">
+			<Text>约1019-约1075</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LEADER_SWEYN_TEXT_1">
+			<Text>斯文二世是1047至1074年在位的丹麦国王。在他统治期内，丹麦和强王哈拉德治下的挪威之间冲突不断（后者一直想征服丹麦），这两个宿敌之间爆发了无数的战争。斯文有二十多个孩子，其中的五个在他去世之后的六十年间相继成为丹麦国王。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_ENGLAND_TEXT_1">
+			<Text>忏悔者爱德华于1065年去世后，哈罗德·葛温森迅速通过英格兰贵族议会“谘议院”获得了英格兰的王位。但好景不长，挪威的“强王”哈拉德，以及更为关键的诺曼底公爵威廉的入侵，将永远地改变英格兰的政治走向。在1066年斯坦福德桥战役战胜哈拉德之后，葛温森不得不在短短数周时间内重整军队赶往南方去对付威廉。然而，威廉率领的诺曼军队确定无疑地占据了优势，哈罗德在1066年黑斯廷斯战役中战败身亡。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORMANDY_TEXT_1">
+			<Text>诺曼底公国，位于今天法国鲁昂地区，最初于公元9世纪末由来自斯堪的纳维亚的维京人殖民。在911年以《圣克莱尔-埃普特条约》的签订为标志正式建立。当时的法兰西国王查理三世向维京首领罗洛移交了大片土地，形成了后来诺曼底公国的前身。诺曼底公国历史上最著名的一位公爵就是征服者威廉，他在1066年夺取了英格兰的王位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_NORWAY_TEXT_1">
+			<Text>强王哈拉德治下的挪威，在11世纪曾数次发动对丹麦的战争，意在夺取丹麦王位。自从1047年丹麦王马格努斯一世逝世后，哈拉德质疑斯文二世继位的合法性，最终导致双方兵戎相见成为宿敌。但在数次入侵丹麦失败后，哈拉德将目光投向了英格兰。1066年9月，哈拉德率大军入侵英格兰，但在斯坦福德桥战役中被哈罗德·葛温森的军队杀死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_CIV_DENMARK_TEXT_1">
+			<Text>丹麦王国在8至11世纪的维京人巅峰时期兴旺繁荣，在11世纪初又卷入和挪威接连不断的战争中。在1047年丹麦国王马格努斯一世去世后，挪威的强王哈拉德质疑斯文二世继位的合法性，由此不断发动战争威胁丹麦。两个宿敌在战场上不断交手。持续长达15年的战事最后以两国和解收场，因为双方都意识到不可能完全战胜对方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+			<Text>不列颠同盟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS_SHORT">
+			<Text>城堡建造者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CASTLE_BUILDERS">
+			<Text>除了工人可以修建堡垒外，剑士也能修建特色设施——城寨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_SAXON_HUSCARL_TEXT">
+			<Text>中古时期的盎格鲁-撒克逊侍卫（Houscarl），相当于今天的保镖，是一群负责保护国王和贵族的受过专门训练并有丰富报酬的战士。靠着覆盖至腰身的链甲及威武的战斧，侍卫是11至12世纪时期有绝对震慑力的防御力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAXON_HUSCARL_STRATEGY">
+			<Text>侍卫是盎格鲁-撒克逊英格兰的特色单位，替代长剑士。自动获得隐蔽一级和+50%对骑乘单位晋升，凭借强大的防御能力，侍卫可在面对任何敌人进攻时组成一道坚固的防线。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAXON_HUSCARL">
+			<Text>强大的中古时代肉搏单位，能有效对抗骑乘单位和远程单位。自动获得隐蔽一级和+50%对骑乘单位晋升。英格兰特色单位。取代长剑士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NORMAN_KNIGHT_TEXT">
+			<Text>诺曼军队中的骑士在11世纪对英格兰的征服战争中大显身手，他们通常配备及膝的链甲，以及可以偏转来袭弓箭（从设计原理上来说）的尖锥式头盔。诺曼骑士最为著名的装备可能是他们随身携带的“鸢盾”，这种瘦长型的盾牌可以在骑士们专注于贴身近战时有效保护他们的腿部。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NORMAN_KNIGHT_STRATEGY">
+			<Text>诺曼骑士是诺曼底特色单位，取代骑士。相比普通骑士，诺曼骑士拥有闪击战术晋升，可以在一回合内多次进攻。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_NORMAN_KNIGHT">
+			<Text>中古时代强大的骑乘单位，对长枪兵战斗力较弱。自动获得闪击战术晋升。只有诺曼底公国可以组建。替代骑士。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_HELP">
+			<Text>每回合+5[ICON_GOLD]金钱。只有在拥有6座郡法庭后才能在伦敦建造“末日审判书”。只能在距离伦敦八格或更远的原属盎格鲁-撒克逊英格兰的城市中建造。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_STRATEGY">
+			<Text>建造郡法庭以对英格兰进行地志调查。建成后可获得当地居民上缴的税款。一旦拥有6座郡法庭，便可在伦敦建造“末日审判书”来宣告你对全英格兰的稳固统治。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_COURTHOUSE_PEDIA">
+			<Text>郡法庭是在征服者威廉统治时期在各地设立的土地及税收调查机构，负责将居民领主们聚集起来进行最终调查。英格兰人十分厌恶这种调查，他们往往向王室官员漏报自己的土地面积和牲畜数目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_HELP">
+			<Text>建造该建筑以赢得剧情。必须先建造6座郡法庭。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_STRATEGY">
+			<Text>完成“末日审判书”国家奇观意味着已经成功清查了英格兰的全部土地，成为全英格兰的主人。建造该奇观以赢得剧情游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BUILDING_NATIONAL_COLLEGE_PEDIA">
+			<Text>“末日审判书”（或称“最终调查书”）是征服者威廉统治时期记录人民牲畜及土地所有状况的典籍。完成于1085年的“最终调查”之后。威廉以此估算忏悔者爱德华时期有多少未上缴的税款。“末日审判书”这一称谓是表明其所记载的内容是由王室官员核定的最终结果，如同“末日审判”一样不可更改。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HADRIANS_WALL">
+			<Text>哈德良长城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HADRIANS_WALL_TEXT">
+			<Text>自公元前122年开始修建，以下令的罗马皇帝哈德良命名的哈德良长城是一座划分英格兰北部边界的宏伟防御工事。延绵大约73英里（117公里）的城墙从西海岸的博尼斯一直延伸到东海岸的沃尔森德（曾经的罗马要塞斯格迪纳）。这座主要由石灰石修筑的城墙在建成之后的许多年时间里沿线拥有十多个的大型要塞，每个要塞可供上千名罗马士兵驻守。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MOTTE_BAILEY">
+			<Text>城寨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_TEXT">
+			<Text>“城寨”（Motte-and-Bailey，原意为“护堤城堡和堡场”）最早由诺曼征服者在10世纪设计，是一种在较高地势上修建的高耸城堡防御体系。城寨主要有两个组成部分：一是位于中央的“护堤城堡”——先在周围挖掘一圈堑沟，挖出来的土石堆在中间垒成一座人造丘陵，再在其上修建城堡主体；二是“堡场”——指略低处的宽阔场地，四周由高墙围绕，其中建有兵营、仆役住所和仓库等等。在城寨中的单位可获得100%的防御战斗力加成。而任何在城寨旁结束回合的敌方单位则将遭受3点损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MOTTE_BAILEY_HELP">
+			<Text>由诺曼剑士修建，在城寨中的单位可获得100%的[ICON_STRENGTH]防御战斗力加成。而任何在城寨旁结束回合的敌方单位则将遭受3点损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY">
+			<Text>修建城寨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_HELP">
+			<Text>在城寨中的单位可获得100%的[ICON_STRENGTH]防御战斗力加成。而任何在城寨旁结束回合的敌方单位则将遭受3点损伤，但不会杀死该该单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MOTTE_BAILEY_REC">
+			<Text>城寨会增加进驻该地块单位的[ICON_STRENGTH]防御战斗力并对在附近结束回合的敌方单位造成损伤。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_TAX_COLLECTION">
+			<Text>税吏已从英格兰诸郡收获了居民们上缴的{1_GoldCollected}[ICON_GOLD]金钱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_NEW_RECRUITS">
+			<Text>留在家乡的同胞们获知了有关英格兰的巨大财富及丰饶土地的消息。首都附近出现{1_NumUnits}个新单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_ALLY_GAINED">
+			<Text>来自{1_CityStateName}城邦的军事单位已加入你的部队！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_ALLY_LOST">
+			<Text>来自{1_CityStateName}城邦的单位现在将返回本城邦。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_BRIEFING">
+			<Text>概要</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_LONDON_STATUS">
+			<Text>控制伦敦: {1_CivilizationName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_1066_SCENARIO_SHIRE_COURT_STATUS">
+			<Text>郡法庭建成数: {1_NumBuildings}/6</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

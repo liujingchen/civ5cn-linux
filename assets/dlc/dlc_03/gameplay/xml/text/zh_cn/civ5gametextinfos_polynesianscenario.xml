@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- LocBuddy does not yet handle DLC scenarios so for now add the scenario text to the DLC package.-->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TITLE">
+			<Text>发现人间天堂</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DESC">
+			<Text>乘着双体独木舟在广阔的太平洋中航行，将所属岛屿的文化传遍这个人间天堂。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_SELECT_MAP">
+			<Text>选择地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_RANDOM_MAP">
+			<Text>随机群岛地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FIXED_MAP">
+			<Text>南太平洋地图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_DAWN_POLYNESIAN_TEXT">
+			<Text>“阿洛哈”，伟大的波利尼西亚国王！现在您正统治着波利尼西亚群岛众多岛屿中的一个。虽然在这个富饶的热带天堂中的生活已经足够惬意，您仍然渴望着劈波斩浪，去开创更伟大的事业。您的人民已经发明了“海路探寻”——这是在太平洋上通过观察星辰、飞鸟和海流变化进行导航的复杂技术。您麾下勇敢的水手们已经准备好乘着他们的双体独木舟驶入广阔的大洋，去殖民新发现的岛屿。您能成功征服可怕的风浪，在远离家乡海滨的彼岸建立落脚点吗？您能将所属岛屿的民族文化传遍整个太平洋吗？[NEWLINE][NEWLINE]胜利条件[NEWLINE]率先推行所有社会政策，成为波利尼西亚群岛主导文化的文明将赢得胜利。[NEWLINE][NEWLINE]特殊规则[NEWLINE]本剧情重新设定了科技树和社会政策树。四个大文明各拥有一种特殊能力，并都可通过研究科技获得标准游戏中波利尼西亚文明所拥有的奖励（摩艾石像群设施和毛利勇士单位）。你可以尽量扩张你的帝国，在本剧情中推行社会政策的成本不会随城市的数量增加而提高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TURNSREMAINING">
+			<Text>本剧情没有回合数限制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BRIEFING">
+			<Text>概要</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_HELP">
+			<Text>本剧情中最强的战斗单位（火药出现之前）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_POLYNESIA_SCENARIO_MAORI_STRATEGY">
+			<Text>毛利勇士是波利尼西亚战场的主宰者。这些强大的肉搏战士拥有“哈卡战舞”晋升，能威吓邻近的敌人，降低其[ICON_STRENGTH]战斗力。他们可以轻松击败普通的勇士和矛兵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_HELP_TRIREME">
+			<Text>中古时代适用于掌控制海权的海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_UNIT_TRIREME_STRATEGY">
+			<Text>三列桨战船是游戏中第一种海军单位。它属于中等战力的远程单位，不能发起近战攻击。三列桨战船适用于清除蛮族船只以及攻击海运的敌军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV5_IMPROVEMENTS_MOAI_HELP">
+			<Text>摩艾石像群只能修建于海滨。如果与另一处摩艾石像群相邻，还可以提供额外的[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_HELP">
+			<Text>在地块上修建摩艾石像群(+1[ICON_CULTURE]文化)。沿海岸修建多处摩艾石像群可以提供额外的文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILD_MOAI_REC">
+			<Text>允许地块产出[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_HEROIC_EPIC_HELP">
+			<Text>该城所有新组建单位获得[COLOR_POSITIVE_TEXT]两栖能力[ENDCOLOR]晋升，消除登陆或跨河攻击时的战斗力惩罚。还可以提供[NEWLINE][NEWLINE]所有城市需要有军营。建造成本会随本国城市数量的上升而增加。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_HEROIC_EPIC_STRATEGY">
+			<Text>该国家级奇观给予该城所有新组建单位“两栖能力”晋升，消除登陆或跨河攻击时的战斗力惩罚。还可提供+1文化。建造英雄史诗前所有城市都需要有军营。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_DESC">
+			<Text>与产出陆生动植物的种植业、畜牧业类似，水产养殖是产出水生动植物的一种产业。水产养殖是大面积水体附近居民的重要食物来源，水产养殖也包括奢侈品的生产，例如珍珠和观赏鱼等。大规模捕捞野生鱼类和作为业余爱好的休闲垂钓都不算是水产养殖。水产养殖常常被海洋民族当作是一种更为稳定可靠的食物来源，是对野生鱼类捕捞活动的重要补充。[NEWLINE][NEWLINE]在人类历史中，水产养殖是由不同的文明分别独立发明出来的。考古证据显示最早从事水产养殖的可能是澳大利亚的原住民冈迪吉马拉人，他们很早就开始捕捞和养殖鳗鱼。波利尼西亚人沿岛屿的海岸线用石头围成鱼塘，通过水闸放进鱼类进行养殖。虽然水产养殖获得的食物量不能与陆地上的种植业和畜牧业相比，但是相关的知识技术例如捕捞成鱼、采集鱼籽、培育鱼苗和贝类着床等等都在世界各地广泛传播和应用。水产养殖还将许多特种引入新的生活环境，但这有时也会影响到生态系统中原有动物和植物的生长。[NEWLINE][NEWLINE]进入工业时代之后，水产养殖与商业活动之间的结合起来越紧密。由于商业捕捞使野生资源面临枯竭，许多味道鲜美的鱼类和贝类的供给越来越依赖于水产养殖，才能源源不断地满足世界各地无数食客的需求。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_HELP">
+			<Text>提升来自渔船的[ICON_GOLD]金钱产出。并允许你在海滨城市建造[COLOR_POSITIVE_TEXT]海运码头[ENDCOLOR]，增加来自水上资源的[ICON_PRODUCTION]产能。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_AQUACULTURE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“水产养殖是一项充满风险的事业。你不会仅为金钱而从事水产养殖。你只有热爱它才会去从事它。”[NEWLINE][TAB][TAB]——麦克尔·马修斯[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_DESC">
+			<Text>装饰雕刻是波利尼西亚主要的装饰艺术之一。不论所用的材料是贝壳、鱼骨、木头还是石头，波利尼西亚人都能将它们变成出色的装饰品。不仅礼仪和宗教用器具会被加以雕饰，甚至日常的用具——从凳子到勺子也常常会带有精美的雕饰。[NEWLINE][NEWLINE]虽然装饰雕刻在整个波利尼西亚都很普遍，但各地流行的风格与常用的材料还是有很大的差异。例如夏威夷盛产木材，木雕的技术与艺术表现力达到很高的水平，而缺乏木材的复活节岛居民则以将岛上出产的火山岩雕凿成雄浑的摩艾石像而闻名。[NEWLINE][NEWLINE]人形的“基提”（Tiki）是波利尼西亚最觉的雕刻艺术品。这种雕像表现的是英雄或祖先的形象，被人们认为附着了“玛那”神力，通常具有代表着洞察一切的大眼睛和显露着力量和威严的整齐牙齿。到了二战之后，“基提”一词才开始被用来指代一种通俗的艺术形式。[NEWLINE][NEWLINE]除了表现具体形象的装饰雕刻，波利尼西亚人还在他们生活的岛屿的岩石上留下了许多线条图案。这些线条图案以及在荣戈-荣戈木板上刻画的神秘符文的含义至今仍为学者们争论不休，有时还成为阴谋论者的关注对象。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_HELP">
+			<Text>允许工人在海滨地块修建[COLOR_POSITIVE_TEXT]摩艾石像群[ENDCOLOR]，增加地块的[ICON_CULTURE]文化产出。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ORNAMENTAL_CARVING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我发现了大理石里隐藏的天使，并通过雕凿将他释放出来。”[NEWLINE][TAB][TAB]——米开朗基罗[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_DESC">
+			<Text>“纹身”（Tattoo）是指用颜料在人的皮肤上绘制不可消褪的图案的艺术，在波利尼西亚文化中具有高度的复杂性和深刻的含意。最早使用这一词汇的人是1769年搭乘“奋进号”进行考察的英国自然学家约瑟夫·班克斯，来源于波利尼西亚语词汇“塔陶”（Tatau）。[NEWLINE][NEWLINE]波利尼西亚珍的纹身范围很大，甚至会布满身体表面。毛利人和西波利尼西亚人的纹身往往还包括精细的“纹面”。纹身还常常与社会等级和地位联系在一起，最复杂精细的纹身是酋长和领袖才能拥有的。纹身的设计主要是被认为对纹身者具有重要精神意义的几何线条图案。波利尼西亚人的纹身方式是先用一把宽而尖利的用野猪牙齿制成的梳子刺入皮肤，再用焚烧“拉玛”坚果（lama）产生的油烟制成的染料上色。现代的纹身方法被认为直接来源于波利尼西亚人的传统纹身方法，虽然使用了更复杂的工具，但纹身的痛苦却并没有减轻。[NEWLINE][NEWLINE]波利尼西亚人成年后都要接受纹身，其过程会持续数天时间。男子的纹身进程通常比女子更仪式化。纹身对象可能会在中途拒绝继续纹身甚至中止纹身进程，但这往往会令其在社会上面临巨大的耻辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]军营[ENDCOLOR]和[COLOR_POSITIVE_TEXT]英雄史诗[ENDCOLOR]等，加强军事力量。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TATTOO_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“没有纹身的人对神灵来说是不可见的。”[NEWLINE][TAB][TAB]——伊班族谚语[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_DESC">
+			<Text>波利尼西亚文化缺少一种普遍通用的原生文字，主要采取口头传播方式并配合多种辅助记忆的手段，例如仪式舞蹈和歌谣等。波利尼西亚各地区的舞蹈风格千差万别。仪式舞蹈会出现在不同的仪式场合中，用于向神灵献礼，或是赞颂酋长、英雄以及高贵的来访者。在与西方人接触之后又引入了西式乐器和音乐并同原有的舞蹈融为一体。[NEWLINE][NEWLINE]最著名的波利尼西亚仪式舞蹈也许就是夏威夷的“呼拉”草裙舞（Hula），以及新西兰奥地利人的“哈卡”战舞（Haka）。呼拉舞以其延绵起伏的咏唱和舞姿而闻名，哈卡舞则以其力度十足的踏步、移动和充满节奏感的咏唱而闻名。呼拉舞又可以分为两大类型，“古代型”指与西方人接触之前的舞蹈，称为“卡希科”（kahiko），以及19至20世纪形成的“现代型”，称为“阿瓦那”。哈卡舞实际上是毛利族男人和女人都会跳的舞蹈，可能用于从葬礼到战争等许多场合。[NEWLINE][NEWLINE]舞蹈至今仍作为波利尼西亚文化重要的组成部分代代相传，令年轻一代能通过美妙的舞步与和谐的节奏去感受传统文化，不论是在祥和的表演中，还是在激烈的橄榄球赛场上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]毛利勇士[ENDCOLOR]，古典时代最强大的军事单位。并允许建造[COLOR_POSITIVE_TEXT]民族史诗[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CEREMONIAL_DANCE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“我只愿意信仰懂得如何舞蹈的神。”[NEWLINE][TAB][TAB]——弗雷德里希·尼采[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_DESC">
+			<Text>传统的波利尼西亚导航术称为“海路探寻”，是一种高度复杂的通过口头传播的知识体系，它使波利尼西亚人能够乘着小船跨越广阔的太平洋。海路探寻包含利用星辰定位，掌握海流方向，了解鸟类和鱼类习性，航位推算以及观察气象等多领域的知识。海路探寻是波利尼西亚领航员专有的秘密，他们没有罗盘或天文钟的帮助也能进行超远距离的海上航行。领航业学徒会向师傅学习有关星辰运行、鸟类习性和气象特征（例如云往往会在远方海岛上空成形）等关键知识，学习方式有背诵口诀、歌谣和绘制简单的海图等等。[NEWLINE][NEWLINE]由于海路探寻是通过口头传承的，具有鲜明的地方性，大部分海路探寻知识如今已经失传。太平洋地区至今还有传统的波利尼西亚领航员，例如在所罗门群岛的陶马科岛上。[NEWLINE][NEWLINE]波利尼西亚航海者的船只体形很小，波利尼西亚航海者取得的成就却很大，海路探寻方法的有效性和波利尼西亚领航员的技艺因而赢得了广泛赞誉，有时甚至带有浪漫化的夸张。无论如何，波利尼西亚人凭着仅有一辆公共汽车那么长的小船就能航行到遥远的小岛，他们的勇敢所要和精熟的技艺令人不得不肃然起敬。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_HELP">
+			<Text>此项科技在本剧情开始时已被你的文明所掌握，允许陆地单位以海运状态进入水域，甚至进入大洋。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_WAYFINDING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]“深蓝色的大海有多宽广，我们的思想和灵魂就有多自由，海风吹到哪里，海浪就涌向何方，巡视我们的帝国，守卫我们的家乡！”[NEWLINE][TAB][TAB]——拜伦[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ASTRONOMY_HELP">
+			<Text>海运的单位+1[ICON_MOVES]移动力。允许你建造[COLOR_POSITIVE_TEXT]天文台[ENDCOLOR]，第一种能提升科研产出的建筑。还允许你建造[COLOR_POSITIVE_TEXT]灯塔[ENDCOLOR]和[COLOR_POSITIVE_TEXT]港口[ENDCOLOR]，以提升水域区块的[ICON_FOOD]食物产出以及通过水域连接商路。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_COMPASS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]轻帆船[ENDCOLOR]，第一种启蒙时代的海军单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_CONSTRUCTION_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]城墙[ENDCOLOR]，能够极大地提升城市的防御能力。还允许工人修建[COLOR_POSITIVE_TEXT]道路[ENDCOLOR]和[COLOR_POSITIVE_TEXT]堡垒[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_ECONOMICS_HELP">
+			<Text>允许你建造能增加[ICON_GOLD]金钱产出的[COLOR_POSITIVE_TEXT]市场[ENDCOLOR]，并允许你在地块上修建[COLOR_POSITIVE_TEXT]贸易站[ENDCOLOR]，还允许你的城市将[ICON_PRODUCTION]产能转化为[ICON_GOLD]金钱而不必进行单位或建筑项目。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_GUNPOWDER_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]火枪手[ENDCOLOR]，游戏中第一种火器单位。还能提供多种经济利益，以表现与欧洲人接触后获得的科技进步。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MASONRY_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]纪念碑[ENDCOLOR]，提升城市的文化产出。还允许工人在[ICON_RES_MARBLE][COLOR_POSITIVE_TEXT]大理石[ENDCOLOR]资源上修建采石场，[COLOR_POSITIVE_TEXT]清理沼泽[ENDCOLOR]以修建其他设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_MINING_HELP">
+			<Text>允许工人修建[COLOR_POSITIVE_TEXT]矿井[ENDCOLOR]以提升地块的[ICON_PRODUCTION]产能，并能[COLOR_POSITIVE_TEXT]砍伐森林[ENDCOLOR]和[COLOR_POSITIVE_TEXT]砍伐丛林[ENDCOLOR]以修建其他设施。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_NAVIGATION_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]三列桨战船[ENDCOLOR]，本剧情中第一种战船。还允许海运单位在遭到敌方战船攻击时自我防御。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_OPTICS_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]巡航舰[ENDCOLOR]，本剧情中最强大的战船。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SAILING_HELP">
+			<Text>允许你建造工船，以获取水上资源例如[ICON_RES_FISH][COLOR_POSITIVE_TEXT]鱼群[ENDCOLOR]和[ICON_RES_PEARLS][COLOR_POSITIVE_TEXT]珍珠[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_SCIENTIFIC_THEORY_HELP">
+			<Text>该项科技不提供任何利益。当你完成中古时代科技权以后在联系到欧洲人之前只能研究该项科技，以表现与外界隔绝状态下波利尼西亚科技发展的停滞。当你与詹姆斯·库克船长的探险队建立联系之后将获得回报。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_THEOLOGY_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]神庙[ENDCOLOR]和[COLOR_POSITIVE_TEXT]图书馆[ENDCOLOR]，分别提升[ICON_CULTURE]文化和[ICON_RESEARCH]科研产出。还允许你建造[COLOR_POSITIVE_TEXT]法庭[ENDCOLOR]，以减少[ICON_OCCUPIED]被占领城市带来的[ICON_HAPPINESS_4]不满。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TECH_TRAPPING_HELP">
+			<Text>允许你组建[COLOR_POSITIVE_TEXT]矛兵[ENDCOLOR]，一种强力的军事单位。还允许你的工人在[ICON_RES_DEER]野鹿、[ICON_RES_IVORY]象牙和[ICON_RES_FUR]毛皮资源上修建[COLOR_POSITIVE_TEXT]猎场[ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_BUILDING_OBSERVATORY_HELP">
+			<Text>提升本城市的[ICON_RESEARCH]科研产出。在本剧情中不需要邻近山脉。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY">
+			<Text>仪式政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]仪式政策[ENDCOLOR]可增加帝国的快乐度，允许其进一步扩张。[NEWLINE][NEWLINE]推行仪式政策可使[ICON_CAPITAL]首都[ICON_CITIZEN]人口规模导致的[ICON_HAPPINESS_4]不满减少33%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CEREMONY_TITLE">
+			<Text>{2_CivName:textkey}卡胡那 神圣的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_CEREMONY_CAP">
+			<Text>仪式</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_CEREMONY_TEXT">
+			<Text>“仪式”指用于标志重要事件以及加强社会纽带的程式化行为。既包括象“卡瓦”（Kava）这样的集体交流，也包括象“冲浪”这样的个人化活动。各种仪式的神圣程度也各不相同，有些具有高度的宗教性，另一些则相当的世俗化。无论仪式的具体形式是怎样的，它都能够起到加强社会纽带的作用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS">
+			<Text>艺术政策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]艺术政策[ENDCOLOR]可增加帝国的文化产出，允许你采用更多的政策。[NEWLINE][NEWLINE]推行艺术政策可使纪念碑和神庙分别额外+2[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_THE_ARTS_TITLE">
+			<Text>{2_CivName:textkey}提基 高尚的{1_PlayerName:textkey}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_THE_ARTS_CAP">
+			<Text>艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_THE_ARTS_TEXT">
+			<Text>艺术是个人情感的系统表现——艺术家想象力的实体化。几乎任何平凡的物件都可通过艺术家的努力升华为艺术品。例如，简单的树皮织物也可以做衣服，但精制的树皮织物“塔帕布”（Tapa）则可以是一件艺术品。艺术还是消耗“玛那”（Mana）以净化对象的一种方式，能令艺术家获得精神上的永生。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_BRANCH_HONOR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]荣誉政策[ENDCOLOR]以多种方式提升军队的战斗效率[NEWLINE][NEWLINE]推行荣誉政策可使此后组建的所有陆军单位+15经验。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA">
+			<Text>卡瓦汁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]卡瓦汁[ENDCOLOR][NEWLINE]立即获得+10[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_KAVA_DESC">
+			<Text>“卡瓦汁”（Kava）是一种提取自“卡瓦胡椒”树根的饮料，是许多波利尼西亚仪式与社交集会上不可或缺的一样东西。卡瓦汁有一定的精神镇定效果，能带给饮用者放松和愉悦的感觉。因此卡瓦汁常常会在波利尼西亚人的集会开始时提供给参加者饮用以营造轻松愉快的气氛。饮用卡瓦汁的相关风俗在波利尼西亚各地也有所差异。近年来人们开始研究卡瓦汁的有效成分以确定其药用价值，还有更多的人加入到了对卡瓦汁非正式、非科学性的研究热潮之中。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA">
+			<Text>呼拉舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]呼拉舞[ENDCOLOR][NEWLINE]开始[ICON_GOLDEN_AGE]黄金时代所需的[ICON_HAPPINESS_1]快乐减少25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HULA_DESC">
+			<Text>“呼拉舞”（hula）或者叫“草裙舞”，是夏威夷的一种配合人声咏唱和乐器演奏的传统舞蹈类型。在波利尼西亚各地都有与之类似的舞蹈形式。自从与西方人接触后，配合舞蹈的咏唱和乐器都引入了新的元素，包括复调咏唱和四弦吉他等等。呼拉舞可能出现在多种场合，从高级宗教典礼到简朴的社交场合。跳呼拉舞的人用手的姿势表现咏唱的内容，包括大海的波涛、树枝的摇曳和人物的情感等等。当前呼拉舞表演存在着一些媚俗倾向，但许多夏威夷的热心者已经开始致力于恢复传统呼拉舞的风格。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING">
+			<Text>石雕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]石雕[ENDCOLOR][NEWLINE]每处摩艾石像群+1[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_STONECARVING_DESC">
+			<Text>波利尼西亚人的雕刻达到了很高的装饰艺术水平，虽然各地的雕刻风格千差万别，使用的材料也各不相同。在缺乏森林的岛屿上，石雕通常大行其道。除了人形的“基提像”，许多波利尼西亚岛屿上还有风格各异的摩崖石刻。最著名的波利尼西亚石雕就是拉帕·努伊岛（复活节岛）上宏伟的摩艾石像群。拉帕·努伊岛上共有887座的火山岩石像，用简单的石器雕凿而成并由工人拖运到数英里之外的平台上，以他们充满“玛那”灵力的深邃眼神注视着远方。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI">
+			<Text>提基像</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]提基像[ENDCOLOR][NEWLINE]每回合增加相当于富余[ICON_HAPPINESS_1]快乐的50%的[ICON_CULTURE]文化点数，以更快推行社会政策。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TIKI_DESC">
+			<Text>“提基”（Tiki）是一种波利尼西亚的人形雕像，通常表现的是酋长、英雄、神灵或其他传奇形象。提基像可能高挑苗条，也可能矮胖粗壮，据说每种风格都代表某种充满“玛那”灵力的纯粹概念。例如，瞪眼吐舌的提基像被认为具有洞察力，而宽阔的前额则代表智慧。在二战之后，波利尼西亚文化大范围传播，“提基”一词的含意也发生了变化，开始被用来形容某种媚俗风格的产品，实际上这类玩意对古代的波利尼西亚英雄来说毫无“玛那”灵力可言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO">
+			<Text>荣戈-荣戈符文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]荣戈-荣戈符文[ENDCOLOR][NEWLINE]来自图书馆和天文台的[ICON_RESEARCH]科技增加50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_RONGO_DESC">
+			<Text>复活节岛（拉帕·努伊岛）上的摩艾石像群并不是这座岛上唯一神秘的东西。当地人所说的“荣戈-荣戈”是18世纪以来发现的刻有难以解读的符号的木板。大约有二十多块木板上这种符号的篇幅还相当长，但是即便是用最先进的统计学方法仍然无法破解其中的含义。目前的主流解释认为荣戈-荣戈是祭司或咏唱者用来辅助记忆的，因为这个词在拉帕·努伊语中有“背诵、咏唱”的意思。还有一种说法则认为曾经存在庞大数量的此类木板，但随着这种古老文字的消亡，原有的荣戈-荣戈木板都被岛民用来造船、做渔网架甚至是当柴烧掉了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI">
+			<Text>阿里基称号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]阿里基称号[ENDCOLOR][NEWLINE]陆军统帅产生速率提升100%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_ARIKI_DESC">
+			<Text>“阿里基”（Ariki）是给予波利尼西亚酋长或贵族的一种称号。其地位高于被称为“玛泰亚波”或“兰加提拉”的一般酋长。 酋长的统治其臣民的权力据说来自于他的“玛那”灵力，而“玛那”来自于他的高贵出身和伟大业绩。今天的库克群岛的议会里还有一个受人尊敬的顾问机构叫做“阿里基院”，一部分阿里基院的议员还曾在21世纪初尝试发动政变（不过没有成功，也许是因为他们的“玛那”不足吧）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA">
+			<Text>哈卡战舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]哈卡战舞[ENDCOLOR][NEWLINE]每消灭一个敌方单位获得三倍于其[ICON_STRENGTH]战斗力数值的[ICON_CULTURE]文化点数。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HAKA_DESC">
+			<Text>“哈卡”（Haka）是新西兰毛利人的一种传统舞蹈，以其充满力量感的舞步和充满节奏感的呐喊为特色。哈卡舞可能出现于战场，也可能作为对贵宾的欢迎（虽然有点吓人），表演者可以是男人，也可以是女人（虽然具体跳法有所差异）。人们在跳哈战舞时还会龇牙咧嘴地扮出各种鬼脸，以表现其体内充满了“玛那”灵力。[NEWLINE][NEWLINE]如今最负盛名的哈卡战舞表演来自新西兰“全黑”橄榄球队的赛场欢迎式，不过许多其他团体（包括新西兰军队）也都有各具特色的哈卡战舞表演。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI">
+			<Text>芋泥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]芋泥[ENDCOLOR][NEWLINE]海运的单位+1[ICON_MOVES]移动力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POI_DESC">
+			<Text>“芋泥”（Poi）是波利尼西亚人把芋头根茎煮熟捣碎做成的一种食物。依据具体做法的不同，芋泥的黏度可能稀得象水，也可能稠得象面团。不同的人对芋泥的味道也可能会有“象浆糊”、“精致细腻”或是“无法描述”等等不同的评价。经过发酵处理的酸芋泥还可用于制作其他食物。[NEWLINE][NEWLINE]在夏威夷传统的创世神话中，芋头扮演了重要的角色，人们相信当芋泥被端上餐桌时，祖先的灵魂也会同他们在一起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA">
+			<Text>玛那灵力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]玛那灵力[ENDCOLOR][NEWLINE][ICON_GREAT_PEOPLE]伟人产生速率提升100%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_MANA_DESC">
+			<Text>“玛那”（Mana）是波利尼西亚人精神生活的核心概念——指世上万物都具有的一种神秘灵力。虽然波利尼西亚各地的具体叫法不同，其重要性和基本含意都是一致的。伟大的业绩是玛那推动的，也会给完成者带来玛那。玛那意味着拥有者的权威、名誉和力量，失去玛那就是失去力量。而且如果你的玛那耗尽了，就无法施放任何魔咒。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING">
+			<Text>卡胡纳疗法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]卡胡纳疗法[ENDCOLOR][NEWLINE]肉搏单位获得医疗能力晋升。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_HEALING_DESC">
+			<Text>“卡胡纳”在夏威夷语中指祭司或巫医，这些人运用草药和名为“何欧波诺波诺”，能与祖先、精灵、神灵和妖怪交流的通灵术给人治病。卡胡纳疗法强调互动和自我恢复，将治愈病人视为对波利尼西亚文化的和谐做贡献，目前卡胡纳疗法在夏威夷和全波利尼西亚正经历着一场复兴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU">
+			<Text>卢奥聚会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]卢奥聚会[ENDCOLOR][NEWLINE]每一种不同类型的奢侈资源+2[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_LUAU_DESC">
+			<Text>在卡美哈梅哈二世国王废除某些宗教仪式后，夏威夷群岛开始出现“卢奥”（luau），一种盛大的野外宴会，往往还会伴随歌舞表演。起初的食物只有芋头叶包裹的芋泥和椰子汁烹调的鸡肉，但很快就汇聚了各种各样的美味佳肴。王室举办的卢奥聚会规模十分惊人，著名的“快乐君王”卡拉卡瓦每次邀请的客人数量庞大，以至于需要分批进食。如今在夏威夷和世界上其他许多地方，“卢奥”已经成了“聚会”的代名词。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING">
+			<Text>冲浪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]冲浪[ENDCOLOR][NEWLINE]本国每座城市+1[ICON_HAPPINESS_1]快乐。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_SURFING_DESC">
+			<Text>库克船长率领皇家海军“奋进号”进行的远洋探险记录首次向西方人描述了“冲浪”，古代夏威夷人早就掌握了这种被他们称为“赫埃那鲁”的乘着海浪滑行的艺术。最好的冲浪海域和沙滩通常是上层阶级专享的，然而来自下层阶级却技艺高超的冲浪者也能获得在那些地方冲浪的权利。夏威夷滑板可以长达5.5米，重量超过一百磅，需要很熟练的技巧和足够的力量才能使用。[NEWLINE][NEWLINE]从20世纪初至今，冲浪的“潮流”一直方兴未艾，吸引一代代的新人去享受这种运动无穷的乐趣和强身健体的功效。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI">
+			<Text>迎宾礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]欢迎仪式[ENDCOLOR][NEWLINE]向城邦赠送[ICON_GOLD]金钱产生的[ICON_INFLUENCE]影响力+25%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_POWHIRI_DESC">
+			<Text>毛利人接待贵客的迎宾礼“咆希利”是一套相当复杂的典礼。传统的迎宾礼首先是进行“仪式威胁”（这是迎宾礼最令人兴奋的部分——虽然这个名称也许会让人感到一点困惑），这是对来访者意志力的考验，也是对东道主力量的展示。来访者将接受对和平之神的献礼“鲁阿塔普”，然后彼此行“洪吉”礼——即双方接触一下鼻尖——完成整个典礼。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU">
+			<Text>塔普神力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]塔普神力[ENDCOLOR][NEWLINE][ICON_CULTURE]今后推行政策耗费的文化减少10%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPU_DESC">
+			<Text>“塔普”（tapu）是与“玛那”（mana）紧密联系的一个概念，可以翻译为“神圣”，还有“禁忌”的含义，英语中的“禁忌”（taboo）一词就来源于此。“塔普”的东西是神圣不可侵犯的，打扰者将失去其“玛那”。破坏“塔普”在波利尼西亚文化中是非常严重的行为，会遭致严厉的惩罚。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH">
+			<Text>塔帕布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]塔帕布[ENDCOLOR][NEWLINE]每座城市+2[ICON_CULTURE]文化。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICY_TAPACLOTH_DESC">
+			<Text>“塔帕”（Tapa）是波利尼西亚人用树皮纤维制成的一种传统花布。虽然在波利尼西亚各地都有出产，但斐济、汤加和萨摩亚的塔帕布具有最高的艺术水准。传统的塔帕布上具有色彩鲜明、形状复杂的几何图案。制作塔帕布是波利尼西亚诸岛上妇女们共同参与的一大盛事。塔帕布往往成为财富的象征，酋长赠予的塔帕布还代表着极高的荣誉。如今，塔帕布服装仍然会在结婚典礼等正式场合穿着，但在日常生活中已经被更结实耐用的棉布所取代。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA">
+			<Text>汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TONGA_TEXT_1">
+			<Text>汤加是波利尼西亚较大的文化族群之一，并且常与其他的地区势力争夺太平洋诸岛的霸权。在14世纪，汤加作为一个国家到达其势力的顶峰，在某种意义上来说，汤加是这段时期该地区所有酋长和航海者的领袖。汤加王国包含176个岛屿，分散在超过70万平方英里的太平洋上，从新西兰的东北部延伸至夏威夷的西南地区。[NEWLINE][NEWLINE]对于人类最早什么时候到达汤加群岛，很难说出一个确切时间。最早的考古证据发现于汤加塔布岛上的佩阿村，至今大约3000年。而拉皮塔人时期陶瓷制品也在汤加被发现，这可能代表了这个文明在航海上的伟大壮举。[NEWLINE][NEWLINE]尽管有记载汤加和西方的最早交流是在1616年与荷兰人，但最为出名一次莫过于在詹姆士·库克船长远航太平洋期间。汤加人热情招待了库克，后者称呼汤加为“最友好的小岛”。奇怪的是，汤加人似乎曾计划除掉库克，但他们并没有就此达成一致，库克不受干扰地离开了汤加。库克显然并不知道他曾经临近危险。在18世纪末和19世纪初，欧洲传教士开始在汤加广为布道。[NEWLINE][NEWLINE]在1799年，一次针对重要酋长的暗杀导致汤加突然陷入持续50年的内战。但在1845年，一位名叫陶法阿豪的勇士成为大酋长，并接受洗礼加冕成为乔治·图普一世国王。后来他解放了最底层的社会群体，制定律法，限制其他酋长的权利，并签署了《英汤友好条约》与英国结盟。汤加从未完全成为英国的殖民地，她仍保留了自治权并能坐享英国人的军事保护。[NEWLINE][NEWLINE]由于其位于南太平洋上的交叉路口，汤加是二次大战中的战略要地。汤加军队参加了所罗门群岛的战役，而汤加的塔布岛也成为从北美到澳大利亚和新西兰的关键补给站。今天的汤加是一个独立的君主立宪制国家（唯一一个从未放弃君主制的波利尼西亚族群），仍在不断推动民主制改革和政府的现代化建设。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE">
+			<Text>对城邦[ICON_INFLUENCE]影响力的衰减速度减少2/3，恢复速度增加50%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIU_TONGA_EMPIRE_SHORT">
+			<Text>图依·汤加帝国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA">
+			<Text>萨摩亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_SAMOA_TEXT_1">
+			<Text>萨摩亚位于传统上波利尼西亚的中心，并且一直是主要的波利尼西亚文化族群之一。从近3500年前开始有人定居以来，萨摩亚岛一直是地区和国际间的权力争夺焦点，并在后殖民时期形成了先进的国家（相对于该地区其他地方）。[NEWLINE][NEWLINE]跟波利尼西亚的大多数岛屿一样，萨摩亚享有温和的气候和短暂的暴雨季节。南太平洋上的萨摩亚群岛覆盖范围大约1100平方英里，而波利尼西亚地区认为这就是他们文化领域的中心。[NEWLINE][NEWLINE]萨摩亚可能最早在前1500年由拉皮塔人定居。最早的萨摩亚人修筑了宽广的陶制护堤和石制建筑。萨摩亚同时扮演了波利尼西亚地区的中转站和地区间贸易商的地位。[NEWLINE][NEWLINE]1898年，根据英德美三方协约，萨摩亚被瓜分成德属和美属部分，其后的萨摩亚内战也由于外来武装干涉而形势恶化。尽管德属萨摩亚在1962年赢得独立，但美属萨摩亚至今依然处于美国的保护之下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA">
+			<Text>[ICON_CITIZEN]市民数量导致的[ICON_HAPPINESS_4]不满减半。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HEART_OF_POLYNESIA_SHORT">
+			<Text>波利尼西亚之心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI">
+			<Text>塔希提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_TAHITI_TEXT_1">
+			<Text>塔希提是社会群岛中最大的岛屿，而且至今仍是前法属波利尼西亚无可争议的中心。塔希提也被认为是波利尼西亚中最友好和开放的文化族群之一。[NEWLINE][NEWLINE]塔西提群岛由大小塔希提岛组成。两岛的相对大小很容易从名字推测出来。塔希提气候终年温和。塔希提坐落于波利尼西亚的东部边缘。[NEWLINE][NEWLINE]正由于其位于波利尼西亚的最东端，塔希提相对较晚才有人类生活——最先由波利尼西亚人在公元300到800年间某个时期定居——在拉皮塔人的文明衰落很久以后。[NEWLINE][NEWLINE]第一次确切记载与塔希提人接触的西方人是英国人于1767年。英国人们几乎马上就给这些岛民们贴上悠闲自在、开放和慷慨的标签。外来疾病大大削弱了塔希提人，而且传教士们虽然记录保存了当地方言，他们也在不断削弱本土传统文化。查尔斯·达尔文在他的“贝格尔号”环球之旅中曾考察过塔希提。法国在1847年附庸了塔希提，但直到1946年，塔希提人都不算是法国公民。至今法语仍是塔希提的官方语言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION">
+			<Text>陆军和海军单位（包括侦察兵）+1视野。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TUPAIAS_NAVIGATION_SHORT">
+			<Text>图派亚远航</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA">
+			<Text>希瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIV_HIVA_TEXT_1">
+			<Text>在当地的语言中，希瓦被称为“人类的土地”。马克萨斯群岛是法属波利尼西亚的一部分，位于其东端。[NEWLINE][NEWLINE]这些崎岖不平的火山群岛地质年龄相当年轻，主要是由具有坚硬玄武岩核心的死火山群组成。当地终年气候温和，每年都有一雨季（这种舒适的气候让本文作者心之向往）。[NEWLINE][NEWLINE]马克萨斯群岛大概在公元100年就有波利尼西亚人定居，语言学和人类学的证据表示，最早的移民来自汤加和萨摩亚。[NEWLINE][NEWLINE]希瓦在历史上被西方列强多次宣布发现和附庸。最早是在1595年，西班牙探险家阿尔瓦罗·德·孟丹努厄·德·雷瓦拿用其赞助人的名字命名为马克萨斯群岛。接着希瓦又被美国人再一次发现（他们称之为华盛顿群岛），然后是在1870年由法国人发现。由于外来疾病，希瓦遭受了波利尼西亚众多文化族群中最大的人口损失。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS">
+			<Text>发现天文学时免费获得移民单位。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HIGH_ISLANDERS_SHORT">
+			<Text>霍图·玛图阿殖民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_NAME">
+			<Text>阿霍图伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_SUBTITLE">
+			<Text>图伊-汤加</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_LIVED">
+			<Text>10世纪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_AHOEITU_TEXT_1">
+			<Text>阿霍图伊是依拉荷瓦-范埃波普的长子，是纽尔和汤加洛阿-埃图马图普——一位天神——的后代。阿霍图伊的四个同父异母兄弟一起秘密地谋杀了他，将他的头藏在毒灌木丛下，其余部分则被烘烤然后吃掉。[NEWLINE][NEWLINE]后来汤加洛阿-埃图马图普从天而降并质问四兄弟阿霍图伊的下落。面对天神，四兄弟感到惭愧和后悔，并祈求天神让阿霍图伊重生。汤加洛阿-埃图马图普让四兄弟反刍到一口大碗里，用席子盖上。阿霍图伊通过魔法的作用而获得重生。[NEWLINE][NEWLINE]阿霍图伊的四兄弟因此受到汤加洛阿-埃图马图普的惩罚，四兄弟及其后裔将世世代代在汤加服侍阿霍图伊。这就是阿霍图伊成为第一任图伊-汤加（汤加皇帝）的故事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_NAME">
+			<Text>马列托亚·萨维亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_SUBTITLE">
+			<Text>萨摩亚国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_LIVED">
+			<Text>未知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_MALIETOASAVEA_TEXT_1">
+			<Text>图依-汤加帝国曾统治萨摩亚群岛，图依-汤加·塔拉开法奇就是其中一个最残忍的暴君，这位暴君选择了在萨摩亚居住。[NEWLINE][NEWLINE]塔拉开法奇的三个兄弟萨维亚、图拿、法达以及其侄子乌鲁马苏公开反抗塔拉开法奇的暴政。根据民间传说，一开始只是民间的反抗和不满，但后来演变成了军事暴动。塔拉开法奇最终被捕，但萨维亚和他兄弟们以侄子宽恕了暴君，将他用独木舟遣送回汤加。为了庆祝成功，萨维亚在其离开后发表了精彩的演讲，他由此获得“马列托亚”的荣誉，意为“伟大的战士”。至此萨维亚成为萨摩亚的第一任国王，“马列托亚”的称号也在萨维亚群岛一代又一代的国王中传递下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_NAME">
+			<Text>波马雷一世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_SUBTITLE">
+			<Text>塔希提国王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_LIVED">
+			<Text>1742-1803</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_POMARE_TEXT_1">
+			<Text>波马雷王朝的创建者，塔拉霍伊·维拉托尔·泰纳·波马雷一世大约在1742或1743年出生于派尔岛。他是酋长提奥·图纽埃提突的次子。当他继位成为酋长后，波马雷一世将塔希提岛上的三个不同的酋长国联合成为一个王国，他还保留了塔希提、莫雷阿、梅海蒂亚和特莎罗阿诸岛的国王的头衔，直到1791年波马雷一世退位，但波马雷一世直到他1803年去世时仍是塔希提的摄政王。[NEWLINE][NEWLINE]波马雷王朝与英国在太平洋上传教士和商人们建立了相当紧密的关系以保证其主权，直到法国人19世纪80年代的到来并废除塔希提的君主制。直到今天仍有不少人宣称是波马雷王室的后裔。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_NAME">
+			<Text>霍图·玛图阿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_SUBTITLE">
+			<Text>希瓦探险者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_LIVED">
+			<Text>约300-800</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_HEADING_1">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVILOPEDIA_LEADERS_HOTUMATUA_TEXT_1">
+			<Text>霍图·玛图阿是拉帕·努伊岛（即复活节岛）上的名门贵族。他曾带领族人们乘着巨大的双体独木舟向希瓦东面远航。他们将发现的陆地称为“提-皮托-欧-特-开加”，意为“弹丸之地”——对于这些大洋中的小岛来说无疑十分恰当。[NEWLINE][NEWLINE]开始的时候，航海家哈乌·马卡曾梦见他为他们的领袖霍图·玛图阿寻找到了一块新大陆。他发现了三个岛屿，上面有一个巨大的火山口但同时也拥有二十八处注定对于霍图和他的族人意义重大的居住地。当霍图听闻了这个梦，他命令哈乌·马卡驾驶着大独木舟出发向东去寻找这些岛屿。就在那里，他找到那些梦幻般岛屿。[NEWLINE][NEWLINE]但当霍图·玛图阿带领他的族人驶往“提-皮托-欧-特-开加”时，一个致命的对手偷偷地跟随着——他被称为奥罗伊，霍图的死对头，曾在希瓦残杀了霍图数个亲人。奥罗伊不但没被发现，而且当他抵达目的地时，他杀害了霍图·玛图阿的孙子们，并为他设下了陷阱。霍图·玛图阿自愿落入陷阱，当奥罗伊用骨制匕首对他展开进攻时，霍图·玛图阿吟唱魔法并反击杀死了奥罗伊。最后霍图·玛图阿和他的孩子们毫不留情地吞食了奥罗伊的尸体。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_FIJI_TEXT">
+			<Text>斐济岛大约在3500年前开始有拉皮塔人到此定居。随后是来自东南亚的美拉尼西亚人和印度尼西亚人，大约在公元前900至公元前600年。斐济的位置靠近波利尼西亚的正中心，使其成为贸易和文化交流的枢纽，岛上的考古研究也发现了远离斐济数千英里的地方的石头，以及在波利尼西亚十分少见的贸易品和工具。在图伊-汤加帝国全盛时间，斐济也处于其影响范围内。[NEWLINE][NEWLINE]在19世纪，斐济经历了漫长的部落战争和汤加的入侵。斐济酋长塞鲁·埃佩尼沙·卡科包努力尝试成为国王，并利用基督教传教士来扩张自己的势力（他本人信仰基督教）。卡科包因挑衅美国领事、将土地卖给澳大利亚棉农以及大量举债而麻烦不断，最终他于1874年将自己的领地让给了英国人。[NEWLINE][NEWLINE]英国的首任临时总督颁布了一系列开明的法令，包括“斐济人的斐济”政策，保证土著人掌控岛上的大部分土地。英国殖民者大量引入来自印度的契约劳工（后来因许多印度人士包括圣雄甘地的强烈反对而中止），形成了斐济延续至今的多元文化面貌。[NEWLINE][NEWLINE]斐济在1970年获得独立。该国在此后经历了一段经济繁荣时期，但到1987年时又陷于长期停滞，并发生了两次军事政变和一次文官政变。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_VANUATU_TEXT">
+			<Text>瓦努阿图位于西波利尼西亚，最早约在4000年前开始有拉皮塔人在此定居，但后来该岛上的主要族群是美拉尼西亚人。率先发现瓦努阿图的西方人是葡萄牙探险家佩德罗·费尔南德斯·德·奎伊罗斯，他为西班牙人宣称了该岛的所有权并将其命名为“埃斯皮尔图·桑托”。德·波盖维尔于1768年造访该岛，而在1774年库克又将其命名为新赫布里底。[NEWLINE][NEWLINE]与许多波利尼西亚岛屿一样，与西方人的接触导致大批土著死于疫病，而檀香木贸易又吸引了大批外来移民，使得情况进一步恶化。檀香木砍伐殆尽后，人们又尝试种植棉花、咖啡、可可和香蕉，最终还是椰子种植业使该岛的经济趋于稳定。[NEWLINE][NEWLINE]欧洲殖民者持续统治瓦努阿图直到第二次世界大战期间美国人的到来。富有而随性的美国士兵和水手，还有他们的飞机和轮船带给瓦努阿图人很好的印象。一些瓦努阿图人开始相信未来会有一位名叫“约翰·弗鲁姆”的救世主带着更多的神奇货物回来，带给他们永恒的自由与繁荣，这种“货物崇拜”直到今天还在瓦努阿图延续着！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_KIRIBATI_TEXT">
+			<Text>人类在基里巴斯已经生活了至少700年，也许还要更久——由于考古记录和口头历史的不完备，确切的时间难以知晓。基里巴斯最初的定居者也许是拉皮塔人，其位于太平洋中心的地理位置使其与来自斐济的美拉尼西亚人和来自萨摩亚和汤加的波利尼西亚人都有接触。[NEWLINE][NEWLINE]与西方人的接触开始于16世纪，此后岛上的部落战争迅速成为殖民强权插手干涉的借口。基里巴斯群岛大部分成为英国的领地。[NEWLINE][NEWLINE]日本人在二战期间占据了基里巴斯并巩固其防御设施。塔拉瓦战役是美日在太平洋战争中最血腥的战役之一，4500名日军将这座小小的环礁变成了一座强大的堡垒，对登陆的美国海军陆战队造成了严重的伤亡。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NAURU_TEXT">
+			<Text>位于西太平洋的瑙鲁又名“快乐岛”（这个名字对上千座其他太平洋岛屿来说也很合适），8平方英里的面积使其成为世界上最小的岛国。该岛定居着密克罗尼西亚人和波利尼西亚人，曾经是多个殖民强权的领地，二战期间被日本人占据，不过在太平洋战争期间美国人绕过了这座小岛。[NEWLINE][NEWLINE]瑙鲁最丰富的自然资源是磷酸盐矿。当瑙鲁人在20世纪60年代独立后将采矿权收归国有，当时瑙鲁国民享有全世界最高的人均收入。但是磷酸盐矿逐渐枯竭了，对其他产业的投资也均宣告失败，瑙鲁的经济体系趋于崩溃。此后，瑙鲁人尝试将该岛变成一个避税天堂，努力争取经济复兴。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_NENDO_TEXT">
+			<Text>西波利尼西亚的内恩多群岛又名圣克鲁斯群岛，大约在3000年前开始有人定居。1595年，西班牙人尝试在此建立殖民地但没有成功。1942年10月26日，日本和美国海军四艘航空母舰在圣克鲁斯附近海域进行了一场海战，结果是日本人取得惨胜。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_GUADALCANAL_TEXT">
+			<Text>瓜达尔卡纳尔是所罗门岛链的最大岛屿，现在主要是作为二战期间美日两军所进行的一场漫长而血腥的战役的发生地而闻名于世。该岛从1568年起开始为西方人所知，到二战期间成为一处战略要地，因为日本人计划以此为据点威胁同盟国通往澳大利亚的运输线。[NEWLINE][NEWLINE]日本人在中途岛海战役失败后不久即开始在瓜达尔卡纳尔岛的伦加角修建一座大型机场。瓜达尔卡纳尔被定为巩固日本前期扩张成果的外围防线的重要组成部分。作为反击，盟军发动了一场大规模联合军事行动夺取机场和全岛屿，并在之后连续击退了日本方面不断派出的增援部队。[NEWLINE][NEWLINE]虽然今天的瓜达尔卡纳尔岛已经失去了昔日的重要地位，但那场战役中发生的许多故事：美国海军陆战队在优势敌军攻击下顽强保卫伦加角阵地，日军使用驱逐舰疯狂增派援军的“东京特快”行动，未来美国总统约翰·肯尼迪当时指挥的PT-109号鱼雷快艇的不幸遭遇——所有这些故事共同构成了瓜达尔卡纳尔岛的传奇，吸引着无数历史爱好者着迷的目光。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_POHNPEI_TEXT">
+			<Text>波纳佩是加罗林群岛的最大岛屿及密克罗尼西亚群岛四国之一，直到1828年被俄国海员发现之后才开始为欧洲人所知。波纳佩岛上因发现了古代绍德勒乌尔王朝都城南·马都尔石头城遗址而闻名于世，这座古城由运河网联接的许多人工岛构成。绍德勒乌尔王朝存在了近一千年，直到被来自另一座岛屿的酋长所征服。[NEWLINE][NEWLINE]波纳佩起初为西班牙帝国所有，后来被割让给德意志帝国。二战期间该岛由日本人占据，但美国海军绕过该岛继续向日本推进，因此这里没有发生任何战事。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CIVLOPEDIA_MAJURO_TEXT">
+			<Text>马朱罗是马绍尔群岛的最大岛屿及首都所在地。该岛至少两千年前就有人定居。马朱罗曾是德国的领地，直到1914年被日本占领。殖民当局通常任由岛民实行自我管理。[NEWLINE][NEWLINE]1944年1月30日，美国对马朱罗岛发起大规模海上攻势，但登岛之后才发现日本人早已撤退到邻近的瓜加林岛和埃尼威托克岛去了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_POLITE_HELLO_1">
+			<Text>再次问好，亲爱的朋友。萨摩亚人张开双臂欢迎你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_NEUTRAL_HELLO_1">
+			<Text>萨摩亚总是乐于接受你的来访。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_GREETING_HOSTILE_HELLO_1">
+			<Text>虽然我不喜欢和你谈话，但为了萨摩亚光明的未来我只有勉为其难了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_RESPONSE_REQUEST_1">
+			<Text>我亲爱的朋友，你能为萨摩亚做点什么吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>萨摩亚希望通过消除分隔两国的人为障碍使得我们的友谊进一步巩固。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_ATTACKED_1">
+			<Text>好吧。萨摩亚人民将手持武器抵抗你的入侵。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DECLAREWAR_2">
+			<Text>我已派遣一队萨摩亚战士前往你们各大城市巡回旅游。我想念他们会得到热情的欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEFEATED_1">
+			<Text>你也许能打败我们的军队，但你永远征服不了萨摩亚人的精神。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEMANDTRIBUTE_ANGRY">
+			<Text>如果你能为了世界的和平与安定提供以下捐助，萨摩亚将真诚地感谢你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_DEMANDTRIBUTE_NEUTRAL">
+			<Text>萨摩亚很穷，而你很富。将财产分给我们一些也许可以减轻你的罪孽。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_FIRSTGREETING_1">
+			<Text>我代表爱好和平的萨摩亚人民向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_FIRSTGREETING_3">
+			<Text>我代表萨摩亚人民向你伸出友谊之手。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>这笔交易对我的岛民来说太不公平。请提高你的报价吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRADE_NO_NEUTRAL">
+			<Text>这样的协议不符合萨摩亚人民的最大利益。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_GANDHI_TRIBUTE_NO_NEUTRAL">
+			<Text>虽然我坚信非暴力原则，但萨摩亚人民还没有如此宽厚。他们将对你的要求报以嘲笑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_1">
+			<Text>啊，一个旅行者！欢迎来到波利尼西亚最伟大的群岛！我，勇敢的探险家霍图·玛图阿，邀请你与我分享宴席和篝火。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_2">
+			<Text>欢迎，陌生人！我是希瓦的领袖霍图·玛图阿。来吧，我们将举行盛大的呼拉舞表演来庆祝我们的会面。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_KAMEHAMEHA_FIRSTGREETING_3">
+			<Text>祝福你，朋友。我是希瓦国王霍图·玛图阿。让我们分享资源、和谐共赢！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_1">
+			<Text>向你致意，陌生人。我是塔希提国王波马雷。我们寻求与所有人保持和平，但我们也不害怕战争。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_2">
+			<Text>我是波马雷一世，塔希提人民的领袖。欢迎你，我希望我们两国伟大的人民保持友谊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_HIAWATHA_FIRSTGREETING_3">
+			<Text>向你致意，造访塔希提的陌生人。我叫波马雷，你也可以称呼我图-努伊-伊亚-伊-特-阿图阿-伊-塔拉霍伊·瓦伊拉阿托阿·泰那·波马雷一世。我们寻求与所有人保持和平，但我们也不害怕战争。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_LEADER_MONTEZUMA_FIRSTGREETING_3">
+			<Text>我是阿霍图伊，图伊-汤加帝国的统治者！你是什么人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_TP_CULTURE_CITY_COST">
+			<Text>你所拥有的城市数量不会影响推行社会政策的成本。因此你可以尽量多建立城市。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_HAWAII">
+			<Text>祝贺你，你的探险家发现了夏威夷群岛！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_EASTER_ISLAND">
+			<Text>祝贺你，你的探险家发现了拉帕·努伊岛（即复活节岛）！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_FOUND_NEW_ZEALAND">
+			<Text>祝贺你，你的探险家已经发现了新西兰，“长长的白云”之地！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_ENCOUNTER_CAPTAIN_COOK">
+			<Text>你的海上天堂被詹姆斯·库克船长指挥的皇家海军“奋进号”发现了。这次远航是出于为大英帝国开展科学考察的和平目的。库克船长的到来开启了波利尼西亚的新时代。这些远方的访客带来了火药武器。请明智地运用这种新科技！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_CAPTAIN_COOK">
+			<Text>库克船长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_POLICIES_TO_VICTORY">
+			<Text>赢得胜利尚需推行的政策数(玩家): {1_YourPoliciesRemaining}[NEWLINE]赢得胜利尚需推行的政策数({2_LeaderName}): {3_LeaderPoliciesRemaining}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_RESCH_AGREEMENT_NO_TECH">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_DEF_PACT_NO_TECH">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLYNESIAN_SCENARIO_DIPLO_NEED_WRITING_TT">
+			<Text>[NEWLINE]</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

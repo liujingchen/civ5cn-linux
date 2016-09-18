@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--civclub.net/disthaven.com-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_2">
+			<Text>好吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_3">
+			<Text>当然。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_5">
+			<Text>哦，很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_6">
+			<Text>我想我应该同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_AGREE_SHORT_7">
+			<Text>好极了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_1">
+			<Text>现在我要消灭你了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_2">
+			<Text>你已经落入了我的陷阱。准备受死吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_ATTACKED_3">
+			<Text>你犯下了一个错误——这是你的最后一个错误。我将会埋葬你！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_1">
+			<Text>你挡住我们前进的道路了。准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_2">
+			<Text>你的存在本身就是对我的冒犯。准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DECLAREWAR_3">
+			<Text>这是你最后一次侮辱法兰西。准备打仗吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_1">
+			<Text>你打败了我。祝贺你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_2">
+			<Text>我祝贺你取得了胜利。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEFEATED_3">
+			<Text>我失败了。我能保有的仅是最后的尊严。我在听候你的处置。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_ANGRY">
+			<Text>交出我们想要的，否则我就要消灭你。我发誓！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_HAPPY">
+			<Text>我的朋友，法兰西需要这些东西。我相信你是不会让我们失望的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DEMANDTRIBUTE_NEUTRAL">
+			<Text>法兰西要求获得下列东西。你的回应将决定你是否能继续生存。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_1">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_2">
+			<Text>肯定不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_3">
+			<Text>我们拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_4">
+			<Text>当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_5">
+			<Text>这是无法接受的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_6">
+			<Text>你是在开玩笑吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_DISAGREE_SHORT_7">
+			<Text>你再说一遍？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_1">
+			<Text>欢迎你。我是法国的拿破仑，世界历史上最伟大的军事天才！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_2">
+			<Text>欢迎你，陌生人！我是拿破仑，法兰西皇帝！对朋友忠诚友爱，对敌人冷酷无情。你要做我的朋友还是敌人？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_3">
+			<Text>啊。我们终于见面了。我是拿破仑，法兰西皇帝。来吧：让我们讨论一下我们该如何瓜分这个世界。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_FIRSTGREETING_4">
+			<Text>向你致意。我是法国的拿破仑。我没时间说客套话：你来这儿做什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_1">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_2">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_3">
+			<Text>再会。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_4">
+			<Text>期待下次再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_5">
+			<Text>走吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_6">
+			<Text>就这样吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GOODBYE_7">
+			<Text>我们的会谈结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_2">
+			<Text>你好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_3">
+			<Text>向你致意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_4">
+			<Text>日安。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_5">
+			<Text>哦，是你。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_6">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_GREETING_7">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_1">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_2">
+			<Text>说下去。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_3">
+			<Text>我听着呢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_4">
+			<Text>什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_6">
+			<Text>还有呢？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LETSHEARIT_7">
+			<Text>请继续。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_LOSEWAR_1">
+			<Text>看起来我严重低估你了。我保证不会再犯同样的错误。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_1">
+			<Text>我需要法国，但法国更需要我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_2">
+			<Text>相比起权利来，利益更能使一个人奋勇作战。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_3">
+			<Text>当敌人犯错的时候，千万别去打断他。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_QUOTE_4">
+			<Text>历史的真相往往是令人愉快的寓言。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你还没意识到和法国维持良好贸易关系的重要性吗？我们可是这星球上最富有最强大的国家。你应该做的更好！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_ANGRY_2">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_1">
+			<Text>我亲爱的朋友，身为皇帝，我必须抛开个人感情来争取法国的最大利益！我很遗憾地请求你增加你的出价。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_2">
+			<Text>那就是你所能提供的最好条件了？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_HAPPY_3">
+			<Text>你就快成功了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你想要欺骗我，一位皇帝？你必须做得更好才可以！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>你能做得更好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>那还不够好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>已经很接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_ANGRY">
+			<Text>我的时间非常宝贵。不能浪费在这种没意义的空谈上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_HAPPY">
+			<Text>你肯定弄错了。我确信你不是故意要用这么荒谬的条件来侮辱伟大的法国人民。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_NO_NEUTRAL">
+			<Text>你的提议对于皇帝——也就是我的人格是一种侮辱。我必须加以拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_ANGRY">
+			<Text>我同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_HAPPY">
+			<Text>我很感谢你对法国的支持！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADE_YES_NEUTRAL">
+			<Text>我们会记得你的好处。谢谢。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_ANGRY">
+			<Text>这是我们的提议。请你决定是否接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_HAPPY">
+			<Text>我亲爱的朋友，我相信你会喜欢这笔交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRADEREQUEST_NEUTRAL">
+			<Text>法国向你提出这项互惠的交易。我希望你能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_ANGRY">
+			<Text>你疯了吗？你竟敢来敲诈我！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_HAPPY">
+			<Text>你的要求是对法国的侮辱。我请求你：不要破坏我们的友谊。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_NO_NEUTRAL">
+			<Text>你想要我向你进贡？太荒谬了！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_ANGRY">
+			<Text>我必须同意你的要求——暂时如此。然而，你会为这次侮辱付出代价的。我将亲眼看到那一天。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_HAPPY">
+			<Text>当然。法国皇帝的慷慨是无与伦比的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_TRIBUTE_YES_NEUTRAL">
+			<Text>很好。但我不会忘记这次羞辱。法国会复仇的！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_1">
+			<Text>你在玩一个危险的游戏。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_2">
+			<Text>好吧。下次我可就不会这么客气了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_3">
+			<Text>真是令人失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_4">
+			<Text>相当令人失望。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_5">
+			<Text>真的？你如此短视，估计活不到后悔的那一天了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WARBLUFF_6">
+			<Text>你真是太愚蠢了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NAPOLEON_WINWAR_1">
+			<Text>我希望你得到了教训……我是不可战胜的！</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

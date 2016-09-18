@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--freesand-->
+<GameData>
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_1">
+			<Text>我是沙卡！祖鲁的统治者！你为什么来到这里？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_2">
+			<Text>我以战士之姿与你交谈……你也是这样吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_FIRSTGREETING_3">
+			<Text>伟大的祖鲁王国正向你迫近……你说话时最好小心点！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_1">
+			<Text>你正在玩火。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_2">
+			<Text>我还挺羡慕你的勇气的。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_WARBLUFF_3">
+			<Text>或许你将会终生悔恨这个决定。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_WINWAR_1">
+			<Text>你能活下来只是因为我的克制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_WINWAR_2">
+			<Text>你能活下来只是因为我的克制。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_1">
+			<Text>我们会更改策略的……这场战争还没有结束！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LOSEWAR_2">
+			<Text>我们会更改策略的……这场战争还没有结束！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_1">
+			<Text>我的战士们辜负了我的期望，所以我也让他们失望了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_2">
+			<Text>你击败了我，但我的人民将永远记住我的意志。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEFEATED_3">
+			<Text>今天你是胜者，但下次就未必这么幸运了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_1">
+			<Text>欢迎。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_2">
+			<Text>致敬！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_1">
+			<Text>离开吧。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_2">
+			<Text>行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_NEUTRAL">
+			<Text>你的建议很公平，我接受了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>你低估了我的需求……你会做得更好的，是吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>能做得更好一点么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>快了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>还差一点。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_NEUTRAL">
+			<Text>你的提议和你本人一样可笑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_NEUTRAL">
+			<Text>我接受了，但接下来你可能会后悔你今日所为。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_NEUTRAL">
+			<Text>我不想把时间浪费在你愚蠢的要求上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_NEUTRAL">
+			<Text>你觉得这个交易如何？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>交给我这些东西——记住服从是你最好的选择。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_1">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_2">
+			<Text>不错。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_1">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_2">
+			<Text>不，当然不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_1">
+			<Text>说来听听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_2">
+			<Text>往下说。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_3">
+			<Text>你好</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_4">
+			<Text>嗯？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_3">
+			<Text>我们之间的交易已经结束了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_4">
+			<Text>再见。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_HAPPY">
+			<Text>能与你做交易真让我感到荣幸。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>如果我接受了这个提议，我的人民恐怕会怒极反抗……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>这是你能做得最好的提议吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>很接近了……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_HAPPY">
+			<Text>即使我们是朋友，我也不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_HAPPY">
+			<Text>我的国家十分乐意帮助一个朋友。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_HAPPY">
+			<Text>即使伟大如我，也不能如此慷慨。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_HAPPY">
+			<Text>你会帮助我的国家吗，朋友？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_HAPPY">
+			<Text>你有一些对我们来说很重要的东西，介意帮我一把吗，朋友？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_3">
+			<Text>没问题。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_4">
+			<Text>同意。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_AGREE_SHORT_5">
+			<Text>很好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_3">
+			<Text>不行。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_4">
+			<Text>我必须拒绝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_3">
+			<Text>我在听。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_4">
+			<Text>哦？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_5">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GREETING_6">
+			<Text>你想要什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_5">
+			<Text>就这样了。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_GOODBYE_6">
+			<Text>结束。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_YES_ANGRY">
+			<Text>如果你坚持。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>你在侮辱我。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>这肯定不够。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>你需要做得更好。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NEEDMORE_ANGRY_4">
+			<Text>这真是耻辱！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADE_NO_ANGRY">
+			<Text>你的建议是对整个国家的羞辱。绝不！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_YES_ANGRY">
+			<Text>如果我们必须要这样做的话，那就如你所愿。你未来必百倍偿还。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRIBUTE_NO_ANGRY">
+			<Text>你可知这个要求会让你有生命危险？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_TRADEREQUEST_ANGRY">
+			<Text>看起来我只能找你来完成这个交易。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DEMANDTRIBUTE_ANGRY">
+			<Text>给我我所需的，否则只有死路一条。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_5">
+			<Text>你能再说一遍吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_6">
+			<Text>这可不能接受。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DISAGREE_SHORT_7">
+			<Text>别开玩笑了，好吗？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_LETSHEARIT_5">
+			<Text>你说什么？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_1">
+			<Text>没人能阻止我们的脚步，即使是你。做好战争的准备吧！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_2">
+			<Text>这世界不足以同时容下你我二人，并且我哪儿也不想去！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_DECLAREWAR_3">
+			<Text>我们的茅已擦亮，我将用你的鲜血来平息它的渴望！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_1">
+			<Text>你的傲慢无礼只会导致你的失败！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_2">
+			<Text>你的背叛终将得到惩罚！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHAKA_ATTACKED_3">
+			<Text>愚蠢！现在你将看到灾难降临。</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>
